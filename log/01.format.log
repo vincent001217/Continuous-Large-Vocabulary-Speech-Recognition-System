@@ -1,0 +1,14 @@
+Data : 
+    phone set = material/phoneset.txt
+    phone map = material/phonemap.txt
+    phone tree root = material/roots.txt
+    lexicon for training = material/lexicon.train.txt
+    lexicon for decoding = material/lexicon.decode.txt
+    language model for decoding = exp/lm/lm.arpa.txt
+    phone HMM prototype = material/topo.proto
+    training set label (text) = material/train.text
+    developing set label (text) = material/dev.text
+    testing set label (text) = material/test.text
+
+Execution time for whole script = 00 hours 01 mins 09 secs
+

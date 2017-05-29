@@ -1,0 +1,361 @@
+Initializing monophone system with dim = [ 39 ]
+    exp/mono/00.mdl exists , skipping ...
+Compiling training graphs
+    exp/mono/train.graph exists , skipping ...
+Iteration 00 :
+    aligning training graphs equally
+        exp/mono/00.ali exists , skipping ...
+    accumulating GMM statistics
+        exp/mono/00.acc exists , skipping ...
+    updating GMM parameters and splitting to [ 300 ] gaussians
+        exp/mono/01.mdl exists , skipping ...
+Iteration 01 :
+    aligning gmm training graphs equally
+        exp/mono/01.ali exists , skipping ...
+    accumulating GMM statistics
+        output -> exp/mono/01.acc
+        log -> exp/mono/log/acc.01.log
+    updating GMM parameters and splitting to [ 323 ] gaussians
+        output -> exp/mono/02.mdl
+        log -> exp/mono/log/update.01.log
+Iteration 02 :
+    aligning gmm training graphs equally
+        output -> exp/mono/02.ali
+        log -> exp/mono/log/align.02.log
+    accumulating GMM statistics
+        output -> exp/mono/02.acc
+        log -> exp/mono/log/acc.02.log
+    updating GMM parameters and splitting to [ 346 ] gaussians
+        output -> exp/mono/03.mdl
+        log -> exp/mono/log/update.02.log
+Iteration 03 :
+    aligning gmm training graphs equally
+        output -> exp/mono/03.ali
+        log -> exp/mono/log/align.03.log
+    accumulating GMM statistics
+        output -> exp/mono/03.acc
+        log -> exp/mono/log/acc.03.log
+    updating GMM parameters and splitting to [ 369 ] gaussians
+        output -> exp/mono/04.mdl
+        log -> exp/mono/log/update.03.log
+Iteration 04 :
+    aligning gmm training graphs equally
+        output -> exp/mono/04.ali
+        log -> exp/mono/log/align.04.log
+    accumulating GMM statistics
+        output -> exp/mono/04.acc
+        log -> exp/mono/log/acc.04.log
+    updating GMM parameters and splitting to [ 392 ] gaussians
+        output -> exp/mono/05.mdl
+        log -> exp/mono/log/update.04.log
+Iteration 05 :
+    aligning gmm training graphs equally
+        output -> exp/mono/05.ali
+        log -> exp/mono/log/align.05.log
+    accumulating GMM statistics
+        output -> exp/mono/05.acc
+        log -> exp/mono/log/acc.05.log
+    updating GMM parameters and splitting to [ 415 ] gaussians
+        output -> exp/mono/06.mdl
+        log -> exp/mono/log/update.05.log
+Iteration 06 :
+    aligning gmm training graphs equally
+        output -> exp/mono/06.ali
+        log -> exp/mono/log/align.06.log
+    accumulating GMM statistics
+        output -> exp/mono/06.acc
+        log -> exp/mono/log/acc.06.log
+    updating GMM parameters and splitting to [ 438 ] gaussians
+        output -> exp/mono/07.mdl
+        log -> exp/mono/log/update.06.log
+Iteration 07 :
+    aligning gmm training graphs equally
+        output -> exp/mono/07.ali
+        log -> exp/mono/log/align.07.log
+    accumulating GMM statistics
+        output -> exp/mono/07.acc
+        log -> exp/mono/log/acc.07.log
+    updating GMM parameters and splitting to [ 461 ] gaussians
+        output -> exp/mono/08.mdl
+        log -> exp/mono/log/update.07.log
+Iteration 08 :
+    aligning gmm training graphs equally
+        output -> exp/mono/08.ali
+        log -> exp/mono/log/align.08.log
+    accumulating GMM statistics
+        output -> exp/mono/08.acc
+        log -> exp/mono/log/acc.08.log
+    updating GMM parameters and splitting to [ 484 ] gaussians
+        output -> exp/mono/09.mdl
+        log -> exp/mono/log/update.08.log
+Iteration 09 :
+    aligning gmm training graphs equally
+        output -> exp/mono/09.ali
+        log -> exp/mono/log/align.09.log
+    accumulating GMM statistics
+        output -> exp/mono/09.acc
+        log -> exp/mono/log/acc.09.log
+    updating GMM parameters and splitting to [ 507 ] gaussians
+        output -> exp/mono/10.mdl
+        log -> exp/mono/log/update.09.log
+Iteration 10 :
+    aligning gmm training graphs equally
+        output -> exp/mono/10.ali
+        log -> exp/mono/log/align.10.log
+    accumulating GMM statistics
+        output -> exp/mono/10.acc
+        log -> exp/mono/log/acc.10.log
+    updating GMM parameters and splitting to [ 530 ] gaussians
+        output -> exp/mono/11.mdl
+        log -> exp/mono/log/update.10.log
+Iteration 11 :
+    accumulating GMM statistics
+        output -> exp/mono/11.acc
+        log -> exp/mono/log/acc.11.log
+    updating GMM parameters and splitting to [ 553 ] gaussians
+        output -> exp/mono/12.mdl
+        log -> exp/mono/log/update.11.log
+Iteration 12 :
+    aligning gmm training graphs equally
+        output -> exp/mono/12.ali
+        log -> exp/mono/log/align.12.log
+    accumulating GMM statistics
+        output -> exp/mono/12.acc
+        log -> exp/mono/log/acc.12.log
+    updating GMM parameters and splitting to [ 576 ] gaussians
+        output -> exp/mono/13.mdl
+        log -> exp/mono/log/update.12.log
+Iteration 13 :
+    accumulating GMM statistics
+        output -> exp/mono/13.acc
+        log -> exp/mono/log/acc.13.log
+    updating GMM parameters and splitting to [ 599 ] gaussians
+        output -> exp/mono/14.mdl
+        log -> exp/mono/log/update.13.log
+Iteration 14 :
+    aligning gmm training graphs equally
+        output -> exp/mono/14.ali
+        log -> exp/mono/log/align.14.log
+    accumulating GMM statistics
+        output -> exp/mono/14.acc
+        log -> exp/mono/log/acc.14.log
+    updating GMM parameters and splitting to [ 622 ] gaussians
+        output -> exp/mono/15.mdl
+        log -> exp/mono/log/update.14.log
+Iteration 15 :
+    accumulating GMM statistics
+        output -> exp/mono/15.acc
+        log -> exp/mono/log/acc.15.log
+    updating GMM parameters and splitting to [ 645 ] gaussians
+        output -> exp/mono/16.mdl
+        log -> exp/mono/log/update.15.log
+Iteration 16 :
+    aligning gmm training graphs equally
+        output -> exp/mono/16.ali
+        log -> exp/mono/log/align.16.log
+    accumulating GMM statistics
+        output -> exp/mono/16.acc
+        log -> exp/mono/log/acc.16.log
+    updating GMM parameters and splitting to [ 668 ] gaussians
+        output -> exp/mono/17.mdl
+        log -> exp/mono/log/update.16.log
+Iteration 17 :
+    accumulating GMM statistics
+        output -> exp/mono/17.acc
+        log -> exp/mono/log/acc.17.log
+    updating GMM parameters and splitting to [ 691 ] gaussians
+        output -> exp/mono/18.mdl
+        log -> exp/mono/log/update.17.log
+Iteration 18 :
+    aligning gmm training graphs equally
+        output -> exp/mono/18.ali
+        log -> exp/mono/log/align.18.log
+    accumulating GMM statistics
+        output -> exp/mono/18.acc
+        log -> exp/mono/log/acc.18.log
+    updating GMM parameters and splitting to [ 714 ] gaussians
+        output -> exp/mono/19.mdl
+        log -> exp/mono/log/update.18.log
+Iteration 19 :
+    accumulating GMM statistics
+        output -> exp/mono/19.acc
+        log -> exp/mono/log/acc.19.log
+    updating GMM parameters and splitting to [ 737 ] gaussians
+        output -> exp/mono/20.mdl
+        log -> exp/mono/log/update.19.log
+Iteration 20 :
+    aligning gmm training graphs equally
+        output -> exp/mono/20.ali
+        log -> exp/mono/log/align.20.log
+    accumulating GMM statistics
+        output -> exp/mono/20.acc
+        log -> exp/mono/log/acc.20.log
+    updating GMM parameters and splitting to [ 760 ] gaussians
+        output -> exp/mono/21.mdl
+        log -> exp/mono/log/update.20.log
+Iteration 21 :
+    accumulating GMM statistics
+        output -> exp/mono/21.acc
+        log -> exp/mono/log/acc.21.log
+    updating GMM parameters and splitting to [ 783 ] gaussians
+        output -> exp/mono/22.mdl
+        log -> exp/mono/log/update.21.log
+Iteration 22 :
+    accumulating GMM statistics
+        output -> exp/mono/22.acc
+        log -> exp/mono/log/acc.22.log
+    updating GMM parameters and splitting to [ 806 ] gaussians
+        output -> exp/mono/23.mdl
+        log -> exp/mono/log/update.22.log
+Iteration 23 :
+    aligning gmm training graphs equally
+        output -> exp/mono/23.ali
+        log -> exp/mono/log/align.23.log
+    accumulating GMM statistics
+        output -> exp/mono/23.acc
+        log -> exp/mono/log/acc.23.log
+    updating GMM parameters and splitting to [ 829 ] gaussians
+        output -> exp/mono/24.mdl
+        log -> exp/mono/log/update.23.log
+Iteration 24 :
+    accumulating GMM statistics
+        output -> exp/mono/24.acc
+        log -> exp/mono/log/acc.24.log
+    updating GMM parameters and splitting to [ 852 ] gaussians
+        output -> exp/mono/25.mdl
+        log -> exp/mono/log/update.24.log
+Iteration 25 :
+    accumulating GMM statistics
+        output -> exp/mono/25.acc
+        log -> exp/mono/log/acc.25.log
+    updating GMM parameters and splitting to [ 875 ] gaussians
+        output -> exp/mono/26.mdl
+        log -> exp/mono/log/update.25.log
+Iteration 26 :
+    aligning gmm training graphs equally
+        output -> exp/mono/26.ali
+        log -> exp/mono/log/align.26.log
+    accumulating GMM statistics
+        output -> exp/mono/26.acc
+        log -> exp/mono/log/acc.26.log
+    updating GMM parameters and splitting to [ 898 ] gaussians
+        output -> exp/mono/27.mdl
+        log -> exp/mono/log/update.26.log
+Iteration 27 :
+    accumulating GMM statistics
+        output -> exp/mono/27.acc
+        log -> exp/mono/log/acc.27.log
+    updating GMM parameters and splitting to [ 921 ] gaussians
+        output -> exp/mono/28.mdl
+        log -> exp/mono/log/update.27.log
+Iteration 28 :
+    accumulating GMM statistics
+        output -> exp/mono/28.acc
+        log -> exp/mono/log/acc.28.log
+    updating GMM parameters and splitting to [ 944 ] gaussians
+        output -> exp/mono/29.mdl
+        log -> exp/mono/log/update.28.log
+Iteration 29 :
+    aligning gmm training graphs equally
+        output -> exp/mono/29.ali
+        log -> exp/mono/log/align.29.log
+    accumulating GMM statistics
+        output -> exp/mono/29.acc
+        log -> exp/mono/log/acc.29.log
+    updating GMM parameters and splitting to [ 967 ] gaussians
+        output -> exp/mono/30.mdl
+        log -> exp/mono/log/update.29.log
+Iteration 30 :
+    accumulating GMM statistics
+        output -> exp/mono/30.acc
+        log -> exp/mono/log/acc.30.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/31.mdl
+        log -> exp/mono/log/update.30.log
+Iteration 31 :
+    accumulating GMM statistics
+        output -> exp/mono/31.acc
+        log -> exp/mono/log/acc.31.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/32.mdl
+        log -> exp/mono/log/update.31.log
+Iteration 32 :
+    aligning gmm training graphs equally
+        output -> exp/mono/32.ali
+        log -> exp/mono/log/align.32.log
+    accumulating GMM statistics
+        output -> exp/mono/32.acc
+        log -> exp/mono/log/acc.32.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/33.mdl
+        log -> exp/mono/log/update.32.log
+Iteration 33 :
+    accumulating GMM statistics
+        output -> exp/mono/33.acc
+        log -> exp/mono/log/acc.33.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/34.mdl
+        log -> exp/mono/log/update.33.log
+Iteration 34 :
+    accumulating GMM statistics
+        output -> exp/mono/34.acc
+        log -> exp/mono/log/acc.34.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/35.mdl
+        log -> exp/mono/log/update.34.log
+Iteration 35 :
+    aligning gmm training graphs equally
+        output -> exp/mono/35.ali
+        log -> exp/mono/log/align.35.log
+    accumulating GMM statistics
+        output -> exp/mono/35.acc
+        log -> exp/mono/log/acc.35.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/36.mdl
+        log -> exp/mono/log/update.35.log
+Iteration 36 :
+    accumulating GMM statistics
+        output -> exp/mono/36.acc
+        log -> exp/mono/log/acc.36.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/37.mdl
+        log -> exp/mono/log/update.36.log
+Iteration 37 :
+    accumulating GMM statistics
+        output -> exp/mono/37.acc
+        log -> exp/mono/log/acc.37.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/38.mdl
+        log -> exp/mono/log/update.37.log
+Iteration 38 :
+    aligning gmm training graphs equally
+        output -> exp/mono/38.ali
+        log -> exp/mono/log/align.38.log
+    accumulating GMM statistics
+        output -> exp/mono/38.acc
+        log -> exp/mono/log/acc.38.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/39.mdl
+        log -> exp/mono/log/update.38.log
+Iteration 39 :
+    accumulating GMM statistics
+        output -> exp/mono/39.acc
+        log -> exp/mono/log/acc.39.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/40.mdl
+        log -> exp/mono/log/update.39.log
+Iteration 40 :
+    accumulating GMM statistics
+        output -> exp/mono/40.acc
+        log -> exp/mono/log/acc.40.log
+    updating GMM parameters and splitting to [ 990 ] gaussians
+        output -> exp/mono/41.mdl
+        log -> exp/mono/log/update.40.log
+Training completed:
+     mdl = exp/mono/final.mdl
+    occs = exp/mono/final.occs
+    tree = exp/mono/tree
+Cleaning redundant materials generated during training process
+
+Execution time for whole script = 01 hours 01 mins 51 secs
+

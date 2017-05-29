@@ -1,0 +1,63 @@
+Generating lattices for dev set
+Execution time for generating lattices = 01 hours 45 mins 35 secs
+Recoring lattice to find optimal acoustic weight
+Rescoring lattice using acoustic weight = 0.02 -> fst/mono/dev.0.02.tra
+Generating char level transcription -> fst/mono/dev.0.02.rec
+    acoustic weight = [ 0.02 ]
+        result -> fst/mono/dev.0.02.rec
+        accuracy -> [ 31.16 ] %
+Rescoring lattice using acoustic weight = 0.04 -> fst/mono/dev.0.04.tra
+Generating char level transcription -> fst/mono/dev.0.04.rec
+    acoustic weight = [ 0.04 ]
+        result -> fst/mono/dev.0.04.rec
+        accuracy -> [ 32.85 ] %
+Rescoring lattice using acoustic weight = 0.06 -> fst/mono/dev.0.06.tra
+Generating char level transcription -> fst/mono/dev.0.06.rec
+    acoustic weight = [ 0.06 ]
+        result -> fst/mono/dev.0.06.rec
+        accuracy -> [ 35.56 ] %
+Rescoring lattice using acoustic weight = 0.08 -> fst/mono/dev.0.08.tra
+Generating char level transcription -> fst/mono/dev.0.08.rec
+    acoustic weight = [ 0.08 ]
+        result -> fst/mono/dev.0.08.rec
+        accuracy -> [ 36.03 ] %
+Rescoring lattice using acoustic weight = 0.10 -> fst/mono/dev.0.10.tra
+Generating char level transcription -> fst/mono/dev.0.10.rec
+    acoustic weight = [ 0.10 ]
+        result -> fst/mono/dev.0.10.rec
+        accuracy -> [ 36.34 ] %
+Rescoring lattice using acoustic weight = 0.12 -> fst/mono/dev.0.12.tra
+Generating char level transcription -> fst/mono/dev.0.12.rec
+    acoustic weight = [ 0.12 ]
+        result -> fst/mono/dev.0.12.rec
+        accuracy -> [ 35.03 ] %
+Rescoring lattice using acoustic weight = 0.14 -> fst/mono/dev.0.14.tra
+Generating char level transcription -> fst/mono/dev.0.14.rec
+    acoustic weight = [ 0.14 ]
+        result -> fst/mono/dev.0.14.rec
+        accuracy -> [ 33.77 ] %
+Rescoring lattice using acoustic weight = 0.16 -> fst/mono/dev.0.16.tra
+Generating char level transcription -> fst/mono/dev.0.16.rec
+    acoustic weight = [ 0.16 ]
+        result -> fst/mono/dev.0.16.rec
+        accuracy -> [ 32.19 ] %
+Rescoring lattice using acoustic weight = 0.18 -> fst/mono/dev.0.18.tra
+Generating char level transcription -> fst/mono/dev.0.18.rec
+    acoustic weight = [ 0.18 ]
+        result -> fst/mono/dev.0.18.rec
+        accuracy -> [ 31.06 ] %
+Rescoring lattice using acoustic weight = 0.20 -> fst/mono/dev.0.20.tra
+Generating char level transcription -> fst/mono/dev.0.20.rec
+    acoustic weight = [ 0.20 ]
+        result -> fst/mono/dev.0.20.rec
+        accuracy -> [ 29.95 ] %
+Execution time for rescoring lattices = 00 hours 05 mins 39 secs
+Optimal acoustic weight = 0.10
+Recognizing test set with acoustic weight = 0.10
+Execution time for recognizing test set = 01 hours 42 mins 00 secs
+Generating char level transcription -> fst/mono/test.rec
+    result -> fst/mono/test.rec
+    accuracy -> [ 36.54 ] %
+
+Execution time for whole script = 03 hours 33 mins 15 secs
+

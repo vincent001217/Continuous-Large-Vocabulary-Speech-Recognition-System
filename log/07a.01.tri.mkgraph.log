@@ -1,0 +1,7 @@
+Composing L & G to LG -> graph/tri/LG.fst
+Composing C & LG to CLG -> graph/tri/CLG.fst
+Generating H -> graph/tri/Ha.fst
+Composing Ha & CLG to HCLG -> graph/tri/HCLG.fst
+
+Execution time for whole script = 00 hours 01 mins 25 secs
+

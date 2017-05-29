@@ -1,0 +1,51 @@
+Converting acoustic models to HTK format
+    output -> viterbi/tri/final.mmf viterbi/tri/tiedlist
+    log -> viterbi/tri/log/am.to.htk.log
+Generating lattices for dev set with acoustic weight = [ 0.10 ]
+    output dir -> viterbi/tri/lat/
+    log -> viterbi/tri/log/latgen.dev.log
+    execution time for generating lattices for dev set = 00 hours 18 mins 46 secs
+Recoring lattice to find optimal acoustic weight
+    acoustic weight = [ 0.02 ]
+        result -> viterbi/tri/dev.0.02.rec
+        accuracy -> [ 50.60 ] %
+    acoustic weight = [ 0.04 ]
+        result -> viterbi/tri/dev.0.04.rec
+        accuracy -> [ 53.15 ] %
+    acoustic weight = [ 0.06 ]
+        result -> viterbi/tri/dev.0.06.rec
+        accuracy -> [ 54.36 ] %
+    acoustic weight = [ 0.08 ]
+        result -> viterbi/tri/dev.0.08.rec
+        accuracy -> [ 54.78 ] %
+    acoustic weight = [ 0.10 ]
+        result -> viterbi/tri/dev.0.10.rec
+        accuracy -> [ 54.66 ] %
+    acoustic weight = [ 0.12 ]
+        result -> viterbi/tri/dev.0.12.rec
+        accuracy -> [ 53.71 ] %
+    acoustic weight = [ 0.14 ]
+        result -> viterbi/tri/dev.0.14.rec
+        accuracy -> [ 52.91 ] %
+    acoustic weight = [ 0.16 ]
+        result -> viterbi/tri/dev.0.16.rec
+        accuracy -> [ 51.90 ] %
+    acoustic weight = [ 0.18 ]
+        result -> viterbi/tri/dev.0.18.rec
+        accuracy -> [ 50.69 ] %
+    acoustic weight = [ 0.20 ]
+        result -> viterbi/tri/dev.0.20.rec
+        accuracy -> [ 49.88 ] %
+    optimal acoustic weight = [ 0.08 ]
+    corresponding accuracy = [ 54.78 ] %
+    execution time for rescoring lattices = 00 hours 07 mins 14 secs
+Generating results for test set with acoustic weight = [ 0.08 ]
+    output -> viterbi/tri/test.mlf
+    log -> viterbi/tri/log/latgen.test.log
+    execution time for generating results for test set = 00 hours 40 mins 42 secs
+    result -> viterbi/tri/test.rec
+    accuracy -> [ 56.81 ] %
+Cleaning lattices of dev set generated during decoding process
+
+Execution time for whole script = 01 hours 06 mins 45 secs
+

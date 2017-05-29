@@ -1,0 +1,281 @@
+Using [ exp/tree/tree ] as senone clustering tree
+Initializing triphone system
+    output -> exp/tri/00.mdl exp/tri/00.occs
+    log -> exp/tri/log/tri.init.log
+Iteration 00 :
+    split to [ 1659 ] Gaussians
+        output -> exp/tri/01.mdl
+        log -> exp/tri/log/mixup.log
+    converting alignments
+        output-> exp/tri/00.ali
+        log -> exp/tri/log/convert.ali.log
+    compiling training graphs
+        output -> exp/tri/train.graph
+        log -> exp/tri/log/compile.graphs.log
+    accumulating GMM statistics
+        output -> exp/tri/00.acc
+        log -> exp/tri/log/acc.00.log
+    updating GMM parameters and splitting to [ 1924 ] gaussians
+        exp/tri/01.mdl exists , skipping ...
+Iteration 01 :
+    accumulating GMM statistics
+        output -> exp/tri/01.acc
+        log -> exp/tri/log/acc.01.log
+    updating GMM parameters and splitting to [ 2189 ] gaussians
+        output -> exp/tri/02.mdl
+        log -> exp/tri/log/update.01.log
+Iteration 02 :
+    accumulating GMM statistics
+        output -> exp/tri/02.acc
+        log -> exp/tri/log/acc.02.log
+    updating GMM parameters and splitting to [ 2454 ] gaussians
+        output -> exp/tri/03.mdl
+        log -> exp/tri/log/update.02.log
+Iteration 03 :
+    accumulating GMM statistics
+        output -> exp/tri/03.acc
+        log -> exp/tri/log/acc.03.log
+    updating GMM parameters and splitting to [ 2719 ] gaussians
+        output -> exp/tri/04.mdl
+        log -> exp/tri/log/update.03.log
+Iteration 04 :
+    accumulating GMM statistics
+        output -> exp/tri/04.acc
+        log -> exp/tri/log/acc.04.log
+    updating GMM parameters and splitting to [ 2984 ] gaussians
+        output -> exp/tri/05.mdl
+        log -> exp/tri/log/update.04.log
+Iteration 05 :
+    accumulating GMM statistics
+        output -> exp/tri/05.acc
+        log -> exp/tri/log/acc.05.log
+    updating GMM parameters and splitting to [ 3249 ] gaussians
+        output -> exp/tri/06.mdl
+        log -> exp/tri/log/update.05.log
+Iteration 06 :
+    accumulating GMM statistics
+        output -> exp/tri/06.acc
+        log -> exp/tri/log/acc.06.log
+    updating GMM parameters and splitting to [ 3514 ] gaussians
+        output -> exp/tri/07.mdl
+        log -> exp/tri/log/update.06.log
+Iteration 07 :
+    accumulating GMM statistics
+        output -> exp/tri/07.acc
+        log -> exp/tri/log/acc.07.log
+    updating GMM parameters and splitting to [ 3779 ] gaussians
+        output -> exp/tri/08.mdl
+        log -> exp/tri/log/update.07.log
+Iteration 08 :
+    accumulating GMM statistics
+        output -> exp/tri/08.acc
+        log -> exp/tri/log/acc.08.log
+    updating GMM parameters and splitting to [ 4044 ] gaussians
+        output -> exp/tri/09.mdl
+        log -> exp/tri/log/update.08.log
+Iteration 09 :
+    accumulating GMM statistics
+        output -> exp/tri/09.acc
+        log -> exp/tri/log/acc.09.log
+    updating GMM parameters and splitting to [ 4309 ] gaussians
+        output -> exp/tri/10.mdl
+        log -> exp/tri/log/update.09.log
+Iteration 10 :
+    aligning gmm training graphs equally
+        output -> exp/tri/10.ali
+        log -> exp/tri/log/align.10.log
+    accumulating GMM statistics
+        output -> exp/tri/10.acc
+        log -> exp/tri/log/acc.10.log
+    updating GMM parameters and splitting to [ 4574 ] gaussians
+        output -> exp/tri/11.mdl
+        log -> exp/tri/log/update.10.log
+Iteration 11 :
+    accumulating GMM statistics
+        output -> exp/tri/11.acc
+        log -> exp/tri/log/acc.11.log
+    updating GMM parameters and splitting to [ 4839 ] gaussians
+        output -> exp/tri/12.mdl
+        log -> exp/tri/log/update.11.log
+Iteration 12 :
+    accumulating GMM statistics
+        output -> exp/tri/12.acc
+        log -> exp/tri/log/acc.12.log
+    updating GMM parameters and splitting to [ 5104 ] gaussians
+        output -> exp/tri/13.mdl
+        log -> exp/tri/log/update.12.log
+Iteration 13 :
+    accumulating GMM statistics
+        output -> exp/tri/13.acc
+        log -> exp/tri/log/acc.13.log
+    updating GMM parameters and splitting to [ 5369 ] gaussians
+        output -> exp/tri/14.mdl
+        log -> exp/tri/log/update.13.log
+Iteration 14 :
+    accumulating GMM statistics
+        output -> exp/tri/14.acc
+        log -> exp/tri/log/acc.14.log
+    updating GMM parameters and splitting to [ 5634 ] gaussians
+        output -> exp/tri/15.mdl
+        log -> exp/tri/log/update.14.log
+Iteration 15 :
+    accumulating GMM statistics
+        output -> exp/tri/15.acc
+        log -> exp/tri/log/acc.15.log
+    updating GMM parameters and splitting to [ 5899 ] gaussians
+        output -> exp/tri/16.mdl
+        log -> exp/tri/log/update.15.log
+Iteration 16 :
+    accumulating GMM statistics
+        output -> exp/tri/16.acc
+        log -> exp/tri/log/acc.16.log
+    updating GMM parameters and splitting to [ 6164 ] gaussians
+        output -> exp/tri/17.mdl
+        log -> exp/tri/log/update.16.log
+Iteration 17 :
+    accumulating GMM statistics
+        output -> exp/tri/17.acc
+        log -> exp/tri/log/acc.17.log
+    updating GMM parameters and splitting to [ 6429 ] gaussians
+        output -> exp/tri/18.mdl
+        log -> exp/tri/log/update.17.log
+Iteration 18 :
+    accumulating GMM statistics
+        output -> exp/tri/18.acc
+        log -> exp/tri/log/acc.18.log
+    updating GMM parameters and splitting to [ 6694 ] gaussians
+        output -> exp/tri/19.mdl
+        log -> exp/tri/log/update.18.log
+Iteration 19 :
+    accumulating GMM statistics
+        output -> exp/tri/19.acc
+        log -> exp/tri/log/acc.19.log
+    updating GMM parameters and splitting to [ 6959 ] gaussians
+        output -> exp/tri/20.mdl
+        log -> exp/tri/log/update.19.log
+Iteration 20 :
+    aligning gmm training graphs equally
+        output -> exp/tri/20.ali
+        log -> exp/tri/log/align.20.log
+    accumulating GMM statistics
+        output -> exp/tri/20.acc
+        log -> exp/tri/log/acc.20.log
+    updating GMM parameters and splitting to [ 7224 ] gaussians
+        output -> exp/tri/21.mdl
+        log -> exp/tri/log/update.20.log
+Iteration 21 :
+    accumulating GMM statistics
+        output -> exp/tri/21.acc
+        log -> exp/tri/log/acc.21.log
+    updating GMM parameters and splitting to [ 7489 ] gaussians
+        output -> exp/tri/22.mdl
+        log -> exp/tri/log/update.21.log
+Iteration 22 :
+    accumulating GMM statistics
+        output -> exp/tri/22.acc
+        log -> exp/tri/log/acc.22.log
+    updating GMM parameters and splitting to [ 7754 ] gaussians
+        output -> exp/tri/23.mdl
+        log -> exp/tri/log/update.22.log
+Iteration 23 :
+    accumulating GMM statistics
+        output -> exp/tri/23.acc
+        log -> exp/tri/log/acc.23.log
+    updating GMM parameters and splitting to [ 8019 ] gaussians
+        output -> exp/tri/24.mdl
+        log -> exp/tri/log/update.23.log
+Iteration 24 :
+    accumulating GMM statistics
+        output -> exp/tri/24.acc
+        log -> exp/tri/log/acc.24.log
+    updating GMM parameters and splitting to [ 8284 ] gaussians
+        output -> exp/tri/25.mdl
+        log -> exp/tri/log/update.24.log
+Iteration 25 :
+    accumulating GMM statistics
+        output -> exp/tri/25.acc
+        log -> exp/tri/log/acc.25.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/26.mdl
+        log -> exp/tri/log/update.25.log
+Iteration 26 :
+    accumulating GMM statistics
+        output -> exp/tri/26.acc
+        log -> exp/tri/log/acc.26.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/27.mdl
+        log -> exp/tri/log/update.26.log
+Iteration 27 :
+    accumulating GMM statistics
+        output -> exp/tri/27.acc
+        log -> exp/tri/log/acc.27.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/28.mdl
+        log -> exp/tri/log/update.27.log
+Iteration 28 :
+    accumulating GMM statistics
+        output -> exp/tri/28.acc
+        log -> exp/tri/log/acc.28.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/29.mdl
+        log -> exp/tri/log/update.28.log
+Iteration 29 :
+    accumulating GMM statistics
+        output -> exp/tri/29.acc
+        log -> exp/tri/log/acc.29.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/30.mdl
+        log -> exp/tri/log/update.29.log
+Iteration 30 :
+    aligning gmm training graphs equally
+        output -> exp/tri/30.ali
+        log -> exp/tri/log/align.30.log
+    accumulating GMM statistics
+        output -> exp/tri/30.acc
+        log -> exp/tri/log/acc.30.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/31.mdl
+        log -> exp/tri/log/update.30.log
+Iteration 31 :
+    accumulating GMM statistics
+        output -> exp/tri/31.acc
+        log -> exp/tri/log/acc.31.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/32.mdl
+        log -> exp/tri/log/update.31.log
+Iteration 32 :
+    accumulating GMM statistics
+        output -> exp/tri/32.acc
+        log -> exp/tri/log/acc.32.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/33.mdl
+        log -> exp/tri/log/update.32.log
+Iteration 33 :
+    accumulating GMM statistics
+        output -> exp/tri/33.acc
+        log -> exp/tri/log/acc.33.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/34.mdl
+        log -> exp/tri/log/update.33.log
+Iteration 34 :
+    accumulating GMM statistics
+        output -> exp/tri/34.acc
+        log -> exp/tri/log/acc.34.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/35.mdl
+        log -> exp/tri/log/update.34.log
+Iteration 35 :
+    accumulating GMM statistics
+        output -> exp/tri/35.acc
+        log -> exp/tri/log/acc.35.log
+    updating GMM parameters and splitting to [ 8549 ] gaussians
+        output -> exp/tri/36.mdl
+        log -> exp/tri/log/update.35.log
+Training completed:
+     mdl = exp/tri/final.mdl
+    occs = exp/tri/final.occs
+    tree = exp/tri/tree
+Cleaning redundant materials generated during training process
+
+Execution time for whole script = 00 hours 32 mins 27 secs
+

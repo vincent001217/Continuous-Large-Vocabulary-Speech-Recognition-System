@@ -1,0 +1,12 @@
+Senone clustering tree training :
+    target -> [ 2000 ] senones
+    accumulating tree statistics
+        exp/tree/tree.acc exists , skipping ...
+    computing questions for tree clustering
+        output -> exp/tree/questions.qst exp/tree/roots.txt
+    building tree of two levels
+        exp/tree/tree exists , skipping ...
+Cleaning redundant materials generated during training process
+
+Execution time for whole script = 00 hours 00 mins 01 secs
+
