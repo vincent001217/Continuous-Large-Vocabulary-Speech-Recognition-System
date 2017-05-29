@@ -1,0 +1,2 @@
+compile-train-graphs exp/tri/tree exp/tri/01.mdl train/L.fst ark:train/train.int ark:exp/tri/train.graph 
+LOG (compile-train-graphs:main():compile-train-graphs.cc:145) compile-train-graphs: succeeded for 4000 graphs, failed for 0
