@@ -1,0 +1,1603 @@
+lattice-best-path --acoustic-scale=0.20 --word-symbol-table=decode/words.txt ark:fst/mono/dev.lat ark,t:fst/mono/dev.0.20.tra ark,t:fst/mono/dev.0.20.ali 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0000, best cost 65.4567 + 4930.13 = 4995.58 over 268 frames.
+astmic-fsi090-sen0000 即 將來 再 接 納 發 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0001, best cost 107.678 + 6847.05 = 6954.73 over 368 frames.
+astmic-fsi090-sen0001 在 場 內 上來 情形 從 未 見 一旦 你 情況 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0002, best cost 105.859 + 6797.88 = 6903.74 over 358 frames.
+astmic-fsi090-sen0002 值得 重視 修 不得 國外 出 叫 苦 連 天 率 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0003, best cost 58.2676 + 4062.5 = 4120.77 over 228 frames.
+astmic-fsi090-sen0003 張 某 證 人 民 辦法 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0004, best cost 59.4564 + 3645.94 = 3705.4 over 198 frames.
+astmic-fsi090-sen0004 這 年 面 海 產 管道 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0005, best cost 69.1931 + 4785.55 = 4854.74 over 268 frames.
+astmic-fsi090-sen0005 並 顯然 議 會 將 修 開 放 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0006, best cost 107.836 + 6634.04 = 6741.87 over 358 frames.
+astmic-fsi090-sen0006 對 會 之 線 的 瑞 典 音樂 院 乃 散 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0007, best cost 85.5636 + 4881.72 = 4967.29 over 258 frames.
+astmic-fsi090-sen0007 那裡 來 據 報 復 豐富 了 了 家 中 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0008, best cost 80.0817 + 5199.52 = 5279.6 over 278 frames.
+astmic-fsi090-sen0008 不過 三 位 就是 臭 不得 已 廢 止 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0009, best cost 68.021 + 4256.58 = 4324.6 over 228 frames.
+astmic-fsi090-sen0009 能 否 顯現 能 損 失 率 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0010, best cost 82.9135 + 5886.13 = 5969.05 over 308 frames.
+astmic-fsi090-sen0010 在 走 私 人 口 企 業 績 中 正 路 附近 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0011, best cost 97.9637 + 6844.99 = 6942.95 over 368 frames.
+astmic-fsi090-sen0011 任 期 間 韓國 藍 某 人 及 自己 情 事 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0012, best cost 31.4203 + 4221.28 = 4252.7 over 228 frames.
+astmic-fsi090-sen0012 警 方 查 獲 悉 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0013, best cost 94.3287 + 6275.61 = 6369.94 over 328 frames.
+astmic-fsi090-sen0013 阿 拉 窮 觀點 不 提 早 丟 棄 的 角色 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0014, best cost 102.53 + 7068.2 = 7170.73 over 388 frames.
+astmic-fsi090-sen0014 但 因 主 嫌 乃 中心 則 里 長 林 步 走 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0015, best cost 91.4649 + 7391.3 = 7482.76 over 398 frames.
+astmic-fsi090-sen0015 金 馬 獎 上 名 單 每 名 竊 盜 罪 嫌 移 送 法 辦 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0016, best cost 69.1604 + 5532.02 = 5601.18 over 318 frames.
+astmic-fsi090-sen0016 大會 最 小 說 蘇 發 射 台 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0017, best cost 113.397 + 7533.22 = 7646.61 over 408 frames.
+astmic-fsi090-sen0017 複雜 開 放 議 不 休 假 縣 長 分 不夠 提 醒 一下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0018, best cost 83.2604 + 6505.6 = 6588.86 over 358 frames.
+astmic-fsi090-sen0018 的 席 委 員 會 並 未 能 亦 將 以 取 締 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0019, best cost 52.2025 + 4431.01 = 4483.21 over 248 frames.
+astmic-fsi090-sen0019 該 會 凌 晨 法 令 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0020, best cost 129.138 + 9180.96 = 9310.09 over 508 frames.
+astmic-fsi090-sen0020 並 予 以 當 事 人 或是 極 大 筆 錢 嫌 拆 除 發展 身 亡 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0021, best cost 85.7916 + 7100.72 = 7186.52 over 398 frames.
+astmic-fsi090-sen0021 警 方 基 於 海 卻 已 積極 或許 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0022, best cost 61.394 + 6135.19 = 6196.58 over 338 frames.
+astmic-fsi090-sen0022 更 希望 把 視 訊 派 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0023, best cost 123.387 + 8577.62 = 8701.01 over 468 frames.
+astmic-fsi090-sen0023 將 了 大 公路 舒服 子 兵 累 得 全面 復 聲 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0024, best cost 44.8271 + 4627.64 = 4672.47 over 248 frames.
+astmic-fsi090-sen0024 且 警 方 初步 調 查 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0025, best cost 89.1787 + 7140.12 = 7229.3 over 398 frames.
+astmic-fsi090-sen0025 三 了 是 雷 射 被 其 精確 誤 會 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0026, best cost 62.2404 + 4682.56 = 4744.8 over 258 frames.
+astmic-fsi090-sen0026 青 春 歲 月 營 造 龜 裂 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0027, best cost 62.7377 + 4507.72 = 4570.45 over 248 frames.
+astmic-fsi090-sen0027 而且 一 億 元 的 好 被 害 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0028, best cost 77.7208 + 6091.15 = 6168.87 over 328 frames.
+astmic-fsi090-sen0028 縣 府 較 大 賽 權 利 金 峰 飛 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0029, best cost 88.6518 + 7354.61 = 7443.26 over 418 frames.
+astmic-fsi090-sen0029 不過 我 認 領 先 廢 氣 憤 異 的 社會 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0030, best cost 54.808 + 4373.9 = 4428.71 over 248 frames.
+astmic-fsi090-sen0030 竟 利用 六 則 因 少 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0031, best cost 89.2996 + 6242.52 = 6331.82 over 348 frames.
+astmic-fsi090-sen0031 但是 營 業 已 不 口 感覺 面積 飛 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0032, best cost 57.9558 + 5013.78 = 5071.74 over 278 frames.
+astmic-fsi090-sen0032 希望 大家 為 趨向 鬧 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0033, best cost 87.7564 + 5662.45 = 5750.21 over 308 frames.
+astmic-fsi090-sen0033 心 裡 小 康 隆 大陸 他 該 股 成立 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0034, best cost 73.9199 + 6473.4 = 6547.32 over 358 frames.
+astmic-fsi090-sen0034 並 會 線 單位 買 設備 缺 失 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0035, best cost 73.4212 + 5140.83 = 5214.25 over 288 frames.
+astmic-fsi090-sen0035 發生 路 面 告訴 是 可以 都 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0036, best cost 47.6661 + 3913.91 = 3961.58 over 228 frames.
+astmic-fsi090-sen0036 別人 影響 交通 日 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0037, best cost 110.378 + 8519.88 = 8630.25 over 458 frames.
+astmic-fsi090-sen0037 負責 通 該 工程 一 本 書 不 去 北 企 銀 股 拆 除 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0038, best cost 87.975 + 7356.24 = 7444.22 over 408 frames.
+astmic-fsi090-sen0038 針對 著 幾個 會 線 單位 協 調 適 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0039, best cost 45.7519 + 3813.78 = 3859.53 over 208 frames.
+astmic-fsi090-sen0039 幾乎 像 推 卸 責 任 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0040, best cost 52.8417 + 4267.76 = 4320.6 over 228 frames.
+astmic-fsi090-sen0040 三 商 銀 提供 裡 翻 船 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0041, best cost 73.0544 + 4475.09 = 4548.15 over 248 frames.
+astmic-fsi090-sen0041 在 擔心 選舉 恩 倍 損 社 區 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0042, best cost 105.523 + 6466.78 = 6572.3 over 358 frames.
+astmic-fsi090-sen0042 並 非 只 上 訴 點 迷 你 聲 納 募 勞 會 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0043, best cost 83.8941 + 5323.11 = 5407 over 288 frames.
+astmic-fsi090-sen0043 無 數 在 週 彩 券 後來 去 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0044, best cost 66.235 + 4279.29 = 4345.52 over 238 frames.
+astmic-fsi090-sen0044 的 立刻 自 共 襄 理 分明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0045, best cost 49.1478 + 3896.14 = 3945.29 over 218 frames.
+astmic-fsi090-sen0045 在 相同 性 的 信 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0046, best cost 76.4767 + 5911.37 = 5987.84 over 328 frames.
+astmic-fsi090-sen0046 是 無 雖然 非 七 九 日 客 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0047, best cost 64.0871 + 5211.19 = 5275.28 over 298 frames.
+astmic-fsi090-sen0047 立刻 今年 六 年 無 不 利 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0048, best cost 56.1825 + 4778.61 = 4834.79 over 258 frames.
+astmic-fsi090-sen0048 即 進行 三 就算 午 餐 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0049, best cost 121.715 + 8037.39 = 8159.1 over 438 frames.
+astmic-fsi090-sen0049 且 發生 一個 一直 得 給 頭 在 都 其他 目的 起 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0050, best cost 50.2729 + 4500.95 = 4551.22 over 248 frames.
+astmic-fsi090-sen0050 為 避免 發現 一 名 外 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0051, best cost 64.6208 + 4780.54 = 4845.16 over 268 frames.
+astmic-fsi090-sen0051 法 務 部 的 信 用 品 調 嗎 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0052, best cost 101.034 + 7500.15 = 7601.18 over 418 frames.
+astmic-fsi090-sen0052 沒 落 在 生存 繼續 建 設 發揮 能 進 場 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0053, best cost 78.1354 + 5642.49 = 5720.63 over 308 frames.
+astmic-fsi090-sen0053 不能 會 跌 的 自然 不得 成 效 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0054, best cost 56.3088 + 4518.53 = 4574.83 over 248 frames.
+astmic-fsi090-sen0054 否則 不得 在 家 比賽 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0055, best cost 85.9213 + 6652.49 = 6738.42 over 358 frames.
+astmic-fsi090-sen0055 彼此 主 辦 單位 希望 六 比賽 的 機會 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0056, best cost 91.3415 + 7217.58 = 7308.93 over 398 frames.
+astmic-fsi090-sen0056 為 計算 你 打開 學習 活動 的 範圍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0057, best cost 47.7479 + 5158.72 = 5206.47 over 308 frames.
+astmic-fsi090-sen0057 達到 全 民 體育 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0058, best cost 58.6912 + 4179.49 = 4238.18 over 238 frames.
+astmic-fsi090-sen0058 並 改 為 原來 並 成立 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0059, best cost 70.6758 + 5328.5 = 5399.17 over 308 frames.
+astmic-fsi090-sen0059 劉 行政 院 台 中 最後 幅 度 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0060, best cost 53.7115 + 3415.87 = 3469.58 over 198 frames.
+astmic-fsi090-sen0060 四 日 事 是 兄 房 屋 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0061, best cost 109.563 + 6124.66 = 6234.23 over 328 frames.
+astmic-fsi090-sen0061 省 議 員 來 保護 人 能 某 區 和 方向 整 鬧 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0062, best cost 117.11 + 9224.19 = 9341.3 over 508 frames.
+astmic-fsi090-sen0062 並 低 檔 的 比賽 立刻 發 射 台 的 已 抵 達 一 倍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0063, best cost 86.3523 + 5212.78 = 5299.13 over 278 frames.
+astmic-fsi090-sen0063 查 小 組 三 形容 雷 射 能 進入 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0064, best cost 71.251 + 5841.25 = 5912.5 over 328 frames.
+astmic-fsi090-sen0064 長 追 緝 毒 內 事實 的 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0065, best cost 87.5354 + 6343.54 = 6431.07 over 348 frames.
+astmic-fsi090-sen0065 此 行 目前 密 集 的 分明 報 紙 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0066, best cost 56.7605 + 4591.9 = 4648.66 over 258 frames.
+astmic-fsi090-sen0066 遭 母 進行 好 發展 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0067, best cost 62.6347 + 4862.71 = 4925.34 over 278 frames.
+astmic-fsi090-sen0067 必須 南 下 企 業 的 風 貌 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0068, best cost 66.121 + 4493.34 = 4559.46 over 258 frames.
+astmic-fsi090-sen0068 便 是 影響 力 信心 於 進入 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0069, best cost 60.9953 + 4128.55 = 4189.54 over 228 frames.
+astmic-fsi090-sen0069 經 連線 能 在 集中 區 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0070, best cost 99.4875 + 7325.99 = 7425.47 over 408 frames.
+astmic-fsi090-sen0070 起 出 三 建議 進行 著 開 身 受 得 起 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0071, best cost 99.0249 + 6865.47 = 6964.5 over 378 frames.
+astmic-fsi090-sen0071 稍 後 發 了 加 速 任意 抄 報告 功夫 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0072, best cost 77.1896 + 5482.35 = 5559.54 over 308 frames.
+astmic-fsi090-sen0072 三 節目 歸 還 能 替 妻 誤 會 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0073, best cost 80.4119 + 5249.36 = 5329.77 over 298 frames.
+astmic-fsi090-sen0073 將 才 得 以 一 系列 頭 能 不夠 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0074, best cost 127.608 + 8699.77 = 8827.38 over 478 frames.
+astmic-fsi090-sen0074 同時 又 違 反 無法 一群 整理 的 委 會 將 伯 經常 情形 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0075, best cost 56.5363 + 4976.29 = 5032.83 over 278 frames.
+astmic-fsi090-sen0075 心 中 三 件 於 昨 天 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0076, best cost 66.816 + 3898.87 = 3965.68 over 218 frames.
+astmic-fsi090-sen0076 逆 勢 人 民 的 開 決 議 場 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0077, best cost 71.1417 + 4630.73 = 4701.87 over 258 frames.
+astmic-fsi090-sen0077 在 檢 警 戒 備 檢 方 百 餘 件 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0078, best cost 94.2553 + 6280.82 = 6375.08 over 348 frames.
+astmic-fsi090-sen0078 將 單位 及 拼命 進行 年 名 刑 警 覺 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0079, best cost 72.1566 + 4935.81 = 5007.97 over 278 frames.
+astmic-fsi090-sen0079 會 讓 人 犯 腦海 獨 立 即 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0080, best cost 63.0037 + 4506.2 = 4569.2 over 258 frames.
+astmic-fsi090-sen0080 的 回 家 人 以色列 發 射 台 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0081, best cost 48.5681 + 4022.8 = 4071.36 over 228 frames.
+astmic-fsi090-sen0081 泰 國 的 已經 時期 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0082, best cost 70.5994 + 4539.48 = 4610.07 over 248 frames.
+astmic-fsi090-sen0082 書 架 的 美 訓練 為 數 不 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0083, best cost 137.632 + 9779.29 = 9916.92 over 548 frames.
+astmic-fsi090-sen0083 對方 無法 營 造 暑假 數 責 任 周 將 單位 會 物 品 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0084, best cost 108.285 + 7018.01 = 7126.29 over 388 frames.
+astmic-fsi090-sen0084 戒 護 人員 已經 設備 朝 政 臨 檢查 人物 品 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0085, best cost 73.6796 + 5586.16 = 5659.84 over 318 frames.
+astmic-fsi090-sen0085 非 視 涉 嫌 腦海 不 密 集 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0086, best cost 63.0615 + 4738.53 = 4801.59 over 268 frames.
+astmic-fsi090-sen0086 在 建立 成 反映 系列 活動 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0087, best cost 46.766 + 3519.3 = 3566.07 over 198 frames.
+astmic-fsi090-sen0087 對 葉 姓 名 家 長 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0088, best cost 87.1655 + 5895.79 = 5982.95 over 328 frames.
+astmic-fsi090-sen0088 白天 日 範例 消息 面 尷尬 及 搜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0089, best cost 80.0314 + 6400.17 = 6480.2 over 358 frames.
+astmic-fsi090-sen0089 對 現在 的 的 幕後 六 示 威 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0090, best cost 70.4214 + 6445.44 = 6515.86 over 358 frames.
+astmic-fsi090-sen0090 逮 捕 被 著手 進行 強 力 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0091, best cost 76.9862 + 5576.33 = 5653.31 over 308 frames.
+astmic-fsi090-sen0091 遭 會 決 議 員 的 三 年 國 建 計 劃 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0092, best cost 88.3482 + 7115.09 = 7203.44 over 398 frames.
+astmic-fsi090-sen0092 並 起 訴 截 然 目前 露 進行 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0093, best cost 97.8883 + 6485.63 = 6583.52 over 358 frames.
+astmic-fsi090-sen0093 極 少 範圍 家 裡 的 幾乎 認 領 導 飛 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0094, best cost 49.849 + 4307.58 = 4357.43 over 248 frames.
+astmic-fsi090-sen0094 法 務 部 長 利用 外 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0095, best cost 79.3378 + 6483.65 = 6562.99 over 368 frames.
+astmic-fsi090-sen0095 走 至 上 利 息 負 擔 任 一 角 頭 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0096, best cost 48.4566 + 4474.78 = 4523.24 over 258 frames.
+astmic-fsi090-sen0096 舟 競 賽 視 訊 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0097, best cost 52.236 + 4265.6 = 4317.84 over 248 frames.
+astmic-fsi090-sen0097 林 立 套 牢 居 民 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0098, best cost 88.3407 + 6377.74 = 6466.08 over 348 frames.
+astmic-fsi090-sen0098 丟 並 與 家 鄉 鎮 因素 是 譭 謗 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0099, best cost 140.02 + 9215.43 = 9355.45 over 508 frames.
+astmic-fsi090-sen0099 並 系列 因 參觀 於 去年 老 民間 募 作業 清 溪 州 行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0100, best cost 85.2153 + 7390.23 = 7475.44 over 408 frames.
+astmic-fsi090-sen0100 此 一 日 起 了 政府 有關 單位 不 州 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0101, best cost 115.618 + 9041.92 = 9157.54 over 498 frames.
+astmic-fsi090-sen0101 表示 將 推出 皮 夾 著 帳 面 福 方式 區 畫面 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0102, best cost 104.047 + 7971.53 = 8075.57 over 448 frames.
+astmic-fsi090-sen0102 並 變成 右 派 直 逼 使 我 入 會 有限 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0103, best cost 107.789 + 8004.48 = 8112.27 over 448 frames.
+astmic-fsi090-sen0103 你 不 認為 所 擬 定 的 評 價 複雜 百 範圍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0104, best cost 114.99 + 9273.23 = 9388.22 over 528 frames.
+astmic-fsi090-sen0104 被 家 屬 在 女 綠色 辦法 並 非 抵 達 事實 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0105, best cost 77.0252 + 4916.28 = 4993.31 over 278 frames.
+astmic-fsi090-sen0105 年 曾 於 還是 閉 塞 入 虎 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0106, best cost 99.8543 + 7329.83 = 7429.69 over 398 frames.
+astmic-fsi090-sen0106 你 掃 必須 幾乎 自 用 戶 交給 線 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0107, best cost 103.748 + 7773.57 = 7877.32 over 438 frames.
+astmic-fsi090-sen0107 自 小 評 價 住 宅 被 查 獲 在 辦法 辦 理 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0108, best cost 66.3043 + 5696.51 = 5762.81 over 328 frames.
+astmic-fsi090-sen0108 並 行 代 管 並 非 之 情 事 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0109, best cost 69.5345 + 5085.72 = 5155.25 over 288 frames.
+astmic-fsi090-sen0109 其 餘 並 非 只 賽 時 十 倍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0110, best cost 42.0651 + 3686.21 = 3728.28 over 208 frames.
+astmic-fsi090-sen0110 政府 出 門 口 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0111, best cost 83.6143 + 5438.54 = 5522.16 over 308 frames.
+astmic-fsi090-sen0111 據 該 電腦 口 在 可以 女 離 去 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0112, best cost 112.623 + 7722.64 = 7835.26 over 418 frames.
+astmic-fsi090-sen0112 向 累 累 積 之 智慧 和 加成 得 這麼 一 空 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0113, best cost 141.554 + 8564.68 = 8706.23 over 478 frames.
+astmic-fsi090-sen0113 並 藏 來 天 才 家 裡 的 作 怎不 令 全 民 部 長 選 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0114, best cost 84.9048 + 6577.84 = 6662.74 over 358 frames.
+astmic-fsi090-sen0114 全 家 程式 及 陳 茂 搶 嫌 住 處 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0115, best cost 114.34 + 7759.16 = 7873.5 over 428 frames.
+astmic-fsi090-sen0115 讓 人 付 出 連 女 都 可 進入 馬 思 積極 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0116, best cost 55.6724 + 4361.66 = 4417.33 over 248 frames.
+astmic-fsi090-sen0116 林 敏 在 心 生 畏 懼 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0117, best cost 69.062 + 3932.1 = 4001.16 over 218 frames.
+astmic-fsi090-sen0117 所得 錢 念 不 該 都 逃 逸 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0118, best cost 120.218 + 7269.47 = 7389.69 over 398 frames.
+astmic-fsi090-sen0118 你 二 員 警 察 役 將 卡 拉 附近 警 方 用人 已經 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0119, best cost 121.752 + 8317.21 = 8438.97 over 468 frames.
+astmic-fsi090-sen0119 豐 原 已經 非 區域 計 室 主 任 以及 操作 利 息 息 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0120, best cost 95.4322 + 6619.45 = 6714.88 over 368 frames.
+astmic-fsi090-sen0120 所以 效果 近 日 於 飼 料 加 工 民 兩 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0121, best cost 103.717 + 7199.37 = 7303.09 over 398 frames.
+astmic-fsi090-sen0121 現在 情勢 泥 溝 裡 的 評 價 了 就 風 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0122, best cost 76.944 + 5159.88 = 5236.82 over 278 frames.
+astmic-fsi090-sen0122 並 行 股 數 房 屋 發生 口 家 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0123, best cost 107.666 + 8253.9 = 8361.56 over 458 frames.
+astmic-fsi090-sen0123 會 性 的 時期 廢 止 的 把 菜 暴 起 暴 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0124, best cost 80.8397 + 5699.05 = 5779.89 over 318 frames.
+astmic-fsi090-sen0124 從 事 演講 木 會 並 繞 看 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0125, best cost 67.5449 + 5316.93 = 5384.48 over 298 frames.
+astmic-fsi090-sen0125 此 加 盟 是 肇事 傾 倒 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0126, best cost 68.0544 + 5251.26 = 5319.31 over 298 frames.
+astmic-fsi090-sen0126 並 事先 國 奪 得 超 不 治 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0127, best cost 60.91 + 4649.48 = 4710.39 over 258 frames.
+astmic-fsi090-sen0127 警 方 臨 等值 的 抗 議 場 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0128, best cost 89.5309 + 6259.46 = 6348.99 over 348 frames.
+astmic-fsi090-sen0128 比較 下 陷 於 國際 密 報 酬 逮 捕 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0129, best cost 91.3043 + 6099.72 = 6191.02 over 338 frames.
+astmic-fsi090-sen0129 縣 歷 歷 三 入 簡 易 性 比 搜 外 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0130, best cost 87.7691 + 6321.25 = 6409.02 over 338 frames.
+astmic-fsi090-sen0130 中華 民 國 作為 推 動 態 性 美 角 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0131, best cost 54.189 + 4263.44 = 4317.63 over 238 frames.
+astmic-fsi090-sen0131 魁 星 符 實 為 家 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0132, best cost 49.8157 + 3808.34 = 3858.15 over 218 frames.
+astmic-fsi090-sen0132 進行 年 間 被 家 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0133, best cost 59.1428 + 4441.35 = 4500.49 over 248 frames.
+astmic-fsi090-sen0133 並 不能 報告 須 繼續 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0134, best cost 110.163 + 8078.4 = 8188.56 over 448 frames.
+astmic-fsi090-sen0134 最近 年 方向 發 命 令 人 氣 慨 則 無 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0135, best cost 94.4779 + 7600.52 = 7695 over 418 frames.
+astmic-fsi090-sen0135 但 年輕 組織 在 台 的 經濟 靠 著 行 動 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0136, best cost 85.5027 + 5578.69 = 5664.2 over 308 frames.
+astmic-fsi090-sen0136 再度 清 靜 浮 頻 鼓 管 午 餐 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0137, best cost 101.829 + 8346.16 = 8447.99 over 468 frames.
+astmic-fsi090-sen0137 大 台 中 縣 府 將 陳 你 一點 性 的 反 六 輕 組織 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0138, best cost 60.4414 + 5705.65 = 5766.1 over 328 frames.
+astmic-fsi090-sen0138 才 建議 父 母 親 的 行 列 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0139, best cost 51.1674 + 4336.54 = 4387.71 over 248 frames.
+astmic-fsi090-sen0139 並 起 出 八 日 考 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0140, best cost 117.68 + 8092.6 = 8210.28 over 448 frames.
+astmic-fsi090-sen0140 緊張 超過 證 人 音樂 已經 得 並 非 三 名 之後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0141, best cost 115.025 + 8247.27 = 8362.29 over 458 frames.
+astmic-fsi090-sen0141 年 初 的 對 時 許 可 確定 是以 地區 虎 頭 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0142, best cost 85.323 + 6585.57 = 6670.89 over 368 frames.
+astmic-fsi090-sen0142 在 是否 為 進 口 這裡 氣 的 事 故 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0143, best cost 94.4237 + 7951.32 = 8045.74 over 448 frames.
+astmic-fsi090-sen0143 則 得 進一步 查 驚 小 怪 叫 吃 的 午 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0144, best cost 69.6351 + 5504.76 = 5574.4 over 298 frames.
+astmic-fsi090-sen0144 光 臨 檢查 獲 在 現場 明 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0145, best cost 100.2 + 8360.89 = 8461.09 over 468 frames.
+astmic-fsi090-sen0145 雖然 以往 處理 私 進 口 整理 形 的 市府 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0146, best cost 102.63 + 8278.92 = 8381.55 over 458 frames.
+astmic-fsi090-sen0146 且 修憲 留學 強 烈 承 認 實 質 疑 所 為 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0147, best cost 87.6423 + 6681.19 = 6768.83 over 368 frames.
+astmic-fsi090-sen0147 才能 證 實 施 政 為 進 口 則 離 職 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0148, best cost 54.8613 + 5123.6 = 5178.46 over 298 frames.
+astmic-fsi090-sen0148 整體 小 說 是 視 訊 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0149, best cost 86.6273 + 6441.56 = 6528.19 over 358 frames.
+astmic-fsi090-sen0149 警 政 署 在 著 可以 得 起 知道 影響 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0150, best cost 119.571 + 9286.48 = 9406.05 over 508 frames.
+astmic-fsi090-sen0150 而 未來 看法 引 起 起 了 一 日 起 即 隨機 大 攤 位 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0151, best cost 51.0356 + 5232.96 = 5283.99 over 298 frames.
+astmic-fsi090-sen0151 作為 時代 在 進行 中 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0152, best cost 79.698 + 5983.12 = 6062.82 over 328 frames.
+astmic-fsi090-sen0152 日 期 內 民俗 在 早就 後 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0153, best cost 87.5968 + 5780.14 = 5867.74 over 328 frames.
+astmic-fsi090-sen0153 法 務 部 吹 面 在 缺 乏 明明 指出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0154, best cost 101.001 + 8196.58 = 8297.59 over 458 frames.
+astmic-fsi090-sen0154 他 得到 自己 心 情 還 錢 尼 民 服務 品 質 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0155, best cost 70.7695 + 5930.61 = 6001.38 over 338 frames.
+astmic-fsi090-sen0155 其 家 人 鳥 住 民 自 覺 原則 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0156, best cost 80.7264 + 6227.45 = 6308.17 over 348 frames.
+astmic-fsi090-sen0156 密 集 的 民俗 在 在 其 幕後 指出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0157, best cost 82.132 + 6019.63 = 6101.77 over 338 frames.
+astmic-fsi090-sen0157 才 未 前 途 的 製 作 人 民 的 一面 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0158, best cost 78.2814 + 6520.46 = 6598.74 over 368 frames.
+astmic-fsi090-sen0158 對 郝 院 長 得 全 民 的 權 利 金 額 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0159, best cost 92.9057 + 7609.34 = 7702.25 over 428 frames.
+astmic-fsi090-sen0159 並 時間 你 民 主 體 自 為 保護 自己 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0160, best cost 107.261 + 7368.66 = 7475.92 over 408 frames.
+astmic-fsi090-sen0160 臨 時 會 的 參 選 務 工作 教 會 內 的 部分 設 施 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0161, best cost 81.1649 + 5489.81 = 5570.97 over 308 frames.
+astmic-fsi090-sen0161 儘 管 已 整理 而 獲得 極 力 犯 台 電 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0162, best cost 94.1594 + 6901.84 = 6996 over 388 frames.
+astmic-fsi090-sen0162 在 並 不 國際 小 國 代 的 強 力 界 一致 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0163, best cost 83.4123 + 5245.91 = 5329.32 over 278 frames.
+astmic-fsi090-sen0163 共 以為 真 理 子 休 條件 下 堂 外 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0164, best cost 49.7052 + 3772.08 = 3821.79 over 208 frames.
+astmic-fsi090-sen0164 中 信 王 玉 體 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0165, best cost 98.719 + 6680.99 = 6779.7 over 368 frames.
+astmic-fsi090-sen0165 互相 紛 紛 形成 一 名 求 診 民間 技術 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0166, best cost 73.1846 + 4999.85 = 5073.04 over 278 frames.
+astmic-fsi090-sen0166 並 將 唸書 老 斗 六 表 決 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0167, best cost 69.5916 + 5473.89 = 5543.48 over 308 frames.
+astmic-fsi090-sen0167 乃 行政 院 會 月 線 型 飛 行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0168, best cost 78.6246 + 5339.14 = 5417.77 over 298 frames.
+astmic-fsi090-sen0168 並 而 預 料 當時 汽車 無 形 象 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0169, best cost 52.2448 + 3250.62 = 3302.87 over 178 frames.
+astmic-fsi090-sen0169 孫 悟 期 間 仍 以 漲 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0170, best cost 48.833 + 3450.79 = 3499.62 over 198 frames.
+astmic-fsi090-sen0170 起 出 任 分 翻 覆 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0171, best cost 98.8454 + 7720.37 = 7819.21 over 418 frames.
+astmic-fsi090-sen0171 面對 這 種 今天 兩 男 女 的 叫做 局 面 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0172, best cost 97.6615 + 7388.34 = 7486 over 388 frames.
+astmic-fsi090-sen0172 或是 使 恢復 民俗 早 操 守 老 家 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0173, best cost 98.4377 + 6077.69 = 6176.13 over 328 frames.
+astmic-fsi090-sen0173 四 位 流 標 競 選 名 額 在 銷 價 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0174, best cost 81.2264 + 6078.18 = 6159.4 over 328 frames.
+astmic-fsi090-sen0174 在 政府 的 男 性 是 牧 師 也 不 治 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0175, best cost 113.588 + 7986.43 = 8100.02 over 428 frames.
+astmic-fsi090-sen0175 在 群 見 黃 無法 如 開始 三 名 約 五 級 的 機會 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0176, best cost 48.0637 + 3617.22 = 3665.29 over 198 frames.
+astmic-fsi090-sen0176 但 我 政府 這些 我 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0177, best cost 51.0279 + 4207.17 = 4258.2 over 228 frames.
+astmic-fsi090-sen0177 對 此 事件 的 營 業 目標 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0178, best cost 51.3906 + 3905.91 = 3957.3 over 208 frames.
+astmic-fsi090-sen0178 雖然 加以 處 分 處理 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0179, best cost 92.6542 + 7731.99 = 7824.65 over 408 frames.
+astmic-fsi090-sen0179 此 風 決定 將 紅 十 字 會 繼續 進行 公 佈 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0180, best cost 74.6858 + 6133.62 = 6208.31 over 328 frames.
+astmic-fsi090-sen0180 其 隨便 併 國 統 會 的 歸 結 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0181, best cost 63.113 + 5951.16 = 6014.28 over 318 frames.
+astmic-fsi090-sen0181 景 氣 政治 上 的 小 整理 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0182, best cost 109.498 + 6976.25 = 7085.75 over 378 frames.
+astmic-fsi090-sen0182 地方 露 飛 入 員 隨 即 拆 除 力 反 向 而 行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0183, best cost 111.866 + 8397.02 = 8508.88 over 448 frames.
+astmic-fsi090-sen0183 自殺 或是 外 的 李 志 福 者 為 是 受 婦 不好 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0184, best cost 109.021 + 7078.26 = 7187.28 over 378 frames.
+astmic-fsi090-sen0184 兒 子 福 的 經濟 及 灰色 為 其 加以 撫 二 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0185, best cost 82.3981 + 5735.73 = 5818.13 over 308 frames.
+astmic-fsi090-sen0185 認為 只是 露 會 員 將 或是 者 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0186, best cost 59.8221 + 3728.29 = 3788.11 over 208 frames.
+astmic-fsi090-sen0186 會 刪 除 能量 列 印 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0187, best cost 86.0602 + 5958.25 = 6044.31 over 318 frames.
+astmic-fsi090-sen0187 除非 加 現代 提 出 的 人 面 通 融 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0188, best cost 44.7403 + 3749.91 = 3794.65 over 198 frames.
+astmic-fsi090-sen0188 好像 無法 人士 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0189, best cost 72.6935 + 4922.05 = 4994.74 over 258 frames.
+astmic-fsi090-sen0189 在 家 中 裡 微 碳 中 聯 合 唱 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0190, best cost 6.46221 + 810.098 = 816.56 over 48 frames.
+astmic-fsi090-sen0190 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0191, best cost 90.1284 + 5300.41 = 5390.54 over 278 frames.
+astmic-fsi090-sen0191 最 的 是 標 會 的 經常 來 長 們 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0192, best cost 46.0609 + 3522.16 = 3568.22 over 188 frames.
+astmic-fsi090-sen0192 資料 照 顧 原則 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0193, best cost 127.918 + 7387.33 = 7515.25 over 398 frames.
+astmic-fsi090-sen0193 內 心 思 並 雖 見 便 當 百 般 林 賣 海 重複 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0194, best cost 39.4368 + 3498.98 = 3538.41 over 188 frames.
+astmic-fsi090-sen0194 他們 重新 男 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0195, best cost 95.387 + 6058.45 = 6153.84 over 328 frames.
+astmic-fsi090-sen0195 接著 已 較 口 的 中國 戰 略 夫 婦 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0196, best cost 130.883 + 8878.91 = 9009.79 over 468 frames.
+astmic-fsi090-sen0196 雖 搜 查 理 條 例 白白 著 國 在 原因 的 上 業 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0197, best cost 87.4193 + 6893.62 = 6981.04 over 368 frames.
+astmic-fsi090-sen0197 他 每 件 真正 結構 年 翻 箱 倒 櫃 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0198, best cost 27.5279 + 7446.6 = 7474.13 over 448 frames.
+astmic-fsi090-sen0198 門 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi090-sen0199, best cost 63.6232 + 3720.03 = 3783.66 over 198 frames.
+astmic-fsi090-sen0199 再 提 昇 每 年 美 刑 責 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0000, best cost 130.747 + 9238.64 = 9369.39 over 508 frames.
+astmic-fsi091-sen0000 並 責 任 其 牛 立 委 自 塞 人 民 的 人 情 被 告 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0001, best cost 112.593 + 8767.68 = 8880.28 over 478 frames.
+astmic-fsi091-sen0001 早 退 接近 將 和 塞 交 起 全 民 的 買 單 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0002, best cost 95.6902 + 7669.43 = 7765.12 over 418 frames.
+astmic-fsi091-sen0002 他 乃 大多 另 闢 在 會 得 知 友 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0003, best cost 57.4812 + 5064.34 = 5121.82 over 288 frames.
+astmic-fsi091-sen0003 就 小學 的 樂 迷 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0004, best cost 77.2052 + 6736.52 = 6813.72 over 368 frames.
+astmic-fsi091-sen0004 將 可 卡 儲 藏 無 資訊 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0005, best cost 106.761 + 9200.39 = 9307.15 over 508 frames.
+astmic-fsi091-sen0005 台 歷史 選擇 和 超 開車 歷史 二 年 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0006, best cost 91.2838 + 7465.36 = 7556.64 over 408 frames.
+astmic-fsi091-sen0006 得 太 智慧 檢查 一般 人 與 份 子 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0007, best cost 143.289 + 11224.4 = 11367.7 over 608 frames.
+astmic-fsi091-sen0007 恢復 相似 情勢 仍 是 我 務 必 虐 的 好 奇 如此 大 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0008, best cost 71.8955 + 7945.71 = 8017.6 over 448 frames.
+astmic-fsi091-sen0008 該 時期 上下 跨越 二 百 明年 與 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0009, best cost 97.4051 + 7460.71 = 7558.12 over 408 frames.
+astmic-fsi091-sen0009 並 如此 在 曲 目 上 捕 魚 歸 犯 行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0010, best cost 58.8012 + 6335.71 = 6394.51 over 358 frames.
+astmic-fsi091-sen0010 單位 申請 人 營 業 員 指出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0011, best cost 78.2115 + 6491.57 = 6569.79 over 358 frames.
+astmic-fsi091-sen0011 以前 率 將 中心 真 是 我 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0012, best cost 81.3367 + 8112.7 = 8194.03 over 448 frames.
+astmic-fsi091-sen0012 只要 他們 是 我 有利 代課 治 療 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0013, best cost 86.5179 + 7191.97 = 7278.49 over 388 frames.
+astmic-fsi091-sen0013 到 有 可能 與 處理 時 的 結構 因素 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0014, best cost 53.5412 + 5433.27 = 5486.81 over 298 frames.
+astmic-fsi091-sen0014 實在 很 乃 向 市 區 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0015, best cost 55.5434 + 5396.2 = 5451.74 over 298 frames.
+astmic-fsi091-sen0015 可 遷 建 州 報導 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0016, best cost 82.929 + 7294.02 = 7376.95 over 388 frames.
+astmic-fsi091-sen0016 以 目前 限制 瑞 深入 取得 走 勢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0017, best cost 52.2785 + 4481.22 = 4533.5 over 248 frames.
+astmic-fsi091-sen0017 對 社 區 卻 呼籲 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0018, best cost 97.24 + 8957.08 = 9054.32 over 478 frames.
+astmic-fsi091-sen0018 幸 好 將 在 主 動 提供 實 乃 將 林 戉 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0019, best cost 67.8445 + 6185.61 = 6253.45 over 328 frames.
+astmic-fsi091-sen0019 後來 他們 以及 妳 不 了解 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0020, best cost 93.7335 + 7401.32 = 7495.05 over 398 frames.
+astmic-fsi091-sen0020 便 內容 較 外 出 得 這個 陳 振 明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0021, best cost 122.726 + 9474.19 = 9596.91 over 498 frames.
+astmic-fsi091-sen0021 彼此 位置 針對 他 外 投 資 深 的 以 紐約 剛好 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0022, best cost 96.2312 + 7813.49 = 7909.72 over 428 frames.
+astmic-fsi091-sen0022 被 警 備 類 國人 民 政府 的 自 備 感 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0023, best cost 57.2995 + 5551.47 = 5608.77 over 308 frames.
+astmic-fsi091-sen0023 可是 區 代表 焦 急 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0024, best cost 69.9889 + 6013.12 = 6083.1 over 328 frames.
+astmic-fsi091-sen0024 且 交 表示 他 逃 鼻音 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0025, best cost 50.7297 + 5364.14 = 5414.87 over 298 frames.
+astmic-fsi091-sen0025 自 備 表示 逃 離 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0026, best cost 121.137 + 10011.2 = 10132.3 over 538 frames.
+astmic-fsi091-sen0026 中國 演 出 了 全 世界 最 大 能力 你 害 人 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0027, best cost 81.3075 + 7666.62 = 7747.93 over 418 frames.
+astmic-fsi091-sen0027 彼此 切 換 至 與 小 客 小 丑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0028, best cost 110.094 + 8942.41 = 9052.5 over 478 frames.
+astmic-fsi091-sen0028 真正 要 帶 動 幾個 大 不夠 熱 女 的 三 會 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0029, best cost 108.522 + 9614.01 = 9722.53 over 518 frames.
+astmic-fsi091-sen0029 款 卡 可 而 是 一個 非常 重 量 的 著 力 點 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0030, best cost 53.6336 + 4604.72 = 4658.36 over 248 frames.
+astmic-fsi091-sen0030 看 類 寧可 省 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0031, best cost 87.94 + 7646.3 = 7734.24 over 408 frames.
+astmic-fsi091-sen0031 並 手 效率 降低 的 父 需 線 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0032, best cost 57.6486 + 4757.78 = 4815.43 over 248 frames.
+astmic-fsi091-sen0032 採 取 百 次 借 提 案 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0033, best cost 73.3266 + 7323.16 = 7396.49 over 388 frames.
+astmic-fsi091-sen0033 但 在 交通 工具 需求 這 倒是 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0034, best cost 68.0841 + 5918.02 = 5986.1 over 318 frames.
+astmic-fsi091-sen0034 並 長 錢 復 假 日 一 秘 書 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0035, best cost 66.9464 + 5217.75 = 5284.7 over 278 frames.
+astmic-fsi091-sen0035 才 亟 待 將 伯 是 由於 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0036, best cost 74.1112 + 5795.71 = 5869.82 over 308 frames.
+astmic-fsi091-sen0036 原因 了 管 理 念 中文 版 權 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0037, best cost 67.1763 + 6210.11 = 6277.28 over 338 frames.
+astmic-fsi091-sen0037 政府 實 施 油 品 配 小時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0038, best cost 89.3325 + 6053.72 = 6143.05 over 328 frames.
+astmic-fsi091-sen0038 則 是 瀏覽 配 公路 細膩 姓 女 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0039, best cost 92.2602 + 7306.69 = 7398.95 over 388 frames.
+astmic-fsi091-sen0039 前面 調整 五 個 學習 民 呈 報 紙 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0040, best cost 94.3856 + 8487.12 = 8581.5 over 458 frames.
+astmic-fsi091-sen0040 南 港 文 不 在 新 來 透過 修 法 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0041, best cost 111.022 + 8079.1 = 8190.13 over 448 frames.
+astmic-fsi091-sen0041 進入 規定 仍 是 我 得 笑 臉 攝 影 線 一面 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0042, best cost 65.4555 + 5424.24 = 5489.69 over 298 frames.
+astmic-fsi091-sen0042 不 料 鞋 子 是 有關 二 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0043, best cost 96.3072 + 7437.79 = 7534.1 over 398 frames.
+astmic-fsi091-sen0043 的 人 才 死 角 造成 必須 壞 策 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0044, best cost 123.139 + 10194.1 = 10317.2 over 548 frames.
+astmic-fsi091-sen0044 除 國立 編 譯 官 員 配合 政策 是 由 比較 可 市 區 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0045, best cost 91.708 + 8431.22 = 8522.92 over 458 frames.
+astmic-fsi091-sen0045 雖然 都 搜 學生 入 學習 能力 之外 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0046, best cost 111.924 + 9289.74 = 9401.66 over 508 frames.
+astmic-fsi091-sen0046 只要 學生 也 要 建立 不 合理 談 及 子 都 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0047, best cost 93.0056 + 7592.22 = 7685.22 over 418 frames.
+astmic-fsi091-sen0047 紫 黑 學生 是否 可 連 皮 癢 而 急 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0048, best cost 75.7264 + 7307.34 = 7383.07 over 408 frames.
+astmic-fsi091-sen0048 週 繳 思 潮 侵 入 境 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0049, best cost 81.7191 + 6546.61 = 6628.33 over 358 frames.
+astmic-fsi091-sen0049 連 日 漂亮 及 對 學生 生活 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0050, best cost 98.9941 + 8722.3 = 8821.29 over 488 frames.
+astmic-fsi091-sen0050 工程 以前 的 又 開始 有 人 音樂 自己 來 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0051, best cost 94.1569 + 7362.28 = 7456.44 over 408 frames.
+astmic-fsi091-sen0051 都 基 地 攤 位 遇到 思 醉 倒 閉 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0052, best cost 79.9301 + 5922.18 = 6002.11 over 328 frames.
+astmic-fsi091-sen0052 達 飽 私 而 遲 遲 疑 國 名詞 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0053, best cost 87.0413 + 6785.56 = 6872.6 over 368 frames.
+astmic-fsi091-sen0053 但 必要 刺 死 榮 公路 持 刀 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0054, best cost 110.512 + 8809.86 = 8920.38 over 478 frames.
+astmic-fsi091-sen0054 東 吉 燈 塔 其 面積 有 三 名 百 多 拼命 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0055, best cost 98.2899 + 8256.87 = 8355.16 over 468 frames.
+astmic-fsi091-sen0055 其 最 黨 的 修憲 率 的 就是 交 易 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0056, best cost 137.469 + 9829.8 = 9967.27 over 538 frames.
+astmic-fsi091-sen0056 並 與 得 知 大 樓 司 長 王 的 高 達 與 同 母 台 演 出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0057, best cost 65.7226 + 6312.98 = 6378.7 over 348 frames.
+astmic-fsi091-sen0057 並 且 表示 他 撕 福 建 人 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0058, best cost 96.8534 + 7562.01 = 7658.86 over 418 frames.
+astmic-fsi091-sen0058 將 他 福 建 人 呢 法律 之 的 理 念 案 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0059, best cost 61.3252 + 5531.39 = 5592.71 over 308 frames.
+astmic-fsi091-sen0059 他 逮 到 非常 流利 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0060, best cost 122.377 + 10230 = 10352.4 over 558 frames.
+astmic-fsi091-sen0060 南 市 議 會 達 萬 人 看 雷 有 志 願 區 的 結果 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0061, best cost 85.4977 + 6522.05 = 6607.55 over 358 frames.
+astmic-fsi091-sen0061 終 於 法 令 為 他 外 四 病 人 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0062, best cost 93.047 + 8055.56 = 8148.61 over 428 frames.
+astmic-fsi091-sen0062 他 如果 不斷 有利 危險 探 望 人士 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0063, best cost 101.796 + 8303.38 = 8405.18 over 448 frames.
+astmic-fsi091-sen0063 而 使 他 買 流利 危險 中國 的 釐 清 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0064, best cost 86.1307 + 7401.1 = 7487.23 over 398 frames.
+astmic-fsi091-sen0064 但 內 失 控 盤 將 好 回 補 驚 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0065, best cost 96.033 + 7820.24 = 7916.27 over 428 frames.
+astmic-fsi091-sen0065 我們 武器 道理 不會 草 瑞 士 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0066, best cost 116.714 + 9335.23 = 9451.95 over 508 frames.
+astmic-fsi091-sen0066 但是 交 進入 立 的 危險 之 原因 也 不能 明白 裡 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0067, best cost 94.69 + 7465.72 = 7560.41 over 408 frames.
+astmic-fsi091-sen0067 兩 避免 有利 來 出 茂 盛 名 稱 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0068, best cost 68.5373 + 5238.07 = 5306.61 over 278 frames.
+astmic-fsi091-sen0068 他 額 外 的 自 為 逃 離 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0069, best cost 135.391 + 10176.8 = 10312.2 over 548 frames.
+astmic-fsi091-sen0069 並 必 有利 各種 了 的 子 圍 毆 強 康 明明 職 務 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0070, best cost 53.4736 + 4777.78 = 4831.25 over 268 frames.
+astmic-fsi091-sen0070 北 京 表現 軍 說 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0071, best cost 88.7236 + 8476.48 = 8565.2 over 448 frames.
+astmic-fsi091-sen0071 主要 是 針對 經常 重 歷史 國際 三 樓 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0072, best cost 85.0692 + 6213.19 = 6298.26 over 348 frames.
+astmic-fsi091-sen0072 行 外 利用 德國 勒索 損 及 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0073, best cost 66.4917 + 5798.85 = 5865.34 over 308 frames.
+astmic-fsi091-sen0073 就 可 直 撥 對方 人 的 號碼 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0074, best cost 99.7923 + 7381.2 = 7480.99 over 398 frames.
+astmic-fsi091-sen0074 並 失 超過 皆 顯示 我 抱 出 日 內 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0075, best cost 68.435 + 5467.6 = 5536.03 over 298 frames.
+astmic-fsi091-sen0075 無法 常 露 黃金 市 預 料 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0076, best cost 78.2905 + 6987.32 = 7065.61 over 388 frames.
+astmic-fsi091-sen0076 使用 人 力 只是 與 其 周 密 碼 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0077, best cost 83.6221 + 6079.29 = 6162.91 over 338 frames.
+astmic-fsi091-sen0077 不 是以 時 也 曾 得 政 壇 便 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0078, best cost 106.612 + 7895.98 = 8002.59 over 428 frames.
+astmic-fsi091-sen0078 所 裡 他 被 也 可 見 店 一 家 人 是 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0079, best cost 100.742 + 9541.73 = 9642.47 over 528 frames.
+astmic-fsi091-sen0079 否則 別人 柯 林 兩 里 的 密 碼 打電話 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0080, best cost 69.4894 + 6951.63 = 7021.12 over 378 frames.
+astmic-fsi091-sen0080 並 就是 一個 很 不 搭 的 打 擊 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0081, best cost 55.3216 + 4822.22 = 4877.54 over 258 frames.
+astmic-fsi091-sen0081 被 可 成立 進入 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0082, best cost 78.4578 + 5575.62 = 5654.08 over 298 frames.
+astmic-fsi091-sen0082 仍 需 中 六 比 逃 的 嗜 好 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0083, best cost 90.3478 + 7819.95 = 7910.29 over 428 frames.
+astmic-fsi091-sen0083 只 要不 自 侵 入 境 如此 逃 以前 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0084, best cost 122.487 + 8349.58 = 8472.06 over 448 frames.
+astmic-fsi091-sen0084 牛 只好 列 入 前 提 是 區 未 如 的 一 一步 發 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0085, best cost 75.2456 + 6570.58 = 6645.82 over 348 frames.
+astmic-fsi091-sen0085 加 入 三 發動 表現 不 差 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0086, best cost 151.799 + 10619 = 10770.8 over 568 frames.
+astmic-fsi091-sen0086 被 可 在 彥 如此 堅 繞 出 一 瓶 家 不 服 飾 物 的 清 淡 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0087, best cost 118.25 + 10342.7 = 10460.9 over 548 frames.
+astmic-fsi091-sen0087 待 秋 報 年 被 成長 昏 迷 不得 和 損 失 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0088, best cost 83.4208 + 8739.13 = 8822.56 over 468 frames.
+astmic-fsi091-sen0088 他 覺得 自己 是 世界 最 草 的 學校 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0089, best cost 103.885 + 8322.85 = 8426.73 over 458 frames.
+astmic-fsi091-sen0089 且 當場 違 背 著 目前 是以 如 人 可 期 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0090, best cost 123.161 + 9717.3 = 9840.46 over 518 frames.
+astmic-fsi091-sen0090 不 李 總 統 即 將 時間 如 坍 方 給 予 會 員 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0091, best cost 68.4579 + 4798.84 = 4867.3 over 258 frames.
+astmic-fsi091-sen0091 他 則 進入 更 熱 烈 期 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0092, best cost 70.0025 + 6687.72 = 6757.72 over 358 frames.
+astmic-fsi091-sen0092 待 遇 各 界 所 提 出 的 位置 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0093, best cost 84.9811 + 6851.4 = 6936.38 over 358 frames.
+astmic-fsi091-sen0093 李 總 統 熱 度 能力 乘客 的 答 覆 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0094, best cost 122.047 + 8995.53 = 9117.58 over 478 frames.
+astmic-fsi091-sen0094 經 重新 的 均 需 陷 入 鼓 勵 造 髒 龍 認為 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0095, best cost 144.063 + 10462.2 = 10606.3 over 548 frames.
+astmic-fsi091-sen0095 李 總 統 領 出 六 百 小的 譬如 去 在 基 層 的 森林 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0096, best cost 65.691 + 6090.29 = 6155.98 over 328 frames.
+astmic-fsi091-sen0096 同時 在 先 行 家 長 牧 師 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0097, best cost 70.6786 + 5344.1 = 5414.78 over 288 frames.
+astmic-fsi091-sen0097 年 梁 老 戚 戚 然 合理 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0098, best cost 72.2712 + 5199.05 = 5271.33 over 288 frames.
+astmic-fsi091-sen0098 此 一 類似 沒有 彼此 義 務 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0099, best cost 67.5165 + 5240.46 = 5307.98 over 278 frames.
+astmic-fsi091-sen0099 不 料 費 地 鑲 在 後 座 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0100, best cost 66.9313 + 5652.69 = 5719.62 over 298 frames.
+astmic-fsi091-sen0100 該 中心 入 才 鬆 廢 止 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0101, best cost 94.0257 + 8121.9 = 8215.92 over 428 frames.
+astmic-fsi091-sen0101 他 母 親 自 三 思考 被 種類 二 倍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0102, best cost 107.261 + 8731.07 = 8838.33 over 478 frames.
+astmic-fsi091-sen0102 代課 禮 服 對 象 徵 召 開 入 顯示 二 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0103, best cost 101.651 + 9523.38 = 9625.03 over 498 frames.
+astmic-fsi091-sen0103 對 喪 失 誤 了 朝 野 贈 賄 修改 則 表示 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0104, best cost 51.2419 + 5735.66 = 5786.9 over 308 frames.
+astmic-fsi091-sen0104 否則 將 沒有 銷 毀 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0105, best cost 79.157 + 5101.7 = 5180.86 over 278 frames.
+astmic-fsi091-sen0105 翻 來 及 三 瓶 年 沉 穩 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0106, best cost 80.7899 + 7134.5 = 7215.29 over 368 frames.
+astmic-fsi091-sen0106 對 轄 市 區 食 品 瑞 祥 處 指出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0107, best cost 72.0929 + 5364.57 = 5436.66 over 288 frames.
+astmic-fsi091-sen0107 是 譬如 自 備 已 被 業 者 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0108, best cost 106.538 + 7107.32 = 7213.86 over 378 frames.
+astmic-fsi091-sen0108 例如 藏 利 率 主要 原 料 流 網 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0109, best cost 62.5611 + 5061.63 = 5124.19 over 278 frames.
+astmic-fsi091-sen0109 是 業務 績 調 戲 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0110, best cost 98.1894 + 7073.12 = 7171.31 over 378 frames.
+astmic-fsi091-sen0110 俟 區 另 一 名 進入 石 油 陷 入 否 認 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0111, best cost 104.033 + 8107.32 = 8211.35 over 428 frames.
+astmic-fsi091-sen0111 雖然 六 次 遭 到 侵 入 全 力 的 父 選 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0112, best cost 127.315 + 9286.22 = 9413.53 over 488 frames.
+astmic-fsi091-sen0112 仍 需 在 選 民 民 對 他 不 休息 的 在 卡 相 待 變 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0113, best cost 66.6312 + 5965.55 = 6032.18 over 318 frames.
+astmic-fsi091-sen0113 倘 若 還 承 辦 券 銷 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0114, best cost 127.392 + 9452.32 = 9579.71 over 508 frames.
+astmic-fsi091-sen0114 而且 銷 的 慘 榮 航空 獎 勵 業 民 眾 如 星 術 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0115, best cost 100.923 + 7785.84 = 7886.76 over 418 frames.
+astmic-fsi091-sen0115 對 常 露 還 口 未來 的 發展 來 出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0116, best cost 88.4447 + 7147 = 7235.45 over 378 frames.
+astmic-fsi091-sen0116 小 姐 得 手 逃 礙 於 證 據 的 限制 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0117, best cost 99.7237 + 9203.53 = 9303.25 over 498 frames.
+astmic-fsi091-sen0117 纏 繞 行 一 口 方面 全 世界 草 債 權 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0118, best cost 66.9649 + 6068.99 = 6135.95 over 328 frames.
+astmic-fsi091-sen0118 趨 最 強 的 目標 買 進 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0119, best cost 108.027 + 8417.08 = 8525.1 over 448 frames.
+astmic-fsi091-sen0119 查 獲 口 希望 在 好 枯 竭 誠 如 石 油 門 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0120, best cost 85.6329 + 7550.91 = 7636.54 over 408 frames.
+astmic-fsi091-sen0120 但 因 結果 大多 認為 三 人 一 舉 行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0121, best cost 80.1532 + 6066.16 = 6146.31 over 328 frames.
+astmic-fsi091-sen0121 中 球 員 小 他們 與 他 毛 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0122, best cost 102.438 + 7185.23 = 7287.67 over 388 frames.
+astmic-fsi091-sen0122 曾 如此 臉 的 父 親 入 催 林 再說 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0123, best cost 79.1827 + 5826.7 = 5905.88 over 308 frames.
+astmic-fsi091-sen0123 曾 如此 理 事 長 雷 伯 只要 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0124, best cost 96.9114 + 6952.94 = 7049.85 over 378 frames.
+astmic-fsi091-sen0124 西南 好 只是 腦 部 深入 備 項 目 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0125, best cost 56.5494 + 4291.47 = 4348.02 over 238 frames.
+astmic-fsi091-sen0125 被 業務 行 辦法 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0126, best cost 57.523 + 4766.89 = 4824.41 over 248 frames.
+astmic-fsi091-sen0126 肉 進入 相當 器 材 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0127, best cost 75.0895 + 5618.6 = 5693.69 over 308 frames.
+astmic-fsi091-sen0127 從 超 越 的 累 累 則 所 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0128, best cost 89.9581 + 7805.94 = 7895.9 over 428 frames.
+astmic-fsi091-sen0128 家 人 力 策 謀 大 尷尬 角色 死 刑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0129, best cost 66.9451 + 4899.63 = 4966.58 over 258 frames.
+astmic-fsi091-sen0129 重 雖 週 週 三 人 來 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0130, best cost 44.2934 + 5275.05 = 5319.34 over 288 frames.
+astmic-fsi091-sen0130 巴格達 電 台 指出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0131, best cost 69.4398 + 6021.7 = 6091.14 over 328 frames.
+astmic-fsi091-sen0131 將 可 自 雖 曾 勞 作 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0132, best cost 109.947 + 9713.96 = 9823.91 over 518 frames.
+astmic-fsi091-sen0132 多 國 部 隊 曾 向 伊拉克 各 曾 如此 美 的 被 兒 女 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0133, best cost 91.9127 + 7822.49 = 7914.41 over 408 frames.
+astmic-fsi091-sen0133 角色 率 為 教學 目標 發 射 砲 彈 衣 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0134, best cost 83.676 + 7786.41 = 7870.08 over 408 frames.
+astmic-fsi091-sen0134 他們 只 針對 進入 司 與 其他 在 業 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0135, best cost 37.2513 + 5012.28 = 5049.54 over 268 frames.
+astmic-fsi091-sen0135 位置 實 施 轟 炸 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0136, best cost 61.7973 + 5199.07 = 5260.87 over 288 frames.
+astmic-fsi091-sen0136 避免 掃 集中 在 質 疑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0137, best cost 59.9001 + 5123.71 = 5183.61 over 278 frames.
+astmic-fsi091-sen0137 將 可 闖 入 報導 所 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0138, best cost 93.4566 + 10201.5 = 10295 over 548 frames.
+astmic-fsi091-sen0138 多 國 部 隊 曾 向 伊拉克 各 城市 為 的 被 兒 女 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0139, best cost 104.929 + 8473.9 = 8578.83 over 448 frames.
+astmic-fsi091-sen0139 角色 率 恢復 教學 目標 發 射 我 跑道 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0140, best cost 91.965 + 5842.99 = 5934.96 over 308 frames.
+astmic-fsi091-sen0140 並 歹 徒 在 他 外 被 掃 令 予 以 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0141, best cost 74.2451 + 5526.09 = 5600.34 over 298 frames.
+astmic-fsi091-sen0141 報 仍然 認為 女 成立 七 名 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0142, best cost 58.9569 + 4955.02 = 5013.97 over 268 frames.
+astmic-fsi091-sen0142 並 未 中 任何 成 內容 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0143, best cost 83.6668 + 6022.56 = 6106.23 over 328 frames.
+astmic-fsi091-sen0143 並 仍 在 逃 澳 被 效率 議 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0144, best cost 84.6134 + 5666.6 = 5751.22 over 308 frames.
+astmic-fsi091-sen0144 本 仍然 認為 李 女 沈 母 親 怒 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0145, best cost 61.6352 + 5171.54 = 5233.18 over 278 frames.
+astmic-fsi091-sen0145 他 表示 不能 民間 轄 區 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0146, best cost 72.8133 + 6395.57 = 6468.39 over 348 frames.
+astmic-fsi091-sen0146 還是 憂 慮 會 提 修憲 好 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0147, best cost 40.5677 + 4706.24 = 4746.8 over 258 frames.
+astmic-fsi091-sen0147 陳水扁 則 認為 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0148, best cost 79.3549 + 5535.67 = 5615.03 over 288 frames.
+astmic-fsi091-sen0148 例如 進入 大陸 的 自 憲 法 人士 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0149, best cost 86.4927 + 7313.41 = 7399.9 over 388 frames.
+astmic-fsi091-sen0149 不可能 於 減少 證 照 修憲 辦法 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0150, best cost 76.6161 + 6176.35 = 6252.97 over 328 frames.
+astmic-fsi091-sen0150 或者 是 不 了 在 的 台 體 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0151, best cost 81.2375 + 6518.12 = 6599.36 over 348 frames.
+astmic-fsi091-sen0151 動 員 林 坦 然 執行 長 入 之後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0152, best cost 144.197 + 9916.12 = 10060.3 over 518 frames.
+astmic-fsi091-sen0152 大 樓 只要 區 草 到 塞 孫 悟 的 人士 交 傾 入 境 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0153, best cost 86.4955 + 7339.28 = 7425.78 over 398 frames.
+astmic-fsi091-sen0153 在 府 方面 將 分別 予 以 鞋 子 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0154, best cost 88.8199 + 9410.58 = 9499.4 over 498 frames.
+astmic-fsi091-sen0154 官方 近年 來 關係 條 例 依 法 處理 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0155, best cost 66.7506 + 5583.05 = 5649.8 over 298 frames.
+astmic-fsi091-sen0155 東 聯 誼 看來 時期 終 止 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0156, best cost 89.0443 + 7423.87 = 7512.92 over 398 frames.
+astmic-fsi091-sen0156 並 不 利 會長 高 的 包 子 應 變 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0157, best cost 90.9044 + 6757.61 = 6848.51 over 358 frames.
+astmic-fsi091-sen0157 四 級 項 掃 無 學校 到 苦 悶 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0158, best cost 116.977 + 8778.36 = 8895.34 over 468 frames.
+astmic-fsi091-sen0158 在 前 些 人類 立 觀 了 的 天 外 他 自 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0159, best cost 94.597 + 7071.93 = 7166.53 over 378 frames.
+astmic-fsi091-sen0159 就 自 好 榜 樣 早 預 期 的 一 家 裡 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0160, best cost 81.8178 + 5979.1 = 6060.92 over 318 frames.
+astmic-fsi091-sen0160 則 得 卻 消息 的 例如 項 目 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0161, best cost 88.6913 + 6912.65 = 7001.35 over 368 frames.
+astmic-fsi091-sen0161 將 四 股市 重新 入 想像 行 目的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0162, best cost 74.7721 + 6888.89 = 6963.66 over 368 frames.
+astmic-fsi091-sen0162 二 次 基本 面 的 重大 利 考試 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0163, best cost 65.9916 + 6145.83 = 6211.82 over 328 frames.
+astmic-fsi091-sen0163 但 自 全球 將 三 角 而已 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0164, best cost 120.107 + 9496.09 = 9616.19 over 498 frames.
+astmic-fsi091-sen0164 倘 若 培 在 強 視覺 重 其 母 親 在 大 蕭 條 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0165, best cost 78.023 + 6496.21 = 6574.23 over 348 frames.
+astmic-fsi091-sen0165 為 避免 全球 陷 入 不 盡 如 期 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0166, best cost 99.1875 + 9788.85 = 9888.04 over 508 frames.
+astmic-fsi091-sen0166 各 國 尖銳 中東 和平 榮 聰 解決 之 道 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0167, best cost 114.601 + 9785.92 = 9900.52 over 518 frames.
+astmic-fsi091-sen0167 以及 戈 巴 契 夫 婦 推 得 起 和平 如 告 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0168, best cost 59.6732 + 5167.08 = 5226.76 over 288 frames.
+astmic-fsi091-sen0168 省 府 離 伊拉克 曾 具有 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0169, best cost 124.155 + 9036.47 = 9160.62 over 478 frames.
+astmic-fsi091-sen0169 未 料 於 和平 入 解決 的 市 區 光 撒 瑞 出現 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0170, best cost 59.8646 + 4492.84 = 4552.71 over 238 frames.
+astmic-fsi091-sen0170 鬧 劇 人物 叫 停 板 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0171, best cost 123.67 + 9766.48 = 9890.15 over 528 frames.
+astmic-fsi091-sen0171 在 西 班 牙 來 獲 佈 線 表示 有 確認 於 戰 力 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0172, best cost 68.4596 + 5158.34 = 5226.8 over 278 frames.
+astmic-fsi091-sen0172 下 滑 落 入 的 侵 入 結構 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0173, best cost 119.671 + 8601.64 = 8721.31 over 458 frames.
+astmic-fsi091-sen0173 絕 不會 林 瑞 妳 的 國際 而 留 所 不同 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0174, best cost 65.5132 + 4918.46 = 4983.98 over 268 frames.
+astmic-fsi091-sen0174 西 班 牙 了 你 鬧 銀行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0175, best cost 81.1504 + 6686.99 = 6768.14 over 358 frames.
+astmic-fsi091-sen0175 縣 三 回去 過來 複製 化 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0176, best cost 72.6882 + 5710.85 = 5783.53 over 308 frames.
+astmic-fsi091-sen0176 時 刻 瀏覽 一些 尿 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0177, best cost 77.025 + 6291.33 = 6368.35 over 338 frames.
+astmic-fsi091-sen0177 整理 電 台 糖 往 來 華 增 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0178, best cost 75.7179 + 6084.92 = 6160.64 over 318 frames.
+astmic-fsi091-sen0178 從 速 指 標 行 強 盜 案 面 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0179, best cost 86.4871 + 6576.51 = 6663 over 348 frames.
+astmic-fsi091-sen0179 而 不 知 也 在 十 一時 區 皮 包 子 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0180, best cost 80.4508 + 6022.54 = 6102.99 over 328 frames.
+astmic-fsi091-sen0180 曾 彼此 引 來 的 市 區 領 導 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0181, best cost 78.4301 + 6938.65 = 7017.08 over 378 frames.
+astmic-fsi091-sen0181 是 十分 乃 小的 衣服 佳 作 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0182, best cost 103.229 + 9059.81 = 9163.04 over 478 frames.
+astmic-fsi091-sen0182 則 長 賴 各 所 塑 造 出 的 特 殊 跡 象 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0183, best cost 70.3788 + 6094.18 = 6164.56 over 328 frames.
+astmic-fsi091-sen0183 不 來 經 費 政府 事 爆 發 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0184, best cost 59.6863 + 4528.93 = 4588.62 over 248 frames.
+astmic-fsi091-sen0184 最 終 於 令 人 的 禮 服 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0185, best cost 100.536 + 7907.91 = 8008.44 over 428 frames.
+astmic-fsi091-sen0185 華府 與 威 尼 斯 行 獲 釋 的 侵 入 進入 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0186, best cost 101.344 + 8221.89 = 8323.23 over 448 frames.
+astmic-fsi091-sen0186 乃 增 益 固 然 惹 來 的 清 理 復 修 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0187, best cost 70.3997 + 4796.36 = 4866.76 over 268 frames.
+astmic-fsi091-sen0187 那 顏色 的 大 見 烏 魚 目 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0188, best cost 78.4493 + 6473.49 = 6551.94 over 348 frames.
+astmic-fsi091-sen0188 紅色 全 戶 落 入 在 質 疑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0189, best cost 89.2699 + 6070.48 = 6159.75 over 328 frames.
+astmic-fsi091-sen0189 不 劉 詩 人 送 卸 李登輝 肉 價 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0190, best cost 105.724 + 7148.07 = 7253.79 over 378 frames.
+astmic-fsi091-sen0190 雖 對 他 能 不 中 鋼 頗 為 鬧 很 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0191, best cost 141.42 + 10907.5 = 11048.9 over 578 frames.
+astmic-fsi091-sen0191 台 室 澡 堂 的 好 友 煥 然 某 三 麗 嬰 兒 列 入 策 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0192, best cost 97.9437 + 7667.34 = 7765.28 over 408 frames.
+astmic-fsi091-sen0192 年 熱 心 理 確 曾 老 回頭 是 好 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0193, best cost 125.848 + 8778.28 = 8904.13 over 458 frames.
+astmic-fsi091-sen0193 從 此 行 老 出 入 曾 於 家 葛 瑞 憑 妳 法律 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0194, best cost 63.1817 + 6261.49 = 6324.67 over 338 frames.
+astmic-fsi091-sen0194 古老 觀念 高 處理 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0195, best cost 86.1726 + 6725.29 = 6811.46 over 358 frames.
+astmic-fsi091-sen0195 曾 目前 螢幕 漲 幅 遊 樂 區 懷疑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0196, best cost 90.3903 + 6550.53 = 6640.92 over 358 frames.
+astmic-fsi091-sen0196 念 湘 讓 一個 外 電影 議 員 答 覆 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0197, best cost 99.5304 + 7020.64 = 7120.17 over 368 frames.
+astmic-fsi091-sen0197 從 入 在 複雜 貌 的 惡 德 州 雖 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0198, best cost 105.759 + 8179.51 = 8285.27 over 448 frames.
+astmic-fsi091-sen0198 在 四 解決 人 曾 母 親 口 會 的 寂寞 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-fsi091-sen0199, best cost 60.3762 + 4948.23 = 5008.6 over 268 frames.
+astmic-fsi091-sen0199 只是 保 母 周 獲得 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0000, best cost 76.4795 + 7005.29 = 7081.77 over 398 frames.
+astmic-msi090-sen0000 這麼 講 了 中 蒙 蔽 苦 悶 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0001, best cost 69.999 + 4898.57 = 4968.57 over 268 frames.
+astmic-msi090-sen0001 憑 藉 由 它 送 紅 民間 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0002, best cost 80.313 + 6188.19 = 6268.5 over 338 frames.
+astmic-msi090-sen0002 石 油 輸 個 視 窗 口 時 採 取 差 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0003, best cost 65.7182 + 6912.66 = 6978.38 over 388 frames.
+astmic-msi090-sen0003 不過 所有 測試 對於 這 項 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0004, best cost 88.2358 + 7025.27 = 7113.51 over 368 frames.
+astmic-msi090-sen0004 也 可 量 縮 姓 女 槍 枝 獨 查 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0005, best cost 79.4921 + 5719.9 = 5799.39 over 298 frames.
+astmic-msi090-sen0005 日 均 線 達成 農 這個 目標 何 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0006, best cost 74.1995 + 5836.23 = 5910.43 over 318 frames.
+astmic-msi090-sen0006 若是 市府 橋 流 動 我們 一致 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0007, best cost 62.5184 + 5380.24 = 5442.76 over 298 frames.
+astmic-msi090-sen0007 球 跳 特有 植 決 策 略 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0008, best cost 63.0455 + 5005.93 = 5068.98 over 268 frames.
+astmic-msi090-sen0008 他 修 正 全 等 檢 日 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0009, best cost 58.6528 + 6289.32 = 6347.97 over 368 frames.
+astmic-msi090-sen0009 他 大多數 使用 者 二 連 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0010, best cost 48.8283 + 5082.6 = 5131.43 over 298 frames.
+astmic-msi090-sen0010 並 只 需 按 程式 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0011, best cost 40.0414 + 4195.18 = 4235.23 over 248 frames.
+astmic-msi090-sen0011 我 卻 無法 使用 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0012, best cost 107.523 + 7608 = 7715.52 over 418 frames.
+astmic-msi090-sen0012 而 使用 猛 放 防 護 買 現成 的 測試 除 解決 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0013, best cost 121.657 + 7585.32 = 7706.97 over 418 frames.
+astmic-msi090-sen0013 北 京 設 乃 真實 可 到 正面 而 鄰 近 的 數 家 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0014, best cost 56.6516 + 5414.76 = 5471.42 over 298 frames.
+astmic-msi090-sen0014 全部 是 高度 的 解決 之 道 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0015, best cost 69.0606 + 5760.15 = 5829.21 over 328 frames.
+astmic-msi090-sen0015 救援 無法 為 基礎 工 的 支 援 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0016, best cost 42.1494 + 3845.65 = 3887.8 over 218 frames.
+astmic-msi090-sen0016 結構 領 補 助 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0017, best cost 48.7287 + 4316.42 = 4365.15 over 248 frames.
+astmic-msi090-sen0017 故意 諸 多 初步 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0018, best cost 64.4698 + 4974.47 = 5038.94 over 268 frames.
+astmic-msi090-sen0018 全 省 直接 娛樂 日 之後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0019, best cost 115.194 + 7797.2 = 7912.39 over 448 frames.
+astmic-msi090-sen0019 爆 發 射 台 中 領 先 別人 一 鄰 居 住 獲得 通 緝 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0020, best cost 115.393 + 8322.15 = 8437.54 over 448 frames.
+astmic-msi090-sen0020 畢竟 以前 處理 所 籐 父 母 的 密切 知道 他 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0021, best cost 70.6022 + 5650.73 = 5721.33 over 318 frames.
+astmic-msi090-sen0021 並 未 進行 我們 之 日 益 程式 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0022, best cost 91.1013 + 6040.29 = 6131.39 over 338 frames.
+astmic-msi090-sen0022 李 某 她 的 後 測試 測試 是 我 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0023, best cost 109.832 + 6818.3 = 6928.13 over 378 frames.
+astmic-msi090-sen0023 令 陳 述 使用 是 我 沒 的 蒙 面 買 確定 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0024, best cost 121.134 + 7633.66 = 7754.8 over 428 frames.
+astmic-msi090-sen0024 每 著 頭 緒 案 後 的 固定 的 曾 於 更 是 我 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0025, best cost 68.3627 + 4995 = 5063.36 over 278 frames.
+astmic-msi090-sen0025 我們 製 作 余 陳 國 民 委 員 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0026, best cost 60.8148 + 5286.63 = 5347.45 over 298 frames.
+astmic-msi090-sen0026 為 避免 一個 認為 是 逃 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0027, best cost 103.699 + 6287.86 = 6391.56 over 348 frames.
+astmic-msi090-sen0027 可 讓 你 中 聯 是 我 用 木 向 洪 家 具 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0028, best cost 76.2125 + 7000.98 = 7077.19 over 398 frames.
+astmic-msi090-sen0028 對於 彩色 的 表現 則 不 予 評 析 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0029, best cost 88.8698 + 6569.27 = 6658.14 over 358 frames.
+astmic-msi090-sen0029 執行 股市 使用 無 需 投 機 股 東 執行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0030, best cost 56.5485 + 4272.25 = 4328.8 over 228 frames.
+astmic-msi090-sen0030 治 標 示 而 希望 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0031, best cost 69.0751 + 5079.02 = 5148.1 over 288 frames.
+astmic-msi090-sen0031 的 使用 主 動 食 品 罷 免 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0032, best cost 54.6036 + 4377.98 = 4432.58 over 248 frames.
+astmic-msi090-sen0032 並不是 葉 某 大 樓 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0033, best cost 123.965 + 8841.9 = 8965.86 over 458 frames.
+astmic-msi090-sen0033 但 如果 屬 可 自己 達 三 樓 早就 天下 午 餐 聲 明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0034, best cost 61.2238 + 5295.86 = 5357.08 over 298 frames.
+astmic-msi090-sen0034 就 未免 會 員 處 處 長 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0035, best cost 62.5185 + 4979.6 = 5042.11 over 278 frames.
+astmic-msi090-sen0035 可是 情 緒 刺 激 了 目的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0036, best cost 45.7571 + 3895.81 = 3941.57 over 218 frames.
+astmic-msi090-sen0036 腦 波 的 情 人 氣 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0037, best cost 52.1895 + 4372.84 = 4425.03 over 248 frames.
+astmic-msi090-sen0037 這 了 看 不 對 象 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0038, best cost 80.7457 + 5552.73 = 5633.48 over 308 frames.
+astmic-msi090-sen0038 北 側 全 才 甚至 喝 悶 性 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0039, best cost 55.9365 + 4992.56 = 5048.49 over 278 frames.
+astmic-msi090-sen0039 不 情形 下 小 組 的 事 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0040, best cost 49.9432 + 4024.82 = 4074.77 over 228 frames.
+astmic-msi090-sen0040 林 聰明 不 良 策 謀 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0041, best cost 111.212 + 7271.3 = 7382.51 over 408 frames.
+astmic-msi090-sen0041 的 使得 出 民 們 和 解 密 全部 播出 協 議 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0042, best cost 110.13 + 8334.66 = 8444.79 over 468 frames.
+astmic-msi090-sen0042 去 這 種 目的 就是 擁 擠 廟 毛 豬 使用 者 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0043, best cost 95.7271 + 7021.91 = 7117.64 over 388 frames.
+astmic-msi090-sen0043 不 相信 方面 之 先後 政治 年 能 事先 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0044, best cost 73.8625 + 6397.59 = 6471.45 over 358 frames.
+astmic-msi090-sen0044 並 且 虎 頭 瑞 認定 的 形 象 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0045, best cost 59.5195 + 4559.54 = 4619.06 over 248 frames.
+astmic-msi090-sen0045 國際 年 就 可以 訴 求 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0046, best cost 79.0842 + 8409.02 = 8488.11 over 438 frames.
+astmic-msi090-sen0046 組織 當時 女 後 要 怎樣 讓 電腦 做 這 件 事 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0047, best cost 53.1722 + 4027.23 = 4080.4 over 228 frames.
+astmic-msi090-sen0047 人士 後 的 身 夢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0048, best cost 109.374 + 8399.82 = 8509.2 over 458 frames.
+astmic-msi090-sen0048 其 門 靈感 有 選擇 的 速 食 倍 甚至 上 百 倍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0049, best cost 41.0285 + 6461.4 = 6502.43 over 358 frames.
+astmic-msi090-sen0049 保留 大部分 給 用 戶 盡 情 發揮 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0050, best cost 48.7667 + 4245.66 = 4294.43 over 248 frames.
+astmic-msi090-sen0050 這 我 的 引 起 歹 徒 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0051, best cost 100.898 + 7947.84 = 8048.74 over 438 frames.
+astmic-msi090-sen0051 將 由 電腦 的 速度 圖 騰 五百 方式 政治 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0052, best cost 79.4917 + 5554.05 = 5633.54 over 318 frames.
+astmic-msi090-sen0052 須 負 擔 契 約 有 這個 夢 倍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0053, best cost 56.3469 + 4056.46 = 4112.81 over 228 frames.
+astmic-msi090-sen0053 送 還 能 增 益 的 權 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0054, best cost 115.62 + 7465.88 = 7581.5 over 408 frames.
+astmic-msi090-sen0054 通常 會 並 破壞 了 成立 的 切割 某 林 後 悔 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0055, best cost 86.1735 + 6891.04 = 6977.21 over 378 frames.
+astmic-msi090-sen0055 此 刻 不 實 質 將 有 七 百 家 市 場 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0056, best cost 55.7423 + 5175.7 = 5231.44 over 288 frames.
+astmic-msi090-sen0056 不可 失 之 入 行 竊 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0057, best cost 81.9169 + 6313.49 = 6395.41 over 348 frames.
+astmic-msi090-sen0057 其實 太 明顯 作為 任何 克 里 姆 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0058, best cost 68.1426 + 5834.25 = 5902.4 over 328 frames.
+astmic-msi090-sen0058 他們 全 勤 的 老 婦 的 便 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0059, best cost 57.3415 + 4783.39 = 4840.74 over 268 frames.
+astmic-msi090-sen0059 整合 能 整合 連 接 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0060, best cost 104.672 + 7293.97 = 7398.64 over 408 frames.
+astmic-msi090-sen0060 可是 好 販 賣 出 是 成 的 休 案 未 苦 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0061, best cost 59.0711 + 4985.14 = 5044.21 over 268 frames.
+astmic-msi090-sen0061 供 應 推出 的 折 扣 前 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0062, best cost 60.5439 + 5497.18 = 5557.72 over 308 frames.
+astmic-msi090-sen0062 將 可 之 來 了 不 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0063, best cost 83.6954 + 6495.85 = 6579.54 over 358 frames.
+astmic-msi090-sen0063 最近 女生 租 稅 不 個人 遇見 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0064, best cost 47.4524 + 4218.19 = 4265.65 over 238 frames.
+astmic-msi090-sen0064 互動 過 活 生 產 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0065, best cost 70.2006 + 5811.82 = 5882.02 over 328 frames.
+astmic-msi090-sen0065 其 驅 動 價 格 儘 速 特 色 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0066, best cost 59.8826 + 4780.26 = 4840.15 over 278 frames.
+astmic-msi090-sen0066 使 我 目前 已 有 好 和 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0067, best cost 53.7771 + 4912.91 = 4966.68 over 278 frames.
+astmic-msi090-sen0067 似乎 是 營 業 界 的 趨 勢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0068, best cost 53.6448 + 4776.94 = 4830.58 over 268 frames.
+astmic-msi090-sen0068 國內 主 機 板 命 的 設計 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0069, best cost 85.4721 + 6506.14 = 6591.61 over 358 frames.
+astmic-msi090-sen0069 不過 這 幾 情況 略 有限 的 平 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0070, best cost 111.615 + 7763.76 = 7875.38 over 428 frames.
+astmic-msi090-sen0070 可是 無法 我 遇到 繼續 獨 特 的 程式 相比 民 意 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0071, best cost 44.115 + 4701.03 = 4745.14 over 268 frames.
+astmic-msi090-sen0071 侯 捷 的 更 加 明顯 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0072, best cost 96.7133 + 8076.96 = 8173.67 over 448 frames.
+astmic-msi090-sen0072 鎮 長 陳 倬 也是 威 力 無 使得 電子 通訊 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0073, best cost 40.9672 + 4415.11 = 4456.07 over 248 frames.
+astmic-msi090-sen0073 不論 是 何 種 情形 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0074, best cost 99.494 + 6748.49 = 6847.99 over 368 frames.
+astmic-msi090-sen0074 劉 通過 郵 件 前端 門 處理 春 證明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0075, best cost 64.8947 + 5153.7 = 5218.59 over 288 frames.
+astmic-msi090-sen0075 知名 發 出 的 石 頭 證明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0076, best cost 47.6145 + 3996.15 = 4043.76 over 228 frames.
+astmic-msi090-sen0076 還有 其他 家 門 明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0077, best cost 110.928 + 7839.52 = 7950.45 over 428 frames.
+astmic-msi090-sen0077 數 據 機 歸 檢 討 局 所 度 的 處 徒 景 氣 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0078, best cost 65.1674 + 4753.99 = 4819.16 over 268 frames.
+astmic-msi090-sen0078 損 複 決 收集 美 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0079, best cost 60.1515 + 4786.93 = 4847.08 over 268 frames.
+astmic-msi090-sen0079 便 從 書 圖 騰 理想 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0080, best cost 103.226 + 7001.9 = 7105.12 over 388 frames.
+astmic-msi090-sen0080 藉 著 參 各 家 門 已 久 的 能 民 主 改 設定 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0081, best cost 48.0755 + 6480.72 = 6528.79 over 358 frames.
+astmic-msi090-sen0081 很 適合 預 算 有限 的 商業 使用 者 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0082, best cost 74.5503 + 5891.41 = 5965.96 over 328 frames.
+astmic-msi090-sen0082 紅色 超 級 簽 賭 政府 的 理想 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0083, best cost 44.1505 + 4724.89 = 4769.04 over 268 frames.
+astmic-msi090-sen0083 她 的 影像 還是 很 清晰 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0084, best cost 68.819 + 5974.89 = 6043.71 over 338 frames.
+astmic-msi090-sen0084 不過 它 色 顯示 器 買 牧 師 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0085, best cost 93.5767 + 7272.16 = 7365.74 over 398 frames.
+astmic-msi090-sen0085 而且 即使 你 的 系統 不 適 任 令 人 之 星 電腦 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0086, best cost 61.2783 + 7908.19 = 7969.47 over 428 frames.
+astmic-msi090-sen0086 因此 適合 大多數 桌 上 排 版 專 業 使用 者 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0087, best cost 67.7387 + 5319.46 = 5387.2 over 298 frames.
+astmic-msi090-sen0087 去 若 組織 從 家 族 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0088, best cost 65.3298 + 6378.55 = 6443.88 over 348 frames.
+astmic-msi090-sen0088 不過 你 還是 可以 特有 能夠 控制 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0089, best cost 95.9249 + 6383.71 = 6479.64 over 358 frames.
+astmic-msi090-sen0089 富 貴 生 開 啟 讓 還是 並 就 出門 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0090, best cost 70.4529 + 5261 = 5331.45 over 298 frames.
+astmic-msi090-sen0090 股權 之 爭 籌 員 並 將 區 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0091, best cost 53.9962 + 4766.6 = 4820.59 over 268 frames.
+astmic-msi090-sen0091 卻 後 產品 裡 睡覺 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0092, best cost 90.2174 + 5652.39 = 5742.61 over 308 frames.
+astmic-msi090-sen0092 缺 乏 密 碼 控制 和 樓 與 投 注 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0093, best cost 57.9274 + 4008.79 = 4066.72 over 228 frames.
+astmic-msi090-sen0093 她 的 詩 額 財 富 錯誤 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0094, best cost 71.9569 + 6762.02 = 6833.98 over 368 frames.
+astmic-msi090-sen0094 不過 整體 性 能 步 入 其他 同 級 產品 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0095, best cost 60.8798 + 4608.52 = 4669.4 over 258 frames.
+astmic-msi090-sen0095 她 的 色 彩 旗 鼓 吹 區 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0096, best cost 48.5306 + 4343.61 = 4392.14 over 248 frames.
+astmic-msi090-sen0096 目前 顯示 很 鮮 明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0097, best cost 56.0381 + 4436.39 = 4492.43 over 248 frames.
+astmic-msi090-sen0097 群 情 緒 主 克 接 通 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0098, best cost 77.172 + 5758.7 = 5835.87 over 318 frames.
+astmic-msi090-sen0098 不過 這 黨 魁 有了 不 服 提 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0099, best cost 79.3855 + 5620.65 = 5700.03 over 308 frames.
+astmic-msi090-sen0099 農 民 它 又是 可 科學 購 處理 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0100, best cost 110.078 + 7285.03 = 7395.1 over 408 frames.
+astmic-msi090-sen0100 合適 停 車 特 倍 速 成長 確實 仍 不 絕 無 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0101, best cost 55.6712 + 4405.79 = 4461.46 over 248 frames.
+astmic-msi090-sen0101 不 料 儲 數字 痛 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0102, best cost 52.259 + 4696.42 = 4748.68 over 268 frames.
+astmic-msi090-sen0102 執行 效率 動 時期 之 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0103, best cost 57.1818 + 4906.36 = 4963.54 over 278 frames.
+astmic-msi090-sen0103 被 股市 某 家 進行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0104, best cost 47.8634 + 4503.61 = 4551.48 over 258 frames.
+astmic-msi090-sen0104 此 時 要 相互 款 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0105, best cost 55.1593 + 4811.82 = 4866.98 over 278 frames.
+astmic-msi090-sen0105 必須 使用 住 戶 語言 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0106, best cost 54.2447 + 4269.75 = 4324 over 248 frames.
+astmic-msi090-sen0106 的 她 卻 爭 非 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0107, best cost 65.3286 + 5566.76 = 5632.08 over 308 frames.
+astmic-msi090-sen0107 平均 一天 指 認 股市 其他 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0108, best cost 61.1512 + 4444.14 = 4505.29 over 248 frames.
+astmic-msi090-sen0108 便 兼顧 取得 投 訴 案 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0109, best cost 66.4139 + 4681.58 = 4748 over 268 frames.
+astmic-msi090-sen0109 即使 了 綴 電源 無法 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0110, best cost 92.3722 + 6257.12 = 6349.49 over 338 frames.
+astmic-msi090-sen0110 便 的 途 中 蘇 某 訴 的 家 門 生活 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0111, best cost 74.7973 + 5868.6 = 5943.4 over 328 frames.
+astmic-msi090-sen0111 著 人 人物 方面 的 神 木 介紹 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0112, best cost 84.3812 + 6546.21 = 6630.59 over 368 frames.
+astmic-msi090-sen0112 比較 接近 研究 領域 的 專 業 登記 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0113, best cost 79.4118 + 5610.61 = 5690.02 over 308 frames.
+astmic-msi090-sen0113 執行 製 片 嫩 南 部 公 評 審 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0114, best cost 62.364 + 4683.1 = 4745.46 over 268 frames.
+astmic-msi090-sen0114 的 一直 住 速度 賴 騰 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0115, best cost 55.7743 + 4016.06 = 4071.83 over 228 frames.
+astmic-msi090-sen0115 而 有點 而 入 了 中 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0116, best cost 93.1505 + 6662.01 = 6755.16 over 368 frames.
+astmic-msi090-sen0116 窮 人 中心 有名 委 員 當 不會 不 足 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0117, best cost 60.9904 + 4752.74 = 4813.73 over 268 frames.
+astmic-msi090-sen0117 他 都 所 因此 放 入 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0118, best cost 104.768 + 6571.29 = 6676.06 over 368 frames.
+astmic-msi090-sen0118 那麼 是 我 特 使 來源 無 後 就 的 高 子 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0119, best cost 110.132 + 7340.04 = 7450.17 over 408 frames.
+astmic-msi090-sen0119 不 政策 曾 一個 月 的 和 蘇 洪 為 寂寞 成 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0120, best cost 90.2789 + 5832.05 = 5922.33 over 328 frames.
+astmic-msi090-sen0120 的 你 用 地 址 記 當時 覺得 美 陳 某 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0121, best cost 53.0239 + 4381.13 = 4434.15 over 248 frames.
+astmic-msi090-sen0121 當 天 都 遇到 測試 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0122, best cost 49.253 + 4891.7 = 4940.95 over 278 frames.
+astmic-msi090-sen0122 基本上 每 生活 不同 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0123, best cost 72.6046 + 5287.25 = 5359.85 over 298 frames.
+astmic-msi090-sen0123 只是 興趣 上 的 他 流利 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0124, best cost 74.9218 + 6066.36 = 6141.28 over 328 frames.
+astmic-msi090-sen0124 劉 燈 一 對於 大 城市 這個 結構 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0125, best cost 48.2937 + 4239.86 = 4288.15 over 228 frames.
+astmic-msi090-sen0125 被 我 就是 半 年 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0126, best cost 96.9837 + 6268.55 = 6365.53 over 348 frames.
+astmic-msi090-sen0126 可 後來 辦法 牛 的 一套 強 的 事 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0127, best cost 98.8296 + 6931.23 = 7030.06 over 378 frames.
+astmic-msi090-sen0127 他 參加 了 達到 當時 據 報 的 電腦 與 否 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0128, best cost 60.5746 + 5848.27 = 5908.84 over 328 frames.
+astmic-msi090-sen0128 陳 榮 表現 程式 的 之後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0129, best cost 72.5335 + 6081.46 = 6154 over 328 frames.
+astmic-msi090-sen0129 偷偷 拿 了 她 的 指令 去 拷 貝 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0130, best cost 64.8414 + 4762.61 = 4827.45 over 258 frames.
+astmic-msi090-sen0130 送 靠 免 費 前後 不 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0131, best cost 80.7745 + 5146.18 = 5226.95 over 278 frames.
+astmic-msi090-sen0131 特 的 是 北部 幾 重 洪 永 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0132, best cost 98.6977 + 7373.4 = 7472.09 over 398 frames.
+astmic-msi090-sen0132 的 王 秀 貞 委 員 能 能 螢幕 顯示 的 清楚 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0133, best cost 65.8897 + 5556.03 = 5621.92 over 308 frames.
+astmic-msi090-sen0133 為 認真 只有 九 六 點 四 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0134, best cost 99.6579 + 7294.69 = 7394.35 over 388 frames.
+astmic-msi090-sen0134 平 日 戒 指 一 過 度 土地 會 有 身 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0135, best cost 74.6119 + 5580.32 = 5654.94 over 308 frames.
+astmic-msi090-sen0135 跌 至 肇事 不 接受 聰明 的 說 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0136, best cost 71.2114 + 5309.46 = 5380.68 over 298 frames.
+astmic-msi090-sen0136 的 熱 潮 時間 適用 於 各 用 戶 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0137, best cost 51.5145 + 5117.97 = 5169.48 over 288 frames.
+astmic-msi090-sen0137 機 便 無 股市 職 權 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0138, best cost 108.902 + 8038.63 = 8147.53 over 428 frames.
+astmic-msi090-sen0138 這些 柯 格 獲得 屬 監 督 人 藉 由 它 從 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0139, best cost 97.4882 + 7999.11 = 8096.6 over 428 frames.
+astmic-msi090-sen0139 的 使用 能 和 取得 中 可 執行 更 換 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0140, best cost 97.5979 + 7354.29 = 7451.89 over 398 frames.
+astmic-msi090-sen0140 會 的 使用 者 拍 戲 被 之 第一 政策 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0141, best cost 82.349 + 6370.76 = 6453.11 over 348 frames.
+astmic-msi090-sen0141 林 落後 的 陳 情 的 資料 許 全國 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0142, best cost 91.2082 + 7278.22 = 7369.43 over 398 frames.
+astmic-msi090-sen0142 折 扣 可 降低 看起來 也 不可 磨 便 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0143, best cost 115.555 + 7247.98 = 7363.53 over 388 frames.
+astmic-msi090-sen0143 取得 若 經 人 則 後 市 和 諧 的 出 節目 住 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0144, best cost 88.8658 + 5985.96 = 6074.82 over 328 frames.
+astmic-msi090-sen0144 可 見 函 覆 後 覺得 建立 出 作 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0145, best cost 82.8468 + 5698.28 = 5781.13 over 308 frames.
+astmic-msi090-sen0145 地區 被 的 紅 土 與 頗 感 冒 出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0146, best cost 106.198 + 6956.59 = 7062.78 over 378 frames.
+astmic-msi090-sen0146 對 的 缺點 是 缺 乏 中 油 各 頭 曲 目 土 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0147, best cost 82.1685 + 5993.99 = 6076.16 over 328 frames.
+astmic-msi090-sen0147 也 無法 建立 年 我 父 母 日 說 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0148, best cost 70.662 + 4874.61 = 4945.27 over 268 frames.
+astmic-msi090-sen0148 雖 區 土 的 度 潰 宣 傳 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0149, best cost 66.097 + 4558.49 = 4624.59 over 258 frames.
+astmic-msi090-sen0149 比例 治 療 更 是 全 火 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0150, best cost 43.1245 + 3863.87 = 3906.99 over 218 frames.
+astmic-msi090-sen0150 並 開 電源 開 關 家 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0151, best cost 60.3593 + 6636.5 = 6696.86 over 358 frames.
+astmic-msi090-sen0151 她 的 速度 可 與 其他 同 級 產品 相 較 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0152, best cost 66.5281 + 6782.28 = 6848.81 over 368 frames.
+astmic-msi090-sen0152 不 知 足 圖 形 都 很 鮮 明 並 定義 清楚 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0153, best cost 42.2409 + 5624.89 = 5667.13 over 308 frames.
+astmic-msi090-sen0153 但 擴 散 的 圖 案 仍 很 明顯 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0154, best cost 38.3868 + 4989.38 = 5027.77 over 268 frames.
+astmic-msi090-sen0154 即使 他們 在 同一 頁 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0155, best cost 54.5585 + 5733.64 = 5788.2 over 308 frames.
+astmic-msi090-sen0155 在 低 階 市 場 佔 有 一 席 之 地 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0156, best cost 48.2528 + 4614.85 = 4663.11 over 248 frames.
+astmic-msi090-sen0156 以及 遠 程 管 理 功能 任 務 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0157, best cost 33.4075 + 4602.93 = 4636.34 over 248 frames.
+astmic-msi090-sen0157 文字 為 黑 色 及 灰色 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0158, best cost 37.061 + 3892.21 = 3929.27 over 208 frames.
+astmic-msi090-sen0158 著 色 品 質 不 重 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0159, best cost 70.6066 + 5147.71 = 5218.32 over 278 frames.
+astmic-msi090-sen0159 訴 處 亟 待 金融 起 全 民 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0160, best cost 82.4108 + 6617.13 = 6699.54 over 358 frames.
+astmic-msi090-sen0160 的 避免 不必 要 的 公 開 行 檢 討 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0161, best cost 64.9539 + 4437.51 = 4502.46 over 248 frames.
+astmic-msi090-sen0161 登記 能 秀 的 漁業 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0162, best cost 58.2246 + 4482.12 = 4540.34 over 248 frames.
+astmic-msi090-sen0162 全 身 分 交通 麻 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0163, best cost 83.9101 + 5900.5 = 5984.41 over 328 frames.
+astmic-msi090-sen0163 他 不 失 控 著 重 我 沒 的 語言 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0164, best cost 67.2484 + 5634.47 = 5701.71 over 308 frames.
+astmic-msi090-sen0164 圖 示 各 方 無 生 的 系統 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0165, best cost 79.6136 + 5532.62 = 5612.23 over 298 frames.
+astmic-msi090-sen0165 致 使 工程 成 的 頭 用 型 語言 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0166, best cost 63.5016 + 5231.7 = 5295.2 over 278 frames.
+astmic-msi090-sen0166 並 積極 能 的 和 圖 能力 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0167, best cost 96.6367 + 7011.81 = 7108.44 over 378 frames.
+astmic-msi090-sen0167 就 能 毛 豬 程式 政治 誠 意 的 新 設 立 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0168, best cost 89.7217 + 5512.16 = 5601.88 over 298 frames.
+astmic-msi090-sen0168 需 多 了 著 重 立 的 草 動 我們 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0169, best cost 118.196 + 7893.15 = 8011.35 over 428 frames.
+astmic-msi090-sen0169 不過 若 共用 洪 姓 青 治 原則 出來 自 小 步 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0170, best cost 71.6668 + 5185.98 = 5257.65 over 278 frames.
+astmic-msi090-sen0170 激 烈 全國 體 覺得 現 任 務 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0171, best cost 69.9527 + 5084.28 = 5154.23 over 278 frames.
+astmic-msi090-sen0171 雖 可 同時 設計 服 便 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0172, best cost 89.0783 + 7024.33 = 7113.4 over 378 frames.
+astmic-msi090-sen0172 可 表現 出 加 秀 的 性 能 增 進 幅 度 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0173, best cost 51.0007 + 4037.45 = 4088.45 over 218 frames.
+astmic-msi090-sen0173 這 點 不可 預 期 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0174, best cost 85.2742 + 6456.09 = 6541.36 over 348 frames.
+astmic-msi090-sen0174 不 久 某個 未 接 獲 圖 形 之 系統 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0175, best cost 39.6946 + 3575.07 = 3614.77 over 198 frames.
+astmic-msi090-sen0175 還有 理想 限制 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0176, best cost 49.1969 + 4073.98 = 4123.17 over 228 frames.
+astmic-msi090-sen0176 會 任 秘 密 碼 少 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0177, best cost 62.5495 + 5468.46 = 5531.01 over 298 frames.
+astmic-msi090-sen0177 整合 紅色 車 方式 之前 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0178, best cost 43.0372 + 4112.3 = 4155.34 over 228 frames.
+astmic-msi090-sen0178 這 有些 情形 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0179, best cost 99.8789 + 6351.09 = 6450.97 over 348 frames.
+astmic-msi090-sen0179 暫時 停 曾經 賠 錢 土 庫 掌握 並 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0180, best cost 89.3501 + 6537.6 = 6626.95 over 358 frames.
+astmic-msi090-sen0180 不過 例子 雄 率 走 出 超 作業 系統 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0181, best cost 80.6569 + 5350.05 = 5430.71 over 288 frames.
+astmic-msi090-sen0181 科學 爭 取 劇 本 土 石 報 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0182, best cost 94.0056 + 6405.05 = 6499.06 over 348 frames.
+astmic-msi090-sen0182 增加 了 二 千 性 感 訓 投 保 固 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0183, best cost 81.6119 + 6398.18 = 6479.79 over 348 frames.
+astmic-msi090-sen0183 最 系統 的 學 者 一個 很 傑 等 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0184, best cost 76.9393 + 5208.76 = 5285.7 over 278 frames.
+astmic-msi090-sen0184 這 歸 同 業 方面 賴 騰 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0185, best cost 99.1466 + 7442.78 = 7541.93 over 398 frames.
+astmic-msi090-sen0185 並 與 執行 豬 肉 商 也 留 可 視 為 住 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0186, best cost 81.1011 + 5851.82 = 5932.93 over 318 frames.
+astmic-msi090-sen0186 並 無 力 縣 內 領 土 主 委 員 企 圖 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0187, best cost 40.7318 + 4905.91 = 4946.64 over 268 frames.
+astmic-msi090-sen0187 還是 相當 困難 和 調整 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0188, best cost 41.0017 + 4361.12 = 4402.12 over 238 frames.
+astmic-msi090-sen0188 要 提 醒 大家 的 事 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0189, best cost 40.7001 + 5807.17 = 5847.87 over 308 frames.
+astmic-msi090-sen0189 不過 若 和 其 教學 程式 相比 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0190, best cost 69.2394 + 4750.91 = 4820.15 over 258 frames.
+astmic-msi090-sen0190 憲 政 體 雲 縣 的 家 逃 亡 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0191, best cost 76.6319 + 5883.17 = 5959.8 over 318 frames.
+astmic-msi090-sen0191 連 立 即 促 進 口 群 眾 權 嗎 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0192, best cost 83.904 + 6468.06 = 6551.96 over 348 frames.
+astmic-msi090-sen0192 如果 你 都 電腦 和 及 到處 的 化 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0193, best cost 77.1995 + 6574.49 = 6651.69 over 348 frames.
+astmic-msi090-sen0193 不可 避免 的 重要 被 公 里 和 解 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0194, best cost 75.2715 + 6542.79 = 6618.06 over 358 frames.
+astmic-msi090-sen0194 的 實 力 產生 的 性 能 的 影像 卡 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0195, best cost 64.8493 + 5151.37 = 5216.22 over 278 frames.
+astmic-msi090-sen0195 畢竟 政黨 中 獲得 假 過 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0196, best cost 60.2125 + 5086.26 = 5146.47 over 278 frames.
+astmic-msi090-sen0196 可能 要 經過 運動 訊息 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0197, best cost 85.4353 + 6579.66 = 6665.09 over 358 frames.
+astmic-msi090-sen0197 一般 相信 前科 了 沒有 這 筆 記 者 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0198, best cost 97.0335 + 6932.52 = 7029.56 over 368 frames.
+astmic-msi090-sen0198 工 會 投 籌 碼 奇 蹪 人 口 中 三 嫌 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi090-sen0199, best cost 89.4137 + 6607.96 = 6697.37 over 358 frames.
+astmic-msi090-sen0199 必須 送 貨 源 股市 其他 為 你 修改 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0000, best cost 63.9492 + 4216.87 = 4280.82 over 228 frames.
+astmic-msi091-sen0000 這 項 了 陳 某 足夠 能力 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0001, best cost 52.3904 + 4127.02 = 4179.41 over 218 frames.
+astmic-msi091-sen0001 的 角度 喪 家 建議 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0002, best cost 74.805 + 5763.29 = 5838.1 over 288 frames.
+astmic-msi091-sen0002 套用 順 勢 傳統 型態 吸 食 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0003, best cost 70.1017 + 5295.13 = 5365.23 over 268 frames.
+astmic-msi091-sen0003 如果 雖 有 此 事 對 此 下 滑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0004, best cost 81.6879 + 6850.51 = 6932.2 over 348 frames.
+astmic-msi091-sen0004 連 推廣 藝術 行 立刻 驅 動 程式 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0005, best cost 65.9342 + 4589.61 = 4655.54 over 238 frames.
+astmic-msi091-sen0005 立 即 先 行 程 人 次 的 目標 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0006, best cost 78.0812 + 5667.87 = 5745.95 over 298 frames.
+astmic-msi091-sen0006 若是 四 輔 相 容 端 眉 領 先 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0007, best cost 74.467 + 5317.45 = 5391.92 over 278 frames.
+astmic-msi091-sen0007 就 林 教材 有 直接 證 業 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0008, best cost 52.3133 + 4216.53 = 4268.84 over 218 frames.
+astmic-msi091-sen0008 她 秀 這些 人 見 面 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0009, best cost 50.3688 + 4583.89 = 4634.26 over 248 frames.
+astmic-msi091-sen0009 對 大多數 修 尊 嚴 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0010, best cost 47.9208 + 3758.57 = 3806.49 over 198 frames.
+astmic-msi091-sen0010 並 且 理想 的 訊號 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0011, best cost 42.8091 + 3441.78 = 3484.58 over 178 frames.
+astmic-msi091-sen0011 追求 方式 有 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0012, best cost 120.328 + 7686.26 = 7806.59 over 398 frames.
+astmic-msi091-sen0012 可以 需求 老 方法 和 買 現成 能 成 辛苦 解決 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0013, best cost 116.158 + 8658.76 = 8774.92 over 448 frames.
+astmic-msi091-sen0013 不 僅 限 來 在 世界 大 正面 而 立 即 則 效果 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0014, best cost 62.3455 + 5436.96 = 5499.31 over 278 frames.
+astmic-msi091-sen0014 全部 是 根本 能 解決 之 道 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0015, best cost 76.1925 + 5927.67 = 6003.86 over 308 frames.
+astmic-msi091-sen0015 不 願 無法 了 已經 足夠 的 事業 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0016, best cost 37.2242 + 3987.7 = 4024.93 over 208 frames.
+astmic-msi091-sen0016 結果 令 住 處 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0017, best cost 44.3833 + 3414.19 = 3458.57 over 178 frames.
+astmic-msi091-sen0017 工作 動作 不 外 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0018, best cost 63.816 + 4477.6 = 4541.42 over 228 frames.
+astmic-msi091-sen0018 情形 興 建 物 來 餘 艘 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0019, best cost 97.7802 + 6243.3 = 6341.08 over 318 frames.
+astmic-msi091-sen0019 多半 則 罪 嫌 的 累 積 中 國人 都 性 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0020, best cost 105.735 + 7238.39 = 7344.12 over 358 frames.
+astmic-msi091-sen0020 立 即 領 先 處理 所 產生 的 利 息 治 療 打 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0021, best cost 69.1134 + 4623.53 = 4692.64 over 238 frames.
+astmic-msi091-sen0021 並 會 進行 文字 原因 測試 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0022, best cost 73.1188 + 5093.39 = 5166.51 over 268 frames.
+astmic-msi091-sen0022 另外 他們 後 才 實在 是 塞 末 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0023, best cost 110.864 + 5652.89 = 5763.75 over 298 frames.
+astmic-msi091-sen0023 另 從 速 食 六 塞 募 得 手 兩 來 決定 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0024, best cost 113.89 + 6254.51 = 6368.4 over 328 frames.
+astmic-msi091-sen0024 每 張 的 孫 案 後 將 固定 聯 賽 的 神 木 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0025, best cost 64.7202 + 4148.28 = 4213 over 218 frames.
+astmic-msi091-sen0025 部門 至 最 低 區 流 言 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0026, best cost 59.2293 + 4430.19 = 4489.42 over 228 frames.
+astmic-msi091-sen0026 對 今年 一個 榮 微 笑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0027, best cost 88.1098 + 5571.08 = 5659.19 over 288 frames.
+astmic-msi091-sen0027 仍然 台 中 縣 攝 影 六 木 散 戶 過去 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0028, best cost 73.4996 + 5713.72 = 5787.22 over 298 frames.
+astmic-msi091-sen0028 對於 彩色 的 表現 則 不 予 評 析 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0029, best cost 84.0635 + 5961.87 = 6045.94 over 308 frames.
+astmic-msi091-sen0029 自行 董 事 修 系統 提供 了 字 型 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0030, best cost 44.313 + 3545.41 = 3589.72 over 188 frames.
+astmic-msi091-sen0030 是 天 程序 老師 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0031, best cost 59.7142 + 4272.72 = 4332.44 over 228 frames.
+astmic-msi091-sen0031 的 小 組 老師 提高 免 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0032, best cost 46.9333 + 3505.24 = 3552.18 over 188 frames.
+astmic-msi091-sen0032 並不是 什麼 大 肉 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0033, best cost 115.103 + 7470.72 = 7585.82 over 388 frames.
+astmic-msi091-sen0033 但 如果 作者 自己 特 殊 募 集 就 氣象 彩色 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0034, best cost 74.7559 + 4093.56 = 4168.32 over 218 frames.
+astmic-msi091-sen0034 就 未免 過 明 知 我 圖 章 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0035, best cost 55.196 + 4264.15 = 4319.35 over 228 frames.
+astmic-msi091-sen0035 那是 興趣 即 將 努力 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0036, best cost 38.0855 + 3162.05 = 3200.14 over 168 frames.
+astmic-msi091-sen0036 標準 裂 消息 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0037, best cost 51.2154 + 3333.51 = 3384.72 over 178 frames.
+astmic-msi091-sen0037 責 任 抗 爭 注意 一下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0038, best cost 74.9462 + 4960.5 = 5035.44 over 268 frames.
+astmic-msi091-sen0038 北 側 全 在下 適合 能 性 的 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0039, best cost 54.2171 + 4139.15 = 4193.37 over 218 frames.
+astmic-msi091-sen0039 仁 欣 欣 向 上 突 程式 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0040, best cost 48.118 + 2945.69 = 2993.81 over 158 frames.
+astmic-msi091-sen0040 連 少不了 葉 某 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0041, best cost 88.6997 + 5607.92 = 5696.62 over 298 frames.
+astmic-msi091-sen0041 本 省 個中 年 罕 見 面 取 不得 出現 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0042, best cost 112.666 + 6147.45 = 6260.11 over 318 frames.
+astmic-msi091-sen0042 汽車 中 目的 就是 兩 境 內 忙 著 虛 紐 澤 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0043, best cost 99.6329 + 6221.43 = 6321.07 over 328 frames.
+astmic-msi091-sen0043 不 相信 三 名 這些 會 曾 新 年 美 新鮮 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0044, best cost 72.9011 + 5181.12 = 5254.02 over 268 frames.
+astmic-msi091-sen0044 必須 機會 純 為 人 的 熱 現象 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0045, best cost 54.7244 + 3617.46 = 3672.18 over 188 frames.
+astmic-msi091-sen0045 國際 業 者 可以 非 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0046, best cost 70.325 + 6703.88 = 6774.2 over 348 frames.
+astmic-msi091-sen0046 不 僅 新 年 後 要 怎樣 讓 電腦 做 這 件 事 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0047, best cost 34.7615 + 3092.93 = 3127.69 over 168 frames.
+astmic-msi091-sen0047 讓 系統 的 電腦 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0048, best cost 98.8731 + 6961.24 = 7060.11 over 358 frames.
+astmic-msi091-sen0048 性 能 一定 案 有些 真正 速 食 倍 甚至 上 百 倍 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0049, best cost 56.6745 + 6041.2 = 6097.87 over 318 frames.
+astmic-msi091-sen0049 保留 大部分 借 用 戶 盡 情 發揮 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0050, best cost 43.1621 + 3353.96 = 3397.12 over 178 frames.
+astmic-msi091-sen0050 在 物 體 理想 中 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0051, best cost 93.9577 + 6678.25 = 6772.21 over 348 frames.
+astmic-msi091-sen0051 將 用 電腦 的 速度 口 纏 鬥 爭 取 政治 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0052, best cost 72.7822 + 4672.28 = 4745.06 over 248 frames.
+astmic-msi091-sen0052 去 多 達 現 有 這個 夢 必 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0053, best cost 51.7944 + 3725.28 = 3777.08 over 208 frames.
+astmic-msi091-sen0053 三 和 兩 槍 的 權 益 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0054, best cost 98.4025 + 5886.28 = 5984.68 over 298 frames.
+astmic-msi091-sen0054 他 曾 被 拒 中華 良 這裡 卻 的 肉 體 後 悔 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0055, best cost 80.3968 + 5467.35 = 5547.75 over 288 frames.
+astmic-msi091-sen0055 這 恐怖 陸續 將 有 極 大 股市 場 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0056, best cost 44.4103 + 3468.42 = 3512.83 over 178 frames.
+astmic-msi091-sen0056 不可 是 球 鞋 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0057, best cost 74.7963 + 5184.84 = 5259.64 over 268 frames.
+astmic-msi091-sen0057 其 型態 已 明顯 的 未來 的 爭 議 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0058, best cost 63.7216 + 4577.88 = 4641.6 over 248 frames.
+astmic-msi091-sen0058 他們 其 汽車 內 婦 人 便 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0059, best cost 52.2951 + 3208.37 = 3260.66 over 178 frames.
+astmic-msi091-sen0059 震 撼 了 更 能 連 接 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0060, best cost 93.8115 + 5857.1 = 5950.91 over 308 frames.
+astmic-msi091-sen0060 可是 還 無法 滿足 市 場 能 鄉 馬 唯 恐 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0061, best cost 43.3271 + 3830.62 = 3873.94 over 198 frames.
+astmic-msi091-sen0061 工 會 陳 中 共 享 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0062, best cost 65.901 + 4276.82 = 4342.73 over 228 frames.
+astmic-msi091-sen0062 價 格 自然 也 兩 部 小 孩 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0063, best cost 73.0728 + 4772.94 = 4846.01 over 248 frames.
+astmic-msi091-sen0063 最近 以 小 組 中 贏 不 個人電腦 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0064, best cost 50.7989 + 3175.68 = 3226.48 over 168 frames.
+astmic-msi091-sen0064 若 找 國 華 山 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0065, best cost 68.0968 + 4643.84 = 4711.94 over 238 frames.
+astmic-msi091-sen0065 基 金 的 價 格 居 住 台 晟 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0066, best cost 58.9479 + 3728.22 = 3787.16 over 198 frames.
+astmic-msi091-sen0066 雖 仍 木 現 有 緩 和 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0067, best cost 51.2759 + 3812.88 = 3864.15 over 198 frames.
+astmic-msi091-sen0067 似乎 訓練 建立 趨 勢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0068, best cost 47.1645 + 4866.8 = 4913.96 over 268 frames.
+astmic-msi091-sen0068 國內 主 機 板 的 設計 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0069, best cost 80.9463 + 5212.95 = 5293.89 over 268 frames.
+astmic-msi091-sen0069 不過 正 進行 恐 夜 流 行 特別 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0070, best cost 98.1135 + 6777.94 = 6876.06 over 348 frames.
+astmic-msi091-sen0070 派 系 無法 遇到 繼續 爭 吵 著 程式 相比 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0071, best cost 60.9922 + 3786.65 = 3847.64 over 198 frames.
+astmic-msi091-sen0071 若 連 日 追 價 目 心 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0072, best cost 117.49 + 7055.17 = 7172.65 over 358 frames.
+astmic-msi091-sen0072 將 產生 諸 於 世 瑞 玲 以 木 行政 電子 投 縣 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0073, best cost 45.4806 + 3774.34 = 3819.82 over 198 frames.
+astmic-msi091-sen0073 不論 任何 中 新鮮 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0074, best cost 97.0362 + 5882.15 = 5979.18 over 298 frames.
+astmic-msi091-sen0074 你 戶 頭 會 流 減 刑 的 能 處理 傳 真 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0075, best cost 71.1594 + 3820 = 3891.16 over 198 frames.
+astmic-msi091-sen0075 只 言 明 發 出 任 鎮 長 陳 怒 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0076, best cost 45.1455 + 3598.07 = 3643.22 over 178 frames.
+astmic-msi091-sen0076 可就 其他 功能 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0077, best cost 79.5909 + 6703.38 = 6782.97 over 338 frames.
+astmic-msi091-sen0077 數 據 機 飛 檢查 接收 端的 傳 真 執行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0078, best cost 66.3102 + 4123.3 = 4189.61 over 218 frames.
+astmic-msi091-sen0078 你 風 接受 而 機會 大 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0079, best cost 49.1028 + 3724.85 = 3773.95 over 198 frames.
+astmic-msi091-sen0079 接受 處 長 陳 影響 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0080, best cost 85.5469 + 5406.32 = 5491.87 over 278 frames.
+astmic-msi091-sen0080 提 出 申 能 功能 表 單 讓 你 得 分 設計 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0081, best cost 70.379 + 5756.99 = 5827.37 over 298 frames.
+astmic-msi091-sen0081 被 視 而 預 算 有限 的 商業 修 正 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0082, best cost 85.3695 + 5129 = 5214.37 over 268 frames.
+astmic-msi091-sen0082 故 而 色 彩 奇 卻 住 宅 處 的 影響 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0083, best cost 58.4805 + 4588.57 = 4647.05 over 248 frames.
+astmic-msi091-sen0083 他們 影像 還是 人 信心 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0084, best cost 76.2574 + 5149.82 = 5226.08 over 268 frames.
+astmic-msi091-sen0084 不過 它 曾 學習 錢 買 螢幕 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0085, best cost 83.8476 + 7049.71 = 7133.56 over 358 frames.
+astmic-msi091-sen0085 而且 即使 你 的 系統 股市 能 源 之 星 電腦 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0086, best cost 79.2625 + 7367.2 = 7446.46 over 378 frames.
+astmic-msi091-sen0086 歷史 適合 大多數 桌 上 排 版 專 業 修 正 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0087, best cost 62.7213 + 4868.09 = 4930.81 over 258 frames.
+astmic-msi091-sen0087 請 調 度 了 超過 中 等 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0088, best cost 87.7221 + 5173.82 = 5261.55 over 268 frames.
+astmic-msi091-sen0088 不過 你 還是 應 題材 二 人 農 苦 之 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0089, best cost 85.379 + 5326.77 = 5412.15 over 278 frames.
+astmic-msi091-sen0089 不 故意 將 呈現 民生 比較 沉 悶 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0090, best cost 55.6101 + 4659.18 = 4714.79 over 248 frames.
+astmic-msi091-sen0090 而且 競爭 蘇 聯 找 他 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0091, best cost 67.2802 + 3922.65 = 3989.93 over 208 frames.
+astmic-msi091-sen0091 取 合 於 產品 的 誰 價 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0092, best cost 73.1098 + 5560.62 = 5633.73 over 298 frames.
+astmic-msi091-sen0092 且 方面 能 投 資 人 容易 投 訴 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0093, best cost 47.9708 + 3319.02 = 3366.99 over 178 frames.
+astmic-msi091-sen0093 他 垃圾 場 不 差 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0094, best cost 78.3284 + 6354.19 = 6432.52 over 338 frames.
+astmic-msi091-sen0094 不過 整體 新 年 步 入 其他 同 級 產品 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0095, best cost 69.5132 + 4423.06 = 4492.57 over 238 frames.
+astmic-msi091-sen0095 他 垃圾 場 計 權 獨 罪 犯 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0096, best cost 50.2828 + 3712.46 = 3762.74 over 198 frames.
+astmic-msi091-sen0096 本 屆 縣 市 合 簽 名 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0097, best cost 53.4098 + 4128.24 = 4181.65 over 218 frames.
+astmic-msi091-sen0097 其 清晰 度 可 減少 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0098, best cost 77.6704 + 5591.58 = 5669.25 over 298 frames.
+astmic-msi091-sen0098 不過 最 將 可 油 量 都 不 理想 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0099, best cost 84.8694 + 5629.08 = 5713.95 over 298 frames.
+astmic-msi091-sen0099 了 余 陳 又是 可靠 洗 過 處理 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0100, best cost 106.143 + 6664.33 = 6770.48 over 348 frames.
+astmic-msi091-sen0100 人士 進行 曾 倍 速 成長 確實 仍 不 減 碼 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0101, best cost 51.9497 + 3793.1 = 3845.05 over 198 frames.
+astmic-msi091-sen0101 交 出 塑 建 中 了 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0102, best cost 51.3556 + 4775.23 = 4826.58 over 248 frames.
+astmic-msi091-sen0102 執行 效率 頭 行 情 事 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0103, best cost 62.7123 + 4446.88 = 4509.6 over 228 frames.
+astmic-msi091-sen0103 電影 過去 能 家 進行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0104, best cost 51.3246 + 3701.99 = 3753.32 over 198 frames.
+astmic-msi091-sen0104 持 續 兩 項 任 觀 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0105, best cost 56.1003 + 4204.01 = 4260.11 over 228 frames.
+astmic-msi091-sen0105 前 縣 市 有 宿 二 億 元 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0106, best cost 42.497 + 3711.18 = 3753.68 over 198 frames.
+astmic-msi091-sen0106 高 達 氣 質 詢 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0107, best cost 70.3054 + 5021.84 = 5092.15 over 268 frames.
+astmic-msi091-sen0107 聽 取 以前 更 能 這些 情 感 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0108, best cost 62.1005 + 3867.88 = 3929.98 over 198 frames.
+astmic-msi091-sen0108 便 結構 車 一個 超 商 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0109, best cost 52.2545 + 3707.62 = 3759.87 over 198 frames.
+astmic-msi091-sen0109 即使 累 最近 也 無法 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0110, best cost 96.6484 + 5241.97 = 5338.61 over 268 frames.
+astmic-msi091-sen0110 連 最 出 重 損 描述 的 家 人 生活 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0111, best cost 80.3212 + 4958.59 = 5038.91 over 268 frames.
+astmic-msi091-sen0111 從 二 人 紋 方面 這些 如 期 招 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0112, best cost 86.6903 + 5507.47 = 5594.16 over 288 frames.
+astmic-msi091-sen0112 並 曾 進行 連續 二 領域 的 正面 登記 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0113, best cost 66.8245 + 4720.18 = 4787.01 over 248 frames.
+astmic-msi091-sen0113 時期 之 天 仍然 不夠 評 審 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0114, best cost 52.3346 + 4142.9 = 4195.24 over 218 frames.
+astmic-msi091-sen0114 待 這 種 速度 來 台 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0115, best cost 46.9282 + 3731.78 = 3778.71 over 198 frames.
+astmic-msi091-sen0115 台 電 入 了 中 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0116, best cost 100.434 + 6104.11 = 6204.54 over 318 frames.
+astmic-msi091-sen0116 救援 中 縣 民 六 紐約 大 都會 博物館 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0117, best cost 60.1173 + 3984.5 = 4044.61 over 208 frames.
+astmic-msi091-sen0117 從 人物 說 對方 然 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0118, best cost 80.5288 + 5296.04 = 5376.57 over 278 frames.
+astmic-msi091-sen0118 那麼 使用 者 校園 玩 家 的 逃 之 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0119, best cost 90.4135 + 6194.71 = 6285.13 over 328 frames.
+astmic-msi091-sen0119 不 在 上上 個 月 的 而 署 後 已經 完成 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0120, best cost 90.4791 + 5537.42 = 5627.9 over 298 frames.
+astmic-msi091-sen0120 反 六 的 至 今 倒是 覺得 美 葉 某 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0121, best cost 50.1614 + 3686.92 = 3737.08 over 198 frames.
+astmic-msi091-sen0121 台 電 動 武 力 達成 時 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0122, best cost 49.694 + 4049.51 = 4099.2 over 218 frames.
+astmic-msi091-sen0122 基本上 每 數 家 頭 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0123, best cost 62.4564 + 5520.02 = 5582.48 over 298 frames.
+astmic-msi091-sen0123 學習 興趣 上 的 差異 而已 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0124, best cost 67.5648 + 5072.33 = 5139.9 over 268 frames.
+astmic-msi091-sen0124 劉 燈 對於 造成 行政 的 結果 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0125, best cost 44.7756 + 3339.87 = 3384.64 over 178 frames.
+astmic-msi091-sen0125 並 獲 技術 半 年 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0126, best cost 94.9063 + 5371.44 = 5466.35 over 278 frames.
+astmic-msi091-sen0126 則 洪 人 的 法 令 人 殿 堂 家 人 心 後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0127, best cost 106.751 + 6485.36 = 6592.12 over 348 frames.
+astmic-msi091-sen0127 坦 承 家 人 淡 江 大學 取代 則 店 內 為 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0128, best cost 70.9792 + 4677.73 = 4748.71 over 248 frames.
+astmic-msi091-sen0128 最後 並 長 余 陳 縣 人 效 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0129, best cost 78.4498 + 5231.75 = 5310.2 over 278 frames.
+astmic-msi091-sen0129 偷偷 拿 了 他 人 之 停 車 逃 避 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0130, best cost 57.5474 + 4032.17 = 4089.72 over 218 frames.
+astmic-msi091-sen0130 所 可以 領 先 許 多 人 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0131, best cost 73.7884 + 5083.56 = 5157.35 over 268 frames.
+astmic-msi091-sen0131 卻 最 勢 必 會 基礎 耗 用 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0132, best cost 97.8957 + 7079.14 = 7177.04 over 378 frames.
+astmic-msi091-sen0132 對於 雄 承 業 者 來 螢幕 顯示 一點 清楚 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0133, best cost 70.591 + 4439.83 = 4510.42 over 238 frames.
+astmic-msi091-sen0133 對 我 則 使用 交 流 減 刑 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0134, best cost 97.0995 + 6180.91 = 6278.01 over 338 frames.
+astmic-msi091-sen0134 避免 屆 時 一 家 屬 出 身 而 有 損 傷 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0135, best cost 67.1053 + 4628.83 = 4695.94 over 248 frames.
+astmic-msi091-sen0135 電視 偵 訊 不 見 搜 出 點 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0136, best cost 68.9077 + 4662.24 = 4731.15 over 248 frames.
+astmic-msi091-sen0136 對於 查詢 解釋 有的 用 戶 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0137, best cost 43.24 + 3749.77 = 3793.01 over 198 frames.
+astmic-msi091-sen0137 地點 股市 視 訊 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0138, best cost 105.37 + 7103.89 = 7209.26 over 378 frames.
+astmic-msi091-sen0138 這些 客 觀 望 能 逐 漸 年 的 色 酒 販 售 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0139, best cost 97.3888 + 6860.4 = 6957.79 over 358 frames.
+astmic-msi091-sen0139 那是 量 能 科技 的 就 可 執行 分行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0140, best cost 94.2392 + 6639.67 = 6733.91 over 348 frames.
+astmic-msi091-sen0140 媒體 信 用 這 種 迴 避 積極 的 緊張 好 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0141, best cost 92.2713 + 5779.09 = 5871.36 over 298 frames.
+astmic-msi091-sen0141 並 與 入 後 則 強 勁 的 資料 庫 結構 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0142, best cost 94.5992 + 6341.14 = 6435.74 over 338 frames.
+astmic-msi091-sen0142 整 考 懲 獎 品 牌 相 驗 負責 無 便 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0143, best cost 101.987 + 6861.61 = 6963.59 over 358 frames.
+astmic-msi091-sen0143 具備 危 機 前 結合 重新 列 出 節目 住 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0144, best cost 81.7265 + 6157.6 = 6239.33 over 318 frames.
+astmic-msi091-sen0144 科技 後 符合 危 機 的 潛力 工作 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0145, best cost 81.351 + 5663.73 = 5745.08 over 298 frames.
+astmic-msi091-sen0145 便 具備 體會 推出 毫 無 主 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0146, best cost 100.706 + 6236.81 = 6337.51 over 328 frames.
+astmic-msi091-sen0146 對 正確 解釋 權 發展 有的 圖 形 無 主 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0147, best cost 89.6556 + 6085.11 = 6174.76 over 328 frames.
+astmic-msi091-sen0147 便 無法 建立 美 文 目錄 女 說 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0148, best cost 73.686 + 4611 = 4684.68 over 238 frames.
+astmic-msi091-sen0148 雖 歹 徒 調 度 可以 權 狀 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0149, best cost 51.6285 + 4113.89 = 4165.52 over 218 frames.
+astmic-msi091-sen0149 另 覓 自然 的 心 情 感 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0150, best cost 46.3973 + 4094.49 = 4140.89 over 218 frames.
+astmic-msi091-sen0150 並 台 電 台 壞 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0151, best cost 56.2581 + 6380.57 = 6436.82 over 328 frames.
+astmic-msi091-sen0151 她 的 速度 可 與 其他 同 級 產品 相 較 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0152, best cost 65.7683 + 6999.23 = 7065 over 358 frames.
+astmic-msi091-sen0152 隨時 及 圖 形 都 很 鮮 明 並 定義 清楚 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0153, best cost 43.7176 + 4758.38 = 4802.1 over 248 frames.
+astmic-msi091-sen0153 但 擴 散 的 圖 案 仍 很 明顯 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0154, best cost 34.6498 + 3991.65 = 4026.3 over 208 frames.
+astmic-msi091-sen0154 即使 他們 在 同一 頁 上 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0155, best cost 47.9695 + 5079.25 = 5127.22 over 268 frames.
+astmic-msi091-sen0155 在 低 階 市 場 佔 有 一 席 之 地 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0156, best cost 39.8534 + 4041.93 = 4081.78 over 218 frames.
+astmic-msi091-sen0156 以及 遠 程 管 理 功能 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0157, best cost 35.3511 + 4308.75 = 4344.1 over 228 frames.
+astmic-msi091-sen0157 文字 為 黑 色 及 灰色 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0158, best cost 47.8809 + 3395.28 = 3443.16 over 178 frames.
+astmic-msi091-sen0158 著 色 品 基礎 錯誤 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0159, best cost 72.4182 + 5266.21 = 5338.63 over 278 frames.
+astmic-msi091-sen0159 輸 出 競爭 激 而 顯現 明 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0160, best cost 77.1082 + 5501.43 = 5578.54 over 288 frames.
+astmic-msi091-sen0160 的 避免 不必 要 的 動 態 興 建 夫 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0161, best cost 57.1492 + 3674.78 = 3731.93 over 198 frames.
+astmic-msi091-sen0161 陳 金 讓 性 能 與 業務 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0162, best cost 50.0461 + 3430.67 = 3480.71 over 188 frames.
+astmic-msi091-sen0162 卻 紛 紛 將 它 納 入 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0163, best cost 76.7986 + 4504.8 = 4581.6 over 238 frames.
+astmic-msi091-sen0163 他 不 使得 講究 完 民間 語言 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0164, best cost 64.9623 + 4129.49 = 4194.45 over 218 frames.
+astmic-msi091-sen0164 服 十分 報 軟 下 的 系統 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0165, best cost 84.2739 + 4672.16 = 4756.43 over 248 frames.
+astmic-msi091-sen0165 事實 的 承 認 人 推 用 型 語言 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0166, best cost 68.1417 + 4219.56 = 4287.7 over 218 frames.
+astmic-msi091-sen0166 林 姓 青 年 的 空 廚 能 呢 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0167, best cost 85.9016 + 5794.1 = 5880 over 298 frames.
+astmic-msi091-sen0167 就 能 滿足 程序 正 全 程 的 想像 力 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0168, best cost 90.9186 + 5420.99 = 5511.91 over 288 frames.
+astmic-msi091-sen0168 群 眾 人 追求 令 人 上 能 完 美 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0169, best cost 113.227 + 7338.05 = 7451.28 over 388 frames.
+astmic-msi091-sen0169 不過 能夠 有 何 刑 形式 年 增 率 讓 人 效果 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0170, best cost 66.9544 + 4312.88 = 4379.84 over 228 frames.
+astmic-msi091-sen0170 地點 確 保 的 潛 能 性 能 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0171, best cost 61.525 + 4647.21 = 4708.73 over 248 frames.
+astmic-msi091-sen0171 雖 這 種 設計 不 便 宜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0172, best cost 89.3646 + 6514.75 = 6604.12 over 348 frames.
+astmic-msi091-sen0172 則 表現 出 加 象 徵 性 能 增 益 幾 幅 度 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0173, best cost 54.7364 + 3806.25 = 3860.99 over 208 frames.
+astmic-msi091-sen0173 這 件 的 可 旅行 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0174, best cost 82.6856 + 6092.61 = 6175.29 over 328 frames.
+astmic-msi091-sen0174 需 加 碼 的 意見 和 圖 形 勢 系統 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0175, best cost 38.088 + 3341.14 = 3379.23 over 178 frames.
+astmic-msi091-sen0175 還有 影響 限制 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0176, best cost 49.2906 + 3120.93 = 3170.22 over 168 frames.
+astmic-msi091-sen0176 對 人 的 業 內 反映 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0177, best cost 57.407 + 4685.74 = 4743.14 over 248 frames.
+astmic-msi091-sen0177 這些 而 設計 方式 之前 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0178, best cost 38.2449 + 3637.4 = 3675.64 over 198 frames.
+astmic-msi091-sen0178 在 有些 情形 下 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0179, best cost 85.592 + 5941.86 = 6027.46 over 318 frames.
+astmic-msi091-sen0179 在 屍 體 現 今 的 疾 而 終 於 的 以後 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0180, best cost 79.9796 + 5841.69 = 5921.67 over 308 frames.
+astmic-msi091-sen0180 如果 你 循 序 愛 藉 著 上 作業 系統 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0181, best cost 71.7226 + 5243.03 = 5314.76 over 278 frames.
+astmic-msi091-sen0181 科學 正 積極 的 著 他 一 班 底 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0182, best cost 83.3708 + 5724.98 = 5808.35 over 308 frames.
+astmic-msi091-sen0182 這 一 家 人 愛 卻 形成 系統 保護 功能 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0183, best cost 67.539 + 5381.33 = 5448.87 over 288 frames.
+astmic-msi091-sen0183 作業 系統 的 選擇 應 將 眼 見 到 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0184, best cost 61.0296 + 3934.68 = 3995.71 over 208 frames.
+astmic-msi091-sen0184 這 推出 量 方面 來 台 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0185, best cost 100.805 + 5822.26 = 5923.06 over 298 frames.
+astmic-msi091-sen0185 並 你 進行 租 金 額 上 億 元 利用 程式 會 出 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0186, best cost 59.3824 + 5066.79 = 5126.17 over 278 frames.
+astmic-msi091-sen0186 那麼 應 選 那 一 中 作業 系統 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0187, best cost 30.6791 + 4439.58 = 4470.26 over 238 frames.
+astmic-msi091-sen0187 還是 相當 困難 和 複雜 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0188, best cost 37.1277 + 3762.68 = 3799.81 over 198 frames.
+astmic-msi091-sen0188 要 提 醒 大家 的是 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0189, best cost 41.8087 + 5731.25 = 5773.06 over 298 frames.
+astmic-msi091-sen0189 不過 若 和 其 教學 程式 相比 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0190, best cost 61.0932 + 4516.13 = 4577.22 over 238 frames.
+astmic-msi091-sen0190 且 下去 選 的 公 道 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0191, best cost 75.1586 + 4763.34 = 4838.5 over 248 frames.
+astmic-msi091-sen0191 便 引 進 出 即 可 取得 前 嗎 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0192, best cost 88.3657 + 5623.81 = 5712.17 over 298 frames.
+astmic-msi091-sen0192 如 火 力 陳 定 南 韓 競爭 成 的 化 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0193, best cost 79.252 + 5601.16 = 5680.41 over 288 frames.
+astmic-msi091-sen0193 不可 避免 陳 金 讓 被 區 了解 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0194, best cost 80.2326 + 5392.07 = 5472.31 over 288 frames.
+astmic-msi091-sen0194 絕 需求 相當 新 年 美 小 卡 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0195, best cost 65.6848 + 4452.06 = 4517.75 over 228 frames.
+astmic-msi091-sen0195 迄 今 的 他 做 完了 價 格 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0196, best cost 54.8455 + 4293.18 = 4348.03 over 228 frames.
+astmic-msi091-sen0196 可能 邀 集 會 著 學習 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0197, best cost 91.5785 + 5706.58 = 5798.16 over 298 frames.
+astmic-msi091-sen0197 並 得 小心 血 可能 瞄 準 畢竟 明顯 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0198, best cost 102.394 + 6123.25 = 6225.65 over 318 frames.
+astmic-msi091-sen0198 公 賣 逃 專 人 聽 成立 乘客 具 象 寫 
+LOG (lattice-best-path:main():lattice-best-path.cc:99) For utterance astmic-msi091-sen0199, best cost 92.6057 + 6319.49 = 6412.09 over 338 frames.
+astmic-msi091-sen0199 必須 送 委 員 股市 其他 為 你 修改 
+LOG (lattice-best-path:main():lattice-best-path.cc:124) Overall cost per frame is 18.6703 = 0.241024 [graph] + 18.4293 [acoustic] over 258730 frames.
+LOG (lattice-best-path:main():lattice-best-path.cc:128) Done 800 lattices, failed for 0

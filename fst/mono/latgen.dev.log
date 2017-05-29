@@ -1,0 +1,1604 @@
+gmm-latgen-faster --beam=13.0 --lattice-beam=6.0 --acoustic-scale=0.1 --word-symbol-table=decode/words.txt exp/mono/final.mdl graph/mono/HCLG.fst ark:feat/dev.39.cmvn.ark ark,t:fst/mono/dev.lat 
+astmic-fsi090-sen0000 即 將來 再 加 碼 放 空 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0000 is -9.44154 over 268 frames.
+astmic-fsi090-sen0001 在 場 內 尚未 情形 從 未 階段 的 情況 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0001 is -9.5766 over 368 frames.
+astmic-fsi090-sen0002 使得 重視 笑 不得 國外 出 叫 苦 連 天 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0002 is -9.7783 over 358 frames.
+astmic-fsi090-sen0003 張 某 爭 的 爆 發 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0003 is -9.16 over 228 frames.
+astmic-fsi090-sen0004 當年 廟 藏 管道 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0004 is -9.49768 over 198 frames.
+astmic-fsi090-sen0005 並 且 還 會 將 修 開 放 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0005 is -9.18018 over 268 frames.
+astmic-fsi090-sen0006 對 黃 志 賢 認為 邊緣 南 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0006 is -9.5549 over 358 frames.
+astmic-fsi090-sen0007 那裡 來 卻 大都 無法 符合 兩 國 中 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0007 is -9.77621 over 258 frames.
+astmic-fsi090-sen0008 不過 尚未 就是 臭 不得 已 廢 止 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0008 is -9.6339 over 278 frames.
+astmic-fsi090-sen0009 能 否 顯現 能 損 失 率 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0009 is -9.63294 over 228 frames.
+astmic-fsi090-sen0010 在 中 思考 企 業 績 中 正 路 附近 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0010 is -9.82291 over 308 frames.
+astmic-fsi090-sen0011 任 期 間 韓國 拉 攏 及 經濟 情勢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0011 is -9.55507 over 368 frames.
+astmic-fsi090-sen0012 警 方 逮 獲 悉 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0012 is -9.39439 over 228 frames.
+astmic-fsi090-sen0013 案 要求 觀點 不 提 早 丟 棄 的 角色 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0013 is -9.85332 over 328 frames.
+astmic-fsi090-sen0014 但 因 出現 來 走 選擇 離 台 獨 奏 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0014 is -9.35968 over 388 frames.
+astmic-fsi090-sen0015 金 馬 獎 三 名 單 力 依 竊 盜 罪 嫌 移 送 法 辦 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0015 is -9.51237 over 398 frames.
+astmic-fsi090-sen0016 大會 最 小 說 出 反應 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0016 is -8.90412 over 318 frames.
+astmic-fsi090-sen0017 無法 開 放 議 不 休 假 現在 身 不夠 提 醒 一下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0017 is -9.50304 over 408 frames.
+astmic-fsi090-sen0018 的 選 委 會 並 未 能 加以 取 締 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0018 is -9.31422 over 358 frames.
+astmic-fsi090-sen0019 大會 存在 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0019 is -9.13061 over 248 frames.
+astmic-fsi090-sen0020 並 於 當時 或是 極 大 筆 錢 嫌 拆 除 暴 漲 升 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0020 is -9.28433 over 508 frames.
+astmic-fsi090-sen0021 警 方 將 引 起 居 間 和 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0021 is -9.11328 over 398 frames.
+astmic-fsi090-sen0022 只是 環 保 持 續 開始 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0022 is -9.24912 over 338 frames.
+astmic-fsi090-sen0023 家 人 報告 書 孫 子 兵 累 得 全面 風 聲 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0023 is -9.4131 over 468 frames.
+astmic-fsi090-sen0024 且 警 方 初步 調 查 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0024 is -9.51067 over 248 frames.
+astmic-fsi090-sen0025 算了 事 類 設備 及 記 者 會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0025 is -9.1846 over 398 frames.
+astmic-fsi090-sen0026 青 春 歲 月 著 規定 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0026 is -9.29797 over 258 frames.
+astmic-fsi090-sen0027 而且 也 地 拷 貝 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0027 is -9.32448 over 248 frames.
+astmic-fsi090-sen0028 縣 府 將 大 賽 前 景 氣 復 會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0028 is -9.5155 over 328 frames.
+astmic-fsi090-sen0029 不過 若 旅行 廢 氣 憤 的 社會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0029 is -8.99332 over 418 frames.
+astmic-fsi090-sen0030 經 歷 了 再說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0030 is -9.01819 over 248 frames.
+astmic-fsi090-sen0031 但 是以 年 度 口 感覺 面積 飛 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0031 is -9.22165 over 348 frames.
+astmic-fsi090-sen0032 希望 大家 為 其 項 目 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0032 is -9.21905 over 278 frames.
+astmic-fsi090-sen0033 心 裡 消 大陸 大陸 他 該 股 成立 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0033 is -9.47401 over 308 frames.
+astmic-fsi090-sen0034 並 對 現代 為 買 設備 缺 失 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0034 is -9.24625 over 358 frames.
+astmic-fsi090-sen0035 發生 路 面 告訴 時 刻 運動 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0035 is -9.17482 over 288 frames.
+astmic-fsi090-sen0036 嚴重 影響 交通 日 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0036 is -8.78507 over 228 frames.
+astmic-fsi090-sen0037 負責 拓 寬 工程 一 本 書 不 具備 全國 拆 除 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0037 is -9.53077 over 458 frames.
+astmic-fsi090-sen0038 人類 早期 的 會 現代 危險 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0038 is -9.22083 over 408 frames.
+astmic-fsi090-sen0039 幾乎 像 推 卸 責 任 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0039 is -9.3877 over 208 frames.
+astmic-fsi090-sen0040 三 商 銀 陰 溝 裡 翻 船 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0040 is -9.57939 over 228 frames.
+astmic-fsi090-sen0041 在 擔心 需求 被 身 手 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0041 is -9.30179 over 248 frames.
+astmic-fsi090-sen0042 並 非 提 上 訴 點 迷 你 聲 納 母 老 輩 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0042 is -9.32136 over 358 frames.
+astmic-fsi090-sen0043 無 所在 週 彩 券 後來 去 上 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0043 is -9.53025 over 288 frames.
+astmic-fsi090-sen0044 的 歷 這 次 共 襄 理 分明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0044 is -9.26815 over 238 frames.
+astmic-fsi090-sen0045 在 相同 性 的 信 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0045 is -9.16155 over 218 frames.
+astmic-fsi090-sen0046 是 無 雖然 被 其 就 立刻 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0046 is -9.23931 over 328 frames.
+astmic-fsi090-sen0047 立刻 今年 六 年 福 利 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0047 is -8.95207 over 298 frames.
+astmic-fsi090-sen0048 即 進行 三 就算 午 餐 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0048 is -9.47863 over 258 frames.
+astmic-fsi090-sen0049 軍 方 生 的 時代 對 他 在 都 其他 目的 性 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0049 is -9.43714 over 438 frames.
+astmic-fsi090-sen0050 為 避免 發生 意外 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0050 is -9.25656 over 248 frames.
+astmic-fsi090-sen0051 大部分 使用 被 調 嗎 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0051 is -9.14768 over 268 frames.
+astmic-fsi090-sen0052 每 來 台 政策 繼續 建 設 法 規定 警 察 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0052 is -9.20417 over 418 frames.
+astmic-fsi090-sen0053 不能 會 跌 的 自然 不得 成 效 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0053 is -9.41357 over 308 frames.
+astmic-fsi090-sen0054 否則 不得 在 家 的 招 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0054 is -9.33686 over 248 frames.
+astmic-fsi090-sen0055 彼此 主 辦 單位 希望 六 比賽 的 機會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0055 is -9.5312 over 358 frames.
+astmic-fsi090-sen0056 最近 在 打開 學習 活動 的 範圍 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0056 is -9.28951 over 398 frames.
+astmic-fsi090-sen0057 達到 全 民 體育 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0057 is -8.52957 over 308 frames.
+astmic-fsi090-sen0058 立 法 委 員 會 的 成立 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0058 is -9.01226 over 238 frames.
+astmic-fsi090-sen0059 由 行政 院 中 最後 幅 度 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0059 is -8.87571 over 308 frames.
+astmic-fsi090-sen0060 四 日 事 是 兄 房 屋 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0060 is -8.8972 over 198 frames.
+astmic-fsi090-sen0061 省 議 員 來 保護 人 能 某個 和 方向 整 鬧 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0061 is -9.66933 over 328 frames.
+astmic-fsi090-sen0062 並 低 檔 的 比賽 立刻 發生 的 抵 達 一 倍 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0062 is -9.3018 over 508 frames.
+astmic-fsi090-sen0063 查 小 組 長 形容 為什麼 進入 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0063 is -9.67479 over 278 frames.
+astmic-fsi090-sen0064 長 追 緝 捕 落 實 施 的 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0064 is -9.11586 over 328 frames.
+astmic-fsi090-sen0065 此 行 目前 密 集 的 分 無法 提 昇 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0065 is -9.35748 over 348 frames.
+astmic-fsi090-sen0066 在 目前 喜歡 發展 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0066 is -9.10884 over 258 frames.
+astmic-fsi090-sen0067 必須 那些 企 業 的 風 貌 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0067 is -8.96988 over 278 frames.
+astmic-fsi090-sen0068 便 是 影響 力 信心 進入 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0068 is -8.95276 over 258 frames.
+astmic-fsi090-sen0069 僅 零 星 能 在 集中 區 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0069 is -9.31491 over 228 frames.
+astmic-fsi090-sen0070 起 出 三 件 進行 著 他 身 受 災 情 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0070 is -9.21513 over 408 frames.
+astmic-fsi090-sen0071 稍 後 國人 教授 任意 抄 報告 功夫 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0071 is -9.3402 over 378 frames.
+astmic-fsi090-sen0072 三 節目 歸 還 能 替 機會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0072 is -9.14604 over 308 frames.
+astmic-fsi090-sen0073 家 長 得 一 系列 不能 不夠 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0073 is -9.07211 over 298 frames.
+astmic-fsi090-sen0074 同時 恢復 反映 其 整理 的 委 會 將 伯 經常 情形 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0074 is -9.36389 over 478 frames.
+astmic-fsi090-sen0075 心 中 山 監 獄 昨 天 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0075 is -9.14974 over 278 frames.
+astmic-fsi090-sen0076 歷史 的 可以 檢查 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0076 is -9.2166 over 218 frames.
+astmic-fsi090-sen0077 在 進行 戒 備 檢查 百 餘 件 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0077 is -9.23673 over 258 frames.
+astmic-fsi090-sen0078 將 單位 集 體 力 進行 年 名 刑 警 覺 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0078 is -9.28806 over 348 frames.
+astmic-fsi090-sen0079 雖然 仍 無法 腦海 追 究 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0079 is -9.13102 over 278 frames.
+astmic-fsi090-sen0080 的 回 家 人 以色列 發現 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0080 is -8.96748 over 258 frames.
+astmic-fsi090-sen0081 泰 國 的 已經 時期 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0081 is -9.03494 over 228 frames.
+astmic-fsi090-sen0082 書 架 的 美 訓練 為 數 不 上 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0082 is -9.43684 over 248 frames.
+astmic-fsi090-sen0083 對方 無法 引 少數 加 速 責 任 主 將 單位 會 物 品 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0083 is -9.16559 over 548 frames.
+astmic-fsi090-sen0084 幾乎 人員 已經 設備 財 政 臨 檢查 如此 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0084 is -9.31123 over 388 frames.
+astmic-fsi090-sen0085 會 提 升 學 腦海 不 密 集 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0085 is -9.01417 over 318 frames.
+astmic-fsi090-sen0086 在 堅 稱 反映 系列 活動 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0086 is -9.07374 over 268 frames.
+astmic-fsi090-sen0087 對 葉 姓 名 家 長 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0087 is -9.12332 over 198 frames.
+astmic-fsi090-sen0088 並 非 法 入 消息 面 尷尬 拒 收 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0088 is -9.24005 over 328 frames.
+astmic-fsi090-sen0089 對 現在 的 的 幕後 六 示 威 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0089 is -9.16233 over 358 frames.
+astmic-fsi090-sen0090 來不及 著手 進行 強 力 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0090 is -9.19256 over 358 frames.
+astmic-fsi090-sen0091 遭 環境 的 三 年 國 建 計 劃 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0091 is -9.29821 over 308 frames.
+astmic-fsi090-sen0092 被 起 訴 截 然 目前 流 情形 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0092 is -9.14833 over 398 frames.
+astmic-fsi090-sen0093 減少 範圍 建立 的 幾乎 認 領 導 飛 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0093 is -9.32874 over 358 frames.
+astmic-fsi090-sen0094 法 務 部 長 利用 外 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0094 is -8.88564 over 248 frames.
+astmic-fsi090-sen0095 遭 至少 利 息 負 擔 任 射 箭 頭 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0095 is -9.01543 over 368 frames.
+astmic-fsi090-sen0096 舟 競 賽 視 訊 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0096 is -8.85988 over 258 frames.
+astmic-fsi090-sen0097 林 立 套 牢 居 民 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0097 is -8.81063 over 248 frames.
+astmic-fsi090-sen0098 就 並 與 家 鄉 鎮 組織 會 吧 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0098 is -9.40619 over 348 frames.
+astmic-fsi090-sen0099 並 系列 參觀 於 去年 老 民間 民 眾 年輕 其中 行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0099 is -9.33809 over 508 frames.
+astmic-fsi090-sen0100 致 引 起 了 政府 有關 單位 的 走 勢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0100 is -9.25376 over 408 frames.
+astmic-fsi090-sen0101 表示 將 推出 被 家 屬 方面 婦 發生 於 畫面 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0101 is -9.30385 over 498 frames.
+astmic-fsi090-sen0102 並 變成 又 開始 的 塞 入 會 有限 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0102 is -9.12761 over 448 frames.
+astmic-fsi090-sen0103 林 柏 榕 修理 費 的 評 價 複雜 並 範圍 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0103 is -9.16847 over 448 frames.
+astmic-fsi090-sen0104 其 家 屬 在 旅 社 報導 並 非 抵 達 事實 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0104 is -8.98677 over 528 frames.
+astmic-fsi090-sen0105 業 者 與 還是 的 深入 福 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0105 is -9.10525 over 278 frames.
+astmic-fsi090-sen0106 你 掃 必須 幾乎 自 由 呼 叫 危險 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0106 is -9.45903 over 398 frames.
+astmic-fsi090-sen0107 自 小 評 價 住 宅 被 查 獲 在 辦法 辦 理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0107 is -9.11081 over 438 frames.
+astmic-fsi090-sen0108 並 銀行 貸 款 並 非 之 情 事 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0108 is -8.88314 over 328 frames.
+astmic-fsi090-sen0109 其 餘 並 非 只 剩 事實 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0109 is -9.06422 over 288 frames.
+astmic-fsi090-sen0110 政府 處理 口 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0110 is -9.06318 over 208 frames.
+astmic-fsi090-sen0111 且 改變 能夠 在 可 女 地區 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0111 is -9.09211 over 308 frames.
+astmic-fsi090-sen0112 將 立 即 直接 危 害 加成 保證 門 口 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0112 is -9.49238 over 418 frames.
+astmic-fsi090-sen0113 並 在 天 在 家 裡 的 作 怎不 令 全部 出現 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0113 is -9.23644 over 478 frames.
+astmic-fsi090-sen0114 全 家 程式 及 陳 茂 搶 嫌 不 足 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0114 is -9.42248 over 358 frames.
+astmic-fsi090-sen0115 兩 人 付 出 營 業 員 都 可 進入 滿 載 積極 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0115 is -9.32174 over 428 frames.
+astmic-fsi090-sen0116 理想 心 生 畏 懼 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0116 is -9.00857 over 248 frames.
+astmic-fsi090-sen0117 所得 錢 念 不 該 賭 場 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0117 is -9.32452 over 218 frames.
+astmic-fsi090-sen0118 能 與 警 察 交 款 附近 警 方 有利 情勢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0118 is -9.40548 over 398 frames.
+astmic-fsi090-sen0119 豐 原 警 分 局 刑 事 組 累 積 操作 例 行 銷 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0119 is -9.13247 over 468 frames.
+astmic-fsi090-sen0120 所以 效果 近 日 於 四月 交 國 民 大會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0120 is -9.24835 over 368 frames.
+astmic-fsi090-sen0121 緊張 情勢 逆 管 理 的 評 價 了 酒 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0121 is -9.29315 over 398 frames.
+astmic-fsi090-sen0122 並 省 府 說法 無法 深 恐 將 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0122 is -9.55166 over 278 frames.
+astmic-fsi090-sen0123 危險 的 時期 廢 止 的 當場 報 請 改善 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0123 is -9.23653 over 458 frames.
+astmic-fsi090-sen0124 措 施 以 加 盟 回 干擾 看 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0124 is -9.20156 over 318 frames.
+astmic-fsi090-sen0125 自 強 路 是 肇事 傾 倒 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0125 is -9.1439 over 298 frames.
+astmic-fsi090-sen0126 並 事先 過 度 傷 重 不 治 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0126 is -9.03495 over 298 frames.
+astmic-fsi090-sen0127 警 方 立 政治 的 考 察 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0127 is -9.23653 over 258 frames.
+astmic-fsi090-sen0128 比較 修憲 國 居 民 當場 逮 捕 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0128 is -9.22665 over 348 frames.
+astmic-fsi090-sen0129 縣 議 比賽 進行 計算 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0129 is -9.26502 over 338 frames.
+astmic-fsi090-sen0130 中華 民 國 作為 推 動 態 性 外交 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0130 is -9.60882 over 338 frames.
+astmic-fsi090-sen0131 歸 省 府 遲 未 家 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0131 is -9.18024 over 238 frames.
+astmic-fsi090-sen0132 進行 年 間 被 捕 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0132 is -8.96178 over 218 frames.
+astmic-fsi090-sen0133 並 不能 報告 須 繼續 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0133 is -9.19281 over 248 frames.
+astmic-fsi090-sen0134 最近 年 方向 法律 了 及 開 的 無 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0134 is -9.25743 over 448 frames.
+astmic-fsi090-sen0135 反 六 輕 組織 在 台 的 經濟 靠 著 行 動 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0135 is -9.31495 over 418 frames.
+astmic-fsi090-sen0136 再度 期 間 風 景 區 觀察 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0136 is -9.31065 over 308 frames.
+astmic-fsi090-sen0137 台 中 縣 府 將 成立 典 型 的 反 六 輕 組織 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0137 is -9.1228 over 468 frames.
+astmic-fsi090-sen0138 才 建議 父 母 親 的 行 列 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0138 is -8.88193 over 328 frames.
+astmic-fsi090-sen0139 並 起 出 賣 烤 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0139 is -8.9407 over 248 frames.
+astmic-fsi090-sen0140 警 方 查 工作 人員 近 百 並 非 三 名 之後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0140 is -9.28033 over 448 frames.
+astmic-fsi090-sen0141 年 初 的 對 時 許 可 確定 是 地區 虎 頭 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0141 is -9.25307 over 458 frames.
+astmic-fsi090-sen0142 但 是否 會 進 口 整理 形 的 事 故 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0142 is -9.17584 over 368 frames.
+astmic-fsi090-sen0143 政黨 進一步 查 驚 小 怪 救 急 救 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0143 is -9.0815 over 448 frames.
+astmic-fsi090-sen0144 警 方 臨 檢查 獲 在 縣 長 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0144 is -9.46425 over 298 frames.
+astmic-fsi090-sen0145 雖然 以往 處理 私 進 口 整理 形 的 市府 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0145 is -9.14668 over 468 frames.
+astmic-fsi090-sen0146 且 修憲 留學 強 烈 承 認 時期 所 為 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0146 is -9.25833 over 458 frames.
+astmic-fsi090-sen0147 才能 偵 訊 時 則 為 進 口 整理 之 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0147 is -9.30978 over 368 frames.
+astmic-fsi090-sen0148 這 篇 小 說 是 視 訊 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0148 is -8.77733 over 298 frames.
+astmic-fsi090-sen0149 警 政 署 在 這個 名 單 已經 知道 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0149 is -9.22824 over 358 frames.
+astmic-fsi090-sen0150 而 未來 看法 引 起 起 了 一 日 起 即 隨機 大 攤 位 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0150 is -9.37561 over 508 frames.
+astmic-fsi090-sen0151 作為 時代 在 進行 中 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0151 is -8.9514 over 298 frames.
+astmic-fsi090-sen0152 密 集 的 民俗 在 早就 後 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0152 is -9.36244 over 328 frames.
+astmic-fsi090-sen0153 郝 柏 村 業 在 缺 乏 民 指出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0153 is -9.06212 over 328 frames.
+astmic-fsi090-sen0154 他 得到 自己 心 情 感 建立 民 服務 品 質 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0154 is -9.1635 over 458 frames.
+astmic-fsi090-sen0155 經 檢 調 住 民 自 覺 原則 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0155 is -8.97789 over 338 frames.
+astmic-fsi090-sen0156 密 集 的 民俗 在 法 人 機構 指出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0156 is -9.1755 over 348 frames.
+astmic-fsi090-sen0157 才 前 途 的 製 作 人 民 的 意 願 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0157 is -9.14533 over 338 frames.
+astmic-fsi090-sen0158 對 郝 院 長 在 全 民 的 權 利 金 額 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0158 is -9.07198 over 368 frames.
+astmic-fsi090-sen0159 並 時間 里 民 主 體 則 為 保護 自己 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0159 is -9.10221 over 428 frames.
+astmic-fsi090-sen0160 臨 時 會 的 參 選 工作 將 會 鬧 得 不可 收 拾 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0160 is -9.28822 over 408 frames.
+astmic-fsi090-sen0161 儘 管 理 者 能 獲得 極 力 發 電 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0161 is -9.15665 over 308 frames.
+astmic-fsi090-sen0162 在 進步 或 資 深 國 代 的 強 力 精緻 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0162 is -9.12927 over 388 frames.
+astmic-fsi090-sen0163 最近 自 休 條件 下 探 望 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0163 is -9.72281 over 278 frames.
+astmic-fsi090-sen0164 陳 姓 望 於 近 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0164 is -9.29508 over 208 frames.
+astmic-fsi090-sen0165 互相 分 的 星期 日 球 直接 指出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0165 is -9.33247 over 368 frames.
+astmic-fsi090-sen0166 另 一方面 輸入 斗 六 表 決 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0166 is -9.24624 over 278 frames.
+astmic-fsi090-sen0167 乃 行政 院 會 員 學習 背 信 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0167 is -9.11193 over 308 frames.
+astmic-fsi090-sen0168 利 率 了 當時 啟 智 學校 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0168 is -9.19953 over 298 frames.
+astmic-fsi090-sen0169 雖 其 兼 任 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0169 is -9.40408 over 178 frames.
+astmic-fsi090-sen0170 其中 任何 答 覆 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0170 is -8.94096 over 198 frames.
+astmic-fsi090-sen0171 面對 這 種 晶片 兩 來 的 交通 局 面 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0171 is -9.46569 over 418 frames.
+astmic-fsi090-sen0172 或是 使 恢復 民俗 早 操 守 老 家 人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0172 is -9.77276 over 388 frames.
+astmic-fsi090-sen0173 四 位 流 標 繼續 流 在 香 港 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0173 is -9.55596 over 328 frames.
+astmic-fsi090-sen0174 在 政府 的 內 現 實 世界 如此 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0174 is -9.50164 over 328 frames.
+astmic-fsi090-sen0175 在 需求 無法 如 開始 三 名 員 警 的 機會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0175 is -9.5818 over 428 frames.
+astmic-fsi090-sen0176 但 我 政府 政策 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0176 is -9.35114 over 198 frames.
+astmic-fsi090-sen0177 對 此 事件 的 營 業 目標 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0177 is -9.45006 over 228 frames.
+astmic-fsi090-sen0178 未來 將 組合 處理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0178 is -9.6277 over 208 frames.
+astmic-fsi090-sen0179 是否 決定 將 紅 十 字 會 繼續 進行 公 佈 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0179 is -9.69981 over 408 frames.
+astmic-fsi090-sen0180 其 隨便 併 國 統 會 的 歸 結 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0180 is -9.57774 over 328 frames.
+astmic-fsi090-sen0181 景 氣 政治 上 的 小 整理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0181 is -9.55564 over 318 frames.
+astmic-fsi090-sen0182 地方 露 飛 入 員 隨 即 拆 除 一般 相信 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0182 is -9.51006 over 378 frames.
+astmic-fsi090-sen0183 自殺 或是 外 的 歷史 負責 為 是 省 府 不好 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0183 is -9.6148 over 448 frames.
+astmic-fsi090-sen0184 兒 子 福 的 經濟 及 灰色 為 其 加以 婦 人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0184 is -9.64824 over 378 frames.
+astmic-fsi090-sen0185 認為 只是 露 會 員 接 獲 失真 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0185 is -9.57595 over 308 frames.
+astmic-fsi090-sen0186 會 刪 除 得了 業務 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0186 is -9.24287 over 208 frames.
+astmic-fsi090-sen0187 除非 加 現代 提 出 的 任意 願 透 露 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0187 is -9.63789 over 318 frames.
+astmic-fsi090-sen0188 好像 無法 人士 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0188 is -9.69544 over 198 frames.
+astmic-fsi090-sen0189 大家 都 以為 場 中立 很 長 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0189 is -9.80935 over 258 frames.
+astmic-fsi090-sen0190 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0190 is -8.57316 over 48 frames.
+astmic-fsi090-sen0191 在 的 勢 必 會 的 進 場 拉 長 們 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0191 is -9.84482 over 278 frames.
+astmic-fsi090-sen0192 資料 照 顧 原則 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0192 is -9.61245 over 188 frames.
+astmic-fsi090-sen0193 內 吸 食 品 雖 見 變 淡 薄 福 利 賣 海 衝 突 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0193 is -9.59619 over 398 frames.
+astmic-fsi090-sen0194 他們 重新 男 人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0194 is -9.51557 over 188 frames.
+astmic-fsi090-sen0195 接著 一 家 口 的 中國 在 源 豐富 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0195 is -9.5186 over 328 frames.
+astmic-fsi090-sen0196 雖 搜 查 理 條 例 白白 住 家 長 遠 的 上面 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0196 is -9.75237 over 468 frames.
+astmic-fsi090-sen0197 他們 接著 在 結構 年 翻 箱 倒 櫃 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0197 is -9.60191 over 368 frames.
+astmic-fsi090-sen0198 門 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0198 is -8.37238 over 448 frames.
+astmic-fsi090-sen0199 再 提 昇 民間 美 刑 責 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi090-sen0199 is -9.70676 over 198 frames.
+astmic-fsi091-sen0000 並 在 今年 立 委 子 則 人 民 的 人 情 提高 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0000 is -9.3331 over 508 frames.
+astmic-fsi091-sen0001 在 推 薦 即 將 紅色 早 起 全 民 的 買 單 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0001 is -9.40269 over 478 frames.
+astmic-fsi091-sen0002 他們 大多 另 闢 在 會 得 之後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0002 is -9.39369 over 418 frames.
+astmic-fsi091-sen0003 就 小學 的 樂 迷 迷 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0003 is -8.9897 over 288 frames.
+astmic-fsi091-sen0004 將 可 清楚 掌握 資訊 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0004 is -9.35557 over 368 frames.
+astmic-fsi091-sen0005 台 歷史 選擇 和 常 開車 歷史 二 年 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0005 is -9.26092 over 508 frames.
+astmic-fsi091-sen0006 太太 指 揮 兼 採 訪 人員 份 子 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0006 is -9.36614 over 408 frames.
+astmic-fsi091-sen0007 恢復 顯示 器 時 垃圾 於 今年 的 好 幾次 大 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0007 is -9.45118 over 608 frames.
+astmic-fsi091-sen0008 該 時期 上下 跨越 二 百 命 運 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0008 is -9.02455 over 448 frames.
+astmic-fsi091-sen0009 因此 在 曲 目 上 捕 魚 歸 犯 行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0009 is -9.3759 over 408 frames.
+astmic-fsi091-sen0010 單位 申請 人員 指出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0010 is -9.01274 over 358 frames.
+astmic-fsi091-sen0011 並 且 率 家 中 行政 訴 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0011 is -9.27264 over 358 frames.
+astmic-fsi091-sen0012 只要 他們 是 我 有利 代課 治 療 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0012 is -9.2359 over 448 frames.
+astmic-fsi091-sen0013 但 有 可能 愈 趨 勢 的 結構 說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0013 is -9.48434 over 388 frames.
+astmic-fsi091-sen0014 實在 很 難以想像 區 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0014 is -9.29027 over 298 frames.
+astmic-fsi091-sen0015 而且 藉 著 報導 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0015 is -9.23445 over 298 frames.
+astmic-fsi091-sen0016 尤其 限制 未 深入 取得 重視 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0016 is -9.60817 over 388 frames.
+astmic-fsi091-sen0017 對 神 卻 呼籲 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0017 is -9.23832 over 248 frames.
+astmic-fsi091-sen0018 希望 將 在 主 動 提供 實 乃 將 林 戉 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0018 is -9.56895 over 478 frames.
+astmic-fsi091-sen0019 後來 他們 居 民 不 了解 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0019 is -9.62824 over 328 frames.
+astmic-fsi091-sen0020 便 內容 較 外 出 得 這個 陳 振 明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0020 is -9.53365 over 398 frames.
+astmic-fsi091-sen0021 彼此 維持 針對 他 外 投 資 深 的 以 紐約 感 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0021 is -9.75402 over 498 frames.
+astmic-fsi091-sen0022 畢竟 被 美國 人 政府 的 自 備 感 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0022 is -9.34848 over 428 frames.
+astmic-fsi091-sen0023 可是 區 代表 獎 金 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0023 is -9.1921 over 308 frames.
+astmic-fsi091-sen0024 且 交 表示 他 逃 避 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0024 is -9.36614 over 328 frames.
+astmic-fsi091-sen0025 自 備 表示 逃 離 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0025 is -9.17047 over 298 frames.
+astmic-fsi091-sen0026 中國 演 出 了 全 世界 最 擔 任 李 女 害 人 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0026 is -9.5285 over 538 frames.
+astmic-fsi091-sen0027 彼此 切 換 至 影響 可 小 丑 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0027 is -9.36442 over 418 frames.
+astmic-fsi091-sen0028 真正 要 帶 動 幾個 大家 國內 的 發揮 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0028 is -9.57374 over 478 frames.
+astmic-fsi091-sen0029 恐怕 開始 一個 非常 重 量 的 著 力 點 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0029 is -9.47898 over 518 frames.
+astmic-fsi091-sen0030 考慮 立刻 形 象 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0030 is -9.48758 over 248 frames.
+astmic-fsi091-sen0031 並 手 效率 降低 政府 路線 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0031 is -9.58432 over 408 frames.
+astmic-fsi091-sen0032 才 亟 待 世界 上 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0032 is -9.81297 over 248 frames.
+astmic-fsi091-sen0033 但 在 交通 工具 需求 則 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0033 is -9.62387 over 388 frames.
+astmic-fsi091-sen0034 並 在 街頭 假 日 一 秘 書 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0034 is -9.51353 over 318 frames.
+astmic-fsi091-sen0035 才 亟 待 將 倒是 由於 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0035 is -9.61659 over 278 frames.
+astmic-fsi091-sen0036 原 料 供 明年 中文 版 權 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0036 is -9.6407 over 308 frames.
+astmic-fsi091-sen0037 政府 實 施 油 品 配 小時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0037 is -9.38528 over 338 frames.
+astmic-fsi091-sen0038 則 是 瀏覽 配 高興 明顯 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0038 is -9.48609 over 328 frames.
+astmic-fsi091-sen0039 全面 跳 這個 學習 呈 報 紙 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0039 is -9.63797 over 388 frames.
+astmic-fsi091-sen0040 毛 高 文 不 在 新 來 透過 修 法 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0040 is -9.46711 over 458 frames.
+astmic-fsi091-sen0041 基 於 規定 所 代 修憲 明顯 一面 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0041 is -9.25704 over 448 frames.
+astmic-fsi091-sen0042 不 料 鞋 子 是 有關 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0042 is -9.30795 over 298 frames.
+astmic-fsi091-sen0043 因 蔡 世 將 造成 必須 關 預 測 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0043 is -9.58105 over 398 frames.
+astmic-fsi091-sen0044 除 國立 編 譯 館 配合 政策 使用 的 教科書 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0044 is -9.52062 over 548 frames.
+astmic-fsi091-sen0045 雖然 動 手 學校 學習 能力 之外 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0045 is -9.40033 over 458 frames.
+astmic-fsi091-sen0046 只要 學生 也 要 建立 不 合理 將 其 制 度 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0046 is -9.35737 over 508 frames.
+astmic-fsi091-sen0047 自 為 學生 是否 可 連 皮 癢 而 急 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0047 is -9.30319 over 418 frames.
+astmic-fsi091-sen0048 中 教 司 草 迄 今 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0048 is -9.13842 over 408 frames.
+astmic-fsi091-sen0049 年 漂亮 基本 學生 生活 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0049 is -9.36081 over 358 frames.
+astmic-fsi091-sen0050 工程 以前 的 有 看 守 人員 自己 來 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0050 is -9.13288 over 488 frames.
+astmic-fsi091-sen0051 東 吉 燈 塔 位 遇到 上 醉 倒 閉 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0051 is -9.24833 over 408 frames.
+astmic-fsi091-sen0052 他 表示 而 提 起 公 名詞 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0052 is -9.2648 over 328 frames.
+astmic-fsi091-sen0053 代表 刺 死 了 公路 之 道 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0053 is -9.44789 over 368 frames.
+astmic-fsi091-sen0054 東 吉 燈 塔 企 業 就 在 百 多 拼命 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0054 is -9.44438 over 478 frames.
+astmic-fsi091-sen0055 其 最 黨 的 休閒 娛樂 就是 交 易 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0055 is -9.02151 over 468 frames.
+astmic-fsi091-sen0056 並 與 得 知 大陸 思 潮 的 高 抬 頭 台 演 出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0056 is -9.38087 over 538 frames.
+astmic-fsi091-sen0057 並 且 表示 他 是 福 建 人 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0057 is -9.25179 over 348 frames.
+astmic-fsi091-sen0058 警 探 族 兼 任 立 法 院 治 的 力 量 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0058 is -9.26223 over 418 frames.
+astmic-fsi091-sen0059 他 感 到 非常 流利 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0059 is -9.16833 over 308 frames.
+astmic-fsi091-sen0060 南 市 議 會 達 萬 人 華 勒 有 鑑 於 的 結果 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0060 is -9.37846 over 558 frames.
+astmic-fsi091-sen0061 中 共 武 力 為 他 瓦 斯 的 人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0061 is -9.32551 over 358 frames.
+astmic-fsi091-sen0062 他 如果 不斷 有利 危險 探 望 人士 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0062 is -9.6281 over 428 frames.
+astmic-fsi091-sen0063 但是 他 賣 壓 力 危險 中國 的 釐 清 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0063 is -9.48808 over 448 frames.
+astmic-fsi091-sen0064 當然 失 控 盤 將 行 為 不 驚 人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0064 is -9.5111 over 398 frames.
+astmic-fsi091-sen0065 我們 竊 盜 林 不會 從來 實 施 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0065 is -9.35324 over 428 frames.
+astmic-fsi091-sen0066 但是 繳 交 立 的 危險 卻 也 不能 明白 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0066 is -9.40698 over 508 frames.
+astmic-fsi091-sen0067 難 避免 有利 來 出 茂 盛 名 稱 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0067 is -9.37654 over 408 frames.
+astmic-fsi091-sen0068 查 獲 的 自 為 逃 離 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0068 is -9.66198 over 278 frames.
+astmic-fsi091-sen0069 代表 李 各種 了 的 子 圍 毆 強 康 民 主 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0069 is -9.5254 over 548 frames.
+astmic-fsi091-sen0070 國際 表現 軍 說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0070 is -9.10807 over 268 frames.
+astmic-fsi091-sen0071 主要 是 針對 經常 從 歷史 國際 艘 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0071 is -9.65399 over 448 frames.
+astmic-fsi091-sen0072 海 外 旅遊 的 過了 受 損 及 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0072 is -9.16786 over 348 frames.
+astmic-fsi091-sen0073 就 可 直 撥 對方 的 號碼 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0073 is -9.62598 over 308 frames.
+astmic-fsi091-sen0074 彼此 超過 建 學生 抱 出 日 內 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0074 is -9.51389 over 398 frames.
+astmic-fsi091-sen0075 無法 插 入 黃金 市 了 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0075 is -9.39122 over 298 frames.
+astmic-fsi091-sen0076 使用 人 質 詢 及 九 日 內 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0076 is -9.20263 over 388 frames.
+astmic-fsi091-sen0077 百 姓 學生 帶 陣 卡 片 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0077 is -9.23327 over 338 frames.
+astmic-fsi091-sen0078 所以 他 便 可 見 追 價 人士 了 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0078 is -9.46006 over 428 frames.
+astmic-fsi091-sen0079 否則 別人 柯 林 兩 里 的 密 碼 打電話 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0079 is -9.22652 over 528 frames.
+astmic-fsi091-sen0080 並 就是 一個 好 黨 的 打 擊 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0080 is -9.3778 over 378 frames.
+astmic-fsi091-sen0081 避 開 出 進入 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0081 is -9.54967 over 258 frames.
+astmic-fsi091-sen0082 人 民 眾 六 比 她 的 嗜 好 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0082 is -9.60965 over 298 frames.
+astmic-fsi091-sen0083 只 要不 自 侵 入 境 如此 台 前 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0083 is -9.34199 over 428 frames.
+astmic-fsi091-sen0084 有時候 說 目前 實 施 威 銘 的 一 部分 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0084 is -9.5724 over 448 frames.
+astmic-fsi091-sen0085 加 入 三 發動 表現 不 重 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0085 is -9.65665 over 348 frames.
+astmic-fsi091-sen0086 避 開 在 彥 如此 肩 露 出 一 家 不 符 所 澄 清 淡 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0086 is -9.60474 over 568 frames.
+astmic-fsi091-sen0087 待 秋 報 年 被 成長 昏 迷 不得 和 損 失 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0087 is -9.65251 over 548 frames.
+astmic-fsi091-sen0088 他 覺得 自己 是 世界 最 強 的 學校 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0088 is -9.51273 over 468 frames.
+astmic-fsi091-sen0089 且 當場 違 背 著 目前 陷 入 仍 可 期 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0089 is -9.3097 over 458 frames.
+astmic-fsi091-sen0090 李 總 統 已經 講 師 見 他 發給 與 會 人士 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0090 is -9.60376 over 518 frames.
+astmic-fsi091-sen0091 他 增加 金融 年輕 男 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0091 is -9.56098 over 258 frames.
+astmic-fsi091-sen0092 待 遇 各 界 所 提 出 的 位置 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0092 is -9.53593 over 358 frames.
+astmic-fsi091-sen0093 李 總 統 過了 乘客 的 答 覆 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0093 is -9.79059 over 358 frames.
+astmic-fsi091-sen0094 經 重新 的 有些 被 早 在 勞 委 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0094 is -9.63928 over 478 frames.
+astmic-fsi091-sen0095 李 總 統 出 利用 窄 小的 地區 在 基 層 的 森林 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0095 is -9.79804 over 548 frames.
+astmic-fsi091-sen0096 同時 在 先 行 夏 潮 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0096 is -9.47526 over 328 frames.
+astmic-fsi091-sen0097 年 梁 老 出現 合理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0097 is -9.52261 over 288 frames.
+astmic-fsi091-sen0098 至於 類似 沒有 彼此 議 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0098 is -9.26806 over 288 frames.
+astmic-fsi091-sen0099 扭 力 大 賽 後 座 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0099 is -9.66322 over 278 frames.
+astmic-fsi091-sen0100 該 中心 讓 柴 松 廢 止 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0100 is -9.70301 over 298 frames.
+astmic-fsi091-sen0101 他 母 親 自 上 思考 被 種類 二 倍 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0101 is -9.70668 over 428 frames.
+astmic-fsi091-sen0102 但 可以 負 對 象 徵 召 開 入 顯示 二 人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0102 is -9.35646 over 478 frames.
+astmic-fsi091-sen0103 對 象 數 量 朝 野 贈 賄 修改 則 表示 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0103 is -9.76214 over 498 frames.
+astmic-fsi091-sen0104 否則 將 沒有 銷 毀 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0104 is -9.47751 over 308 frames.
+astmic-fsi091-sen0105 翻 來 及 三 瓶 年 沉 穩 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0105 is -9.46046 over 278 frames.
+astmic-fsi091-sen0106 對 轄 市 區 是 被 認為 小 組 指出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0106 is -9.91217 over 368 frames.
+astmic-fsi091-sen0107 指 標 自 備 被 業 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0107 is -9.5436 over 288 frames.
+astmic-fsi091-sen0108 例如 村 里 民 族 校園 內 憂 外 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0108 is -9.67328 over 378 frames.
+astmic-fsi091-sen0109 事業 及 調 戲 了 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0109 is -9.3207 over 278 frames.
+astmic-fsi091-sen0110 施 威 銘 進入 大 有效 否 認 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0110 is -9.60003 over 378 frames.
+astmic-fsi091-sen0111 雖然 有 執 政黨 欠缺 領 到 撫 選 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0111 is -9.7012 over 428 frames.
+astmic-fsi091-sen0112 仍 需 在 選 民 對 他 不 休息 的 展開 向 改變 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0112 is -9.76513 over 488 frames.
+astmic-fsi091-sen0113 倘 若 還 承 辦 券 銷 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0113 is -9.58933 over 318 frames.
+astmic-fsi091-sen0114 而且 小的 昶 榮 航空 教育 業 中心 術 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0114 is -9.54197 over 508 frames.
+astmic-fsi091-sen0115 對 常 露 航空 未來 的 發展 來 出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0115 is -9.54866 over 418 frames.
+astmic-fsi091-sen0116 小 姐 得 手 逃 證 據 的 限制 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0116 is -9.67938 over 378 frames.
+astmic-fsi091-sen0117 朝 黃 寬 方面 全 世界 償 債 權 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0117 is -9.43187 over 498 frames.
+astmic-fsi091-sen0118 不 最 強 的 目標 買 進 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0118 is -9.45181 over 328 frames.
+astmic-fsi091-sen0119 查 獲 恐 嚇 災害 枯 竭 誠 如 石 油 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0119 is -9.62449 over 448 frames.
+astmic-fsi091-sen0120 但 結果 大多 認為 三 人 一 舉 行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0120 is -9.45938 over 408 frames.
+astmic-fsi091-sen0121 中 球 員 影響 他們 與 他 毛 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0121 is -9.4896 over 328 frames.
+astmic-fsi091-sen0122 此 次 年 的 父 親 成立 再說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0122 is -9.50687 over 388 frames.
+astmic-fsi091-sen0123 此 次 理 事 長 沒 多 久 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0123 is -9.69855 over 308 frames.
+astmic-fsi091-sen0124 顯然 好 只是 內 部 設備 項 目 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0124 is -9.44691 over 378 frames.
+astmic-fsi091-sen0125 北 京 區 開 發 包 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0125 is -9.23782 over 238 frames.
+astmic-fsi091-sen0126 繞 境 相當 器 材 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0126 is -9.83716 over 248 frames.
+astmic-fsi091-sen0127 中 常 委 員 的 累 累 者 所 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0127 is -9.36281 over 308 frames.
+astmic-fsi091-sen0128 家 人 曾 讓 大 尷尬 角色 死 刑 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0128 is -9.32755 over 428 frames.
+astmic-fsi091-sen0129 從 雖 週 週 三 人 來 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0129 is -9.75464 over 258 frames.
+astmic-fsi091-sen0130 巴格達 電 台 指出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0130 is -9.31187 over 288 frames.
+astmic-fsi091-sen0131 將 車子 雖 曾 勞 作 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0131 is -9.39014 over 328 frames.
+astmic-fsi091-sen0132 多 國 部 隊 曾 向 伊拉克 各 城市 美 的 被 兒 女 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0132 is -9.58082 over 518 frames.
+astmic-fsi091-sen0133 角色 率 為 教學 目標 發 射 砲 彈 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0133 is -9.80252 over 408 frames.
+astmic-fsi091-sen0134 他們 只 針對 軍 事 與 其他 戰 略 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0134 is -9.72809 over 408 frames.
+astmic-fsi091-sen0135 位置 實 施 轟 炸 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0135 is -9.49027 over 268 frames.
+astmic-fsi091-sen0136 避免 三 集中 在 質 疑 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0136 is -9.23764 over 288 frames.
+astmic-fsi091-sen0137 伊拉克 曾 報導 說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0137 is -9.4072 over 278 frames.
+astmic-fsi091-sen0138 多 國 部 隊 曾 向 伊拉克 各 城市 為 地 被 流 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0138 is -9.47806 over 548 frames.
+astmic-fsi091-sen0139 角色 率 恢復 教學 目標 發 射 砲 彈 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0139 is -9.67994 over 448 frames.
+astmic-fsi091-sen0140 必要 在 談話 備 受 理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0140 is -9.75495 over 308 frames.
+astmic-fsi091-sen0141 報 仍然 認為 女 處理 器 內 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0141 is -9.51982 over 298 frames.
+astmic-fsi091-sen0142 並 未 中 任何 承 諾 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0142 is -9.45428 over 268 frames.
+astmic-fsi091-sen0143 並 仍 在 看好 備 受 理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0143 is -9.41046 over 328 frames.
+astmic-fsi091-sen0144 的 仍然 認為 嬰 兒 撞 球 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0144 is -9.45992 over 308 frames.
+astmic-fsi091-sen0145 他 表示 不能 民間 效 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0145 is -9.52299 over 278 frames.
+astmic-fsi091-sen0146 還是 有 立 委 及 休閒 好 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0146 is -9.39534 over 348 frames.
+astmic-fsi091-sen0147 陳水扁 則 認為 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0147 is -9.27786 over 258 frames.
+astmic-fsi091-sen0148 勉 強 盜 等 自 寫 方式 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0148 is -9.86699 over 288 frames.
+astmic-fsi091-sen0149 不可能 接受 這 種 修憲 辦法 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0149 is -9.63888 over 388 frames.
+astmic-fsi091-sen0150 或者 是 不 了 在 的 台 體 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0150 is -9.64875 over 328 frames.
+astmic-fsi091-sen0151 都 說 他 讓 執行 走 之後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0151 is -9.58524 over 348 frames.
+astmic-fsi091-sen0152 大陸 較 高 潮 到 三 歲 的 人士 交 傾 入 境 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0152 is -9.83345 over 518 frames.
+astmic-fsi091-sen0153 政府 方面 將 分別 予 以 鞋 子 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0153 is -9.4323 over 398 frames.
+astmic-fsi091-sen0154 雙 方 近年 來 關係 條 例 依 法 處理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0154 is -9.62559 over 498 frames.
+astmic-fsi091-sen0155 動 員 看來 時期 終 止 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0155 is -9.58155 over 298 frames.
+astmic-fsi091-sen0156 並 不 利 會長 改 的 包 子 台 電 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0156 is -9.54858 over 398 frames.
+astmic-fsi091-sen0157 四 級 項 生活 學校 到 苦 悶 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0157 is -9.68063 over 358 frames.
+astmic-fsi091-sen0158 在 全 喪 禮 的 刮 了 的 天 外 投 資 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0158 is -9.62335 over 468 frames.
+astmic-fsi091-sen0159 就 只好 並 向 總 預 期 的 來 臨 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0159 is -9.59807 over 378 frames.
+astmic-fsi091-sen0160 則 得 卻 消息 的 理想 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0160 is -9.64097 over 318 frames.
+astmic-fsi091-sen0161 將 是不是 重新 留下 詳細 目的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0161 is -9.6262 over 368 frames.
+astmic-fsi091-sen0162 二 次 基本 面 的 重大 利 考試 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0162 is -9.56309 over 368 frames.
+astmic-fsi091-sen0163 但 自 全球 將 三 角 而已 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0163 is -9.56984 over 328 frames.
+astmic-fsi091-sen0164 倘 若 不 在 強 視覺 重 其 父 親 在 大 蕭 條 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0164 is -9.77224 over 498 frames.
+astmic-fsi091-sen0165 為 避免 全球 嫌 不 景 氣 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0165 is -9.54802 over 348 frames.
+astmic-fsi091-sen0166 各 國 均 認為 中東 和平 榮 聰 解決 之 道 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0166 is -9.82845 over 508 frames.
+astmic-fsi091-sen0167 以及 戈 巴 契 夫 婦 歸 檔 期 和平 告 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0167 is -9.66108 over 518 frames.
+astmic-fsi091-sen0168 省 府 伊拉克 曾 紀錄 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0168 is -9.1665 over 288 frames.
+astmic-fsi091-sen0169 未 料 於 和平 漸 覺得 搜 刮 三 未 出現 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0169 is -9.69846 over 478 frames.
+astmic-fsi091-sen0170 那 進入 叫 停 板 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0170 is -9.67458 over 238 frames.
+astmic-fsi091-sen0171 在 西 班 牙 來 獲 佈 線 表示 有 確認 戰 力 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0171 is -9.48186 over 528 frames.
+astmic-fsi091-sen0172 小 孩 的 勤 務 結構 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0172 is -9.51473 over 278 frames.
+astmic-fsi091-sen0173 絕 不會 瑞 妳 的 國際 而 有 所 不同 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0173 is -9.64119 over 458 frames.
+astmic-fsi091-sen0174 西 班 牙 人 罹難 文化 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0174 is -9.41661 over 268 frames.
+astmic-fsi091-sen0175 協 商 回去 過來 組織 花 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0175 is -9.56043 over 358 frames.
+astmic-fsi091-sen0176 時 刻 瀏覽 一些 尿 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0176 is -9.50686 over 308 frames.
+astmic-fsi091-sen0177 著 力 點 一套 往 來 患 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0177 is -9.53174 over 338 frames.
+astmic-fsi091-sen0178 從 速 指 標 畫 家 方面 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0178 is -9.80287 over 318 frames.
+astmic-fsi091-sen0179 而 不 製 造 隨時 有 皮 包 子 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0179 is -9.68999 over 348 frames.
+astmic-fsi091-sen0180 曾 彼此 一帶 的 市 區 領 導 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0180 is -9.42595 over 328 frames.
+astmic-fsi091-sen0181 是 十分 內 小的 衣服 佳 作 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0181 is -9.38499 over 378 frames.
+astmic-fsi091-sen0182 則 長 賴 各 所 塑 造 出 的 特 殊 跡 象 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0182 is -9.69275 over 478 frames.
+astmic-fsi091-sen0183 不 來 經 費 政府 實 辦法 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0183 is -9.50388 over 328 frames.
+astmic-fsi091-sen0184 最 終 於 連 帶 領 土 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0184 is -9.36947 over 248 frames.
+astmic-fsi091-sen0185 華府 與 威 尼 斯 行 獲 釋 的 期 間 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0185 is -9.46615 over 428 frames.
+astmic-fsi091-sen0186 乃 在 固 然 來 的 清 理 復 修 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0186 is -9.39316 over 448 frames.
+astmic-fsi091-sen0187 乃 三 的 當局 呼籲 民 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0187 is -9.20953 over 268 frames.
+astmic-fsi091-sen0188 紅色 卻 火災 質 疑 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0188 is -9.51455 over 348 frames.
+astmic-fsi091-sen0189 戶 留下 首先 李登輝 目標 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0189 is -9.50401 over 328 frames.
+astmic-fsi091-sen0190 雖 對 他 能 不 周 敦 南 很 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0190 is -9.72019 over 378 frames.
+astmic-fsi091-sen0191 台 室 澡 堂 的 好 友 黃 某 三 歷 年 年 齡 層 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0191 is -9.6675 over 578 frames.
+astmic-fsi091-sen0192 年 的 心 理 確 曾 老 回頭 是 好 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0192 is -9.63594 over 408 frames.
+astmic-fsi091-sen0193 從 此 行 初 鹿 村 價 格 回 天 乏 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0193 is -9.83803 over 458 frames.
+astmic-fsi091-sen0194 觀 光 男 人 工 處理 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0194 is -9.44319 over 338 frames.
+astmic-fsi091-sen0195 曾 目前 又 漲 幅 遊 樂 區 外 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0195 is -9.62787 over 358 frames.
+astmic-fsi091-sen0196 攝 下來 的 外 界 議 員 答 覆 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0196 is -9.38781 over 358 frames.
+astmic-fsi091-sen0197 坐 在 複雜 難得 的 州 雖 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0197 is -9.78828 over 368 frames.
+astmic-fsi091-sen0198 在 時間 確認 沈 母 親 口 會 的 寂寞 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0198 is -9.36289 over 448 frames.
+astmic-fsi091-sen0199 只是 保 母 周 獲得 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-fsi091-sen0199 is -9.45705 over 268 frames.
+astmic-msi090-sen0000 增加 了 中 蒙 蔽 功能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0000 is -8.97532 over 398 frames.
+astmic-msi090-sen0001 你 只要 擴 散 戶 介 入 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0001 is -9.3807 over 268 frames.
+astmic-msi090-sen0002 台 塑 公司 轉 投 資 台 趨 勢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0002 is -9.38753 over 338 frames.
+astmic-msi090-sen0003 不過 所有 測試 隊 偵 訊 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0003 is -9.07648 over 388 frames.
+astmic-msi090-sen0004 並 可以 告訴 推 測 驅 動 程式 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0004 is -9.76622 over 368 frames.
+astmic-msi090-sen0005 平均 嫌 坦 承 諾 這個 目標 何 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0005 is -9.86087 over 298 frames.
+astmic-msi090-sen0006 若是 市府 橋 流 動 我們 一致 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0006 is -9.40981 over 318 frames.
+astmic-msi090-sen0007 所謂 跳 特有 植 決 策 略 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0007 is -9.23519 over 298 frames.
+astmic-msi090-sen0008 他 修 正 全 等 檢 日 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0008 is -9.57466 over 268 frames.
+astmic-msi090-sen0009 對 大多數 使用 者 一 眼 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0009 is -8.6922 over 368 frames.
+astmic-msi090-sen0010 你 只 需 按 程式 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0010 is -8.68609 over 298 frames.
+astmic-msi090-sen0011 我 卻 無法 使用 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0011 is -8.61949 over 248 frames.
+astmic-msi090-sen0012 而 使用 魔 法 保護 買 現成 的 測試 除 解決 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0012 is -9.35153 over 418 frames.
+astmic-msi090-sen0013 國際 什麼 真實 可 達成 名 而 鄰 近 的 通過 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0013 is -9.35399 over 418 frames.
+astmic-msi090-sen0014 全部 是 高度 的 解決 之 道 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0014 is -9.27528 over 298 frames.
+astmic-msi090-sen0015 永遠 無法 為 基礎 工 地 址 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0015 is -8.98614 over 328 frames.
+astmic-msi090-sen0016 全國 力 不 足 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0016 is -9.00826 over 218 frames.
+astmic-msi090-sen0017 家 屬 不 舒服 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0017 is -8.8901 over 248 frames.
+astmic-msi090-sen0018 全 省 時間 娛樂 音樂 之後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0018 is -9.5122 over 268 frames.
+astmic-msi090-sen0019 波 反 彈 中 領 先 別人 鄰 居 住 戶 的 同 情 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0019 is -8.94701 over 448 frames.
+astmic-msi090-sen0020 並 緊 急 處理 所 產生 的 以前 知道 他 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0020 is -9.53565 over 448 frames.
+astmic-msi090-sen0021 並 未 進行 獲 知 程式 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0021 is -9.09547 over 318 frames.
+astmic-msi090-sen0022 李 某 她 的 後 測試 測試 神 木 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0022 is -9.19454 over 338 frames.
+astmic-msi090-sen0023 令 陳 述 使用 所 募 得 容 量 能 決定 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0023 is -9.2999 over 378 frames.
+astmic-msi090-sen0024 每 再度 相互 的 家 的 政策 各 式 木 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0024 is -9.18129 over 428 frames.
+astmic-msi090-sen0025 我們 只是 為 中國 領 回 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0025 is -9.21532 over 278 frames.
+astmic-msi090-sen0026 為 避免 一個 認為 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0026 is -9.07031 over 298 frames.
+astmic-msi090-sen0027 可 讓 你 中 面 使用 木 銷 不 均 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0027 is -9.31789 over 348 frames.
+astmic-msi090-sen0028 對於 彩色 的 表現 則 不 予 評 析 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0028 is -8.98667 over 398 frames.
+astmic-msi090-sen0029 執行 股市 使用 系統 記 不得 執行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0029 is -9.41061 over 358 frames.
+astmic-msi090-sen0030 時間 是 二 小時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0030 is -9.59092 over 228 frames.
+astmic-msi090-sen0031 當時 由 主 動 是 皮 包 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0031 is -9.04481 over 288 frames.
+astmic-msi090-sen0032 並不是 什麼 大 樓 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0032 is -9.03623 over 248 frames.
+astmic-msi090-sen0033 但 如果 不可 自己 台 塑 造 就 天下 午 餐 聲 明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0033 is -9.91225 over 458 frames.
+astmic-msi090-sen0034 九 日 會 處 處 長 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0034 is -9.08006 over 298 frames.
+astmic-msi090-sen0035 可是 情 緒 刺 激 了 目的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0035 is -9.18099 over 278 frames.
+astmic-msi090-sen0036 腦 波 的 情 人 氣 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0036 is -9.14525 over 218 frames.
+astmic-msi090-sen0037 這個 不 對 象 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0037 is -9.0075 over 248 frames.
+astmic-msi090-sen0038 部分 縣 長 影響 之 可能性 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0038 is -9.26527 over 308 frames.
+astmic-msi090-sen0039 目前 學校 小 組 的 事 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0039 is -9.17697 over 278 frames.
+astmic-msi090-sen0040 林 聰明 不 良 策 謀 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0040 is -9.04542 over 228 frames.
+astmic-msi090-sen0041 但是 個 透 明 的 和 界 密切 不過 出現 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0041 is -9.16935 over 408 frames.
+astmic-msi090-sen0042 取 徵 收 費 就是 要 今年 毛 豬 使用 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0042 is -9.13074 over 468 frames.
+astmic-msi090-sen0043 不 相信 方面 這些 互 通 知 業 能 事先 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0043 is -9.28864 over 388 frames.
+astmic-msi090-sen0044 並 且 虎 頭 問題 的 形 象 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0044 is -9.13067 over 358 frames.
+astmic-msi090-sen0045 國際 業 者 可以 訴 求 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0045 is -9.43045 over 248 frames.
+astmic-msi090-sen0046 我 知道 指令 後 要 怎樣 讓 電腦 做 這 件 事 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0046 is -9.77766 over 438 frames.
+astmic-msi090-sen0047 可是 後 的 結果 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0047 is -9.04486 over 228 frames.
+astmic-msi090-sen0048 期 能 應該 選擇 的 蘇 四 倍 甚至 上 百 倍 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0048 is -9.39899 over 458 frames.
+astmic-msi090-sen0049 保留 大部分 給 用 戶 盡 情 發揮 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0049 is -9.13891 over 358 frames.
+astmic-msi090-sen0050 政府 的 一 小 組 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0050 is -8.74559 over 248 frames.
+astmic-msi090-sen0051 將 由 電腦 的 速度 推出 多半 是 政治 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0051 is -9.29546 over 438 frames.
+astmic-msi090-sen0052 須 負 擔 契 約 有 這個 無 比 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0052 is -8.97619 over 318 frames.
+astmic-msi090-sen0053 從 韓 人 頭 的 錢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0053 is -9.13162 over 228 frames.
+astmic-msi090-sen0054 通常 會 被 破壞 了 成立 的 前 更 努力 後 悔 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0054 is -9.42139 over 408 frames.
+astmic-msi090-sen0055 此 刻 不 實 質 將 有 極 辦公室 場 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0055 is -9.34191 over 378 frames.
+astmic-msi090-sen0056 他 何 時 進入 省 電 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0056 is -9.17711 over 288 frames.
+astmic-msi090-sen0057 其實 太 明顯 最好 證明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0057 is -9.29163 over 348 frames.
+astmic-msi090-sen0058 他們 全 勤 的 老 婦 的 便 宜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0058 is -9.10143 over 328 frames.
+astmic-msi090-sen0059 整合 能 整合 意見 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0059 is -9.13809 over 268 frames.
+astmic-msi090-sen0060 可是 毫 髮 毛 豬 市 場 的 臭 味 口 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0060 is -9.18009 over 408 frames.
+astmic-msi090-sen0061 區 推出 的 折 扣 前 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0061 is -9.51494 over 268 frames.
+astmic-msi090-sen0062 將 控制 外交部 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0062 is -9.10515 over 308 frames.
+astmic-msi090-sen0063 最近 名 以上 歹 徒 坐 立 不 個人 節目 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0063 is -9.30233 over 358 frames.
+astmic-msi090-sen0064 許 多 過 活 生 產 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0064 is -9.05692 over 238 frames.
+astmic-msi090-sen0065 景 氣 的 價 格 儘 速 特 色 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0065 is -9.06758 over 328 frames.
+astmic-msi090-sen0066 損 目前 已 有 緩 和 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0066 is -8.80953 over 278 frames.
+astmic-msi090-sen0067 似乎 是 列 前 的 趨 勢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0067 is -9.02 over 278 frames.
+astmic-msi090-sen0068 國內 主 機 板 的 設計 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0068 is -9.10094 over 268 frames.
+astmic-msi090-sen0069 不過 這 機器 空間 有限 的 的 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0069 is -9.31174 over 358 frames.
+astmic-msi090-sen0070 可是 無法 領 導 繼續 獨 特 的 程式 相比 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0070 is -9.3236 over 428 frames.
+astmic-msi090-sen0071 分別 得 更 加 明顯 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0071 is -8.93425 over 268 frames.
+astmic-msi090-sen0072 政策 純粹 是 威 力 無 使得 電子 通訊 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0072 is -9.22897 over 448 frames.
+astmic-msi090-sen0073 不論 是 何 種 情形 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0073 is -9.06662 over 248 frames.
+astmic-msi090-sen0074 劉 透過 郵 件 前端 來 處理 場 證明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0074 is -9.4281 over 368 frames.
+astmic-msi090-sen0075 知名 發 出 的 提 出 證明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0075 is -9.17052 over 288 frames.
+astmic-msi090-sen0076 還有 其他 國人 民 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0076 is -8.96735 over 228 frames.
+astmic-msi090-sen0077 數 據 機 歸 檢 討 車 活動 的 抽 頭 進去 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0077 is -9.40119 over 428 frames.
+astmic-msi090-sen0078 損 不 接受 記 美 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0078 is -9.10838 over 268 frames.
+astmic-msi090-sen0079 秘 書 處 負責 理想 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0079 is -9.13777 over 268 frames.
+astmic-msi090-sen0080 進 出 身 的 功能 就 更 能 民 主 改 設定 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0080 is -9.2776 over 388 frames.
+astmic-msi090-sen0081 很 適合 預 算 有限 的 商業 使用 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0081 is -9.18557 over 358 frames.
+astmic-msi090-sen0082 垃圾 場 已經 全部 政府 的 理想 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0082 is -9.20589 over 328 frames.
+astmic-msi090-sen0083 她 的 影像 還是 很 清晰 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0083 is -8.97984 over 268 frames.
+astmic-msi090-sen0084 不過 它 色 顯示 器 買 牧 師 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0084 is -9.0422 over 338 frames.
+astmic-msi090-sen0085 而且 即使 你 的 系統 不 適 任 源 之 星 電腦 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0085 is -9.36284 over 398 frames.
+astmic-msi090-sen0086 因此 適合 大多數 桌 上 排 版 專 業 使用 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0086 is -9.38171 over 428 frames.
+astmic-msi090-sen0087 卻 不 知 從 家 族 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0087 is -9.14578 over 298 frames.
+astmic-msi090-sen0088 不過 你 還是 可以 踩 油 門 口 控制 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0088 is -9.35218 over 348 frames.
+astmic-msi090-sen0089 富 貴 生 看起來 還是 比較 沉 悶 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0089 is -9.17031 over 358 frames.
+astmic-msi090-sen0090 股權 之 爭 出現 比較 區 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0090 is -9.05034 over 298 frames.
+astmic-msi090-sen0091 且 後 產品 裡 睡覺 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0091 is -9.09331 over 268 frames.
+astmic-msi090-sen0092 前 方面 板 控制 很 流利 操作 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0092 is -9.44577 over 308 frames.
+astmic-msi090-sen0093 她 的 色 彩 付 出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0093 is -9.0283 over 228 frames.
+astmic-msi090-sen0094 不過 整體 性 能 步 入 其他 同 級 產品 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0094 is -9.38306 over 368 frames.
+astmic-msi090-sen0095 她 的 色 彩 清 住 宅 區 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0095 is -9.15626 over 258 frames.
+astmic-msi090-sen0096 目前 顯示 很 鮮 明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0096 is -8.95298 over 248 frames.
+astmic-msi090-sen0097 群 情 緒 不 肯 接 通 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0097 is -9.16803 over 248 frames.
+astmic-msi090-sen0098 不過 這 黨 魁 有了 不 足 跡 象 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0098 is -9.29022 over 318 frames.
+astmic-msi090-sen0099 農 民 它 又是 可 科學 購 處理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0099 is -9.38217 over 308 frames.
+astmic-msi090-sen0100 可是 停 車 場 倍 速 成長 確實 仍 不 絕 無 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0100 is -9.18568 over 408 frames.
+astmic-msi090-sen0101 不 料 儲 數字 痛 了 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0101 is -9.10712 over 248 frames.
+astmic-msi090-sen0102 執行 效率 動 時期 之 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0102 is -8.95697 over 268 frames.
+astmic-msi090-sen0103 被 告 知 毛 豬 進行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0103 is -9.02059 over 278 frames.
+astmic-msi090-sen0104 只是 要求 款 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0104 is -8.90424 over 258 frames.
+astmic-msi090-sen0105 必須 使用 組合 員 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0105 is -8.84253 over 278 frames.
+astmic-msi090-sen0106 的 偷 竊 賊 廢 止 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0106 is -8.82122 over 248 frames.
+astmic-msi090-sen0107 平均 一天 值得 股市 其他 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0107 is -9.24618 over 308 frames.
+astmic-msi090-sen0108 連 接 公車 的 脫 說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0108 is -9.18488 over 248 frames.
+astmic-msi090-sen0109 即使 累 追求 法 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0109 is -8.96812 over 268 frames.
+astmic-msi090-sen0110 業 者 普通 說明 書 的 不能 生活 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0110 is -9.52093 over 338 frames.
+astmic-msi090-sen0111 著 人 人物 方面 的 神 木 介紹 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0111 is -9.17408 over 328 frames.
+astmic-msi090-sen0112 比較 經濟 研究 委 員 的 專 業 登記 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0112 is -9.11899 over 368 frames.
+astmic-msi090-sen0113 執行 持 鐵 門 鬧 不夠 評 審 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0113 is -9.36363 over 308 frames.
+astmic-msi090-sen0114 對 這 種 速度 賴 騰 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0114 is -8.9634 over 268 frames.
+astmic-msi090-sen0115 而 六 點 二 五 了 中 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0115 is -9.04645 over 228 frames.
+astmic-msi090-sen0116 眾 人 中 信 用 紐約 大家 回 補 助 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0116 is -9.29641 over 368 frames.
+astmic-msi090-sen0117 他 都 速 合法化 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0117 is -9.08676 over 268 frames.
+astmic-msi090-sen0118 那麼 是 我 這 項 旅遊 後 就 的 共 識 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0118 is -9.19887 over 368 frames.
+astmic-msi090-sen0119 不可 生存 一個 月 的 和 蘇 會 寂寞 成 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0119 is -9.26123 over 408 frames.
+astmic-msi090-sen0120 的 球 的 至 今 當時 覺得 沒什麼 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0120 is -9.1525 over 328 frames.
+astmic-msi090-sen0121 朝 天 宮 為 大 城市 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0121 is -9.03996 over 248 frames.
+astmic-msi090-sen0122 基本上 每 生活 不同 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0122 is -8.97518 over 278 frames.
+astmic-msi090-sen0123 只是 興趣 上 的 差異 會 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0123 is -9.10467 over 298 frames.
+astmic-msi090-sen0124 劉 燈 對於 大 城市 這個 結構 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0124 is -9.4688 over 328 frames.
+astmic-msi090-sen0125 被 我 就是 半 年 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0125 is -9.50975 over 228 frames.
+astmic-msi090-sen0126 可 後來 辦法 劉 燈 塔 價 格 之後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0126 is -9.27342 over 348 frames.
+astmic-msi090-sen0127 他 參加 了 淡 江 大學 舉 辦 了 電腦 與 否 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0127 is -9.41809 over 378 frames.
+astmic-msi090-sen0128 這 種 表現 程式 的 之後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0128 is -9.09029 over 328 frames.
+astmic-msi090-sen0129 偷偷 拿 了 她 的 指令 去 拷 貝 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0129 is -9.49166 over 328 frames.
+astmic-msi090-sen0130 所 花 蓮 地區 許 多 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0130 is -9.47855 over 258 frames.
+astmic-msi090-sen0131 成 的 提 並 不 景 氣 功 用 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0131 is -9.52679 over 278 frames.
+astmic-msi090-sen0132 可 讓 使用 者 未 能 能 螢幕 顯示 的 清楚 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0132 is -9.49931 over 398 frames.
+astmic-msi090-sen0133 為 人 的 只有 九 六 點 四 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0133 is -9.23055 over 308 frames.
+astmic-msi090-sen0134 並 且 全國 埠 土地 會 有 身 上 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0134 is -9.64944 over 388 frames.
+astmic-msi090-sen0135 簡直 就是 不 接受 土地 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0135 is -9.28615 over 308 frames.
+astmic-msi090-sen0136 的 熱 潮 時 機 使用 的 用 戶 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0136 is -9.13678 over 298 frames.
+astmic-msi090-sen0137 極 表 重視 治 權 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0137 is -9.04794 over 288 frames.
+astmic-msi090-sen0138 這些 可 供 獲得 逐 漸 多 人 就 保 守 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0138 is -9.6351 over 428 frames.
+astmic-msi090-sen0139 但是 有 任何 取得 就 可 執行 更 換 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0139 is -9.56696 over 428 frames.
+astmic-msi090-sen0140 會 的 使用 者 拍 戲 配 置 的 政策 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0140 is -9.47973 over 398 frames.
+astmic-msi090-sen0141 例如 的 陳 情 的 資料 許 全國 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0141 is -9.3817 over 348 frames.
+astmic-msi090-sen0142 折 扣 傾 倒 閉 看起來 也 不 怎麼 便 宜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0142 is -9.36712 over 398 frames.
+astmic-msi090-sen0143 取得 有機 可 乘 後 呈現 得 出 較 不 足 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0143 is -9.62312 over 388 frames.
+astmic-msi090-sen0144 可 見 華府 間 的 建立 操作 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0144 is -9.37436 over 328 frames.
+astmic-msi090-sen0145 地區 被 查 獲 出 入 頗 感 冒 出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0145 is -9.5075 over 308 frames.
+astmic-msi090-sen0146 對 的 缺點 是 缺 乏 左右 的 圖 形 冒 出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0146 is -9.47404 over 378 frames.
+astmic-msi090-sen0147 也 無法 建立 連 我 父 母 日 說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0147 is -9.38564 over 328 frames.
+astmic-msi090-sen0148 雖然 不得 不 可以 宣 傳 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0148 is -9.34256 over 268 frames.
+astmic-msi090-sen0149 比例 芝加哥 失 去 話 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0149 is -9.07838 over 258 frames.
+astmic-msi090-sen0150 避 開 電源 開 關 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0150 is -9.02478 over 218 frames.
+astmic-msi090-sen0151 她 的 速度 可 與 其他 同 級 產品 相 較 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0151 is -9.43745 over 358 frames.
+astmic-msi090-sen0152 文字 及 圖 形 都 很 鮮 明 並 定義 清楚 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0152 is -9.38351 over 368 frames.
+astmic-msi090-sen0153 但 擴 散 的 圖 案 仍 很 明顯 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0153 is -9.26845 over 308 frames.
+astmic-msi090-sen0154 即使 他們 在 同一 頁 上 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0154 is -9.45179 over 268 frames.
+astmic-msi090-sen0155 在 低 階 市 場 佔 有 一 席 之 地 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0155 is -9.48499 over 308 frames.
+astmic-msi090-sen0156 以及 遠 程 管 理 功能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0156 is -9.48463 over 248 frames.
+astmic-msi090-sen0157 文字 為 黑 色 及 灰色 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0157 is -9.41481 over 248 frames.
+astmic-msi090-sen0158 著 色 品 質 不 重 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0158 is -9.53444 over 208 frames.
+astmic-msi090-sen0159 輸 出 提高 救 起 全 民 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0159 is -9.50338 over 278 frames.
+astmic-msi090-sen0160 的 避免 不必 要 的 公 開 行 檢 討 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0160 is -9.47201 over 358 frames.
+astmic-msi090-sen0161 短 期 內 心 的 漁業 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0161 is -9.19799 over 248 frames.
+astmic-msi090-sen0162 卻 紛 紛 將 套 牢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0162 is -9.26084 over 248 frames.
+astmic-msi090-sen0163 他 不 失 控 球 重 我 沒 地 說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0163 is -9.24817 over 328 frames.
+astmic-msi090-sen0164 不 值得 並 無 生 的 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0164 is -9.36062 over 308 frames.
+astmic-msi090-sen0165 致 使 工程 程度 頭 用 型 語言 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0165 is -9.54896 over 298 frames.
+astmic-msi090-sen0166 並 積極 能 的 普通 能力 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0166 is -9.63783 over 278 frames.
+astmic-msi090-sen0167 就 能 滿足 程式 的 執行 可能性 設 立 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0167 is -9.52025 over 378 frames.
+astmic-msi090-sen0168 是 過了 這 種 力 的 操作 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0168 is -9.52924 over 298 frames.
+astmic-msi090-sen0169 不過 若 公 用 戶 行 情 治 人員 指出 落 成 效 不 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0169 is -9.48717 over 428 frames.
+astmic-msi090-sen0170 以 便 確 保 期 間 的 性 能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0170 is -9.57144 over 278 frames.
+astmic-msi090-sen0171 雖 則 統 設計 不 便 宜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0171 is -9.39255 over 278 frames.
+astmic-msi090-sen0172 則 表現 出 加 秀 的 性 能 增 進 幅 度 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0172 is -9.52509 over 378 frames.
+astmic-msi090-sen0173 特別 顧 客 運 氣 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0173 is -9.47917 over 218 frames.
+astmic-msi090-sen0174 不 久 候 的 意見 和 圖 形 之 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0174 is -9.51872 over 348 frames.
+astmic-msi090-sen0175 還有 理想 限制 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0175 is -9.22845 over 198 frames.
+astmic-msi090-sen0176 為 人 避免 麻煩 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0176 is -9.14938 over 228 frames.
+astmic-msi090-sen0177 這時候 設計 方式 之前 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0177 is -9.37793 over 298 frames.
+astmic-msi090-sen0178 在 有些 情形 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0178 is -9.20418 over 228 frames.
+astmic-msi090-sen0179 暫時 停 曾經 配 件 很 糟 的 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0179 is -9.39414 over 348 frames.
+astmic-msi090-sen0180 如果 你 只 需 按 鈴 宗 處 長 作業 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0180 is -9.36837 over 358 frames.
+astmic-msi090-sen0181 科學 爭 取 劇 本 土 大部分 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0181 is -9.56094 over 288 frames.
+astmic-msi090-sen0182 增加 了 二 千 先 行 系統 保護 功能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0182 is -9.46024 over 348 frames.
+astmic-msi090-sen0183 作業 系統 的 選擇 一個 很 傑 等 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0183 is -9.4205 over 348 frames.
+astmic-msi090-sen0184 這 推出 的 方面 來 台 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0184 is -9.63247 over 278 frames.
+astmic-msi090-sen0185 並 執行 著 垃圾 掩 應用 程式 維 他 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0185 is -9.59293 over 398 frames.
+astmic-msi090-sen0186 那麼 應 選 那 一 同 作業 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0186 is -9.43401 over 318 frames.
+astmic-msi090-sen0187 還是 相當 困難 和 複雜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0187 is -9.29483 over 268 frames.
+astmic-msi090-sen0188 要 提 醒 大家 的是 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0188 is -9.31658 over 238 frames.
+astmic-msi090-sen0189 不過 若 和 其 教學 程式 相比 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0189 is -9.55937 over 308 frames.
+astmic-msi090-sen0190 憲 政 體 系 的 股票 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0190 is -9.46139 over 258 frames.
+astmic-msi090-sen0191 聯 已經 促 進 口 群 眾 階段 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0191 is -9.48087 over 318 frames.
+astmic-msi090-sen0192 如果 你 的 電腦 環境 當初 的 化 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0192 is -9.52682 over 348 frames.
+astmic-msi090-sen0193 不可 避免 的 重要 提供 美 好 經驗 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0193 is -9.66789 over 348 frames.
+astmic-msi090-sen0194 的 實 力 產生 的 性 能 的 影像 卡 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0194 is -9.34823 over 358 frames.
+astmic-msi090-sen0195 畢竟 政黨 中 獲得 假 過 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0195 is -9.49833 over 278 frames.
+astmic-msi090-sen0196 可能 要 經過 運動 訊息 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0196 is -9.36454 over 278 frames.
+astmic-msi090-sen0197 一般 相信 前 可能 沒有 這 筆 記 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0197 is -9.42638 over 358 frames.
+astmic-msi090-sen0198 工 會 投 籌 碼 奇 蹪 人 口 中 發現 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0198 is -9.67963 over 368 frames.
+astmic-msi090-sen0199 必須 送 貨 源 股市 其他 為 你 修改 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi090-sen0199 is -9.47875 over 358 frames.
+astmic-msi091-sen0000 陳 政 忠 足夠 能力 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0000 is -9.51965 over 228 frames.
+astmic-msi091-sen0001 的 角度 商 勾 結 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0001 is -9.69769 over 218 frames.
+astmic-msi091-sen0002 套用 順 勢 傳統 型態 吸 食 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0002 is -10.2655 over 288 frames.
+astmic-msi091-sen0003 如果 所有 測試 對 此 下 滑 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0003 is -10.1392 over 268 frames.
+astmic-msi091-sen0004 連 推廣 藝術 行 立刻 驅 動 程式 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0004 is -10.0774 over 348 frames.
+astmic-msi091-sen0005 立 即 嫌 坦 承 認 識 的 目標 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0005 is -9.91765 over 238 frames.
+astmic-msi091-sen0006 若是 市府 向 有關 沒 意見 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0006 is -9.76423 over 298 frames.
+astmic-msi091-sen0007 整理 家 長 有 直接 證 業 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0007 is -9.82194 over 278 frames.
+astmic-msi091-sen0008 他 向 這些 人 見 面 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0008 is -9.90769 over 218 frames.
+astmic-msi091-sen0009 對 大多數 宿 舍 前 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0009 is -9.44239 over 248 frames.
+astmic-msi091-sen0010 並 且 小的 性 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0010 is -9.72556 over 198 frames.
+astmic-msi091-sen0011 追求 方式 有 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0011 is -9.90841 over 178 frames.
+astmic-msi091-sen0012 可惜 瀏覽 方法 和 買 現成 能 成 辛苦 解決 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0012 is -9.9542 over 398 frames.
+astmic-msi091-sen0013 不 僅 是 短暫 時間 大 正面 而 鄰 近 期 效果 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0013 is -9.91499 over 448 frames.
+astmic-msi091-sen0014 全部 是 的 不能 解決 之 道 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0014 is -9.99495 over 278 frames.
+astmic-msi091-sen0015 不 願 無法 已經 足夠 的 事業 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0015 is -9.86727 over 308 frames.
+astmic-msi091-sen0016 結果 令 住 處 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0016 is -9.76478 over 208 frames.
+astmic-msi091-sen0017 工作 動作 阻 礙 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0017 is -9.82437 over 178 frames.
+astmic-msi091-sen0018 情形 時間 來 餘 艘 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0018 is -10.0877 over 228 frames.
+astmic-msi091-sen0019 多半 在 罪 嫌 軍 人 及 中 國人 都 性 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0019 is -10.1229 over 318 frames.
+astmic-msi091-sen0020 立 即 領 先 處理 所 產生 的 利 息 只要 大 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0020 is -10.4047 over 358 frames.
+astmic-msi091-sen0021 並 未 進行 文字 原因 測試 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0021 is -9.99774 over 238 frames.
+astmic-msi091-sen0022 另外 他們 後 才 實在 是 塞 末 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0022 is -9.77543 over 268 frames.
+astmic-msi091-sen0023 每 週 縮 是 由 神 木 的 數 量 能 決定 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0023 is -9.83132 over 298 frames.
+astmic-msi091-sen0024 每 張 的 相互 咬 固定 聯 賽 的 神 木 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0024 is -9.8769 over 328 frames.
+astmic-msi091-sen0025 我們 只 最 機構 流 言 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0025 is -9.80753 over 218 frames.
+astmic-msi091-sen0026 最近 美 麗 的 肉 影響 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0026 is -9.95948 over 228 frames.
+astmic-msi091-sen0027 仍然 台 中 縣 攝 節目 相互 過去 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0027 is -9.97128 over 288 frames.
+astmic-msi091-sen0028 對於 彩色 的 表現 則 不 易 體 系 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0028 is -9.83117 over 298 frames.
+astmic-msi091-sen0029 執行 程式 修 系統 提供 的 字 型 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0029 is -9.94416 over 308 frames.
+astmic-msi091-sen0030 實際 測試 老師 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0030 is -9.65312 over 188 frames.
+astmic-msi091-sen0031 這 項 作法 是 提高 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0031 is -9.61855 over 228 frames.
+astmic-msi091-sen0032 並不是 什麼 擔 任 務 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0032 is -9.56604 over 188 frames.
+astmic-msi091-sen0033 但 如果 作者 自己 特 書 拯 救 天下 彩色 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0033 is -9.91506 over 388 frames.
+astmic-msi091-sen0034 就 未免 過 於 自我 普 查 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0034 is -9.72078 over 218 frames.
+astmic-msi091-sen0035 那是 興趣 即 將 努力 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0035 is -9.5933 over 228 frames.
+astmic-msi091-sen0036 內 政 的 消息 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0036 is -9.63282 over 168 frames.
+astmic-msi091-sen0037 這 類 盤 整 頓 一下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0037 is -9.64099 over 178 frames.
+astmic-msi091-sen0038 北 側 全 在 小時 可能性 的 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0038 is -9.5277 over 268 frames.
+astmic-msi091-sen0039 仁 欣 欣 向 上 突 程式 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0039 is -9.74217 over 218 frames.
+astmic-msi091-sen0040 並 少不了 葉 某 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0040 is -9.62053 over 158 frames.
+astmic-msi091-sen0041 更 是 一 個中 年 罕 見 面 取 不得 出現 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0041 is -9.70147 over 298 frames.
+astmic-msi091-sen0042 汽車 中 目的 就 鄉 境 內 忙 著 使用 者 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0042 is -10.0074 over 318 frames.
+astmic-msi091-sen0043 不 相信 三 名 這些 會長 新 年 新鮮 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0043 is -9.78002 over 328 frames.
+astmic-msi091-sen0044 必須 幾乎 純 為 人 的 熱 現象 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0044 is -9.93662 over 268 frames.
+astmic-msi091-sen0045 國際 業 者 可以 推 想 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0045 is -9.90792 over 188 frames.
+astmic-msi091-sen0046 不 僅 新 年 後 要 怎樣 讓 電腦 做 這 件 事 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0046 is -9.83409 over 348 frames.
+astmic-msi091-sen0047 讓 系統 的 電腦 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0047 is -9.41207 over 168 frames.
+astmic-msi091-sen0048 性 能 一定 有些 真正 熟悉 倍 甚至 上 百 倍 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0048 is -9.98808 over 358 frames.
+astmic-msi091-sen0049 保留 大部分 給 用 戶 盡 情 發揮 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0049 is -9.65931 over 318 frames.
+astmic-msi091-sen0050 在 問題 理想 中 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0050 is -9.65943 over 178 frames.
+astmic-msi091-sen0051 將 用 電腦 的 速度 扣 戰 鬥 爭 取 政治 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0051 is -9.86399 over 348 frames.
+astmic-msi091-sen0052 其中 短 線 有 這個 毛 病 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0052 is -9.69459 over 248 frames.
+astmic-msi091-sen0053 三 和 調整 的 權 益 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0053 is -9.19381 over 208 frames.
+astmic-msi091-sen0054 他 曾 被 拒 中華 藍 正確 的 肉 體 後 悔 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0054 is -10.1969 over 298 frames.
+astmic-msi091-sen0055 則 恐 不 孫 將 有 極 大 股市 場 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0055 is -9.76961 over 288 frames.
+astmic-msi091-sen0056 不可 失 去 有限 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0056 is -9.98396 over 178 frames.
+astmic-msi091-sen0057 情形 太 明顯 的 未來 的 爭 議 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0057 is -9.9476 over 268 frames.
+astmic-msi091-sen0058 他們 竊 汽車 內 部 的 便 宜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0058 is -9.48158 over 248 frames.
+astmic-msi091-sen0059 震 撼 了 青 年 間 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0059 is -9.29933 over 178 frames.
+astmic-msi091-sen0060 可是 毫 髮 毛 豬 市 場 能 鄉 馬 唯 恐 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0060 is -9.80794 over 308 frames.
+astmic-msi091-sen0061 工 會 陳 中 共 享 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0061 is -9.8921 over 198 frames.
+astmic-msi091-sen0062 價 格 自然 一 名 不 詳 男 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0062 is -9.66144 over 228 frames.
+astmic-msi091-sen0063 最近 以 小 組 中 贏 不 個人電腦 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0063 is -9.9175 over 248 frames.
+astmic-msi091-sen0064 若 超過 花 招 生 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0064 is -9.74517 over 168 frames.
+astmic-msi091-sen0065 基 金 的 價 格 技術 特 色 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0065 is -10.0269 over 238 frames.
+astmic-msi091-sen0066 雖然 目前 又 緩 和 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0066 is -9.69118 over 198 frames.
+astmic-msi091-sen0067 似乎 是 列 前 的 趨 勢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0067 is -9.88679 over 198 frames.
+astmic-msi091-sen0068 國內 主 機 板 的 設計 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0068 is -9.25583 over 268 frames.
+astmic-msi091-sen0069 不過 正 進行 空間 有限 的 別人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0069 is -10.0168 over 268 frames.
+astmic-msi091-sen0070 派 系 無法 遇到 繼續 偵 查 證 券 市 場 的 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0070 is -10.0175 over 348 frames.
+astmic-msi091-sen0071 人類 擬 定 假 日 性 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0071 is -9.86236 over 198 frames.
+astmic-msi091-sen0072 造成 純粹 是 威 力 無 行政 電子 通訊 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0072 is -10.1539 over 358 frames.
+astmic-msi091-sen0073 不論 任何 種 情形 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0073 is -9.75094 over 198 frames.
+astmic-msi091-sen0074 你 戶 頭 會 有 減 刑 的 能 處理 傳 真 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0074 is -10.1926 over 298 frames.
+astmic-msi091-sen0075 知名 草 屯 鎮 長 陳 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0075 is -9.97661 over 198 frames.
+astmic-msi091-sen0076 可就 其他 功能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0076 is -10.3606 over 178 frames.
+astmic-msi091-sen0077 數 據 機 飛 檢查 接收 端的 傳 真 執行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0077 is -10.1517 over 338 frames.
+astmic-msi091-sen0078 你 風 接受 而 機會 大 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0078 is -9.76128 over 218 frames.
+astmic-msi091-sen0079 接受 儲 存 期 限 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0079 is -9.64779 over 198 frames.
+astmic-msi091-sen0080 其中 什麼 功能 表 單 讓 你 更 改 設定 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0080 is -10.0161 over 278 frames.
+astmic-msi091-sen0081 很 適合 預 算 有限 的 商業 修 正 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0081 is -9.8914 over 298 frames.
+astmic-msi091-sen0082 而 色 彩 清 全部 則 中 等 以下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0082 is -9.87944 over 268 frames.
+astmic-msi091-sen0083 他們 影像 還是 很 清晰 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0083 is -9.48145 over 248 frames.
+astmic-msi091-sen0084 不過 它 測 顯示 卡 把 螢幕 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0084 is -9.88788 over 268 frames.
+astmic-msi091-sen0085 而且 即使 你 的 系統 股市 能 源 之 星 電腦 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0085 is -10.0802 over 358 frames.
+astmic-msi091-sen0086 因此 適合 大多數 桌 上 排 版 專 業 修 正 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0086 is -9.94702 over 378 frames.
+astmic-msi091-sen0087 旗 下 主 力 超過 中 等 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0087 is -9.67027 over 258 frames.
+astmic-msi091-sen0088 不過 你 還是 可以 採 用 人 工 控制 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0088 is -9.96568 over 268 frames.
+astmic-msi091-sen0089 不 會 將 可想而知 的 家 長 們 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0089 is -9.87951 over 278 frames.
+astmic-msi091-sen0090 而且 警 政 署 也 常 談 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0090 is -9.60689 over 248 frames.
+astmic-msi091-sen0091 聚 合 誤差 瓶 頸 誰 價 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0091 is -9.74138 over 208 frames.
+astmic-msi091-sen0092 且 方面 的 投 資 人 瑞 投 訴 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0092 is -9.568 over 298 frames.
+astmic-msi091-sen0093 他們 參 差 不 足 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0093 is -9.59077 over 178 frames.
+astmic-msi091-sen0094 不過 整體 新 年 度 入 其他 同 級 產品 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0094 is -9.62961 over 338 frames.
+astmic-msi091-sen0095 他 垃圾 場 已經 全部 罪 犯 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0095 is -9.58032 over 238 frames.
+astmic-msi091-sen0096 本 屆 縣 市 合 簽 名 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0096 is -9.62886 over 198 frames.
+astmic-msi091-sen0097 其 清晰 度 可 減少 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0097 is -9.71345 over 218 frames.
+astmic-msi091-sen0098 不過 最 展開 兩 都 不 理想 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0098 is -9.63965 over 298 frames.
+astmic-msi091-sen0099 由於 陳 又是 可靠 全國 處理 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0099 is -9.71657 over 298 frames.
+astmic-msi091-sen0100 人士 及 形成 倍 速 成長 確實 仍 不 減 碼 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0100 is -9.87747 over 348 frames.
+astmic-msi091-sen0101 將 處所 建 中 了 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0101 is -9.83928 over 198 frames.
+astmic-msi091-sen0102 執行 效率 頭 行 情 事 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0102 is -9.83456 over 248 frames.
+astmic-msi091-sen0103 第一 過去 內 部 進行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0103 is -10.0209 over 228 frames.
+astmic-msi091-sen0104 卻 想像 人 光 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0104 is -9.60175 over 198 frames.
+astmic-msi091-sen0105 必須 小 組 二 月 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0105 is -9.45024 over 228 frames.
+astmic-msi091-sen0106 看看 氣 質 詢 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0106 is -9.58567 over 198 frames.
+astmic-msi091-sen0107 平均 一天 只能 這些 招 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0107 is -9.61823 over 268 frames.
+astmic-msi091-sen0108 連 接 公車 的 超 商 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0108 is -10.0617 over 198 frames.
+astmic-msi091-sen0109 即使 累 最近 也 無法 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0109 is -9.62658 over 198 frames.
+astmic-msi091-sen0110 並 指出 中 數 量 縮 的 家 人 生活 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0110 is -10.1211 over 268 frames.
+astmic-msi091-sen0111 從 我 認為 方面 的 深入 清 單 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0111 is -9.54298 over 268 frames.
+astmic-msi091-sen0112 的 經濟 性 及 效率 的 正面 登記 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0112 is -9.8534 over 288 frames.
+astmic-msi091-sen0113 時期 之 天 仍然 不夠 評 審 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0113 is -9.78594 over 248 frames.
+astmic-msi091-sen0114 在 這 種 速度 來 台 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0114 is -9.73209 over 218 frames.
+astmic-msi091-sen0115 台 電 入 了 中 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0115 is -9.6607 over 198 frames.
+astmic-msi091-sen0116 就 月 中 旬 牛 紐約 大 都會 博物館 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0116 is -9.90694 over 318 frames.
+astmic-msi091-sen0117 豬 肉 商 對方 然 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0117 is -9.85302 over 208 frames.
+astmic-msi091-sen0118 那麼 使用 者 校園 玩 家 的 控制 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0118 is -9.80196 over 278 frames.
+astmic-msi091-sen0119 不 曾 向 上 個 月 的 人數 會 期 完成 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0119 is -9.71506 over 328 frames.
+astmic-msi091-sen0120 但 劉 德 至 今 倒是 覺得 沒什麼 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0120 is -9.57627 over 298 frames.
+astmic-msi091-sen0121 台 電 動 武 力 達成 時 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0121 is -9.56373 over 198 frames.
+astmic-msi091-sen0122 基本上 每 所 不同 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0122 is -9.50656 over 218 frames.
+astmic-msi091-sen0123 學習 興趣 上 的 差異 而已 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0123 is -9.47136 over 298 frames.
+astmic-msi091-sen0124 劉 燈 對於 造成 行政 的 結果 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0124 is -9.71541 over 268 frames.
+astmic-msi091-sen0125 並 獲 技術 方面 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0125 is -9.62914 over 178 frames.
+astmic-msi091-sen0126 則 洪 人 的 法律 的 參加 了 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0126 is -9.98523 over 278 frames.
+astmic-msi091-sen0127 他 增加 了 淡 江 大學 取 保證 電腦 為 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0127 is -9.60892 over 348 frames.
+astmic-msi091-sen0128 最後 平常 形成 縣 人 效 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0128 is -9.71606 over 248 frames.
+astmic-msi091-sen0129 偷偷 拿 了 他 人 之 經濟 逃 避 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0129 is -9.68665 over 278 frames.
+astmic-msi091-sen0130 所 帶 領 先 許 多 人 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0130 is -9.50366 over 218 frames.
+astmic-msi091-sen0131 選擇 勢 必 會 基礎 耗 用 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0131 is -9.75756 over 268 frames.
+astmic-msi091-sen0132 對於 使用 者 一 眼 前 來 螢幕 顯示 的 清楚 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0132 is -9.61008 over 378 frames.
+astmic-msi091-sen0133 為 原則 下 降 了解 性 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0133 is -9.61255 over 238 frames.
+astmic-msi091-sen0134 避免 屆 時 一 家 屬 出 身 而 有 身 上 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0134 is -9.42688 over 338 frames.
+astmic-msi091-sen0135 電視 這些 不 接受 重疊 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0135 is -9.59747 over 248 frames.
+astmic-msi091-sen0136 對於 重新 檢 修 訂 用 戶 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0136 is -9.66706 over 248 frames.
+astmic-msi091-sen0137 地點 不 實 質 詢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0137 is -9.68711 over 198 frames.
+astmic-msi091-sen0138 這些 可 觀念 逐 漸 業 者 甚 久 保 守 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0138 is -9.66318 over 378 frames.
+astmic-msi091-sen0139 那是 量 能 科技 的 就 可 執行 分行 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0139 is -9.85361 over 358 frames.
+astmic-msi091-sen0140 對 這些 有 這 種 迴 避 積極 的 緊張 好 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0140 is -9.80775 over 348 frames.
+astmic-msi091-sen0141 並 有 後 正常 機 的 資料 庫 結構 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0141 is -10.0032 over 298 frames.
+astmic-msi091-sen0142 整 考 懲 獎 品 牌 相 驗 輔助 便 宜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0142 is -9.65587 over 338 frames.
+astmic-msi091-sen0143 具備 危 機 前 結合 重新 列 出 節目 住 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0143 is -9.86813 over 358 frames.
+astmic-msi091-sen0144 科技 華府 人 為 積極 建立 工作 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0144 is -9.93607 over 318 frames.
+astmic-msi091-sen0145 並 且 最 忌 諱 推出 感 冒 出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0145 is -9.75919 over 298 frames.
+astmic-msi091-sen0146 對 正確 解釋 缺 乏 專 用 的 圖 形 無 主 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0146 is -9.81384 over 328 frames.
+astmic-msi091-sen0147 並 無法 建立 美 文 目錄 女 說 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0147 is -9.54905 over 328 frames.
+astmic-msi091-sen0148 雖 歹 徒 調 度 可以 宣 傳 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0148 is -9.98657 over 238 frames.
+astmic-msi091-sen0149 你 只要 的 心 情 感 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0149 is -9.66807 over 218 frames.
+astmic-msi091-sen0150 並 開 電源 開 關 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0150 is -9.58266 over 218 frames.
+astmic-msi091-sen0151 她 的 速度 可 與 其他 同 級 產品 相 較 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0151 is -9.898 over 328 frames.
+astmic-msi091-sen0152 文字 及 圖 形 都 很 鮮 明 並 定義 清楚 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0152 is -9.94405 over 358 frames.
+astmic-msi091-sen0153 但 擴 散 的 圖 案 仍 很 明顯 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0153 is -9.76979 over 248 frames.
+astmic-msi091-sen0154 即使 他們 在 同一 頁 上 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0154 is -9.76188 over 208 frames.
+astmic-msi091-sen0155 在 低 階 市 場 佔 有 一 席 之 地 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0155 is -9.6552 over 268 frames.
+astmic-msi091-sen0156 以及 遠 程 管 理 功能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0156 is -9.45329 over 218 frames.
+astmic-msi091-sen0157 文字 為 黑 色 及 灰色 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0157 is -9.60407 over 228 frames.
+astmic-msi091-sen0158 著 色 品 基礎 錯誤 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0158 is -9.80629 over 178 frames.
+astmic-msi091-sen0159 輸 出 期 的 更 能 顯現 明 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0159 is -9.72742 over 278 frames.
+astmic-msi091-sen0160 的 避免 不必 要 的 動 態 興 起 伏 了 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0160 is -9.81868 over 288 frames.
+astmic-msi091-sen0161 參加 取得 語言 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0161 is -9.55764 over 198 frames.
+astmic-msi091-sen0162 卻 紛 紛 將 它 納 入 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0162 is -9.39032 over 188 frames.
+astmic-msi091-sen0163 他 股市 的 講究 完 美 的 語言 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0163 is -9.78342 over 238 frames.
+astmic-msi091-sen0164 不 值得 大 樓 下 的 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0164 is -9.76226 over 218 frames.
+astmic-msi091-sen0165 只是 一個 承 認 同 有限 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0165 is -9.73262 over 248 frames.
+astmic-msi091-sen0166 林 姓 青 年 的 空 廚 能 呢 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0166 is -9.99047 over 218 frames.
+astmic-msi091-sen0167 就 能 滿足 程序 正 汽車 的 想像 力 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0167 is -10.0082 over 298 frames.
+astmic-msi091-sen0168 群 眾 人 追求 利 分散 能 完 美 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0168 is -9.72137 over 288 frames.
+astmic-msi091-sen0169 不過 能夠 有 何 信心 職 業 者 什麼 效果 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0169 is -9.73612 over 388 frames.
+astmic-msi091-sen0170 的 確 保 的 間 的 性 能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0170 is -9.73215 over 228 frames.
+astmic-msi091-sen0171 雖 這 種 設計 不 便 宜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0171 is -9.61746 over 248 frames.
+astmic-msi091-sen0172 則 表現 出 加 小的 性 能 增 進 幅 度 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0172 is -9.61193 over 348 frames.
+astmic-msi091-sen0173 這 件 的 考慮 性 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0173 is -9.41221 over 208 frames.
+astmic-msi091-sen0174 需 加 碼 的 意見 和 圖 形 勢 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0174 is -9.5396 over 328 frames.
+astmic-msi091-sen0175 還有 影響 限制 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0175 is -9.5992 over 178 frames.
+astmic-msi091-sen0176 為 避免 麻煩 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0176 is -9.57198 over 168 frames.
+astmic-msi091-sen0177 這些 而 設計 方式 之前 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0177 is -9.67853 over 248 frames.
+astmic-msi091-sen0178 在 有些 情形 下 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0178 is -9.37851 over 198 frames.
+astmic-msi091-sen0179 在 實際 現 今 的 加州 第一 後 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0179 is -9.59355 over 318 frames.
+astmic-msi091-sen0180 如果 你 繼續 違 建 築 商 作業 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0180 is -9.73374 over 308 frames.
+astmic-msi091-sen0181 科學 正 積極 的 主題 保證 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0181 is -9.68275 over 278 frames.
+astmic-msi091-sen0182 這 一 家 人 權 形成 系統 保護 功能 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0182 is -9.55146 over 308 frames.
+astmic-msi091-sen0183 作業 系統 的 選擇 應 將 眼 見 到 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0183 is -9.5771 over 288 frames.
+astmic-msi091-sen0184 針對 重 量 方面 來 台 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0184 is -9.74701 over 208 frames.
+astmic-msi091-sen0185 筆 記 型 處理 上 面臨 應用 程式 會 出 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0185 is -10.0956 over 298 frames.
+astmic-msi091-sen0186 那麼 應 選 那 一 中 作業 系統 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0186 is -9.32654 over 278 frames.
+astmic-msi091-sen0187 還是 相當 困難 和 複雜 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0187 is -9.45576 over 238 frames.
+astmic-msi091-sen0188 要 提 醒 大家 的是 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0188 is -9.68923 over 198 frames.
+astmic-msi091-sen0189 不過 若 和 其 教學 程式 相比 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0189 is -9.75649 over 298 frames.
+astmic-msi091-sen0190 閒 暇 期 限 定 公告 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0190 is -9.72838 over 238 frames.
+astmic-msi091-sen0191 並 起 出 具體 取得 缺 乏 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0191 is -9.89268 over 248 frames.
+astmic-msi091-sen0192 如果 你 著 電腦 畫 極 正常 的 化 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0192 is -9.72417 over 298 frames.
+astmic-msi091-sen0193 不可 避免 的 既然 被 區 了解 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0193 is -9.9942 over 288 frames.
+astmic-msi091-sen0194 絕 需求 相當 謝 美 小 卡 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0194 is -9.63806 over 288 frames.
+astmic-msi091-sen0195 請 經濟部 安裝 的 價 格 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0195 is -10.0408 over 228 frames.
+astmic-msi091-sen0196 可能 消 基 會 的 訊息 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0196 is -9.65367 over 228 frames.
+astmic-msi091-sen0197 並 將 詳細 且 可能 廟 者 的 角色 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0197 is -9.87071 over 298 frames.
+astmic-msi091-sen0198 我們 同 住 忍 氣 吞 也 可 減少 線 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0198 is -9.92495 over 318 frames.
+astmic-msi091-sen0199 必須 受 威 京 股市 其他 為 你 修改 
+LOG (gmm-latgen-faster:DecodeUtteranceLatticeFaster():decoder-wrappers.cc:285) Log-like per frame for utterance astmic-msi091-sen0199 is -9.62183 over 338 frames.
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:175) Time taken 6335.23s: real-time factor assuming 100 frames/sec is 2.44859
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:178) Done 800 utterances, failed for 0
+LOG (gmm-latgen-faster:main():gmm-latgen-faster.cc:180) Overall log-likelihood per frame is -9.44841 over 258730 frames.

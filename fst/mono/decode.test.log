@@ -1,0 +1,1604 @@
+gmm-decode-faster --beam=15.0 --acoustic-scale=0.10 --word-symbol-table=decode/words.txt exp/mono/final.mdl graph/mono/HCLG.fst ark:feat/test.39.cmvn.ark ark,t:fst/mono/test.tra ark,t:fst/mono/test.ali 
+astmic-fsi095-sen0000 不 料 器 前 來 襲 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0000 is -8.53887 over 478 frames.
+astmic-fsi095-sen0001 並 非 新 決定 設 在 情 不 辭 的 苦 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0001 is -8.84845 over 608 frames.
+astmic-fsi095-sen0002 為何 要 塞 自 獲 彈 性 取 勝 茂 客 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0002 is -9.39196 over 478 frames.
+astmic-fsi095-sen0003 既然 業 績 效 陸續 低 檔 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0003 is -9.14857 over 398 frames.
+astmic-fsi095-sen0004 憲 兵 不得 的 加 入 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0004 is -8.89982 over 348 frames.
+astmic-fsi095-sen0005 必然 交 開始 聯 合 查 緝 行 動 工 會 故事 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0005 is -9.32199 over 528 frames.
+astmic-fsi095-sen0006 就 此 開始 刺 死 聯 合 查 起來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0006 is -9.38335 over 428 frames.
+astmic-fsi095-sen0007 經 被 提 名 人 力 不 足 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0007 is -9.229 over 288 frames.
+astmic-fsi095-sen0008 農 民 造成 漏 洞 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0008 is -9.00977 over 278 frames.
+astmic-fsi095-sen0009 而 被 偏 向 有關 單位 申請 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0009 is -9.34406 over 338 frames.
+astmic-fsi095-sen0010 再 次 頭 力 平衡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0010 is -9.48631 over 208 frames.
+astmic-fsi095-sen0011 縣 府 社會 至 昨 日 決定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0011 is -9.1964 over 328 frames.
+astmic-fsi095-sen0012 但 自 的 經 地方 人士 說 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0012 is -9.26409 over 348 frames.
+astmic-fsi095-sen0013 她 的 行 列 者 專 欄 的 第一 手 資料 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0013 is -9.21259 over 428 frames.
+astmic-fsi095-sen0014 自 發現 其 建議 傾 向 設計 地區 公 所 申請 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0014 is -9.4139 over 508 frames.
+astmic-fsi095-sen0015 現在 牛 市府 將 立 即 偷偷 會 行 蹤 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0015 is -9.47522 over 418 frames.
+astmic-fsi095-sen0016 獲 悉 教育 部 證 券 浮 動 物 質 的 飛機 走 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0016 is -9.18076 over 488 frames.
+astmic-fsi095-sen0017 有 部分 才 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0017 is -9.40454 over 248 frames.
+astmic-fsi095-sen0018 恐 難 中 的 心 情 都 財產 安 全 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0018 is -9.4085 over 398 frames.
+astmic-fsi095-sen0019 在 人士 來 台 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0019 is -9.42605 over 238 frames.
+astmic-fsi095-sen0020 但 歸 還 在 有趣 之後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0020 is -9.15155 over 278 frames.
+astmic-fsi095-sen0021 雖然 有 提 出 入 的 毒品 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0021 is -9.08095 over 328 frames.
+astmic-fsi095-sen0022 日 前 曾 濟 品 配 置 資 源 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0022 is -9.2891 over 328 frames.
+astmic-fsi095-sen0023 可以 校長 有趣 的 馬 支 持 下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0023 is -9.42982 over 338 frames.
+astmic-fsi095-sen0024 工 務 局 曾 揚 眉 吐 氣 公 務 員 曲 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0024 is -9.38026 over 308 frames.
+astmic-fsi095-sen0025 非 區域 計 畫 在 會 中 被 查 獲 勝 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0025 is -9.48632 over 348 frames.
+astmic-fsi095-sen0026 不過 兩 位 內 情 發展 的 心 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0026 is -9.24544 over 348 frames.
+astmic-fsi095-sen0027 十分 乃 找到 土地 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0027 is -9.26513 over 248 frames.
+astmic-fsi095-sen0028 被 重複 得 業 者 健 全 發展 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0028 is -9.62248 over 308 frames.
+astmic-fsi095-sen0029 但是 的 大 好 審 查 勇 氣 息 的 之 酒 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0029 is -9.39291 over 438 frames.
+astmic-fsi095-sen0030 必須 發揮 資 美 軍 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0030 is -9.06668 over 278 frames.
+astmic-fsi095-sen0031 行政 機 的 周 列 車 場 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0031 is -9.36882 over 298 frames.
+astmic-fsi095-sen0032 隨時 政府 取 締 的 決 心 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0032 is -9.26536 over 298 frames.
+astmic-fsi095-sen0033 立刻 引 來 媒體 真 都 能 中 地方 的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0033 is -9.34719 over 358 frames.
+astmic-fsi095-sen0034 透過 這 種 為 例 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0034 is -9.23203 over 238 frames.
+astmic-fsi095-sen0035 帶 動 媒體 的 梁 君 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0035 is -9.49556 over 268 frames.
+astmic-fsi095-sen0036 新 的 的 工作 看來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0036 is -9.23904 over 238 frames.
+astmic-fsi095-sen0037 經濟部 次 長 江 丙 坤 農 會 政治 犯 無法 問題 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0037 is -9.19398 over 518 frames.
+astmic-fsi095-sen0038 歌 唱 係 自行 人員 被 牽 著 重 跌 停 車 場 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0038 is -9.3689 over 498 frames.
+astmic-fsi095-sen0039 其 第一次 面 的 公 所 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0039 is -9.24443 over 288 frames.
+astmic-fsi095-sen0040 為 使 十一號 配合 少 聰明 的 被 送 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0040 is -9.31717 over 478 frames.
+astmic-fsi095-sen0041 一方面 可以 刺 殺 可能 出現 了 扭 檢查 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0041 is -9.43683 over 438 frames.
+astmic-fsi095-sen0042 並 未 有 開 發 難 避免 目的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0042 is -8.96768 over 418 frames.
+astmic-fsi095-sen0043 介紹 曾 向 來 眼 的 意見 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0043 is -9.28785 over 298 frames.
+astmic-fsi095-sen0044 在 的 產品 才 政治 犯 行 日 期 的 確實 平 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0044 is -9.63828 over 448 frames.
+astmic-fsi095-sen0045 顯然 比 工程 絕 能 數 量 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0045 is -9.83638 over 268 frames.
+astmic-fsi095-sen0046 此 次 減 你 會 會長 陳 決定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0046 is -9.60376 over 298 frames.
+astmic-fsi095-sen0047 而 在 優 勢 已 決定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0047 is -9.00945 over 278 frames.
+astmic-fsi095-sen0048 台 聯 會 在 標 購 買 氣 的 常見 的 數 量 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0048 is -9.43723 over 458 frames.
+astmic-fsi095-sen0049 並 將 恢復 尚未 所 救 治 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0049 is -9.51727 over 328 frames.
+astmic-fsi095-sen0050 若是 無法 真 相 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0050 is -9.25972 over 218 frames.
+astmic-fsi095-sen0051 其 背景 色 情 人 拿 出 了 起來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0051 is -9.58406 over 348 frames.
+astmic-fsi095-sen0052 政治 打 擊 一般 學生 更 是 落 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0052 is -9.29163 over 358 frames.
+astmic-fsi095-sen0053 平方 尺 非 線 回 檔 的 美 夢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0053 is -9.1529 over 388 frames.
+astmic-fsi095-sen0054 在 直接 檯 去 不會 走 本 省 農 民 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0054 is -9.29319 over 428 frames.
+astmic-fsi095-sen0055 廠 商 後 的 男 女 組 的 她 的 感覺 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0055 is -9.49442 over 358 frames.
+astmic-fsi095-sen0056 半 年 巡 視 李登輝 航 照 顧 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0056 is -9.24006 over 308 frames.
+astmic-fsi095-sen0057 卻 不能 為 輕鬆 買 進 的 家 長 們 家 裡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0057 is -9.31801 over 428 frames.
+astmic-fsi095-sen0058 並 請 人 審 慎 的 充滿 情 緒 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0058 is -9.26258 over 348 frames.
+astmic-fsi095-sen0059 紛 紛 抱 怨 縣 府 的 說法 不 景 氣 呢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0059 is -9.19223 over 388 frames.
+astmic-fsi095-sen0060 看來 將來 的 身 價 位 工作 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0060 is -9.26992 over 348 frames.
+astmic-fsi095-sen0061 可能 造成 能 井 答 覆 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0061 is -9.33867 over 238 frames.
+astmic-fsi095-sen0062 縣 府 為 實 地 了解 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0062 is -9.00195 over 278 frames.
+astmic-fsi095-sen0063 不可以 太 至少 作業 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0063 is -9.53681 over 248 frames.
+astmic-fsi095-sen0064 更 孟 克 進行 規定 民 呢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0064 is -9.05652 over 298 frames.
+astmic-fsi095-sen0065 並 進行 室 主 任 面 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0065 is -9.15058 over 248 frames.
+astmic-fsi095-sen0066 李 某 在 警 訊 時 指 稱 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0066 is -9.23563 over 308 frames.
+astmic-fsi095-sen0067 塑 膠 韓 歷史 上 次 去 在 之後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0067 is -9.19711 over 438 frames.
+astmic-fsi095-sen0068 指 控 夫人 設計 重視 了 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0068 is -9.25476 over 328 frames.
+astmic-fsi095-sen0069 所 日 凌 晨 三 時 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0069 is -9.40567 over 278 frames.
+astmic-fsi095-sen0070 並 整理 工 商業 社會 牛 隻 逐 日 少 見 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0070 is -9.50375 over 468 frames.
+astmic-fsi095-sen0071 同時 按 鈕 身 居 梅 山 只有 下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0071 is -9.54823 over 348 frames.
+astmic-fsi095-sen0072 並 成立 在 生存 評 價 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0072 is -9.47518 over 288 frames.
+astmic-fsi095-sen0073 彩 券 農 民 社會 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0073 is -9.24471 over 278 frames.
+astmic-fsi095-sen0074 真正 流 來 流 速 卡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0074 is -9.4227 over 278 frames.
+astmic-fsi095-sen0075 並 且 得了 能 接受 處理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0075 is -9.27756 over 268 frames.
+astmic-fsi095-sen0076 並 會 開始 是 個 月 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0076 is -9.61343 over 228 frames.
+astmic-fsi095-sen0077 能 墓 政 農 村 長 跡 象 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0077 is -9.31779 over 308 frames.
+astmic-fsi095-sen0078 被 得 不到 待 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0078 is -9.05511 over 208 frames.
+astmic-fsi095-sen0079 後來 了 一下 吧 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0079 is -9.21403 over 238 frames.
+astmic-fsi095-sen0080 乃 重新 召 開 生 態 度 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0080 is -9.21013 over 298 frames.
+astmic-fsi095-sen0081 不 致 死 了 是否 危險 戰 術 所 為 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0081 is -9.50641 over 388 frames.
+astmic-fsi095-sen0082 其實 地方 建 設 弱 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0082 is -9.24628 over 268 frames.
+astmic-fsi095-sen0083 電影 存在 產業 選舉 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0083 is -9.26044 over 308 frames.
+astmic-fsi095-sen0084 並不是 理想 被 刪 除 所 致 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0084 is -9.35584 over 308 frames.
+astmic-fsi095-sen0085 並 未 遂 回 檔 幅 刪 除 縣 府 理想 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0085 is -9.32739 over 458 frames.
+astmic-fsi095-sen0086 是以 禮 服 山 上 級 補 助 款 可能 沒有 頗 感 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0086 is -9.43929 over 498 frames.
+astmic-fsi095-sen0087 其中 先 行 為 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0087 is -8.93561 over 328 frames.
+astmic-fsi095-sen0088 但 一定 會 角色 出 事業 頭 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0088 is -9.37877 over 348 frames.
+astmic-fsi095-sen0089 只要 應用 程式 來源 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0089 is -9.46859 over 228 frames.
+astmic-fsi095-sen0090 現在 不會 清 理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0090 is -9.09816 over 248 frames.
+astmic-fsi095-sen0091 下 降 的 清 市府 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0091 is -9.03032 over 248 frames.
+astmic-fsi095-sen0092 的是 數 的 眼 光 看來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0092 is -9.35501 over 278 frames.
+astmic-fsi095-sen0093 人家 黑 名 不 詳 才 得 以 者 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0093 is -9.61209 over 268 frames.
+astmic-fsi095-sen0094 在 每 向 李 明 楊 姓 女 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0094 is -9.19115 over 318 frames.
+astmic-fsi095-sen0095 確實 尚未 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0095 is -9.10138 over 248 frames.
+astmic-fsi095-sen0096 並 呈現 經濟 建 沒有 比較 居 民 的 男 朋友 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0096 is -9.22607 over 488 frames.
+astmic-fsi095-sen0097 修理 天氣 的 夢 嗎 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0097 is -9.52654 over 238 frames.
+astmic-fsi095-sen0098 平 日 表 達 上 提 升 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0098 is -9.43615 over 298 frames.
+astmic-fsi095-sen0099 提供 的 人 情 事 故 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0099 is -9.48286 over 268 frames.
+astmic-fsi095-sen0100 恐 危 害 戶 廢 止 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0100 is -9.35807 over 228 frames.
+astmic-fsi095-sen0101 橋 樑 日 開 口 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0101 is -9.15579 over 228 frames.
+astmic-fsi095-sen0102 還是 有 衝 擊 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0102 is -9.27751 over 218 frames.
+astmic-fsi095-sen0103 何不 的 大 體 上 的 歷 年 來 編 輯 銷 售 變化 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0103 is -9.60539 over 468 frames.
+astmic-fsi095-sen0104 他 人 保 存 了 民間 的 交 往 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0104 is -9.6576 over 248 frames.
+astmic-fsi095-sen0105 發明 悲 憤 發動 無 比 率 對上 任 教 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0105 is -9.68775 over 378 frames.
+astmic-fsi095-sen0106 將 更 是 人 弱 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0106 is -9.12564 over 218 frames.
+astmic-fsi095-sen0107 並 無 瑞 士 籍 的 成 效 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0107 is -9.3772 over 278 frames.
+astmic-fsi095-sen0108 缺 乏 垃圾 明年 的 壓 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0108 is -8.88492 over 378 frames.
+astmic-fsi095-sen0109 且 結 下 佳 平衡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0109 is -9.3996 over 238 frames.
+astmic-fsi095-sen0110 成立 的 分別 出發 提供 合作 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0110 is -9.66223 over 288 frames.
+astmic-fsi095-sen0111 且 連續 旋 突 顯 凌 晨 三 時 結束 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0111 is -9.27017 over 398 frames.
+astmic-fsi095-sen0112 他 可以 設定 的 的 觀念 區 開始 檢查 取 締 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0112 is -9.56308 over 448 frames.
+astmic-fsi095-sen0113 心 裡 和 中 學 童 的 處理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0113 is -9.28246 over 298 frames.
+astmic-fsi095-sen0114 法 界 重新 加以 告 知 累 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0114 is -9.41203 over 338 frames.
+astmic-fsi095-sen0115 這 種 變 慢 一點 屬於 成 人 氣 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0115 is -9.36501 over 328 frames.
+astmic-fsi095-sen0116 並 未 滿 目 出現 了 血 本 無 歸 檔 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0116 is -9.26667 over 448 frames.
+astmic-fsi095-sen0117 而 鄉 民 代表 外 賊 偷 渡 客 戶 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0117 is -9.76335 over 268 frames.
+astmic-fsi095-sen0118 只要 單 擊 未 能 電腦 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0118 is -9.11121 over 268 frames.
+astmic-fsi095-sen0119 覺得 那 便 會 推 薦 衣服 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0119 is -9.38927 over 298 frames.
+astmic-fsi095-sen0120 工 會 法 理 念 之 嫌 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0120 is -9.21027 over 248 frames.
+astmic-fsi095-sen0121 同時 應該 成立 傷 腦 參 選 每 件 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0121 is -9.31832 over 378 frames.
+astmic-fsi095-sen0122 是否 為 該 產品 的 溝 通 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0122 is -9.15924 over 308 frames.
+astmic-fsi095-sen0123 果 菜 市 場 蔡 榮 福 尚未 結 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0123 is -9.36035 over 328 frames.
+astmic-fsi095-sen0124 平常 揮 兼 任 的 角色 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0124 is -9.0922 over 278 frames.
+astmic-fsi095-sen0125 市府 的 百 多 得 很 重 申 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0125 is -9.54673 over 298 frames.
+astmic-fsi095-sen0126 國內 有利 罰 執行 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0126 is -9.08334 over 248 frames.
+astmic-fsi095-sen0127 柴 契 約 五 峰 人事 開 槍 擊 的 古 董 名 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0127 is -9.30078 over 458 frames.
+astmic-fsi095-sen0128 可 沈 榮 吉 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0128 is -9.4653 over 218 frames.
+astmic-fsi095-sen0129 避 開 政府 某 射 殺 毛 成立 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0129 is -9.28161 over 368 frames.
+astmic-fsi095-sen0130 行 為 地方 各 界 他們 表示 會 建議 太 大 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0130 is -9.66232 over 428 frames.
+astmic-fsi095-sen0131 就 在 美 觀 地 下 台 階 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0131 is -9.60468 over 308 frames.
+astmic-fsi095-sen0132 他們 及 台 南 市 好 成績 單 仍 被 撤 銷 通 緝 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0132 is -9.63476 over 458 frames.
+astmic-fsi095-sen0133 被 查 獲 的 十 餘 特別 顧 檯 面 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0133 is -9.60459 over 348 frames.
+astmic-fsi095-sen0134 並 停止 生活 行 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0134 is -9.2548 over 268 frames.
+astmic-fsi095-sen0135 她 的 加成 分析 不 說 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0135 is -9.62371 over 248 frames.
+astmic-fsi095-sen0136 家 人 發現 附近 有 的是 經濟 來源 的 感覺 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0136 is -9.43914 over 448 frames.
+astmic-fsi095-sen0137 呈現 什麼 家 人 能 截 至 今 盛 行 駛 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0137 is -9.50131 over 398 frames.
+astmic-fsi095-sen0138 經常 在 地方 上 內容 均 屬 其中 的 生活 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0138 is -9.91222 over 378 frames.
+astmic-fsi095-sen0139 但 因 目前 為止 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0139 is -9.278 over 228 frames.
+astmic-fsi095-sen0140 出現 海 產 週末 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0140 is -9.60886 over 218 frames.
+astmic-fsi095-sen0141 另外 並 犯 罪 其他 的 提前 高 品 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0141 is -10.0161 over 348 frames.
+astmic-fsi095-sen0142 長 反對 知道 立 即 趕 往 灌 救 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0142 is -9.46867 over 388 frames.
+astmic-fsi095-sen0143 昨 天 上午 十 時 十分 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0143 is -9.41066 over 258 frames.
+astmic-fsi095-sen0144 進 興 兩 人 的 大門 前 來 回 收 購 損 失 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0144 is -9.67362 over 418 frames.
+astmic-fsi095-sen0145 他 結構 不 勝 實 行 常 會 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0145 is -9.96694 over 298 frames.
+astmic-fsi095-sen0146 以及 一 台 卻 高 品 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0146 is -9.51195 over 268 frames.
+astmic-fsi095-sen0147 屏 東 警 力 會 時期 之 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0147 is -9.61193 over 258 frames.
+astmic-fsi095-sen0148 假 期 貨 的 印 表 可靠 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0148 is -9.378 over 338 frames.
+astmic-fsi095-sen0149 農 委 會 交 暴 力 犯 台 糖 廠 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0149 is -9.69337 over 368 frames.
+astmic-fsi095-sen0150 市府 在 進行 了 局 長 廖 案 情 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0150 is -9.65139 over 388 frames.
+astmic-fsi095-sen0151 作 了 中 馬上 來 練習 會 被 新 的 晶片 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0151 is -9.28531 over 528 frames.
+astmic-fsi095-sen0152 結果 僅 從 電視 劇 場 交 接 典 禮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0152 is -9.4814 over 398 frames.
+astmic-fsi095-sen0153 在 全國 重新 海 珊 不 重 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0153 is -9.47326 over 398 frames.
+astmic-fsi095-sen0154 致 社會 科 長 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0154 is -9.15835 over 248 frames.
+astmic-fsi095-sen0155 多少 能 更 加 回 台 將 機場 的 交 接 典 禮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0155 is -9.6389 over 438 frames.
+astmic-fsi095-sen0156 鄉 農 會 理 事 不 便 喜 劇 場 面 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0156 is -9.5951 over 378 frames.
+astmic-fsi095-sen0157 將 其 形成 了 小 重點 辦 理 價 錢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0157 is -9.65582 over 448 frames.
+astmic-fsi095-sen0158 即使 接 任 教育 局 長 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0158 is -9.5397 over 258 frames.
+astmic-fsi095-sen0159 被 視 為 之 一 類 型 的 和 背 信 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0159 is -9.22982 over 388 frames.
+astmic-fsi095-sen0160 北 港 人 氣 之後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0160 is -9.34747 over 208 frames.
+astmic-fsi095-sen0161 從前 的 走 勢 頭 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0161 is -9.8045 over 248 frames.
+astmic-fsi095-sen0162 桃園 新 生 兒 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0162 is -8.91542 over 268 frames.
+astmic-fsi095-sen0163 但 深入 探 討 政治 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0163 is -9.45531 over 238 frames.
+astmic-fsi095-sen0164 市府 下 的 情況 未 接 納 的 事 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0164 is -9.74169 over 338 frames.
+astmic-fsi095-sen0165 並 針對 確實 執行 改善 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0165 is -9.5763 over 308 frames.
+astmic-fsi095-sen0166 更 能 信 到 編 民 政策 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0166 is -9.38376 over 278 frames.
+astmic-fsi095-sen0167 該 建 築 藉 著 使用 紙 張 的 林 警 方 正 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0167 is -9.50313 over 478 frames.
+astmic-fsi095-sen0168 同時 在 全 省 各 縣 市 收 縮 科學 和 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0168 is -9.65499 over 408 frames.
+astmic-fsi095-sen0169 均 線 的 名 稱 事先 來 的 後 的 開始 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0169 is -9.78819 over 358 frames.
+astmic-fsi095-sen0170 但 真正 讓 真 是 乃 交通 委 會 的 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0170 is -9.57619 over 408 frames.
+astmic-fsi095-sen0171 豐 原 市 公 所 指出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0171 is -9.74937 over 238 frames.
+astmic-fsi095-sen0172 市 民 投 手 該 始 至 終 身 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0172 is -9.52472 over 328 frames.
+astmic-fsi095-sen0173 中 山 路 的 到 美國 的 陳 情 抗 尚未 嚴重 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0173 is -9.86674 over 428 frames.
+astmic-fsi095-sen0174 尤其 在 中 正 路 的 媽 祖 廟 前 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0174 is -9.68162 over 328 frames.
+astmic-fsi095-sen0175 更 是 幾個 涉 嫌 不同 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0175 is -9.65198 over 248 frames.
+astmic-fsi095-sen0176 兒童 客 戶 的 走 北 路 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0176 is -10.0163 over 218 frames.
+astmic-fsi095-sen0177 資 深 信 度 不必 要 的 深 深 厚 植 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0177 is -9.5118 over 358 frames.
+astmic-fsi095-sen0178 使得 長 廖 傳 真 能 達到 上班 被 查 獲 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0178 is -9.83282 over 388 frames.
+astmic-fsi095-sen0179 的 紙 頁 全部 捐 能 充 場 所 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0179 is -9.62075 over 328 frames.
+astmic-fsi095-sen0180 為何 一 到 現在 仍 未 實現 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0180 is -9.25744 over 328 frames.
+astmic-fsi095-sen0181 但 若 立 綜合 盛 名 那麼 有關 合法 的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0181 is -9.63616 over 418 frames.
+astmic-fsi095-sen0182 並 且 未 能 即 行 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0182 is -9.21727 over 308 frames.
+astmic-fsi095-sen0183 至於 背後 看 問題 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0183 is -9.51458 over 228 frames.
+astmic-fsi095-sen0184 目前 警 覺 題材 聲 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0184 is -9.64437 over 298 frames.
+astmic-fsi095-sen0185 金 龍 老 將 提 出 配合 款 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0185 is -9.57774 over 278 frames.
+astmic-fsi095-sen0186 其他 都 將 並 未 處 置 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0186 is -9.40724 over 298 frames.
+astmic-fsi095-sen0187 正在 的 情 感 到 入 點 外 連絡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0187 is -9.44658 over 348 frames.
+astmic-fsi095-sen0188 未來 到底 理想 某 上 升 趨 其他 大陸 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0188 is -9.50222 over 428 frames.
+astmic-fsi095-sen0189 的 指令 展開 調 幅 鄉 長 劉 邦 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0189 is -9.4835 over 398 frames.
+astmic-fsi095-sen0190 卻 什麼 替代 的 事實 的 吵架 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0190 is -9.6006 over 328 frames.
+astmic-fsi095-sen0191 社會 賣 命 在 做 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0191 is -9.7177 over 198 frames.
+astmic-fsi095-sen0192 從 容 當 選 委 會 漲 潮 流 於 主 持 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0192 is -9.41537 over 398 frames.
+astmic-fsi095-sen0193 且 目前 不 景 氣 轉 康 鄉 中 了解 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0193 is -10.026 over 328 frames.
+astmic-fsi095-sen0194 在 那 隻 小 馬 均 能 區 天 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0194 is -9.5224 over 378 frames.
+astmic-fsi095-sen0195 他 深 感 動 是否 將來 居 民 的 理 念 十分 吃 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0195 is -9.5433 over 508 frames.
+astmic-fsi095-sen0196 將來 中 縣 文化 中心 一 連 接 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0196 is -9.40659 over 338 frames.
+astmic-fsi095-sen0197 告訴 你 派 系 正常 手 中 能 在 法 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0197 is -9.56447 over 358 frames.
+astmic-fsi095-sen0198 四 單位 負責 相 較 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0198 is -9.44662 over 278 frames.
+astmic-fsi095-sen0199 其他 講求 出國 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi095-sen0199 is -9.43848 over 248 frames.
+astmic-fsi096-sen0000 不 料 輕 便 擔心 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0000 is -8.98261 over 388 frames.
+astmic-fsi096-sen0001 機會 僅 決定 村 長 期 的 於 此 被 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0001 is -9.2495 over 478 frames.
+astmic-fsi096-sen0002 為何 要 再 次 行 彈 性 取 勝 濫 墾 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0002 is -9.01222 over 508 frames.
+astmic-fsi096-sen0003 其 人 也 平常 陸續 低 檔 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0003 is -8.95957 over 448 frames.
+astmic-fsi096-sen0004 學 歷 不 對等 加 入 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0004 is -9.16133 over 308 frames.
+astmic-fsi096-sen0005 預 料 將 克 斯 聯 合 查 緝 行 動 公 文 物 質 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0005 is -9.4159 over 508 frames.
+astmic-fsi096-sen0006 舊 址 開始 至 四月 合 唱 起來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0006 is -9.52667 over 408 frames.
+astmic-fsi096-sen0007 僅 頻 頻 仍 利 播出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0007 is -9.17122 over 318 frames.
+astmic-fsi096-sen0008 容易 造成 漏 洞 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0008 is -9.22284 over 278 frames.
+astmic-fsi096-sen0009 而 瀕 臨 向 有關 單位 申請 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0009 is -9.29038 over 378 frames.
+astmic-fsi096-sen0010 殘 忍 痛 林 停課 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0010 is -9.15703 over 308 frames.
+astmic-fsi096-sen0011 市府 社會 局 種類 決定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0011 is -9.34092 over 338 frames.
+astmic-fsi096-sen0012 告 知 而且 一旦 二 千 元 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0012 is -9.21313 over 338 frames.
+astmic-fsi096-sen0013 它 本 質 連 成長 的 低 收 入 戶 指令 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0013 is -9.32535 over 468 frames.
+astmic-fsi096-sen0014 質 的 確 請 示 即 可 產生 器 的 全國 馮 聖 欽 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0014 is -9.59642 over 498 frames.
+astmic-fsi096-sen0015 且 則 由 市府 教育 局 統統 歸 還 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0015 is -9.42889 over 408 frames.
+astmic-fsi096-sen0016 目前 教育 部 正確 偷偷 指令 的 機 種 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0016 is -9.34482 over 528 frames.
+astmic-fsi096-sen0017 就 不能 成 員 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0017 is -9.08119 over 338 frames.
+astmic-fsi096-sen0018 他 當場 必須 運動 傷 下 台 階 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0018 is -9.57156 over 408 frames.
+astmic-fsi096-sen0019 在 人士 的 好 評 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0019 is -9.34766 over 288 frames.
+astmic-fsi096-sen0020 但 歸 還 真 有 取 之後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0020 is -9.35294 over 298 frames.
+astmic-fsi096-sen0021 崔 二 人 的 著 斷 土地 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0021 is -9.22108 over 378 frames.
+astmic-fsi096-sen0022 其 間 曾 濟 品 牌 辭 職 員 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0022 is -9.0513 over 398 frames.
+astmic-fsi096-sen0023 推 銷 商 有趣 各 號 子 成立 下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0023 is -9.54914 over 428 frames.
+astmic-fsi096-sen0024 通常 一陣 用 眉 目 清 空間 區域 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0024 is -9.37595 over 328 frames.
+astmic-fsi096-sen0025 被 群 情 感 的 觀眾 頻 頻 擦 汗 聲 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0025 is -9.30445 over 428 frames.
+astmic-fsi096-sen0026 不過 為何 能 全 力 反 彈 的 氣 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0026 is -9.44845 over 408 frames.
+astmic-fsi096-sen0027 市 場 南 投到 土地 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0027 is -8.93876 over 358 frames.
+astmic-fsi096-sen0028 並 克服 當年 陳 健 全 發展 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0028 is -9.4766 over 308 frames.
+astmic-fsi096-sen0029 但是 每當 很 認真 有 全 省 的 信 用 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0029 is -9.23077 over 478 frames.
+astmic-fsi096-sen0030 必須 範圍 智慧 群 眾 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0030 is -8.99618 over 358 frames.
+astmic-fsi096-sen0031 學 者 及 個中 年 其他 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0031 is -9.29159 over 318 frames.
+astmic-fsi096-sen0032 縣 市 政府 取 締 的 決 心 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0032 is -8.99378 over 388 frames.
+astmic-fsi096-sen0033 僅 個人 已 今天 推 動 的 作品 特 定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0033 is -9.19209 over 458 frames.
+astmic-fsi096-sen0034 超過 自然 就 累 累 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0034 is -9.08349 over 348 frames.
+astmic-fsi096-sen0035 當然 媒體 的 了 其中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0035 is -8.99374 over 348 frames.
+astmic-fsi096-sen0036 取 締 的 工作 他 累 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0036 is -9.03861 over 328 frames.
+astmic-fsi096-sen0037 經濟部 次 長 江 丙 坤 融 會 程式 方法 問題 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0037 is -9.42176 over 478 frames.
+astmic-fsi096-sen0038 調 查 緝 資訊 人員 里 民 選擇 重點 片 檢查 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0038 is -9.39026 over 468 frames.
+astmic-fsi096-sen0039 取 締 於是 歷 年 人 工作 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0039 is -9.23107 over 348 frames.
+astmic-fsi096-sen0040 位置 實 力 量 能 有 交通 與 的 屏 風 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0040 is -9.49327 over 488 frames.
+astmic-fsi096-sen0041 一方面 可以 刺 殺 可能 出現 的 有 檢查 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0041 is -9.38025 over 478 frames.
+astmic-fsi096-sen0042 變化 又 可以 他 方便 日 的 目的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0042 is -9.19127 over 438 frames.
+astmic-fsi096-sen0043 且 手 冊 尚未 結 的 情 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0043 is -8.81325 over 458 frames.
+astmic-fsi096-sen0044 在 的 產品 彩 券 自 發 即 日 起 的 確實 平 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0044 is -9.581 over 438 frames.
+astmic-fsi096-sen0045 顯然 並 工 常見 的 數 量 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0045 is -9.47542 over 338 frames.
+astmic-fsi096-sen0046 只是 建立 後 委 託 承 接 的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0046 is -9.11146 over 408 frames.
+astmic-fsi096-sen0047 而 將 二 次 已 決定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0047 is -9.13995 over 318 frames.
+astmic-fsi096-sen0048 代表 會 再 議 員 工 買 氣 的 常見 的 數 月 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0048 is -9.34872 over 478 frames.
+astmic-fsi096-sen0049 並 將 恢復 尚未 數 救 治 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0049 is -9.32545 over 318 frames.
+astmic-fsi096-sen0050 過去 無法 著 想 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0050 is -9.17451 over 268 frames.
+astmic-fsi096-sen0051 此 背景 甚 且 拿 出 了 起來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0051 is -9.37683 over 398 frames.
+astmic-fsi096-sen0052 對 此 打 擊 發現 受 的 失 望 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0052 is -9.1459 over 368 frames.
+astmic-fsi096-sen0053 警 方 雖 非 修 聯 邦 的 美 夢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0053 is -9.20925 over 378 frames.
+astmic-fsi096-sen0054 在 此 解套 額 驅 動 為 重 量 刑 條 例 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0054 is -9.32665 over 448 frames.
+astmic-fsi096-sen0055 草 所 獲得 男 女 中 的 團體 冠 軍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0055 is -9.03483 over 488 frames.
+astmic-fsi096-sen0056 但 連續 四 年 瀏覽 照 顧 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0056 is -8.82441 over 408 frames.
+astmic-fsi096-sen0057 全部 農 委 選 手 美 的 較 差 的 強 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0057 is -9.14587 over 508 frames.
+astmic-fsi096-sen0058 景 氣 人 選 手 的 不 滿 情 緒 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0058 is -9.26046 over 348 frames.
+astmic-fsi096-sen0059 否則 難免 縣 府 的 作法 不 景 氣 裡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0059 is -9.56508 over 398 frames.
+astmic-fsi096-sen0060 農 仍 將 認定 請 假 未 供 述 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0060 is -9.6343 over 328 frames.
+astmic-fsi096-sen0061 可能 造成 熱 情 答 覆 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0061 is -8.62833 over 408 frames.
+astmic-fsi096-sen0062 縣 府 領 實 地 了解 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0062 is -8.85277 over 348 frames.
+astmic-fsi096-sen0063 不可 得 知 常 作業 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0063 is -9.03744 over 308 frames.
+astmic-fsi096-sen0064 告 不可 理 性 規定 民 呢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0064 is -9.18888 over 358 frames.
+astmic-fsi096-sen0065 並 進行 始終 人員 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0065 is -8.73892 over 358 frames.
+astmic-fsi096-sen0066 李 某 在 警 訊 時 指 稱 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0066 is -8.94979 over 388 frames.
+astmic-fsi096-sen0067 塑 膠 範圍 是 向前 去 在於 之後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0067 is -9.41605 over 378 frames.
+astmic-fsi096-sen0068 指 控 婦 人 身 居 中 市 場 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0068 is -9.30079 over 328 frames.
+astmic-fsi096-sen0069 只有 日 凌 晨 三 時 性 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0069 is -9.31182 over 298 frames.
+astmic-fsi096-sen0070 的 整理 工 商業 社會 調 至 昨 日 上午 接 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0070 is -9.28621 over 468 frames.
+astmic-fsi096-sen0071 通常 牛 繩 機會 暢 只有 上 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0071 is -9.3304 over 348 frames.
+astmic-fsi096-sen0072 並 整理 教育 身 著 提高 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0072 is -9.16527 over 338 frames.
+astmic-fsi096-sen0073 在 前 農 業 社會 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0073 is -8.82233 over 378 frames.
+astmic-fsi096-sen0074 在 這 瀏覽 有時候 抗 議 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0074 is -8.99454 over 348 frames.
+astmic-fsi096-sen0075 以前 的 仍然 接受 不 利 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0075 is -9.20627 over 328 frames.
+astmic-fsi096-sen0076 被 太太 只是 一個 月 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0076 is -9.19548 over 278 frames.
+astmic-fsi096-sen0077 調整 都 生 產 跡 象 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0077 is -8.89115 over 548 frames.
+astmic-fsi096-sen0078 接著 不到 檔案 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0078 is -8.99184 over 318 frames.
+astmic-fsi096-sen0079 後來 又 能 影響 不 大 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0079 is -8.93681 over 378 frames.
+astmic-fsi096-sen0080 要求 縣 長 改 常 態 度 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0080 is -9.20971 over 358 frames.
+astmic-fsi096-sen0081 不 致 詞 劉 是否 危險 戰 籌 措 施 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0081 is -9.18063 over 478 frames.
+astmic-fsi096-sen0082 其實 地方 建 設 落後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0082 is -8.98823 over 338 frames.
+astmic-fsi096-sen0083 推出 在 產業 檢 舉 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0083 is -8.90267 over 398 frames.
+astmic-fsi096-sen0084 並不是 理想 被 刪 除 數字 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0084 is -9.35562 over 338 frames.
+astmic-fsi096-sen0085 並 匯 率 領 回 檔 幅 刪 除 縣 府 預 算 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0085 is -9.24024 over 468 frames.
+astmic-fsi096-sen0086 西 部 長 上 級 補 助 款 根本 沒有 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0086 is -9.54038 over 468 frames.
+astmic-fsi096-sen0087 雖 重 訓練 行 為 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0087 is -9.12475 over 328 frames.
+astmic-fsi096-sen0088 在 會 造成 呈現 透 明 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0088 is -9.4417 over 318 frames.
+astmic-fsi096-sen0089 只要 容 器 是 來源 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0089 is -8.93278 over 308 frames.
+astmic-fsi096-sen0090 實在 不 合 清 理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0090 is -8.88154 over 348 frames.
+astmic-fsi096-sen0091 參加 天氣 市府 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0091 is -9.0784 over 328 frames.
+astmic-fsi096-sen0092 提 示 使用 的 眼 光 看來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0092 is -9.30904 over 298 frames.
+astmic-fsi096-sen0093 的 角度 下 探 底 里 的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0093 is -9.04938 over 378 frames.
+astmic-fsi096-sen0094 在 每 下 令 廟 姓 女 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0094 is -8.98437 over 368 frames.
+astmic-fsi096-sen0095 於是 創 為 辨識 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0095 is -9.28566 over 288 frames.
+astmic-fsi096-sen0096 的 同學 期 間 亮 比較 七 名 的 難 逃 逸 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0096 is -9.14728 over 538 frames.
+astmic-fsi096-sen0097 修理 天氣 的 翁 某 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0097 is -8.9962 over 358 frames.
+astmic-fsi096-sen0098 連 林 兩 里 民 當場 提 升 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0098 is -9.21879 over 358 frames.
+astmic-fsi096-sen0099 可以 都 擔 任 期 限 家 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0099 is -8.92176 over 328 frames.
+astmic-fsi096-sen0100 可 謂 後 被 執行 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0100 is -8.86686 over 348 frames.
+astmic-fsi096-sen0101 只要 壓 力 抬 頭 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0101 is -9.14139 over 288 frames.
+astmic-fsi096-sen0102 他 是 要求 費 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0102 is -8.80613 over 328 frames.
+astmic-fsi096-sen0103 他 不得 當 天 上 的 原來 在下 來 蒐 集 團 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0103 is -9.59856 over 518 frames.
+astmic-fsi096-sen0104 兩 人 當 事 人 密切 成 交 往 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0104 is -9.00395 over 428 frames.
+astmic-fsi096-sen0105 兩 女 悲 憤 放大 木 利 率 國 小 人家 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0105 is -9.65816 over 358 frames.
+astmic-fsi096-sen0106 就 更 是 冷 落 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0106 is -9.01594 over 328 frames.
+astmic-fsi096-sen0107 黃 某 認為 是 其 成 效 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0107 is -9.0076 over 398 frames.
+astmic-fsi096-sen0108 槍 殺 人 身 歷 年 的 兩 名 義 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0108 is -8.75239 over 428 frames.
+astmic-fsi096-sen0109 且 結 下 降 禮 堂 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0109 is -9.09642 over 348 frames.
+astmic-fsi096-sen0110 成立 特別 充分 工作 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0110 is -8.95983 over 458 frames.
+astmic-fsi096-sen0111 企 業 時間 都 顯 凌 晨 三 時 結束 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0111 is -9.24989 over 488 frames.
+astmic-fsi096-sen0112 他 被 十 倍 的 提 花 蓮 霧 可 時間 採 取 締 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0112 is -9.2856 over 508 frames.
+astmic-fsi096-sen0113 現 行 動 學 童 的 主 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0113 is -9.12371 over 328 frames.
+astmic-fsi096-sen0114 他 將 出現 有 一段 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0114 is -9.12923 over 428 frames.
+astmic-fsi096-sen0115 這 種 店 外面 俗 與 成 人 氣 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0115 is -8.77306 over 478 frames.
+astmic-fsi096-sen0116 濱 海 公路 出現 的 市 值得 留 一 番 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0116 is -8.99306 over 658 frames.
+astmic-fsi096-sen0117 並 下 一 代 電話 是 他 頭 人物 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0117 is -9.12906 over 458 frames.
+astmic-fsi096-sen0118 只要 單 最 人 店 內 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0118 is -8.92988 over 358 frames.
+astmic-fsi096-sen0119 值得 留 便 會 推 薦 衣服 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0119 is -8.86117 over 418 frames.
+astmic-fsi096-sen0120 有 位 方面 之 嫌 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0120 is -8.91721 over 378 frames.
+astmic-fsi096-sen0121 同時 改 採 摘 下 露 涉 嫌 違 建 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0121 is -9.42777 over 438 frames.
+astmic-fsi096-sen0122 是否 為 當場 的 個 股 東 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0122 is -9.15952 over 328 frames.
+astmic-fsi096-sen0123 果 菜 市 場 上 龍頭 尚未 結 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0123 is -9.40193 over 318 frames.
+astmic-fsi096-sen0124 並 將 違 建 認定 標準 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0124 is -9.43034 over 308 frames.
+astmic-fsi096-sen0125 市府 一般 多 各種 色 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0125 is -9.39998 over 348 frames.
+astmic-fsi096-sen0126 東 沒有 引發 執行 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0126 is -8.98802 over 298 frames.
+astmic-fsi096-sen0127 在 我 方 人事 調 查 緝 的 古 董 歷史 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0127 is -9.0318 over 528 frames.
+astmic-fsi096-sen0128 或 少有 及 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0128 is -9.21652 over 278 frames.
+astmic-fsi096-sen0129 對 台 政府 磨 式 上班 全 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0129 is -9.18355 over 398 frames.
+astmic-fsi096-sen0130 以 行業 地方 各 界 紛 紛 表示 會 建議 太 大 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0130 is -9.34611 over 538 frames.
+astmic-fsi096-sen0131 校長 賣 該 社 團 結 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0131 is -9.27623 over 348 frames.
+astmic-fsi096-sen0132 他們 其他 能 使用 槍 枝 葉 能 被 扯 暢 通 緝 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0132 is -9.49348 over 478 frames.
+astmic-fsi096-sen0133 經常 來 彼此 已 台 電 國 泰 源 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0133 is -9.22297 over 438 frames.
+astmic-fsi096-sen0134 的 體育 似乎 還 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0134 is -9.04137 over 328 frames.
+astmic-fsi096-sen0135 她 的 家 人 成 發 行 股 數 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0135 is -9.03097 over 408 frames.
+astmic-fsi096-sen0136 家 人 坦 承 不 久 歷史 緝 私 人 也 跟 監 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0136 is -9.32941 over 458 frames.
+astmic-fsi096-sen0137 曾 精神 的 家 人 解釋 基 層 吸 食 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0137 is -9.43373 over 388 frames.
+astmic-fsi096-sen0138 他 將 在 地方 上 任 用 車 出 其中 地 下 化 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0138 is -9.75642 over 408 frames.
+astmic-fsi096-sen0139 在 目前 為止 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0139 is -8.92235 over 278 frames.
+astmic-fsi096-sen0140 不 傷 害 超 重 挫 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0140 is -9.40209 over 258 frames.
+astmic-fsi096-sen0141 另外 並 房子 領 土 的 一 切 高 品 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0141 is -9.42476 over 398 frames.
+astmic-fsi096-sen0142 三 方 會 舉 辦 理 競 標 會 前 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0142 is -9.44819 over 388 frames.
+astmic-fsi096-sen0143 昨 天 上午 十 時 十分 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0143 is -8.92039 over 408 frames.
+astmic-fsi096-sen0144 進 興 兩 人 的 大門 前 往 維 修 工作 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0144 is -9.3941 over 478 frames.
+astmic-fsi096-sen0145 台 結構 舖 設 實 行 常 會 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0145 is -9.60279 over 328 frames.
+astmic-fsi096-sen0146 並 期待 卻 高 品 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0146 is -9.12962 over 308 frames.
+astmic-fsi096-sen0147 並 北 京 立 委 時期 之 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0147 is -9.11044 over 338 frames.
+astmic-fsi096-sen0148 長 期 貨 的 印 表 可靠 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0148 is -9.08929 over 328 frames.
+astmic-fsi096-sen0149 頗 為 不 利 叫 他 平常 打 成 傷 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0149 is -9.38052 over 398 frames.
+astmic-fsi096-sen0150 市府 在 區域 選舉 遭 到 案 情 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0150 is -9.40416 over 358 frames.
+astmic-fsi096-sen0151 昨 天 終 馬上 列 席 核 備 取得 的 天 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0151 is -9.20402 over 428 frames.
+astmic-fsi096-sen0152 將 會 多 解釋 局 長 交 接 典 禮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0152 is -9.36877 over 368 frames.
+astmic-fsi096-sen0153 在 結構 出現 量 上 不 重 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0153 is -9.07668 over 428 frames.
+astmic-fsi096-sen0154 只是 因為 可 當 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0154 is -9.3789 over 248 frames.
+astmic-fsi096-sen0155 就 算了 請 假 未 參加 機場 的 交 接 典 禮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0155 is -9.35122 over 428 frames.
+astmic-fsi096-sen0156 電 容 維持 不變 喜 劇 場 面 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0156 is -9.2928 over 368 frames.
+astmic-fsi096-sen0157 尤其 是 於 昨 天 上午 重點 辦 理 交 接 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0157 is -9.281 over 488 frames.
+astmic-fsi096-sen0158 則 是 兼 任 教育 局 長 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0158 is -9.31005 over 308 frames.
+astmic-fsi096-sen0159 並 射 箭 練習 和 背 信 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0159 is -9.12455 over 328 frames.
+astmic-fsi096-sen0160 表演 擔 任 省 休息 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0160 is -8.80941 over 358 frames.
+astmic-fsi096-sen0161 從 此 的 重視 頭 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0161 is -9.42852 over 248 frames.
+astmic-fsi096-sen0162 在 原始 森林 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0162 is -9.11871 over 288 frames.
+astmic-fsi096-sen0163 這 項 調 查 終 止 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0163 is -9.1929 over 238 frames.
+astmic-fsi096-sen0164 只好 敲 定 期 大會 簡單 真 是 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0164 is -9.45024 over 358 frames.
+astmic-fsi096-sen0165 的 針對 確實 繼續 改善 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0165 is -9.18834 over 358 frames.
+astmic-fsi096-sen0166 可能 送 達 平 日 政策 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0166 is -9.50476 over 338 frames.
+astmic-fsi096-sen0167 關於 建 築 物 件 導 向 製 造 的 立 即 法 則 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0167 is -9.62756 over 428 frames.
+astmic-fsi096-sen0168 公司 在 全 省 各 縣 市 周 書 楷 寫 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0168 is -9.32502 over 428 frames.
+astmic-fsi096-sen0169 這些 秘 密 沖 四 雖然 銀行 的 態 勢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0169 is -9.47241 over 388 frames.
+astmic-fsi096-sen0170 但 真正 讓 這 次 的 交通 委 會 的 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0170 is -9.84874 over 358 frames.
+astmic-fsi096-sen0171 豐 原 市 公 所 指出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0171 is -9.19717 over 298 frames.
+astmic-fsi096-sen0172 前 日 投 訴 該 此 次 重 鎮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0172 is -9.65318 over 268 frames.
+astmic-fsi096-sen0173 中 山 路 的 中文 會 提 呈現 寬 鬆 為 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0173 is -9.80475 over 398 frames.
+astmic-fsi096-sen0174 尤其 在 中 正 路 的 媽 祖 廟 前 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0174 is -9.3316 over 358 frames.
+astmic-fsi096-sen0175 盤 勢 即 可 實現 不同 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0175 is -9.35679 over 278 frames.
+astmic-fsi096-sen0176 兒童 空 後 的 中 透 露 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0176 is -9.85498 over 248 frames.
+astmic-fsi096-sen0177 這 項 仍 需 多 不必 要 的 發生 號 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0177 is -9.43385 over 368 frames.
+astmic-fsi096-sen0178 值得 桃園 中 正 的 達到 方 當場 查 獲 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0178 is -9.84215 over 388 frames.
+astmic-fsi096-sen0179 的 紙 頁 全部 捐 人 常常 說 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0179 is -9.69018 over 278 frames.
+astmic-fsi096-sen0180 管道 現在 仍 未 實現 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0180 is -9.21683 over 318 frames.
+astmic-fsi096-sen0181 但 由於 中 河 川 兩 位 有 讓 反對 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0181 is -9.44875 over 398 frames.
+astmic-fsi096-sen0182 彼此 未 能 即 日 起 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0182 is -9.18054 over 238 frames.
+astmic-fsi096-sen0183 最 可靠 問題 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0183 is -9.19692 over 248 frames.
+astmic-fsi096-sen0184 目前 其 家 廠 商 也 這 種 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0184 is -9.36568 over 308 frames.
+astmic-fsi096-sen0185 將來 再 提 出 配合 款 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0185 is -9.62627 over 268 frames.
+astmic-fsi096-sen0186 其他 人物 將 並 未 處 置 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0186 is -9.46824 over 268 frames.
+astmic-fsi096-sen0187 在 這樣 強 行 大陸 的 外 連絡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0187 is -9.38704 over 358 frames.
+astmic-fsi096-sen0188 對 而 單獨 鄉 公 所 申請 其他 道 路 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0188 is -9.42387 over 438 frames.
+astmic-fsi096-sen0189 而 指令 在 太太 常常 有 大 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0189 is -9.32768 over 358 frames.
+astmic-fsi096-sen0190 假設 有 近 百 事實 的 參加 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0190 is -9.62228 over 328 frames.
+astmic-fsi096-sen0191 社會 男 兒 加以 處 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0191 is -9.05471 over 288 frames.
+astmic-fsi096-sen0192 就 讓 大 協 會 會長 張 由於 主 持 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0192 is -9.09757 over 508 frames.
+astmic-fsi096-sen0193 造成 部 機器 中 開 槍 最 了解 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0193 is -9.64337 over 368 frames.
+astmic-fsi096-sen0194 但 勞 資 散 發 覺 能夠 體 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0194 is -9.55114 over 328 frames.
+astmic-fsi096-sen0195 表示 該 公司 負責 人 經 理 念 茲 分析 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0195 is -9.41609 over 428 frames.
+astmic-fsi096-sen0196 將 大 眾 說 我 何 種 行業 解 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0196 is -9.10283 over 378 frames.
+astmic-fsi096-sen0197 告訴 你 在 清 查 小 說 中 的 著 法 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0197 is -9.70313 over 318 frames.
+astmic-fsi096-sen0198 曾 多 位 否則 相 片 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0198 is -9.0325 over 318 frames.
+astmic-fsi096-sen0199 其 大家 求 通過 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-fsi096-sen0199 is -9.39102 over 268 frames.
+astmic-msi095-sen0000 全國 查 獲 重視 強 制 辦法 舉手 方 在 周 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0000 is -9.42426 over 528 frames.
+astmic-msi095-sen0001 俟 政治 意義 尚未 菲 律 賓 之 手 槍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0001 is -8.99228 over 448 frames.
+astmic-msi095-sen0002 泰 國 歷史 的 辦 理 達 機場 練習 地區 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0002 is -9.10815 over 558 frames.
+astmic-msi095-sen0003 卻 飛機 的 走 勢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0003 is -9.15188 over 258 frames.
+astmic-msi095-sen0004 調 查 四 人 從 未 及 能 均 已 恐 嚇 勒索 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0004 is -8.99892 over 508 frames.
+astmic-msi095-sen0005 境 內 查 獲 招 致 重視 感覺 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0005 is -9.16143 over 408 frames.
+astmic-msi095-sen0006 透過 他 環境 泰 國 的 角色 會 接下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0006 is -9.33303 over 438 frames.
+astmic-msi095-sen0007 販 賣 到 日本 的 觀念 內 開 決定 實 施 政 運 作 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0007 is -9.18608 over 528 frames.
+astmic-msi095-sen0008 監 察 院 密切 處理 器 發展 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0008 is -9.07523 over 368 frames.
+astmic-msi095-sen0009 其 今年 其他 提 出 身 改變 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0009 is -9.18119 over 388 frames.
+astmic-msi095-sen0010 造成 許 還 頻 傳 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0010 is -9.07605 over 278 frames.
+astmic-msi095-sen0011 陳 縣 長 蘇 可能 工程 處理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0011 is -9.22892 over 358 frames.
+astmic-msi095-sen0012 張 美 全部 職 員 搜 查 重大 的 理想 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0012 is -9.14966 over 438 frames.
+astmic-msi095-sen0013 每當 島 上 的 武器 系統 部 會 首 長 圍牆 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0013 is -9.33922 over 488 frames.
+astmic-msi095-sen0014 小時 再 三 部 向前 有趣 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0014 is -9.13908 over 378 frames.
+astmic-msi095-sen0015 並 且 露 出 略 去 大陸 的 行 動 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0015 is -9.3129 over 388 frames.
+astmic-msi095-sen0016 紙 張 數 上面 可能 留下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0016 is -9.14192 over 348 frames.
+astmic-msi095-sen0017 那麼 政治 能 賺 取 走 強 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0017 is -8.98912 over 358 frames.
+astmic-msi095-sen0018 海 珊 能 藉 此 會 研 擬 的 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0018 is -9.3268 over 358 frames.
+astmic-msi095-sen0019 利用 現 有的 方法 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0019 is -9.01775 over 258 frames.
+astmic-msi095-sen0020 是否 造成 到 場 每 年 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0020 is -8.89282 over 328 frames.
+astmic-msi095-sen0021 結果 在 上午 八 時 十分 回 收 回 卻 中 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0021 is -9.31998 over 408 frames.
+astmic-msi095-sen0022 由於 擺 臨 時 會 造成 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0022 is -9.32664 over 278 frames.
+astmic-msi095-sen0023 批 評 價 錢 半 數 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0023 is -9.0735 over 228 frames.
+astmic-msi095-sen0024 確實 流 動 攤 販 權 益 造成 年 終 於 困 擾 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0024 is -9.59134 over 408 frames.
+astmic-msi095-sen0025 他 在 改變 了 些 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0025 is -8.97066 over 278 frames.
+astmic-msi095-sen0026 至 今 永 和 動 彈 方向 委 員 會 發 呢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0026 is -9.24516 over 418 frames.
+astmic-msi095-sen0027 並 當場 揮 業 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0027 is -8.97749 over 228 frames.
+astmic-msi095-sen0028 確實 確實 發展 男 嬰 兒 控制 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0028 is -9.13722 over 348 frames.
+astmic-msi095-sen0029 市府 了 夫 妻 者 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0029 is -9.14236 over 258 frames.
+astmic-msi095-sen0030 被 者 才 知 可以 大量 費 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0030 is -9.03983 over 378 frames.
+astmic-msi095-sen0031 但 其 功效 使用 使用 者 的 印 表 決 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0031 is -9.19396 over 428 frames.
+astmic-msi095-sen0032 全 民 健康 摩 達 事實 足 治 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0032 is -9.21492 over 338 frames.
+astmic-msi095-sen0033 價 格 當 天 素 質 彩色 稅 的 任何 流 落 街頭 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0033 is -9.47547 over 498 frames.
+astmic-msi095-sen0034 原則 上 教育 而 原因 是 事實 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0034 is -8.99165 over 368 frames.
+astmic-msi095-sen0035 若 建 設 局 在 大 企 業 無法 連 忙 協 調 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0035 is -9.45452 over 438 frames.
+astmic-msi095-sen0036 三 芝 提高 送 廢 者 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0036 is -9.30417 over 258 frames.
+astmic-msi095-sen0037 才 可 各 項 建 設 局 身 手 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0037 is -9.53891 over 298 frames.
+astmic-msi095-sen0038 經 建 設 局 多 時 要 取 各 方 代表 檢 討 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0038 is -9.43297 over 468 frames.
+astmic-msi095-sen0039 去 攤 位 址 六 月 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0039 is -9.00305 over 248 frames.
+astmic-msi095-sen0040 雖然 容 放 領 土 去 選 民 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0040 is -9.49632 over 298 frames.
+astmic-msi095-sen0041 只要 再 找 解決 調 理 念 不 實 用 領域 裡 指出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0041 is -9.59492 over 478 frames.
+astmic-msi095-sen0042 規定 相當 的 嚴重 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0042 is -9.15713 over 258 frames.
+astmic-msi095-sen0043 表 皮 草 三 倍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0043 is -9.03679 over 258 frames.
+astmic-msi095-sen0044 相信 對於 此 確認 選擇 取 締 上 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0044 is -9.43165 over 368 frames.
+astmic-msi095-sen0045 從 事 余 陳 工作 時 十 餘 年 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0045 is -9.01824 over 338 frames.
+astmic-msi095-sen0046 其 放 受 刑 人 改 過 向 善 執行 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0046 is -9.17238 over 398 frames.
+astmic-msi095-sen0047 向 陳 淑 芳 功 力 相當 成立 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0047 is -9.24229 over 358 frames.
+astmic-msi095-sen0048 在於 成 奇怪 赫 赫 有名 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0048 is -9.17899 over 308 frames.
+astmic-msi095-sen0049 而 運動 的 狹 窄 乃 所 每天 會 成績 單 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0049 is -9.46306 over 428 frames.
+astmic-msi095-sen0050 股 價 民 的 人 生 為 三 倍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0050 is -9.34454 over 318 frames.
+astmic-msi095-sen0051 當 日 期 的 評 我 知道 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0051 is -9.15156 over 278 frames.
+astmic-msi095-sen0052 在 將來 全 場 中立 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0052 is -9.26812 over 248 frames.
+astmic-msi095-sen0053 都 強 勢 股 敏感 的 經 費 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0053 is -9.38098 over 348 frames.
+astmic-msi095-sen0054 雖 不 敢 的 家 對方 實 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0054 is -9.10681 over 328 frames.
+astmic-msi095-sen0055 尤其 密 集 達成 強 豪雨 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0055 is -9.24449 over 328 frames.
+astmic-msi095-sen0056 的 企 業 國 代 選舉 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0056 is -9.27142 over 278 frames.
+astmic-msi095-sen0057 劉 姓 興趣 下 方 放 置 引 起 市 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0057 is -9.27917 over 388 frames.
+astmic-msi095-sen0058 且 並 非 區 前 來 復 職 業 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0058 is -9.16663 over 378 frames.
+astmic-msi095-sen0059 國 民 代 價 格 均 呈現 缺 口 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0059 is -9.46347 over 338 frames.
+astmic-msi095-sen0060 目前 情勢 可能性 甚 高 階段 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0060 is -9.35269 over 378 frames.
+astmic-msi095-sen0061 尚未 正 式 的 內 建 下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0061 is -9.36885 over 298 frames.
+astmic-msi095-sen0062 兩 縣 市 議 長 周 轎 車 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0062 is -9.20583 over 318 frames.
+astmic-msi095-sen0063 但 仍 會 重視 若 不 配合 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0063 is -9.44371 over 318 frames.
+astmic-msi095-sen0064 週 線 沒有 必要 辭典 增加 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0064 is -9.18488 over 328 frames.
+astmic-msi095-sen0065 的 熱 烈 去 確認 將 馬 屁 股 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0065 is -9.27721 over 338 frames.
+astmic-msi095-sen0066 資 深 歷史 上 屢 要 不 大 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0066 is -9.44098 over 328 frames.
+astmic-msi095-sen0067 這 種 事 會 風 味 早期 的 心 態 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0067 is -9.32243 over 368 frames.
+astmic-msi095-sen0068 不佳 不 利 的 作法 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0068 is -9.27777 over 268 frames.
+astmic-msi095-sen0069 市 議 員 也 缺點 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0069 is -8.95108 over 248 frames.
+astmic-msi095-sen0070 可惜 人家 又 發明 能力 週 即 日 起 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0070 is -9.1358 over 418 frames.
+astmic-msi095-sen0071 且 科學 加以 研究 指出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0071 is -9.41033 over 288 frames.
+astmic-msi095-sen0072 並 會 留下 親 身 體 不 肯 槍 示 威 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0072 is -9.48003 over 398 frames.
+astmic-msi095-sen0073 這 種 示 威 可 有 特 殊 的 興趣 去 加以 走 進 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0073 is -9.49761 over 498 frames.
+astmic-msi095-sen0074 並 衝 鋒 槍 且 不 吝 給 累 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0074 is -9.18989 over 318 frames.
+astmic-msi095-sen0075 可 出 成 以上 年 立 場 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0075 is -9.14553 over 268 frames.
+astmic-msi095-sen0076 沈 重 其 委 會 用 柴 油 菜 的 由 紅 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0076 is -9.24278 over 428 frames.
+astmic-msi095-sen0077 經過 區 部分 修 發現 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0077 is -9.2461 over 328 frames.
+astmic-msi095-sen0078 美 中 不 錯誤 的 示 威 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0078 is -9.24938 over 258 frames.
+astmic-msi095-sen0079 還有 過去 它 有 不同 的 立 場 機 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0079 is -9.48342 over 398 frames.
+astmic-msi095-sen0080 並 要求 書籍 上 百 萬 元 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0080 is -9.49337 over 298 frames.
+astmic-msi095-sen0081 便 衛 生 家 長 行 為 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0081 is -9.21248 over 288 frames.
+astmic-msi095-sen0082 且 茂 說 服 的 住 處 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0082 is -9.37195 over 268 frames.
+astmic-msi095-sen0083 達成 協 議 二 百 萬 元 成 交 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0083 is -9.07488 over 408 frames.
+astmic-msi095-sen0084 特別 組織 那麼 二 百 萬 元 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0084 is -9.23661 over 398 frames.
+astmic-msi095-sen0085 交給 的 需求 的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0085 is -9.25656 over 268 frames.
+astmic-msi095-sen0086 事 後 力 強 行 分 的 明白 歷史 獲 利 了 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0086 is -9.47238 over 428 frames.
+astmic-msi095-sen0087 比較 的 的 九 四 萬 元 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0087 is -9.34159 over 298 frames.
+astmic-msi095-sen0088 另 尋 求 的 校 方 的 的 參考 行 情 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0088 is -9.58658 over 378 frames.
+astmic-msi095-sen0089 北 港 李 巧 天候 不 了 前科 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0089 is -9.60402 over 358 frames.
+astmic-msi095-sen0090 指出 純粹 是 新聞 正常 的 大 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0090 is -9.33742 over 418 frames.
+astmic-msi095-sen0091 他們 流 量 表 不 滿 企 業 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0091 is -9.3952 over 308 frames.
+astmic-msi095-sen0092 住 處 市 政 建 設 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0092 is -9.02982 over 278 frames.
+astmic-msi095-sen0093 並 國 大 為 民 服務 陳 志 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0093 is -9.04109 over 308 frames.
+astmic-msi095-sen0094 將 不 定 期 股票 增加 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0094 is -9.58616 over 278 frames.
+astmic-msi095-sen0095 四 日 舉 辦 公 廳 會 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0095 is -9.47623 over 258 frames.
+astmic-msi095-sen0096 張 榮 銜 的 決 策 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0096 is -9.44128 over 268 frames.
+astmic-msi095-sen0097 至於 程序 易 且 手 冊 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0097 is -8.98011 over 278 frames.
+astmic-msi095-sen0098 其實 管 理 工程 潛 能 取得 的 民 族 地方 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0098 is -9.55852 over 448 frames.
+astmic-msi095-sen0099 紛 紛 推出 家 庭 期 間 又 便 宜 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0099 is -9.55962 over 338 frames.
+astmic-msi095-sen0100 並 匯 券 管 理 非 使用 工 業 者 指出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0100 is -9.29554 over 428 frames.
+astmic-msi095-sen0101 民 國 七 次 年 農 產品 降 為 罰 球 的是 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0101 is -9.3693 over 448 frames.
+astmic-msi095-sen0102 立 法 院 透過 管 理 非 由 區 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0102 is -9.32055 over 328 frames.
+astmic-msi095-sen0103 巧 合 負 擔 一般 的 規定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0103 is -9.38893 over 308 frames.
+astmic-msi095-sen0104 從 東 免 重 月 一 日 起 只是 期 間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0104 is -9.41862 over 398 frames.
+astmic-msi095-sen0105 榮 被 公司 給 生 的 原因 態 度 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0105 is -9.37775 over 368 frames.
+astmic-msi095-sen0106 去年 六 時 主 將 最 低 迷 的 之後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0106 is -9.31446 over 408 frames.
+astmic-msi095-sen0107 並 幫助 強 成 本 月 美國 及 提 出 研 議 百 元 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0107 is -9.59633 over 478 frames.
+astmic-msi095-sen0108 去年 卻 出現 有 二 千 六 百 人 的 價 格 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0108 is -9.37362 over 488 frames.
+astmic-msi095-sen0109 對 岸 初步 殺 傷 力 量 大 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0109 is -9.56879 over 318 frames.
+astmic-msi095-sen0110 拒 絕 毒品 徵 收 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0110 is -9.10614 over 248 frames.
+astmic-msi095-sen0111 並 透過 每 日 得 表示 將 壓 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0111 is -9.17513 over 358 frames.
+astmic-msi095-sen0112 迫 使 教育 去 放棄 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0112 is -9.43045 over 268 frames.
+astmic-msi095-sen0113 該 訂 單 縮 缺 乏 術 區 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0113 is -9.55657 over 288 frames.
+astmic-msi095-sen0114 連 出 任 土地 接受 的 固 然 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0114 is -9.38361 over 328 frames.
+astmic-msi095-sen0115 但 附近 全 民 人 十分 看 去 森林 啟 智 學校 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0115 is -9.58193 over 478 frames.
+astmic-msi095-sen0116 將 去 找 去 圖 表 達 了 反對 的 心 聲 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0116 is -9.31852 over 468 frames.
+astmic-msi095-sen0117 啟 智 學校 所 需 的 都 市 資 產 能 掌握 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0117 is -9.4132 over 428 frames.
+astmic-msi095-sen0118 並 未 嚴重 理想 負 起 全 民 去除 環境 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0118 is -9.39744 over 448 frames.
+astmic-msi095-sen0119 就 若 一個 大型 手 當場 然 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0119 is -9.24395 over 318 frames.
+astmic-msi095-sen0120 才 可 憐 淚 不 願 信 用 福 利 社 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0120 is -9.34575 over 398 frames.
+astmic-msi095-sen0121 但是 場 合 扭 力 還 人 今年 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0121 is -9.18302 over 368 frames.
+astmic-msi095-sen0122 這 套 捐 贈 給 請 惠 訂 閱 方 將 他 同 屬 實 施 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0122 is -9.47248 over 528 frames.
+astmic-msi095-sen0123 就 成 了 村 里 長 歌 迷 的 區別 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0123 is -9.13311 over 368 frames.
+astmic-msi095-sen0124 同時 還 接受 游 標 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0124 is -9.32779 over 278 frames.
+astmic-msi095-sen0125 並 追 查 一個 月 前 年 有用 並 不 滿 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0125 is -9.36489 over 398 frames.
+astmic-msi095-sen0126 還有 台 南 成功 大學 提前 源 的 一 員 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0126 is -9.30009 over 428 frames.
+astmic-msi095-sen0127 有關 人員 指出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0127 is -9.16346 over 228 frames.
+astmic-msi095-sen0128 對於 重新 市 場 人員 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0128 is -9.08436 over 328 frames.
+astmic-msi095-sen0129 都 足夠 成功 潛 能 重 量 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0129 is -9.49428 over 348 frames.
+astmic-msi095-sen0130 他們 二 人 紐 澤 西 大會 之前 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0130 is -9.34486 over 408 frames.
+astmic-msi095-sen0131 從 郝 屢 為 口 事 態 嚴重 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0131 is -9.2359 over 348 frames.
+astmic-msi095-sen0132 適 巧 被 害 人 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0132 is -9.22059 over 248 frames.
+astmic-msi095-sen0133 將 於 是 有利 出 面 協 調 該 如何 善 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0133 is -9.41479 over 488 frames.
+astmic-msi095-sen0134 所 到底 成 員 破 對 象 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0134 is -9.24517 over 328 frames.
+astmic-msi095-sen0135 著 作 權 的 情 方面 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0135 is -9.26142 over 258 frames.
+astmic-msi095-sen0136 發生 演 奏 會 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0136 is -8.89255 over 248 frames.
+astmic-msi095-sen0137 並 將 全 都 安 全 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0137 is -9.52176 over 228 frames.
+astmic-msi095-sen0138 蘇 當地 設 女 破 給 予 強 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0138 is -9.07415 over 328 frames.
+astmic-msi095-sen0139 較 綜合 券 的 場 面 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0139 is -9.13146 over 258 frames.
+astmic-msi095-sen0140 並 開 啟 水 大會 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0140 is -9.39525 over 268 frames.
+astmic-msi095-sen0141 再說 價 買 盤 開 出 招 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0141 is -9.32524 over 298 frames.
+astmic-msi095-sen0142 被迫 停 靠 考慮 的 並 慢慢 精神 其他 貨 輪 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0142 is -9.29507 over 558 frames.
+astmic-msi095-sen0143 並 非 區域 梧 棲 漁 港 部分 地區 震 持 不 下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0143 is -9.16348 over 458 frames.
+astmic-msi095-sen0144 散 發 出 雖 達成 初步 權 益 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0144 is -9.13634 over 378 frames.
+astmic-msi095-sen0145 並 則 是 在 台 中 市 場 主 委 員 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0145 is -9.20172 over 338 frames.
+astmic-msi095-sen0146 大 夥 人 正常 化 指 責 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0146 is -9.13595 over 338 frames.
+astmic-msi095-sen0147 初步 估計 是 適當 法 令 人 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0147 is -9.0394 over 368 frames.
+astmic-msi095-sen0148 在於 流 失 竊 率 地 緣 木 的 三 星 號 貨 輪 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0148 is -9.19958 over 528 frames.
+astmic-msi095-sen0149 並 且 還 推出 後 並 即使 態 勢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0149 is -9.37451 over 378 frames.
+astmic-msi095-sen0150 連 女 所 陳 秋 盛 內 莫 不 避 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0150 is -8.97007 over 398 frames.
+astmic-msi095-sen0151 結果 工 為 發 出 用 非常 違 反 美 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0151 is -9.30187 over 388 frames.
+astmic-msi095-sen0152 藍 某 將 面臨 場 恢復 姊 妹 家 門 觀察 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0152 is -9.29894 over 508 frames.
+astmic-msi095-sen0153 假設 將 在 連 女 身 上 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0153 is -9.09725 over 318 frames.
+astmic-msi095-sen0154 敷 抹 連 女 衣服 齊 全 身 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0154 is -9.25324 over 338 frames.
+astmic-msi095-sen0155 同時 強調 區域 網路 連 女 不 未來 逐 漸 路 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0155 is -9.1263 over 508 frames.
+astmic-msi095-sen0156 並 無 業 率 調整 一般 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0156 is -9.14779 over 288 frames.
+astmic-msi095-sen0157 至於 平 民 們 指出 按 摩 背 男 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0157 is -9.1486 over 368 frames.
+astmic-msi095-sen0158 就 在 全 區域 範圍 血 光 頭 執行 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0158 is -9.57522 over 378 frames.
+astmic-msi095-sen0159 乃 某 強 烈 力 不 了 出 身 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0159 is -9.22741 over 338 frames.
+astmic-msi095-sen0160 縣 長 也是 情 變化 化 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0160 is -9.20439 over 308 frames.
+astmic-msi095-sen0161 但 對 里 處 有 如此 深 刻 的 感 情 情 人士 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0161 is -9.16034 over 508 frames.
+astmic-msi095-sen0162 劉 處理 市 場 書 中 的 一個 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0162 is -9.21164 over 338 frames.
+astmic-msi095-sen0163 這 種 上 的 仇 最 度 的 支 援 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0163 is -9.20127 over 328 frames.
+astmic-msi095-sen0164 在 台 塑 膠 的 也 六 時 什麼 陽 差 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0164 is -9.17889 over 388 frames.
+astmic-msi095-sen0165 他 股市 人類 這 也是 的 操作 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0165 is -9.10733 over 358 frames.
+astmic-msi095-sen0166 他 家 人類 的 生活 息 息 相關 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0166 is -9.08468 over 408 frames.
+astmic-msi095-sen0167 可 說 是 文化 的 基本 科 醫 院 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0167 is -9.17172 over 338 frames.
+astmic-msi095-sen0168 他們 都 與 人類 生活 密 不可 分 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0168 is -9.0767 over 398 frames.
+astmic-msi095-sen0169 改 採 都 不 適合 在 泰 國 中 買 球 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0169 is -9.39389 over 398 frames.
+astmic-msi095-sen0170 表示 了 出 工 業 去 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0170 is -9.03619 over 268 frames.
+astmic-msi095-sen0171 該 槍 枝 中立 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0171 is -9.09535 over 238 frames.
+astmic-msi095-sen0172 掛 名 而 出 工 業 取得 的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0172 is -9.17083 over 308 frames.
+astmic-msi095-sen0173 就 確 曾 有關 的 桃園 市 公 所 與 他 人 的 趨 勢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0173 is -9.4044 over 488 frames.
+astmic-msi095-sen0174 卻 有 不同 說法 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0174 is -9.20173 over 248 frames.
+astmic-msi095-sen0175 桃園 縣 市 合法 逃 法律 高 達 桃園 市 民 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0175 is -9.21078 over 488 frames.
+astmic-msi095-sen0176 會 組織 放大 陸 委 會 前 往 處理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0176 is -9.38019 over 358 frames.
+astmic-msi095-sen0177 桃園 市 公 所 節省 海 公路 合 格 肉 氣 開 放 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0177 is -9.33743 over 508 frames.
+astmic-msi095-sen0178 但 仍 達 百 就 數 家 的 興 致 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0178 is -9.2958 over 348 frames.
+astmic-msi095-sen0179 所以 縣 府 工程 對 拆 除 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0179 is -9.43003 over 288 frames.
+astmic-msi095-sen0180 文化 中心 如果 試 每 不可 解 聘 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0180 is -9.40051 over 358 frames.
+astmic-msi095-sen0181 他們 也 將 提 出 室 外 情 感 的 訴 求 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0181 is -9.33904 over 408 frames.
+astmic-msi095-sen0182 昨 天 該 黨 資 深 立 將 結束 稱讚 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0182 is -9.23842 over 408 frames.
+astmic-msi095-sen0183 文化 中心 明 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0183 is -9.2493 over 258 frames.
+astmic-msi095-sen0184 文化 中心 從 未 有 接觸 死亡 執行 家 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0184 is -9.51305 over 408 frames.
+astmic-msi095-sen0185 申請 只是 林 聰明 尊 重 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0185 is -9.24416 over 288 frames.
+astmic-msi095-sen0186 至於 初步 則 業 都 將 造成 去 吧 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0186 is -9.23932 over 398 frames.
+astmic-msi095-sen0187 並 文化 中心 出 任 偷 竊 風 景 區 強 外 出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0187 is -9.65878 over 448 frames.
+astmic-msi095-sen0188 及 記 者 打電話 指 示 家 中 選 會 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0188 is -9.54487 over 408 frames.
+astmic-msi095-sen0189 會 主 任 聯 賽 會 發揮 清楚 所 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0189 is -9.3091 over 398 frames.
+astmic-msi095-sen0190 只 走向 更 是 憤 而 過 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0190 is -9.34763 over 298 frames.
+astmic-msi095-sen0191 是否 林 輕鬆 全 民 主 槍 枝 八 萬 元 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0191 is -9.36639 over 408 frames.
+astmic-msi095-sen0192 不 知 不過 早期 恐 嚇 他 恐 嚇 勒索 罷 了 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0192 is -9.66958 over 458 frames.
+astmic-msi095-sen0193 大小 強 尊 重 繪 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0193 is -9.09326 over 278 frames.
+astmic-msi095-sen0194 我 雖然 麻 雀 把 他們 代表 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0194 is -9.43883 over 348 frames.
+astmic-msi095-sen0195 其次 是 想像 被 害 人 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0195 is -9.09523 over 288 frames.
+astmic-msi095-sen0196 過 著 球 員 長 確認 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0196 is -9.20103 over 278 frames.
+astmic-msi095-sen0197 且 以前 裝 六 合 彩 券 真正 台 成長 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0197 is -9.24901 over 478 frames.
+astmic-msi095-sen0198 而 我 好 瓊 媚 與 他 聯絡 了 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0198 is -9.1358 over 348 frames.
+astmic-msi095-sen0199 會 因 而 抽 確實 略 淺 情形 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi095-sen0199 is -9.16221 over 408 frames.
+astmic-msi096-sen0000 隨 行 員 警 處理 球 場 過 高 提 出 也 不 休 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0000 is -9.42871 over 628 frames.
+astmic-msi096-sen0001 儘量 連 高 處理 民 台 中 市 場 讓 理 賠 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0001 is -9.69773 over 548 frames.
+astmic-msi096-sen0002 他 就 和 解 的 成立 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0002 is -9.58055 over 318 frames.
+astmic-msi096-sen0003 比較 卡 她 的 能力 是否 能 盛 名 單 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0003 is -9.20562 over 468 frames.
+astmic-msi096-sen0004 受 害 人 交 和 解 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0004 is -9.06555 over 378 frames.
+astmic-msi096-sen0005 就是 初步 滑鼠 角 曲 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0005 is -9.33288 over 358 frames.
+astmic-msi096-sen0006 其 大小 糾紛 迭 政府 訴 狀 的 切 呀 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0006 is -9.36739 over 508 frames.
+astmic-msi096-sen0007 手 叫 苦 連 繫 好處 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0007 is -9.00155 over 458 frames.
+astmic-msi096-sen0008 在 此 刻 地 或 遠處 書 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0008 is -9.27479 over 358 frames.
+astmic-msi096-sen0009 比照 習慣 市府 的 產生 了 嘴 多 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0009 is -9.3892 over 488 frames.
+astmic-msi096-sen0010 恢復 蘇 支 持 續 乳 牛 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0010 is -9.51131 over 378 frames.
+astmic-msi096-sen0011 民 眾 看 顧 水 面 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0011 is -9.37754 over 318 frames.
+astmic-msi096-sen0012 小 枝 獨 立 即 盛 名 區域 高度 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0012 is -9.67086 over 348 frames.
+astmic-msi096-sen0013 深入 清 查 財產 好 奇 再 深入 市 議 員 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0013 is -9.55166 over 478 frames.
+astmic-msi096-sen0014 妻 子 衰 員 警 出 馬 前 往 專 家 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0014 is -9.40518 over 488 frames.
+astmic-msi096-sen0015 就 民 眾 打電話 槍 枝 獨 計 程 車 健 全 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0015 is -9.64924 over 558 frames.
+astmic-msi096-sen0016 由於 太過 吵雜 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0016 is -9.50498 over 338 frames.
+astmic-msi096-sen0017 在 在 遊 客 人 強 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0017 is -9.40585 over 328 frames.
+astmic-msi096-sen0018 希望 分 離 去 前 往 取 締 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0018 is -9.29117 over 388 frames.
+astmic-msi096-sen0019 認為 怎 會 有 害 棄 置 嗎 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0019 is -9.36187 over 398 frames.
+astmic-msi096-sen0020 他 令 老師 頭 土 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0020 is -9.53754 over 298 frames.
+astmic-msi096-sen0021 認為 家 長 家 屬 住 家 庭 教育 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0021 is -9.71742 over 438 frames.
+astmic-msi096-sen0022 他 當年 的 得 起 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0022 is -9.12135 over 288 frames.
+astmic-msi096-sen0023 實 力 八 歲 的 後 代 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0023 is -9.42604 over 328 frames.
+astmic-msi096-sen0024 即使 他們 少 選 手 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0024 is -9.49024 over 268 frames.
+astmic-msi096-sen0025 但 股市 於 六 關係 介 入 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0025 is -9.49958 over 418 frames.
+astmic-msi096-sen0026 而且 在 學校 學生 民 出 海 捕 槍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0026 is -9.52471 over 468 frames.
+astmic-msi096-sen0027 他 老師 之 曾 被 提 名 如此 浪費 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0027 is -9.63882 over 568 frames.
+astmic-msi096-sen0028 證明 小 學生 還 理 直 氣 壯 地 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0028 is -9.72176 over 528 frames.
+astmic-msi096-sen0029 慢慢 說 不 了 之 就 丟掉 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0029 is -9.41623 over 408 frames.
+astmic-msi096-sen0030 今年 水 交給 考 收 拾 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0030 is -9.68325 over 378 frames.
+astmic-msi096-sen0031 可 製 作 拆 除 舊 外 國 綠 川 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0031 is -9.79337 over 438 frames.
+astmic-msi096-sen0032 手 外 銷 福 稅 優 惠 爆炸 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0032 is -9.72404 over 378 frames.
+astmic-msi096-sen0033 初步 連 存在 高 手 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0033 is -9.78102 over 348 frames.
+astmic-msi096-sen0034 並 在 高 書 是 狡 術 的 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0034 is -9.62536 over 358 frames.
+astmic-msi096-sen0035 報告 修 史 密 報 數 家 海 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0035 is -9.70771 over 348 frames.
+astmic-msi096-sen0036 卻 幾乎 爭 取 鼓 勵 事業 那裡 高 說明 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0036 is -9.74153 over 468 frames.
+astmic-msi096-sen0037 並 就是 委 會 會 計算 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0037 is -9.74868 over 308 frames.
+astmic-msi096-sen0038 但 財 政 群 起 家 估計 目前 的 中華 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0038 is -9.75488 over 528 frames.
+astmic-msi096-sen0039 發現 驟 然 獲得 這 筆 今天 說 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0039 is -9.59434 over 458 frames.
+astmic-msi096-sen0040 電 可以 需要 鄰 居 民 耳 熟 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0040 is -9.80806 over 388 frames.
+astmic-msi096-sen0041 他 已 被 流 行 更 富 家 鄉 的 人士 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0041 is -9.57994 over 408 frames.
+astmic-msi096-sen0042 主 張 採 取 爭 取 其他 國家 的 職 權 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0042 is -9.63593 over 528 frames.
+astmic-msi096-sen0043 並 對 美國 構成 亮 麗 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0043 is -9.29774 over 338 frames.
+astmic-msi096-sen0044 畢竟 美國 給 客 戶 的 理想 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0044 is -9.61441 over 428 frames.
+astmic-msi096-sen0045 在 這 一個 多 月 的 國際 窮 會 主 任 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0045 is -9.54039 over 428 frames.
+astmic-msi096-sen0046 到 釣魚 台 台 提 出 貨 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0046 is -9.30636 over 448 frames.
+astmic-msi096-sen0047 直接 的 決 策 家 長 們 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0047 is -9.49816 over 318 frames.
+astmic-msi096-sen0048 經 政府 處理 會 就是 節目 的 能力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0048 is -9.492 over 478 frames.
+astmic-msi096-sen0049 卻 幾乎 合 併 案 處理 起來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0049 is -9.74361 over 378 frames.
+astmic-msi096-sen0050 台 化 繼續 未來 將 有 六 時 將 優先 即使 態 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0050 is -9.91986 over 568 frames.
+astmic-msi096-sen0051 但 是否 交換 申 領 取 締 與 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0051 is -9.53374 over 348 frames.
+astmic-msi096-sen0052 在 每 日 趨 現 今 的 強 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0052 is -9.3943 over 308 frames.
+astmic-msi096-sen0053 未來 的 六 時 加以 流 血 解釋 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0053 is -9.702 over 398 frames.
+astmic-msi096-sen0054 幅 曲線 記 憶 卡 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0054 is -9.39733 over 268 frames.
+astmic-msi096-sen0055 就 違 反 自 由 加州 原則 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0055 is -9.69696 over 328 frames.
+astmic-msi096-sen0056 卻 開會 繼續 在 還 作為 劉 詩 昆 曲 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0056 is -9.77116 over 488 frames.
+astmic-msi096-sen0057 邵 玉 銘 隨 後 答 覆 指出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0057 is -9.57793 over 378 frames.
+astmic-msi096-sen0058 昨 日 立 委 趙 少 康 提 出 質 詢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0058 is -9.83158 over 418 frames.
+astmic-msi096-sen0059 並 僑 界 救 教授 為 優先 考慮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0059 is -9.63342 over 438 frames.
+astmic-msi096-sen0060 終 於 主 管 行 李 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0060 is -9.49992 over 258 frames.
+astmic-msi096-sen0061 做生意 本 週 就 發現 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0061 is -9.55097 over 328 frames.
+astmic-msi096-sen0062 那麼 母 傳 不 賠 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0062 is -9.66895 over 298 frames.
+astmic-msi096-sen0063 官方 未免 太 進步 了 一點 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0063 is -9.55717 over 348 frames.
+astmic-msi096-sen0064 何 況 財 力 不 代表 能力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0064 is -9.77968 over 348 frames.
+astmic-msi096-sen0065 明明 計 報告 書 縣 黨 部 適度 維 大 缺 失 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0065 is -9.50064 over 498 frames.
+astmic-msi096-sen0066 的 經濟 留 淑 芬 著 而 未 發生 衝 突 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0066 is -9.79353 over 528 frames.
+astmic-msi096-sen0067 但 附近 張 家 虎 雖 見 目前 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0067 is -9.6178 over 458 frames.
+astmic-msi096-sen0068 於 上午 十 一時 實 戶 什麼 緊 急 速 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0068 is -9.71533 over 478 frames.
+astmic-msi096-sen0069 第一 麥克風 手 摘 余 陳 歷史 陳 金 素 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0069 is -9.77426 over 508 frames.
+astmic-msi096-sen0070 方面 外 界 股市 高 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0070 is -9.34299 over 288 frames.
+astmic-msi096-sen0071 而 他 機會 全 力 追 查 此 行 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0071 is -9.85444 over 388 frames.
+astmic-msi096-sen0072 全 起見 陸續 會 有 人 其 家 資料 前 去 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0072 is -9.80671 over 538 frames.
+astmic-msi096-sen0073 雖然 它 不 足 適當 調 查 權 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0073 is -9.86009 over 398 frames.
+astmic-msi096-sen0074 它 會 擺 提前 最 查 結果 報告 大 規定 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0074 is -9.72379 over 508 frames.
+astmic-msi096-sen0075 這 幾 向 有關 單位 進去 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0075 is -9.40876 over 428 frames.
+astmic-msi096-sen0076 集 思 會 主 任 取 締 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0076 is -9.50443 over 318 frames.
+astmic-msi096-sen0077 董 監 事 不得 利用 基 金 會 日 立 即 釋 回 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0077 is -9.65137 over 528 frames.
+astmic-msi096-sen0078 過去 客 人 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0078 is -9.33349 over 268 frames.
+astmic-msi096-sen0079 納 入 產 銷 權 益 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0079 is -9.6408 over 258 frames.
+astmic-msi096-sen0080 造成 於 辦 事 效率 低 落 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0080 is -9.75381 over 328 frames.
+astmic-msi096-sen0081 此 處 於 利 率 亦 在 動 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0081 is -9.62881 over 308 frames.
+astmic-msi096-sen0082 就 喜歡 銀行 領 導 內涵 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0082 is -9.58663 over 338 frames.
+astmic-msi096-sen0083 的 工程 水 泥 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0083 is -9.74566 over 248 frames.
+astmic-msi096-sen0084 他 要求 全 力 出 差 著 少 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0084 is -9.71982 over 368 frames.
+astmic-msi096-sen0085 是 歸 她 看來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0085 is -9.4587 over 248 frames.
+astmic-msi096-sen0086 在 有關 相見 時 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0086 is -9.47766 over 298 frames.
+astmic-msi096-sen0087 而 不必 強 行 兇 維 護 木 碎 門 首 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0087 is -10.1249 over 398 frames.
+astmic-msi096-sen0088 才 有 機會 早期 陸續 住 戶 戶 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0088 is -9.687 over 448 frames.
+astmic-msi096-sen0089 如果 沒有 道理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0089 is -9.64192 over 278 frames.
+astmic-msi096-sen0090 正 好 允 選 民 的 速 食 出 率 雖 出現 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0090 is -9.7109 over 508 frames.
+astmic-msi096-sen0091 針對 到 年 六 日 出現 了 家 人 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0091 is -9.35109 over 488 frames.
+astmic-msi096-sen0092 在 此 歷 次 年 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0092 is -9.1724 over 328 frames.
+astmic-msi096-sen0093 民 國 六 呎 四 年 市 議 員 之前 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0093 is -9.40837 over 508 frames.
+astmic-msi096-sen0094 他 將 使 二 只 停留 生 溪 湖 上 級 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0094 is -9.54332 over 508 frames.
+astmic-msi096-sen0095 他 人士 人 正在 時期 唸書 的 著 每 遇 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0095 is -9.57499 over 478 frames.
+astmic-msi096-sen0096 雙 方 里 民 效 不佳 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0096 is -9.57454 over 268 frames.
+astmic-msi096-sen0097 在 進入 個性 篤 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0097 is -9.64655 over 278 frames.
+astmic-msi096-sen0098 雖 在 青少年 爭 取 離 婚 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0098 is -9.73023 over 408 frames.
+astmic-msi096-sen0099 兩 人 日 上午 九 來往 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0099 is -9.64463 over 338 frames.
+astmic-msi096-sen0100 避免 協 調 會 故事 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0100 is -9.84078 over 318 frames.
+astmic-msi096-sen0101 只是 示 王 某 專 確認 校園 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0101 is -9.24478 over 488 frames.
+astmic-msi096-sen0102 他 不 去 認 識 六 投 票 券 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0102 is -9.56723 over 408 frames.
+astmic-msi096-sen0103 使得 起 出 黑 盒 子 處理 器 材 木 產品 在 聲 明 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0103 is -9.8127 over 638 frames.
+astmic-msi096-sen0104 並 且 都 悲 憤 怒 說 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0104 is -9.3573 over 308 frames.
+astmic-msi096-sen0105 民 眾 小 組 聯 沒有 起來 感 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0105 is -9.84006 over 388 frames.
+astmic-msi096-sen0106 好 去 頭 的 三 民 主 婦 復 木 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0106 is -9.69851 over 368 frames.
+astmic-msi096-sen0107 可 球 委 員 會 機會 這個 陷 入 選 委 會 意見 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0107 is -9.9213 over 568 frames.
+astmic-msi096-sen0108 昨 天 正 式 好像 中央 選 委 會 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0108 is -9.91463 over 398 frames.
+astmic-msi096-sen0109 建議 你 現階段 人 不 利 實 施 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0109 is -9.6851 over 378 frames.
+astmic-msi096-sen0110 他 清 誰 一輩子 度 的 一 代 層 勞 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0110 is -9.49624 over 488 frames.
+astmic-msi096-sen0111 某 參考 如果 這些 如 不 競 賽 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0111 is -9.724 over 378 frames.
+astmic-msi096-sen0112 然後 之 幾乎 半 個 月 的 時間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0112 is -9.74362 over 408 frames.
+astmic-msi096-sen0113 股市 有 二 求 白天 戰 事 如 期 間 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0113 is -9.85705 over 448 frames.
+astmic-msi096-sen0114 站 附近 得 一 倍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0114 is -9.25367 over 268 frames.
+astmic-msi096-sen0115 此 番 噴 出 行 情 家 長 實 戶 戶 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0115 is -9.90594 over 448 frames.
+astmic-msi096-sen0116 潮 流 吵 著 頭 肩 底 表現 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0116 is -10.0205 over 348 frames.
+astmic-msi096-sen0117 非 僅 陳 為 某些 家 的 人 選 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0117 is -9.38284 over 428 frames.
+astmic-msi096-sen0118 然 而 機 關 繪 圖 區域 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0118 is -9.6398 over 378 frames.
+astmic-msi096-sen0119 如何 是 股市 變成 立刻 健 全 的 投 資 率 員 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0119 is -9.99323 over 598 frames.
+astmic-msi096-sen0120 這 表示 以後 共 產 黨 員 申請 入 境 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0120 is -9.65249 over 508 frames.
+astmic-msi096-sen0121 大陸 地區 人 民 的 具有 中華 民 國 國 旗 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0121 is -9.66724 over 528 frames.
+astmic-msi096-sen0122 雖 政府 官 員 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0122 is -9.55089 over 288 frames.
+astmic-msi096-sen0123 即使 共 產 黨 員 可以 參加 競 選 故事 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0123 is -9.59622 over 558 frames.
+astmic-msi096-sen0124 當場 血 這 名 大 馬路 上 卻 不能 民 代表 家 長 一般 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0124 is -9.59314 over 608 frames.
+astmic-msi096-sen0125 這 位 官 員 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0125 is -9.68924 over 248 frames.
+astmic-msi096-sen0126 會 場 大 沒有 向 美 中 不 的 意見 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0126 is -9.54222 over 448 frames.
+astmic-msi096-sen0127 這 位 官 員 警 政 表示 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0127 is -9.98152 over 308 frames.
+astmic-msi096-sen0128 若 明年 值 伊拉克 簡 報 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0128 is -9.60108 over 298 frames.
+astmic-msi096-sen0129 並 未 正 式 申請 入 境 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0129 is -9.39159 over 348 frames.
+astmic-msi096-sen0130 而 男生 均 留 光 護 互相 體 頭 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0130 is -9.82732 over 418 frames.
+astmic-msi096-sen0131 凡 患 圖 示 的 乃 手 不 遺 留 長 髮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0131 is -9.93467 over 458 frames.
+astmic-msi096-sen0132 旅行社 了 他 熟悉 整理 頭髮 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0132 is -10.131 over 388 frames.
+astmic-msi096-sen0133 彼此 老師 及 家 長 平衡 來 出 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0133 is -10.0002 over 408 frames.
+astmic-msi096-sen0134 顯 得 特別 注意 了 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0134 is -9.68804 over 268 frames.
+astmic-msi096-sen0135 而 頭 市 場 人 的 不 有效 根 權 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0135 is -9.91901 over 408 frames.
+astmic-msi096-sen0136 對方 榮 進步 的 高 市 來 說 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0136 is -9.79867 over 378 frames.
+astmic-msi096-sen0137 經 送 醫 後 不 治 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0137 is -9.81455 over 248 frames.
+astmic-msi096-sen0138 在 校園 由 他 殺 嫌 疑 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0138 is -9.47906 over 348 frames.
+astmic-msi096-sen0139 會 首 長 邁 現 金 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0139 is -9.53096 over 268 frames.
+astmic-msi096-sen0140 經 警 方 賢 淑 貞 明白 因素 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0140 is -9.62337 over 398 frames.
+astmic-msi096-sen0141 目前 仍 未 查 出 負責 人 身 分 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0141 is -9.79245 over 428 frames.
+astmic-msi096-sen0142 檢 方 強 制 執行 三 名 九 龍 潭 緣 木 棍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0142 is -9.88698 over 478 frames.
+astmic-msi096-sen0143 但 檢 察 官 求 獲 縣 長 並 老師 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0143 is -9.56879 over 438 frames.
+astmic-msi096-sen0144 其 餘 認為 能力 有 任何 出 貨 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0144 is -9.87669 over 368 frames.
+astmic-msi096-sen0145 而 主 權 力 旺 獲 量 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0145 is -9.7673 over 268 frames.
+astmic-msi096-sen0146 更 日 趨 緊密 早 出 售 清 查 緝 獲 來 台 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0146 is -10.3107 over 438 frames.
+astmic-msi096-sen0147 此 由 目前 被 大陸 都 跡 象 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0147 is -9.53187 over 358 frames.
+astmic-msi096-sen0148 即 日 起 檢 方 懷疑 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0148 is -9.41458 over 268 frames.
+astmic-msi096-sen0149 警 方 處理 接 獲 檢 方 之 事 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0149 is -9.69044 over 398 frames.
+astmic-msi096-sen0150 在 理論 上 市 歸 處理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0150 is -9.92528 over 308 frames.
+astmic-msi096-sen0151 目前 離開 年輕 木 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0151 is -9.44793 over 268 frames.
+astmic-msi096-sen0152 請 你 負 擔 六 走 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0152 is -9.83369 over 248 frames.
+astmic-msi096-sen0153 蘇 需要 法律 許 太太 場 內 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0153 is -9.78251 over 408 frames.
+astmic-msi096-sen0154 開 啟 投 資 的 下 的 高 回 收 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0154 is -9.38929 over 428 frames.
+astmic-msi096-sen0155 他 就 秋 萬 下去 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0155 is -9.73236 over 278 frames.
+astmic-msi096-sen0156 速度 調回 獲 利 日 升 值 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0156 is -9.86075 over 348 frames.
+astmic-msi096-sen0157 你 交 如何 處理 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0157 is -9.9165 over 268 frames.
+astmic-msi096-sen0158 才 趁 機 逃 亡 期 機會 隨 勢 而 來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0158 is -10.0839 over 428 frames.
+astmic-msi096-sen0159 建議 你 陳 太太 尚未 發現 之前 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0159 is -9.82293 over 398 frames.
+astmic-msi096-sen0160 政治 層 員 的 原則 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0160 is -9.80707 over 248 frames.
+astmic-msi096-sen0161 妳 就 一 個人 懷疑 覺得 飾 金 曲 獎 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0161 is -9.74338 over 418 frames.
+astmic-msi096-sen0162 資 金 主 計 處 拍 戲 走 路 到 股票 的 投 票 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0162 is -10.0158 over 528 frames.
+astmic-msi096-sen0163 妳 就 很 榮 離 去 透 露 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0163 is -10.2115 over 268 frames.
+astmic-msi096-sen0164 不管 是 桌 上 型 分 裂 好 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0164 is -9.91955 over 338 frames.
+astmic-msi096-sen0165 在 經 歷 歷 反對 立 好 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0165 is -9.59839 over 318 frames.
+astmic-msi096-sen0166 她 的 投 票 率 會 期 高 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0166 is -9.71972 over 318 frames.
+astmic-msi096-sen0167 在 上 級 的 交 代 下 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0167 is -9.34544 over 298 frames.
+astmic-msi096-sen0168 再度 租 條件 影響 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0168 is -9.50403 over 268 frames.
+astmic-msi096-sen0169 我們 覺得 入 境 尿 實 施 軍 人 通訊 投 票 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0169 is -10.036 over 508 frames.
+astmic-msi096-sen0170 監 改 選 手 邊 的 人們 最近 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0170 is -9.54996 over 398 frames.
+astmic-msi096-sen0171 基 於 當時 簽 會 留下 好 率 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0171 is -9.53617 over 368 frames.
+astmic-msi096-sen0172 週 一 家 甚 少 張 姓 市 僑 生 反而 招 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0172 is -9.87977 over 488 frames.
+astmic-msi096-sen0173 朱 女 婿 明顯 說 服 被 調 查 緝 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0173 is -9.81726 over 368 frames.
+astmic-msi096-sen0174 但是 是 洲 旅行 朝 他 開 槍 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0174 is -9.60471 over 408 frames.
+astmic-msi096-sen0175 所以 他 才 培 強 勁 的 住 院 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0175 is -9.70727 over 388 frames.
+astmic-msi096-sen0176 他 說 逃 亡 期 間 認為 不必 警 方 處理 器 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0176 is -9.84471 over 478 frames.
+astmic-msi096-sen0177 至於 四 處 流 老 徐 固定 說 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0177 is -10.0323 over 388 frames.
+astmic-msi096-sen0178 最後 才 轉 往 桃園 市 組 長 呢 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0178 is -9.55828 over 448 frames.
+astmic-msi096-sen0179 出 黑 星 手 槍 射 自己 雖 有 外 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0179 is -9.90427 over 398 frames.
+astmic-msi096-sen0180 的 買 進 林 休 憩 的 數 量 還 多 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0180 is -9.74269 over 398 frames.
+astmic-msi096-sen0181 陳 秀 麗 圖 和 真實 選舉 沒有 犯 罪 前科 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0181 is -9.88459 over 518 frames.
+astmic-msi096-sen0182 但 卻 失 望 出現 領袖 機構 主要 起 伏 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0182 is -9.78342 over 488 frames.
+astmic-msi096-sen0183 幾乎 所有 六 著 黑 道 德 強 制 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0183 is -9.87341 over 398 frames.
+astmic-msi096-sen0184 近 日 是 有 二 人 入 境 手 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0184 is -9.91049 over 318 frames.
+astmic-msi096-sen0185 由於 羅 馬 德 熙 糾紛 因 林 來 福 確實 派 訊號 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0185 is -9.88935 over 568 frames.
+astmic-msi096-sen0186 地區 的是 離開 球 員 脫 戶 所 為 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0186 is -9.81699 over 448 frames.
+astmic-msi096-sen0187 所以 成立 酒 不到 有 槍 打 火 力 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0187 is -9.83549 over 428 frames.
+astmic-msi096-sen0188 而且 理想 招 致 出發 下 起來 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0188 is -9.63675 over 438 frames.
+astmic-msi096-sen0189 出 了 警 方 減少 替 你 省 府 大會 中 化 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0189 is -10.1018 over 438 frames.
+astmic-msi096-sen0190 家 長 不到 透 明 度 是 有利 可 循 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0190 is -9.91194 over 418 frames.
+astmic-msi096-sen0191 足夠 一方面 以 再 考慮 後 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0191 is -9.83162 over 328 frames.
+astmic-msi096-sen0192 專門 利 誘 特 種 營 業 上班 的 女 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0192 is -9.80795 over 428 frames.
+astmic-msi096-sen0193 在 品 質 服 飾 店 美 購物 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0193 is -9.59514 over 348 frames.
+astmic-msi096-sen0194 陳 情 懷疑 之 際 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0194 is -9.7401 over 228 frames.
+astmic-msi096-sen0195 在 九 家 上班 的 較 其他 賴 姓 女 子 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0195 is -9.56583 over 468 frames.
+astmic-msi096-sen0196 台 南 路 之前 拿 出 理 換 六 千 元 現 款 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0196 is -9.8953 over 478 frames.
+astmic-msi096-sen0197 為 重 客 家 收 的 他們 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0197 is -9.78945 over 348 frames.
+astmic-msi096-sen0198 將 於 男 友 加州 內 人士 盈 餘 萬 元 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0198 is -9.5363 over 448 frames.
+astmic-msi096-sen0199 趁 他們 試 衣 之 際 
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:196) Log-like per frame for utterance astmic-msi096-sen0199 is -9.55431 over 268 frames.
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:209) Time taken [excluding initialization] 6119.27s: real-time factor assuming 100 frames/sec is 2.0872
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:212) Done 800 utterances, failed for 0
+LOG (gmm-decode-faster:main():gmm-decode-faster.cc:214) Overall log-likelihood per frame is -9.40034 over 293180 frames.
