@@ -1,0 +1,13 @@
+gmm-align-compiled --transition-scale=1.0 --acoustic-scale=0.1 --self-loop-scale=0.1 --beam=10 --retry-beam=40 exp/mono/10.mdl ark:exp/mono/train.graph ark,s,cs:feat/train.39.cmvn.ark ark:exp/mono/10.ali 
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-fsi000-sen0110 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-fsi000-sen0115 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-fsi006-sen0094 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-fsi006-sen0188 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-fsi007-sen0127 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-fsi007-sen0166 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-msi003-sen0115 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-msi003-sen0118 with beam 40
+WARNING (gmm-align-compiled:AlignUtteranceWrapper():decoder-wrappers.cc:466) Retrying utterance astmic-msi007-sen0166 with beam 40
+LOG (gmm-align-compiled:main():gmm-align-compiled.cc:129) Overall log-likelihood per frame is -93.434 over 1297840 frames.
+LOG (gmm-align-compiled:main():gmm-align-compiled.cc:131) Retried 9 out of 4000 utterances.
+LOG (gmm-align-compiled:main():gmm-align-compiled.cc:133) Done 4000, errors on 0

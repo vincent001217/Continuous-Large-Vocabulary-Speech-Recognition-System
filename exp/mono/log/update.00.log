@@ -1,0 +1,10 @@
+gmm-est --binary=false --min-gaussian-occupancy=3 --mix-up=300 exp/mono/00.mdl exp/mono/00.acc exp/mono/01.mdl 
+LOG (gmm-est:MleUpdate():transition-model.cc:393) TransitionModel::Update, objf change is 0.0372395 per frame over 1.29784e+06 frames. 
+LOG (gmm-est:MleUpdate():transition-model.cc:396) 0 probabilities floored, 0 out of 108 transition-states skipped due to insuffient data (it is normal to have some skipped.)
+LOG (gmm-est:main():gmm-est.cc:102) Transition model update: Overall 0.0372395 log-like improvement per frame over 1.29784e+06 frames.
+LOG (gmm-est:MleAmDiagGmmUpdate():mle-am-diag-gmm.cc:225) 0 variance elements floored in 0 Gaussians, out of 108
+LOG (gmm-est:MleAmDiagGmmUpdate():mle-am-diag-gmm.cc:229) Removed 0 Gaussians due to counts < --min-gaussian-occupancy=3 and --remove-low-count-gaussians=true
+LOG (gmm-est:main():gmm-est.cc:113) GMM update: Overall 1.63239 objective function improvement per frame over 1.29784e+06 frames
+LOG (gmm-est:main():gmm-est.cc:116) GMM update: Overall avg like per frame = -107.198 over 1.29784e+06 frames.
+LOG (gmm-est:SplitByCount():am-diag-gmm.cc:116) Split 108 states with target = 300, power = 0.2, perturb_factor = 0.01 and min_count = 20, split #Gauss from 108 to 300
+LOG (gmm-est:main():gmm-est.cc:146) Written model to exp/mono/01.mdl
