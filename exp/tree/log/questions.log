@@ -1,0 +1,9 @@
+compile-questions train/topo exp/tree/questions.txt exp/tree/questions.qst 
+WARNING (compile-questions:ProcessTopo():compile-questions.cc:38) ProcessTopo: phones seen in questions differ from those in topology: [ 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 ]
+ vs. [ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 ]
+LOG (compile-questions:ProcessTopo():compile-questions.cc:51) Max # pdf classes is 3
+LOG (compile-questions:main():compile-questions.cc:131) Setting questions for phonetic-context position 0
+LOG (compile-questions:main():compile-questions.cc:131) Setting questions for phonetic-context position 1
+LOG (compile-questions:main():compile-questions.cc:131) Setting questions for phonetic-context position 2
+LOG (compile-questions:main():compile-questions.cc:151) Setting questions for hmm-position [hmm-position ranges from 0 to 2]
+LOG (compile-questions:main():compile-questions.cc:155) Wrote questions to exp/tree/questions.qst

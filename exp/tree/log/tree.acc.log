@@ -1,0 +1,7 @@
+acc-tree-stats --ci-phones=1 exp/mono/final.mdl ark,s,cs:feat/train.39.cmvn.ark ark:exp/mono/train.ali exp/tree/tree.acc 
+LOG (acc-tree-stats:main():acc-tree-stats.cc:101) Processed 1000 utterances.
+LOG (acc-tree-stats:main():acc-tree-stats.cc:101) Processed 2000 utterances.
+LOG (acc-tree-stats:main():acc-tree-stats.cc:101) Processed 3000 utterances.
+LOG (acc-tree-stats:main():acc-tree-stats.cc:101) Processed 4000 utterances.
+LOG (acc-tree-stats:main():acc-tree-stats.cc:118) Accumulated stats for 4000 files, 0 failed due to no alignment, 0 failed for other reasons.
+LOG (acc-tree-stats:main():acc-tree-stats.cc:121) Number of separate stats (context-dependent states) is 9816

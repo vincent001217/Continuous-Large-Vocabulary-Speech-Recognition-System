@@ -1,0 +1,3 @@
+cluster-phones exp/tree/tree.acc exp/tree/phonesets.txt exp/tree/questions.txt 
+WARNING (cluster-phones:AutomaticallyObtainQuestions():build-tree.cc:605) Phone 1 is present in stats but is not in phone list [make sure you intended this].
+LOG (cluster-phones:main():cluster-phones.cc:129) Wrote questions to exp/tree/questions.txt

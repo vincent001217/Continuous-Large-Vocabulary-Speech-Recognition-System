@@ -1,0 +1,16 @@
+build-tree-two-level --binary=false --verbose=1 --max-leaves-first=400 --max-leaves-second=2000 exp/tree/tree.acc exp/tree/roots.txt exp/tree/questions.qst train/topo exp/tree/tree exp/tree/pdf2group.map 
+Number of separate statistics is 9816
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:325) ****BuildTreeTwoLevel: building first level tree
+LOG (build-tree-two-level:BuildTree():build-tree.cc:159) BuildTree: before building trees, map has 38 leaves.
+LOG (build-tree-two-level:SplitDecisionTree():build-tree-utils.cc:577) DoDecisionTreeSplit: split 362 times, #leaves now 400
+VLOG[1] (build-tree-two-level:BuildTree():build-tree.cc:194) After decision tree split, num-leaves = 400, like-impr = 3.9182 per frame over 1.29784e+06 frames.
+VLOG[1] (build-tree-two-level:BuildTree():build-tree.cc:198) Including just phones that were split, improvement is 5.21673 per frame over 974786 frames.
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:331) ****BuildTreeTwoLevel: done building first level tree
+LOG (build-tree-two-level:SplitDecisionTree():build-tree-utils.cc:577) DoDecisionTreeSplit: split 1600 times, #leaves now 2000
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:357) Building second-level tree: increased #leaves from 400 to 2000, smallest split was 278.262
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:364) After second decision tree split, num-leaves = 2000, like-impr = 0.847688 per frame over 1.29784e+06 frames.
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:369) Clustering leaves of larger tree.
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:379) BuildTreeTwoLevel: removed 341 leaves.
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:386) Objf change due to clustering -0.0516242 per frame.
+LOG (build-tree-two-level:BuildTreeTwoLevel():build-tree.cc:389) Num-leaves now 1659
+Wrote tree and mapping
