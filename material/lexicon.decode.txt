@@ -1,0 +1,7308 @@
+<s> sil
+</s> sil
+巴 CH_b CH_a
+八 CH_b CH_a
+芭 CH_b CH_a
+疤 CH_b CH_a
+吧 CH_b CH_a
+拔 CH_b CH_a
+把 CH_b CH_a
+靶 CH_b CH_a
+爸 CH_b CH_a
+耙 CH_p CH_a
+耙 CH_b CH_a
+罷 CH_p CH_i
+罷 CH_b CH_a
+霸 CH_b CH_a
+波 CH_b CH_u CH_o
+玻 CH_b CH_u CH_o
+剝 CH_b CH_u CH_o
+缽 CH_b CH_u CH_o
+撥 CH_b CH_u CH_o
+伯 CH_b CH_u CH_o
+伯 CH_b CH_a CH_i
+伯 CH_b CH_a
+帛 CH_b CH_u CH_o
+泊 CH_b CH_u CH_o
+泊 CH_p CH_u CH_o
+勃 CH_b CH_u CH_o
+柏 CH_b CH_u CH_o
+柏 CH_b CH_a CH_i
+脖 CH_b CH_u CH_o
+博 CH_b CH_u CH_o
+搏 CH_b CH_u CH_o
+箔 CH_b CH_u CH_o
+駁 CH_b CH_u CH_o
+膊 CH_b CH_u CH_o
+蔔 CH_b CH_u CH_o
+薄 CH_b CH_u CH_o
+播 CH_b CH_u CH_o
+擘 CH_b CH_u CH_o
+白 CH_b CH_u CH_o
+襬 CH_b CH_a CH_i
+百 CH_b CH_u CH_o
+百 CH_b CH_a CH_i
+佰 CH_b CH_u CH_o
+佰 CH_b CH_a CH_i
+佰 CH_m CH_u CH_o
+擺 CH_b CH_a CH_i
+拜 CH_b CH_a CH_i
+敗 CH_b CH_a CH_i
+卑 CH_b CH_e CH_i
+杯 CH_b CH_e CH_i
+盃 CH_b CH_e CH_i
+悲 CH_b CH_e CH_i
+碑 CH_b CH_e CH_i
+北 CH_b CH_e CH_i
+北 CH_b CH_u CH_o
+貝 CH_b CH_e CH_i
+倍 CH_b CH_e CH_i
+背 CH_b CH_e CH_i
+悖 CH_b CH_u CH_o
+悖 CH_b CH_e CH_i
+備 CH_b CH_e CH_i
+被 CH_p CH_i
+被 CH_b CH_e CH_i
+蓓 CH_b CH_e CH_i
+輩 CH_b CH_e CH_i
+憊 CH_b CH_e CH_i
+包 CH_b CH_a CH_u
+胞 CH_b CH_a CH_u
+苞 CH_b CH_a CH_u
+褒 CH_b CH_a CH_u
+雹 CH_b CH_u CH_o
+保 CH_b CH_a CH_u
+堡 CH_b CH_a CH_u
+堡 CH_p CH_u
+飽 CH_b CH_a CH_u
+褓 CH_b CH_a CH_u
+寶 CH_b CH_a CH_u
+刨 CH_p CH_a CH_u
+刨 CH_b CH_a CH_u
+抱 CH_b CH_a CH_u
+豹 CH_b CH_a CH_u
+報 CH_b CH_a CH_u
+暴 CH_b CH_a CH_u
+鮑 CH_b CH_a CH_u
+爆 CH_b CH_u CH_o
+爆 CH_b CH_a CH_u
+扳 CH_b CH_a CH_n#
+般 CH_b CH_u CH_o
+般 CH_p CH_a CH_n#
+班 CH_b CH_a CH_n#
+斑 CH_b CH_a CH_n#
+搬 CH_b CH_a CH_n#
+頒 CH_b CH_a CH_n#
+版 CH_b CH_a CH_n#
+板 CH_b CH_a CH_n#
+舨 CH_b CH_a CH_n#
+半 CH_b CH_a CH_n#
+伴 CH_b CH_a CH_n#
+扮 CH_b CH_a CH_n#
+拌 CH_b CH_a CH_n#
+辦 CH_b CH_a CH_n#
+奔 CH_b CH_@ CH_n#
+本 CH_b CH_@ CH_n#
+苯 CH_b CH_@ CH_n#
+笨 CH_b CH_@ CH_n#
+邦 CH_b CH_a CH_N#
+傍 CH_b CH_a CH_N#
+傍 CH_p CH_a CH_N#
+傍 CH_b CH_a CH_N#
+幫 CH_b CH_a CH_N#
+綁 CH_b CH_a CH_N#
+榜 CH_b CH_a CH_N#
+榜 CH_b CH_o CH_N#
+膀 CH_p CH_a CH_N#
+膀 CH_b CH_a CH_N#
+棒 CH_b CH_a CH_N#
+磅 CH_p CH_a CH_N#
+磅 CH_b CH_a CH_N#
+謗 CH_b CH_a CH_N#
+崩 CH_b CH_o CH_N#
+繃 CH_b CH_o CH_N#
+迸 CH_b CH_i CH_N#
+迸 CH_b CH_o CH_N#
+蹦 CH_b CH_o CH_N#
+逼 CH_b CH_i
+別 CH_b CH_i CH_E
+彪 CH_b CH_i CH_a CH_u
+標 CH_b CH_i CH_a CH_u
+標 CH_p CH_i CH_a CH_u
+鏢 CH_b CH_i CH_a CH_u
+鑣 CH_b CH_i CH_a CH_u
+飆 CH_b CH_i CH_a CH_u
+表 CH_b CH_i CH_a CH_u
+錶 CH_b CH_i CH_a CH_u
+裱 CH_b CH_i CH_a CH_u
+蝙 CH_b CH_i CH_E CH_n#
+編 CH_b CH_i CH_E CH_n#
+邊 CH_b CH_i CH_E CH_n#
+鞭 CH_b CH_i CH_E CH_n#
+扁 CH_p CH_i CH_E CH_n#
+扁 CH_b CH_i CH_E CH_n#
+匾 CH_b CH_i CH_E CH_n#
+貶 CH_b CH_i CH_E CH_n#
+便 CH_p CH_i CH_E CH_n#
+便 CH_b CH_i CH_E CH_n#
+遍 CH_b CH_i CH_E CH_n#
+辨 CH_b CH_i CH_E CH_n#
+變 CH_b CH_i CH_E CH_n#
+辯 CH_b CH_i CH_E CH_n#
+彬 CH_b CH_i CH_n#
+賓 CH_b CH_i CH_n#
+濱 CH_b CH_i CH_n#
+檳 CH_b CH_i CH_n#
+瀕 CH_b CH_i CH_n#
+瀕 CH_p CH_i CH_n#
+斌 CH_b CH_i CH_n#
+殯 CH_b CH_i CH_n#
+冰 CH_b CH_i CH_N#
+兵 CH_b CH_i CH_N#
+丙 CH_b CH_i CH_N#
+秉 CH_b CH_i CH_N#
+炳 CH_b CH_i CH_N#
+稟 CH_b CH_i CH_n#
+稟 CH_b CH_i CH_N#
+餅 CH_b CH_i CH_N#
+並 CH_b CH_a CH_N#
+並 CH_b CH_i CH_N#
+併 CH_b CH_i CH_N#
+柄 CH_b CH_i CH_N#
+病 CH_b CH_i CH_N#
+摒 CH_b CH_i CH_N#
+鼻 CH_b CH_i
+比 CH_p CH_i
+比 CH_b CH_i
+彼 CH_b CH_i
+筆 CH_b CH_i
+必 CH_b CH_i
+庇 CH_b CH_i
+俾 CH_b CH_e CH_i
+俾 CH_b CH_i
+埤 CH_b CH_e CH_i
+埤 CH_p CH_i
+埤 CH_b CH_i
+敝 CH_b CH_i
+畢 CH_b CH_i
+蓽 CH_b CH_i
+閉 CH_b CH_i
+弼 CH_b CH_i
+賁 CH_b CH_@ CH_n#
+賁 CH_f CH_@ CH_n#
+賁 CH_b CH_i
+幣 CH_b CH_i
+弊 CH_b CH_i
+碧 CH_b CH_i
+蔽 CH_f CH_u
+蔽 CH_b CH_i
+壁 CH_b CH_i
+斃 CH_b CH_i
+避 CH_b CH_e CH_i
+臂 CH_b CH_e CH_i
+篳 CH_b CH_i
+卜 CH_b CH_u
+捕 CH_b CH_u
+埔 CH_b CH_u
+補 CH_b CH_u
+不 CH_b CH_u
+布 CH_b CH_u
+佈 CH_b CH_u
+步 CH_b CH_u
+埠 CH_b CH_u
+部 CH_b CH_u
+簿 CH_b CH_u CH_o
+簿 CH_b CH_u
+趴 CH_p CH_a
+扒 CH_b CH_a
+扒 CH_p CH_a
+爬 CH_p CH_a
+琶 CH_p CH_a
+琶 CH_b CH_a
+帕 CH_p CH_a
+怕 CH_p CH_a
+坡 CH_p CH_u CH_o
+潑 CH_p CH_u CH_o
+婆 CH_p CH_u CH_o
+叵 CH_p CH_u CH_o
+頗 CH_p CH_u CH_o
+朴 CH_p CH_u
+朴 CH_p CH_i CH_a CH_u
+朴 CH_p CH_u CH_o
+迫 CH_p CH_u CH_o
+破 CH_p CH_u CH_o
+魄 CH_p CH_u CH_o
+魄 CH_t CH_u CH_o
+拍 CH_p CH_a
+拍 CH_b CH_u CH_o
+拍 CH_p CH_u CH_o
+排 CH_p CH_a CH_i
+徘 CH_p CH_a CH_i
+牌 CH_p CH_a CH_i
+湃 CH_p CH_a CH_i
+派 CH_p CH_a CH_i
+培 CH_p CH_e CH_i
+培 CH_p CH_o CH_u
+陪 CH_p CH_e CH_i
+裴 CH_p CH_e CH_i
+賠 CH_p CH_e CH_i
+佩 CH_p CH_e CH_i
+沛 CH_p CH_e CH_i
+珮 CH_p CH_e CH_i
+配 CH_p CH_e CH_i
+拋 CH_p CH_a CH_u
+咆 CH_p CH_a CH_u
+炮 CH_b CH_a CH_u
+炮 CH_p CH_a CH_u
+袍 CH_p CH_a CH_u
+跑 CH_p CH_a CH_u
+泡 CH_p CH_a CH_u
+砲 CH_p CH_a CH_u
+剖 CH_p CH_o CH_u
+潘 CH_p CH_a CH_n#
+攀 CH_p CH_a CH_n#
+槃 CH_p CH_a CH_n#
+盤 CH_p CH_a CH_n#
+蟠 CH_p CH_a CH_n#
+蹣 CH_p CH_a CH_n#
+判 CH_p CH_a CH_n#
+拚 CH_p CH_a CH_n#
+叛 CH_p CH_a CH_n#
+盼 CH_p CH_a CH_n#
+畔 CH_p CH_a CH_n#
+噴 CH_p CH_@ CH_n#
+盆 CH_p CH_@ CH_n#
+彷 CH_p CH_a CH_N#
+彷 CH_f CH_a CH_N#
+旁 CH_p CH_a CH_N#
+旁 CH_b CH_a CH_N#
+徬 CH_p CH_a CH_N#
+徬 CH_b CH_a CH_N#
+螃 CH_p CH_a CH_N#
+龐 CH_p CH_a CH_N#
+胖 CH_p CH_a CH_n#
+胖 CH_p CH_a CH_N#
+抨 CH_p CH_o CH_N#
+砰 CH_p CH_o CH_N#
+烹 CH_p CH_o CH_N#
+棚 CH_p CH_o CH_N#
+彭 CH_p CH_o CH_N#
+硼 CH_p CH_o CH_N#
+澎 CH_p CH_o CH_N#
+蓬 CH_p CH_o CH_N#
+膨 CH_p CH_o CH_N#
+篷 CH_p CH_o CH_N#
+鵬 CH_p CH_o CH_N#
+捧 CH_p CH_o CH_N#
+碰 CH_p CH_o CH_N#
+丕 CH_p CH_i
+批 CH_p CH_i
+披 CH_p CH_e CH_i
+紕 CH_p CH_i
+劈 CH_p CH_i
+瞥 CH_p CH_i CH_E
+撇 CH_p CH_i CH_E
+漂 CH_p CH_i CH_a CH_u
+飄 CH_p CH_i CH_a CH_u
+嫖 CH_p CH_i CH_a CH_u
+票 CH_p CH_i CH_a CH_u
+剽 CH_p CH_i CH_a CH_u
+偏 CH_p CH_i CH_E CH_n#
+胼 CH_p CH_i CH_E CH_n#
+篇 CH_p CH_i CH_E CH_n#
+片 CH_p CH_i CH_E CH_n#
+騙 CH_p CH_i CH_E CH_n#
+拼 CH_p CH_i CH_n#
+貧 CH_p CH_i CH_n#
+頻 CH_p CH_i CH_n#
+蘋 CH_p CH_i CH_n#
+品 CH_p CH_i CH_n#
+牝 CH_p CH_i CH_n#
+聘 CH_p CH_i CH_n#
+平 CH_p CH_i CH_E CH_n#
+坪 CH_p CH_i CH_N#
+屏 CH_b CH_i CH_N#
+屏 CH_p CH_i CH_N#
+屏 CH_b CH_i CH_N#
+瓶 CH_p CH_i CH_N#
+萍 CH_p CH_i CH_N#
+評 CH_p CH_i CH_N#
+憑 CH_p CH_i CH_N#
+皮 CH_p CH_i
+毗 CH_p CH_i
+疲 CH_p CH_i
+啤 CH_p CH_i
+脾 CH_p CH_i
+琵 CH_p CH_i
+匹 CH_p CH_i
+痞 CH_p CH_i
+圮 CH_p CH_i
+屁 CH_p CH_i
+媲 CH_p CH_i
+僻 CH_b CH_e CH_i
+闢 CH_p CH_i
+撲 CH_p CH_u
+鋪 CH_p CH_u
+莆 CH_p CH_u
+莆 CH_f CH_u
+菩 CH_p CH_u
+葡 CH_p CH_u
+僕 CH_p CH_u
+樸 CH_p CH_u
+浦 CH_p CH_u
+圃 CH_p CH_u
+普 CH_p CH_u
+譜 CH_p CH_u
+瀑 CH_b CH_a CH_u
+曝 CH_p CH_u
+舖 CH_p CH_u
+媽 CH_m CH_a
+嗎 CH_m CH_a
+麻 CH_m CH_a
+嘛 CH_m CH_a
+馬 CH_m CH_a
+瑪 CH_m CH_a
+碼 CH_m CH_a
+螞 CH_m CH_a
+罵 CH_m CH_a
+驀 CH_m CH_u CH_o
+摸 CH_m CH_u CH_o
+麼 CH_m CH_a
+摩 CH_m CH_a
+摩 CH_m CH_u CH_o
+摹 CH_m CH_u CH_o
+模 CH_m CH_u CH_o
+磨 CH_m CH_u CH_o
+謨 CH_m CH_u CH_o
+魔 CH_m CH_u CH_o
+抹 CH_m CH_u CH_o
+末 CH_m CH_u CH_o
+沫 CH_m CH_u CH_o
+陌 CH_m CH_u CH_o
+脈 CH_m CH_u CH_o
+莫 CH_m CH_u CH_o
+漠 CH_m CH_u CH_o
+膜 CH_m CH_u CH_o
+墨 CH_m CH_u CH_o
+默 CH_m CH_u CH_o
+妺 CH_m CH_u CH_o
+埋 CH_m CH_a CH_i
+霾 CH_m CH_a CH_i
+買 CH_m CH_a CH_i
+麥 CH_m CH_u CH_o
+賣 CH_m CH_a CH_i
+邁 CH_m CH_a CH_i
+沒 CH_m CH_e CH_i
+沒 CH_m CH_u CH_o
+玫 CH_m CH_e CH_i
+枚 CH_m CH_e CH_i
+眉 CH_m CH_e CH_i
+梅 CH_m CH_e CH_i
+媒 CH_m CH_e CH_i
+楣 CH_m CH_e CH_i
+煤 CH_m CH_e CH_i
+霉 CH_m CH_e CH_i
+黴 CH_m CH_e CH_i
+每 CH_m CH_e CH_i
+美 CH_m CH_e CH_i
+妹 CH_m CH_e CH_i
+昧 CH_m CH_e CH_i
+袂 CH_m CH_e CH_i
+媚 CH_m CH_e CH_i
+魅 CH_m CH_e CH_i
+貓 CH_m CH_a CH_u
+毛 CH_m CH_a CH_u
+矛 CH_m CH_a CH_u
+茅 CH_m CH_a CH_u
+髦 CH_m CH_a CH_u
+錨 CH_m CH_a CH_u
+卯 CH_m CH_a CH_u
+冒 CH_m CH_u CH_o
+茂 CH_m CH_a CH_u
+帽 CH_m CH_a CH_u
+貿 CH_m CH_a CH_u
+貌 CH_m CH_a CH_u
+懋 CH_m CH_a CH_u
+牟 CH_m CH_o CH_u
+謀 CH_m CH_o CH_u
+繆 CH_m CH_o CH_u
+繆 CH_l CH_i CH_a CH_u
+繆 CH_m CH_u
+繆 CH_m CH_i CH_a CH_u
+某 CH_m CH_o CH_u
+瞞 CH_m CH_a CH_n#
+蠻 CH_m CH_a CH_n#
+滿 CH_m CH_a CH_n#
+曼 CH_m CH_a CH_n#
+漫 CH_m CH_a CH_n#
+慢 CH_m CH_a CH_n#
+蔓 CH_m CH_a CH_n#
+嫚 CH_m CH_a CH_n#
+懣 CH_m CH_@ CH_n#
+悶 CH_m CH_@ CH_n#
+們 CH_m CH_@ CH_n#
+門 CH_m CH_@ CH_n#
+捫 CH_m CH_@ CH_n#
+忙 CH_m CH_a CH_N#
+芒 CH_m CH_a CH_N#
+盲 CH_m CH_a CH_N#
+氓 CH_m CH_a CH_N#
+茫 CH_m CH_a CH_N#
+莽 CH_m CH_a CH_N#
+朦 CH_m CH_o CH_N#
+萌 CH_m CH_o CH_N#
+盟 CH_m CH_o CH_N#
+蒙 CH_m CH_o CH_N#
+濛 CH_m CH_o CH_N#
+矇 CH_m CH_o CH_N#
+猛 CH_m CH_o CH_N#
+孟 CH_m CH_o CH_N#
+夢 CH_m CH_o CH_N#
+瞇 CH_m CH_i
+咩 CH_m CH_i CH_E
+滅 CH_m CH_i CH_E
+苗 CH_m CH_i CH_a CH_u
+描 CH_m CH_i CH_a CH_u
+瞄 CH_m CH_i CH_a CH_u
+邈 CH_m CH_i CH_a CH_u
+秒 CH_m CH_i CH_a CH_u
+渺 CH_m CH_i CH_a CH_u
+淼 CH_m CH_i CH_a CH_u
+妙 CH_m CH_i CH_a CH_u
+廟 CH_m CH_i CH_a CH_u
+謬 CH_m CH_i CH_o CH_u
+眠 CH_m CH_i CH_E CH_n#
+棉 CH_m CH_i CH_E CH_n#
+綿 CH_m CH_i CH_E CH_n#
+免 CH_m CH_i CH_E CH_n#
+免 CH_# CH_u CH_@ CH_n#
+勉 CH_m CH_i CH_E CH_n#
+冕 CH_m CH_i CH_E CH_n#
+緬 CH_m CH_i CH_E CH_n#
+面 CH_m CH_i CH_E CH_n#
+麵 CH_m CH_i CH_E CH_n#
+民 CH_m CH_i CH_n#
+玟 CH_# CH_u CH_@ CH_n#
+玟 CH_m CH_i CH_n#
+泯 CH_m CH_i CH_n#
+敏 CH_m CH_i CH_n#
+名 CH_m CH_i CH_N#
+明 CH_m CH_i CH_N#
+冥 CH_m CH_i CH_N#
+茗 CH_m CH_i CH_N#
+銘 CH_m CH_i CH_N#
+鳴 CH_m CH_i CH_N#
+瞑 CH_m CH_i CH_E CH_n#
+瞑 CH_m CH_i CH_N#
+瞑 CH_m CH_i CH_E CH_n#
+命 CH_m CH_i CH_N#
+迷 CH_m CH_i
+彌 CH_m CH_i
+謎 CH_m CH_i
+謎 CH_m CH_e CH_i
+瀰 CH_m CH_i
+米 CH_m CH_i
+弭 CH_m CH_i
+靡 CH_m CH_i
+祕 CH_b CH_i
+秘 CH_b CH_i
+密 CH_m CH_i
+覓 CH_m CH_i
+蜜 CH_m CH_i
+母 CH_m CH_u
+牡 CH_m CH_o CH_u
+拇 CH_m CH_u
+姆 CH_m CH_u
+木 CH_m CH_u
+目 CH_m CH_u
+沐 CH_m CH_u
+牧 CH_m CH_u
+募 CH_m CH_u
+睦 CH_m CH_u
+墓 CH_m CH_u
+幕 CH_m CH_u CH_o
+慕 CH_m CH_u
+穆 CH_m CH_u
+伐 CH_f CH_a
+發 CH_f CH_a
+乏 CH_f CH_a
+筏 CH_f CH_a
+閥 CH_f CH_a
+罰 CH_f CH_a
+法 CH_f CH_a
+髮 CH_f CH_a
+佛 CH_f CH_o
+佛 CH_b CH_i
+妃 CH_f CH_e CH_i
+妃 CH_p CH_e CH_i
+非 CH_f CH_e CH_i
+痱 CH_f CH_e CH_i
+飛 CH_f CH_e CH_i
+啡 CH_f CH_e CH_i
+菲 CH_f CH_e CH_i
+霏 CH_f CH_e CH_i
+肥 CH_f CH_e CH_i
+匪 CH_f CH_e CH_i
+斐 CH_f CH_e CH_i
+翡 CH_f CH_e CH_i
+誹 CH_f CH_e CH_i
+蜚 CH_f CH_e CH_i
+吠 CH_f CH_e CH_i
+肺 CH_p CH_e CH_i
+沸 CH_f CH_u
+沸 CH_f CH_e CH_i
+費 CH_b CH_i
+廢 CH_f CH_e CH_i
+否 CH_p CH_i
+番 CH_p CH_a CH_n#
+番 CH_p CH_u CH_o
+幡 CH_f CH_a CH_n#
+翻 CH_f CH_a CH_n#
+凡 CH_f CH_a CH_n#
+帆 CH_f CH_a CH_n#
+煩 CH_f CH_a CH_n#
+繁 CH_p CH_u CH_o
+藩 CH_f CH_a CH_n#
+璠 CH_f CH_a CH_n#
+反 CH_f CH_a CH_n#
+返 CH_f CH_a CH_n#
+氾 CH_f CH_a CH_n#
+犯 CH_f CH_a CH_n#
+泛 CH_f CH_o CH_N#
+泛 CH_f CH_a CH_n#
+范 CH_f CH_a CH_n#
+梵 CH_f CH_a CH_n#
+販 CH_f CH_a CH_n#
+飯 CH_f CH_a CH_n#
+範 CH_f CH_a CH_n#
+分 CH_f CH_@ CH_n#
+吩 CH_f CH_@ CH_n#
+芬 CH_f CH_@ CH_n#
+氛 CH_f CH_@ CH_n#
+紛 CH_f CH_@ CH_n#
+焚 CH_f CH_@ CH_n#
+粉 CH_f CH_@ CH_n#
+份 CH_b CH_i CH_n#
+份 CH_f CH_@ CH_n#
+忿 CH_f CH_@ CH_n#
+憤 CH_f CH_@ CH_n#
+奮 CH_f CH_@ CH_n#
+方 CH_f CH_a CH_N#
+坊 CH_f CH_a CH_N#
+芳 CH_f CH_a CH_N#
+妨 CH_f CH_a CH_N#
+防 CH_f CH_a CH_N#
+房 CH_f CH_a CH_N#
+仿 CH_f CH_a CH_N#
+紡 CH_f CH_a CH_N#
+舫 CH_f CH_a CH_N#
+訪 CH_f CH_a CH_N#
+放 CH_f CH_a CH_N#
+封 CH_f CH_o CH_N#
+風 CH_f CH_o CH_N#
+峰 CH_f CH_o CH_N#
+烽 CH_f CH_o CH_N#
+蜂 CH_f CH_o CH_N#
+瘋 CH_f CH_o CH_N#
+鋒 CH_f CH_o CH_N#
+豐 CH_f CH_o CH_N#
+逢 CH_p CH_o CH_N#
+馮 CH_f CH_o CH_N#
+馮 CH_p CH_i CH_N#
+縫 CH_f CH_o CH_N#
+奉 CH_f CH_o CH_N#
+俸 CH_f CH_o CH_N#
+鳳 CH_f CH_o CH_N#
+諷 CH_f CH_o CH_N#
+孵 CH_f CH_u
+夫 CH_f CH_u
+敷 CH_f CH_u
+膚 CH_f CH_u
+弗 CH_f CH_u
+伏 CH_f CH_u
+孚 CH_f CH_u
+扶 CH_f CH_u
+彿 CH_f CH_u
+拂 CH_f CH_u
+拂 CH_b CH_i
+芙 CH_f CH_u
+服 CH_f CH_u
+俘 CH_f CH_u
+氟 CH_f CH_u
+浮 CH_f CH_o CH_u
+符 CH_f CH_u
+幅 CH_b CH_i
+幅 CH_f CH_u
+袱 CH_f CH_u
+福 CH_f CH_u
+蝠 CH_f CH_u
+縛 CH_f CH_u
+輻 CH_f CH_u
+甫 CH_f CH_u
+府 CH_f CH_u
+斧 CH_f CH_u
+俯 CH_f CH_u
+脯 CH_p CH_u
+脯 CH_f CH_u
+輔 CH_f CH_u
+腐 CH_f CH_u
+撫 CH_f CH_u
+父 CH_f CH_u
+付 CH_f CH_u
+咐 CH_f CH_u
+附 CH_f CH_u
+負 CH_f CH_u
+赴 CH_f CH_u
+副 CH_p CH_i
+婦 CH_f CH_u
+傅 CH_f CH_u
+富 CH_f CH_u
+復 CH_f CH_o CH_u
+腹 CH_f CH_u
+複 CH_f CH_u
+賦 CH_f CH_u
+覆 CH_f CH_u
+搭 CH_d CH_a
+撘 CH_d CH_a
+答 CH_d CH_a
+達 CH_d CH_a
+達 CH_t CH_a
+瘩 CH_d CH_a
+打 CH_d CH_a
+大 CH_d CH_a
+的 CH_d CH_i
+的 CH_d CH_@
+得 CH_d CH_@
+得 CH_d CH_a CH_i
+得 CH_d CH_@
+德 CH_d CH_@
+呆 CH_d CH_a CH_i
+呆 CH_# CH_a CH_i
+歹 CH_d CH_a CH_i
+歹 CH_# CH_@
+代 CH_d CH_a CH_i
+岱 CH_d CH_a CH_i
+待 CH_d CH_a CH_i
+怠 CH_d CH_a CH_i
+殆 CH_d CH_a CH_i
+帶 CH_d CH_a CH_i
+袋 CH_d CH_a CH_i
+貸 CH_d CH_a CH_i
+逮 CH_d CH_a CH_i
+戴 CH_d CH_a CH_i
+黛 CH_d CH_a CH_i
+刀 CH_d CH_a CH_u
+叨 CH_d CH_a CH_u
+倒 CH_d CH_a CH_u
+島 CH_d CH_a CH_u
+搗 CH_d CH_a CH_u
+導 CH_d CH_a CH_u
+禱 CH_d CH_a CH_u
+到 CH_d CH_a CH_u
+悼 CH_d CH_a CH_u
+盜 CH_d CH_a CH_u
+道 CH_d CH_a CH_u
+稻 CH_d CH_a CH_u
+蹈 CH_d CH_a CH_u
+兜 CH_d CH_o CH_u
+都 CH_d CH_o CH_u
+斗 CH_d CH_o CH_u
+抖 CH_d CH_o CH_u
+陡 CH_d CH_o CH_u
+豆 CH_d CH_o CH_u
+鬥 CH_d CH_o CH_u
+逗 CH_d CH_o CH_u
+丹 CH_d CH_a CH_n#
+耽 CH_d CH_a CH_n#
+單 CH_d CH_a CH_n#
+單 CH_tsc CH_a CH_n#
+單 CH_sc CH_a CH_n#
+擔 CH_d CH_a CH_n#
+眈 CH_d CH_a CH_n#
+疸 CH_d CH_a CH_n#
+膽 CH_d CH_a CH_n#
+旦 CH_d CH_a CH_n#
+但 CH_d CH_a CH_n#
+淡 CH_d CH_a CH_n#
+蛋 CH_d CH_a CH_n#
+憚 CH_d CH_a CH_n#
+彈 CH_t CH_a CH_n#
+彈 CH_d CH_a CH_n#
+誕 CH_d CH_a CH_n#
+當 CH_d CH_a CH_N#
+噹 CH_d CH_a CH_N#
+鐺 CH_d CH_a CH_N#
+擋 CH_d CH_a CH_N#
+檔 CH_d CH_a CH_N#
+黨 CH_d CH_a CH_N#
+蕩 CH_d CH_a CH_N#
+盪 CH_d CH_a CH_N#
+宕 CH_d CH_a CH_N#
+愓 CH_sc CH_a CH_N#
+登 CH_d CH_@ CH_N#
+燈 CH_d CH_@ CH_N#
+等 CH_d CH_@ CH_N#
+鄧 CH_d CH_@ CH_N#
+瞪 CH_d CH_@ CH_N#
+低 CH_d CH_i
+滴 CH_d CH_i
+嗲 CH_d CH_i CH_E
+迭 CH_d CH_i CH_E
+喋 CH_dzc CH_a
+喋 CH_d CH_i CH_E
+跌 CH_d CH_i CH_E
+碟 CH_d CH_i CH_E
+蝶 CH_d CH_i CH_E
+諜 CH_d CH_i CH_E
+疊 CH_d CH_i CH_E
+刁 CH_d CH_i CH_a CH_u
+凋 CH_d CH_i CH_a CH_u
+貂 CH_d CH_i CH_a CH_u
+碉 CH_d CH_i CH_a CH_u
+雕 CH_d CH_i CH_a CH_u
+鵰 CH_d CH_i CH_a CH_u
+弔 CH_d CH_i CH_a CH_u
+吊 CH_d CH_i CH_a CH_u
+掉 CH_d CH_i CH_a CH_u
+釣 CH_d CH_i CH_a CH_u
+丟 CH_d CH_i CH_o CH_u
+顛 CH_d CH_i CH_E CH_n#
+癲 CH_d CH_i CH_E CH_n#
+巔 CH_d CH_i CH_E CH_n#
+典 CH_d CH_i CH_E CH_n#
+點 CH_d CH_i CH_E CH_n#
+甸 CH_t CH_i CH_E CH_n#
+甸 CH_d CH_i CH_E CH_n#
+惦 CH_d CH_i CH_E CH_n#
+玷 CH_d CH_i CH_E CH_n#
+店 CH_d CH_i CH_E CH_n#
+奠 CH_d CH_i CH_E CH_n#
+殿 CH_d CH_i CH_E CH_n#
+墊 CH_d CH_i CH_E CH_n#
+電 CH_d CH_i CH_E CH_n#
+澱 CH_d CH_i CH_E CH_n#
+丁 CH_dzc CH_@ CH_N#
+丁 CH_d CH_i CH_N#
+叮 CH_d CH_i CH_N#
+盯 CH_d CH_i CH_N#
+釘 CH_d CH_i CH_N#
+頂 CH_d CH_i CH_N#
+鼎 CH_d CH_i CH_N#
+定 CH_d CH_i CH_N#
+訂 CH_d CH_i CH_N#
+碇 CH_d CH_i CH_N#
+地 CH_d CH_i
+地 CH_d CH_@
+狄 CH_d CH_i
+迪 CH_d CH_i
+笛 CH_d CH_i
+滌 CH_d CH_i
+敵 CH_d CH_i
+底 CH_d CH_i
+底 CH_d CH_@
+抵 CH_dzc CH_Uc
+抵 CH_d CH_i
+牴 CH_d CH_i
+柢 CH_d CH_i
+弟 CH_d CH_i
+帝 CH_d CH_i
+第 CH_d CH_i
+蒂 CH_d CH_i
+遞 CH_d CH_i
+締 CH_d CH_i
+督 CH_d CH_u
+多 CH_d CH_u CH_o
+奪 CH_d CH_u CH_o
+鐸 CH_d CH_u CH_o
+躲 CH_d CH_u CH_o
+咄 CH_d CH_u CH_o
+墮 CH_h CH_u CH_e CH_i
+墮 CH_d CH_u CH_o
+堆 CH_d CH_u CH_e CH_i
+兌 CH_d CH_u CH_e CH_i
+隊 CH_d CH_u CH_e CH_i
+對 CH_d CH_u CH_e CH_i
+端 CH_d CH_u CH_a CH_n#
+短 CH_d CH_u CH_a CH_n#
+段 CH_d CH_u CH_a CH_n#
+緞 CH_d CH_u CH_a CH_n#
+斷 CH_d CH_u CH_a CH_n#
+敦 CH_d CH_u CH_e CH_i
+墩 CH_d CH_u CH_@ CH_n#
+蹲 CH_d CH_u CH_@ CH_n#
+蹲 CH_ts CH_u CH_@ CH_n#
+盹 CH_d CH_u CH_@ CH_n#
+沌 CH_d CH_u CH_@ CH_n#
+盾 CH_sc CH_u CH_@ CH_n#
+盾 CH_d CH_u CH_@ CH_n#
+鈍 CH_d CH_u CH_@ CH_n#
+遁 CH_d CH_u CH_@ CH_n#
+頓 CH_d CH_u
+頓 CH_d CH_u CH_@ CH_n#
+噸 CH_d CH_u CH_@ CH_n#
+冬 CH_d CH_o CH_N#
+東 CH_d CH_o CH_N#
+董 CH_d CH_o CH_N#
+懂 CH_d CH_o CH_N#
+恫 CH_t CH_o CH_N#
+恫 CH_d CH_o CH_N#
+洞 CH_t CH_o CH_N#
+洞 CH_d CH_o CH_N#
+凍 CH_d CH_o CH_N#
+胴 CH_t CH_o CH_N#
+動 CH_d CH_o CH_N#
+棟 CH_d CH_o CH_N#
+毒 CH_d CH_u
+獨 CH_d CH_u
+瀆 CH_d CH_u
+讀 CH_d CH_u
+讀 CH_d CH_o CH_u
+堵 CH_d CH_u
+睹 CH_d CH_u
+賭 CH_d CH_u
+篤 CH_d CH_u
+妒 CH_d CH_u
+杜 CH_d CH_u
+肚 CH_d CH_u
+度 CH_d CH_u
+度 CH_d CH_u CH_o
+渡 CH_d CH_u
+鍍 CH_d CH_u
+它 CH_t CH_a
+它 CH_t CH_u CH_o
+他 CH_t CH_a
+他 CH_t CH_u CH_o
+她 CH_t CH_a
+牠 CH_t CH_a
+牠 CH_t CH_u CH_o
+塌 CH_t CH_a
+祂 CH_t CH_a
+塔 CH_t CH_a
+榻 CH_t CH_a
+踏 CH_t CH_a
+特 CH_t CH_@
+胎 CH_t CH_a CH_i
+台 CH_# CH_i
+台 CH_t CH_a CH_i
+抬 CH_t CH_a CH_i
+苔 CH_t CH_a CH_i
+臺 CH_t CH_a CH_i
+檯 CH_t CH_a CH_i
+太 CH_t CH_a CH_i
+汰 CH_t CH_a CH_i
+泰 CH_t CH_a CH_i
+態 CH_t CH_a CH_i
+鈦 CH_t CH_a CH_i
+掏 CH_t CH_a CH_u
+饕 CH_t CH_a CH_u
+桃 CH_t CH_a CH_u
+逃 CH_t CH_a CH_u
+淘 CH_t CH_a CH_u
+陶 CH_t CH_a CH_u
+萄 CH_t CH_a CH_u
+濤 CH_t CH_a CH_u
+討 CH_t CH_a CH_u
+套 CH_t CH_a CH_u
+偷 CH_t CH_o CH_u
+投 CH_t CH_o CH_u
+頭 CH_t CH_o CH_u
+透 CH_t CH_o CH_u
+坍 CH_t CH_a CH_n#
+貪 CH_t CH_a CH_n#
+癱 CH_t CH_a CH_n#
+攤 CH_t CH_a CH_n#
+灘 CH_t CH_a CH_n#
+潭 CH_t CH_a CH_n#
+談 CH_t CH_a CH_n#
+壇 CH_t CH_a CH_n#
+曇 CH_t CH_a CH_n#
+譚 CH_t CH_a CH_n#
+坦 CH_t CH_a CH_n#
+袒 CH_t CH_a CH_n#
+毯 CH_t CH_a CH_n#
+炭 CH_t CH_a CH_n#
+探 CH_t CH_a CH_n#
+嘆 CH_t CH_a CH_n#
+碳 CH_t CH_a CH_n#
+湯 CH_t CH_a CH_N#
+唐 CH_t CH_a CH_N#
+堂 CH_t CH_a CH_N#
+搪 CH_t CH_a CH_N#
+糖 CH_t CH_a CH_N#
+踼 CH_t CH_a CH_N#
+帑 CH_n CH_u
+帑 CH_t CH_a CH_N#
+倘 CH_tsc CH_a CH_N#
+倘 CH_t CH_a CH_N#
+躺 CH_t CH_a CH_N#
+趟 CH_t CH_a CH_N#
+燙 CH_t CH_a CH_N#
+疼 CH_t CH_@ CH_N#
+滕 CH_t CH_@ CH_N#
+謄 CH_t CH_@ CH_N#
+藤 CH_t CH_@ CH_N#
+騰 CH_t CH_@ CH_N#
+籐 CH_t CH_@ CH_N#
+剔 CH_t CH_i
+梯 CH_t CH_i
+踢 CH_t CH_i
+貼 CH_t CH_i CH_E
+鐵 CH_t CH_i CH_E
+餮 CH_t CH_i CH_E
+挑 CH_t CH_i CH_a CH_u
+條 CH_t CH_i CH_a CH_u
+調 CH_t CH_i CH_a CH_u
+調 CH_d CH_i CH_a CH_u
+眺 CH_t CH_i CH_a CH_u
+跳 CH_t CH_i CH_a CH_u
+天 CH_t CH_i CH_E CH_n#
+添 CH_t CH_i CH_E CH_n#
+田 CH_t CH_i CH_E CH_n#
+恬 CH_t CH_i CH_E CH_n#
+甜 CH_t CH_i CH_E CH_n#
+填 CH_t CH_i CH_E CH_n#
+聽 CH_t CH_i CH_N#
+廳 CH_t CH_i CH_N#
+廷 CH_t CH_i CH_N#
+亭 CH_t CH_i CH_N#
+庭 CH_t CH_i CH_N#
+停 CH_t CH_i CH_N#
+婷 CH_t CH_i CH_N#
+霆 CH_t CH_i CH_N#
+挺 CH_t CH_i CH_N#
+艇 CH_t CH_i CH_N#
+町 CH_d CH_i CH_N#
+町 CH_t CH_i CH_N#
+鋌 CH_t CH_i CH_N#
+鋌 CH_d CH_i CH_N#
+堤 CH_d CH_i
+堤 CH_t CH_i
+提 CH_d CH_i
+提 CH_sc CH_Uc
+提 CH_t CH_i
+蹄 CH_t CH_i
+題 CH_t CH_i
+體 CH_t CH_i
+剃 CH_t CH_i
+涕 CH_t CH_i
+惕 CH_t CH_i
+逖 CH_t CH_i
+替 CH_t CH_i
+禿 CH_t CH_u
+托 CH_t CH_u CH_o
+扥 CH_d CH_@ CH_n#
+拖 CH_t CH_u CH_o
+託 CH_t CH_u CH_o
+脫 CH_t CH_u CH_o
+脫 CH_t CH_u CH_e CH_i
+跎 CH_t CH_u CH_o
+陀 CH_t CH_u CH_o
+妥 CH_t CH_u CH_o
+拓 CH_t CH_a
+拓 CH_t CH_u CH_o
+推 CH_t CH_u CH_e CH_i
+頹 CH_t CH_u CH_e CH_i
+腿 CH_t CH_u CH_e CH_i
+退 CH_t CH_u CH_e CH_i
+湍 CH_t CH_u CH_a CH_n#
+團 CH_t CH_u CH_a CH_n#
+吞 CH_t CH_u CH_@ CH_n#
+屯 CH_dzc CH_u CH_@ CH_n#
+屯 CH_t CH_u CH_@ CH_n#
+囤 CH_t CH_u CH_@ CH_n#
+囤 CH_d CH_u CH_@ CH_n#
+豚 CH_t CH_u CH_@ CH_n#
+褪 CH_t CH_u CH_e CH_i
+通 CH_t CH_o CH_N#
+同 CH_t CH_o CH_N#
+桐 CH_t CH_o CH_N#
+童 CH_t CH_o CH_N#
+銅 CH_t CH_o CH_N#
+瞳 CH_t CH_o CH_N#
+仝 CH_t CH_o CH_N#
+酮 CH_t CH_o CH_N#
+桶 CH_t CH_o CH_N#
+統 CH_t CH_o CH_N#
+筒 CH_t CH_o CH_N#
+痛 CH_t CH_o CH_N#
+慟 CH_t CH_o CH_N#
+凸 CH_t CH_u
+凸 CH_d CH_i CH_E
+凸 CH_g CH_u
+突 CH_t CH_u
+徒 CH_t CH_u
+屠 CH_t CH_u
+荼 CH_sc CH_u
+荼 CH_t CH_u
+途 CH_t CH_u
+塗 CH_t CH_u
+圖 CH_t CH_u
+涂 CH_t CH_u
+土 CH_t CH_u
+吐 CH_t CH_u
+兔 CH_t CH_u
+拿 CH_n CH_a
+哪 CH_n CH_u CH_o
+哪 CH_n CH_a
+那 CH_n CH_a
+那 CH_n CH_u CH_o
+那 CH_n CH_a
+衲 CH_n CH_a
+搽 CH_ts CH_a
+搽 CH_tsc CH_a
+納 CH_n CH_a
+捺 CH_n CH_a
+呢 CH_n CH_i
+呢 CH_n CH_@
+乃 CH_n CH_a CH_i
+奶 CH_n CH_a CH_i
+奈 CH_n CH_a CH_i
+耐 CH_n CH_a CH_i
+內 CH_n CH_a
+撓 CH_n CH_a CH_u
+惱 CH_n CH_a CH_u
+腦 CH_n CH_a CH_u
+鬧 CH_n CH_a CH_u
+囝 CH_dzi CH_i CH_E CH_n#
+囝 CH_# CH_y CH_E
+男 CH_n CH_a CH_n#
+南 CH_n CH_a
+楠 CH_n CH_a CH_n#
+難 CH_n CH_a CH_n#
+嫩 CH_n CH_@ CH_n#
+囊 CH_n CH_a CH_N#
+能 CH_n CH_@ CH_N#
+捏 CH_n CH_i CH_E
+鎳 CH_n CH_i CH_E
+鳥 CH_d CH_i CH_a CH_u
+尿 CH_n CH_i CH_a CH_u
+妞 CH_n CH_i CH_o CH_u
+牛 CH_n CH_i CH_o CH_u
+扭 CH_n CH_i CH_o CH_u
+紐 CH_n CH_i CH_o CH_u
+鈕 CH_n CH_i CH_o CH_u
+拗 CH_# CH_a CH_u
+拗 CH_n CH_i CH_o CH_u
+年 CH_n CH_i CH_E CH_n#
+粘 CH_n CH_i CH_E CH_n#
+拈 CH_d CH_i CH_E CH_n#
+拈 CH_n CH_i CH_E CH_n#
+輾 CH_dzc CH_a CH_n#
+輾 CH_n CH_i CH_E CH_n#
+念 CH_n CH_i CH_E CH_n#
+唸 CH_n CH_i CH_E CH_n#
+您 CH_n CH_i CH_n#
+娘 CH_n CH_i CH_a CH_N#
+釀 CH_n CH_i CH_a CH_N#
+獰 CH_n CH_i CH_N#
+濘 CH_n CH_i CH_N#
+寧 CH_n CH_i CH_N#
+凝 CH_n CH_i CH_N#
+尼 CH_n CH_i
+妮 CH_n CH_i
+泥 CH_n CH_i
+倪 CH_n CH_i
+你 CH_n CH_i
+妳 CH_n CH_i
+擬 CH_n CH_i
+匿 CH_n CH_i
+逆 CH_n CH_i
+溺 CH_n CH_i
+溺 CH_n CH_i CH_a CH_u
+膩 CH_n CH_i
+挪 CH_n CH_u CH_o
+娜 CH_n CH_u CH_o
+娜 CH_n CH_a
+諾 CH_n CH_u CH_o
+懦 CH_n CH_u CH_o
+暖 CH_si CH_y CH_E CH_n#
+暖 CH_n CH_u CH_a CH_n#
+農 CH_n CH_o CH_N#
+儂 CH_n CH_o CH_N#
+濃 CH_n CH_o CH_N#
+穠 CH_n CH_o CH_N#
+弄 CH_n CH_o CH_N#
+奴 CH_n CH_u
+努 CH_n CH_u
+弩 CH_n CH_u
+怒 CH_n CH_u
+虐 CH_n CH_y CH_E
+謔 CH_n CH_y CH_E
+女 CH_n CH_y
+拉 CH_l CH_a
+啦 CH_l CH_a
+辣 CH_l CH_a
+臘 CH_l CH_a
+蠟 CH_l CH_a
+了 CH_l CH_i CH_a CH_u
+了 CH_l CH_@
+勒 CH_l CH_e CH_i
+勒 CH_l CH_@
+來 CH_l CH_a CH_i
+萊 CH_l CH_a CH_i
+錸 CH_l CH_a CH_i
+睞 CH_l CH_a CH_i
+獺 CH_t CH_a
+賴 CH_l CH_a CH_i
+雷 CH_l CH_e CH_i
+儡 CH_l CH_e CH_i
+蕾 CH_l CH_e CH_i
+壘 CH_l CH_e CH_i
+壘 CH_l CH_y
+累 CH_l CH_e CH_i
+淚 CH_l CH_e CH_i
+類 CH_l CH_e CH_i
+撈 CH_l CH_a CH_u
+牢 CH_l CH_a CH_u
+勞 CH_l CH_a CH_u
+嘮 CH_l CH_a CH_u
+老 CH_l CH_a CH_u
+佬 CH_l CH_a CH_u
+烙 CH_l CH_a CH_u
+烙 CH_l CH_u CH_o
+婁 CH_l CH_o CH_u
+婁 CH_l CH_y
+簍 CH_l CH_o CH_u
+樓 CH_l CH_o CH_u
+陋 CH_l CH_o CH_u
+漏 CH_l CH_o CH_u
+婪 CH_l CH_a CH_n#
+嵐 CH_l CH_a CH_n#
+藍 CH_l CH_a CH_n#
+欄 CH_l CH_a CH_n#
+蘭 CH_l CH_a CH_n#
+攔 CH_l CH_a CH_n#
+瀾 CH_l CH_a CH_n#
+籃 CH_l CH_a CH_n#
+懶 CH_l CH_a CH_n#
+覽 CH_l CH_a CH_n#
+攬 CH_l CH_a CH_n#
+欖 CH_l CH_a CH_n#
+纜 CH_l CH_a CH_n#
+濫 CH_l CH_a CH_n#
+爛 CH_l CH_a CH_n#
+郎 CH_l CH_a CH_N#
+狼 CH_l CH_a CH_N#
+琅 CH_l CH_a CH_N#
+廊 CH_l CH_a CH_N#
+瑯 CH_l CH_a CH_N#
+榔 CH_l CH_a CH_N#
+朗 CH_l CH_a CH_N#
+浪 CH_l CH_a CH_N#
+冷 CH_l CH_@ CH_N#
+楞 CH_l CH_@ CH_N#
+列 CH_l CH_i CH_E
+劣 CH_l CH_i CH_E
+冽 CH_l CH_i CH_E
+烈 CH_l CH_i CH_E
+捩 CH_l CH_i
+捩 CH_l CH_i CH_E
+裂 CH_l CH_i CH_E
+獵 CH_l CH_i CH_E
+撩 CH_l CH_i CH_a CH_u
+聊 CH_l CH_i CH_a CH_u
+僚 CH_l CH_i CH_a CH_u
+寥 CH_l CH_i CH_a CH_u
+寮 CH_l CH_i CH_a CH_u
+遼 CH_l CH_i CH_a CH_u
+鐐 CH_l CH_i CH_a CH_u
+繚 CH_l CH_i CH_a CH_u
+療 CH_l CH_i CH_a CH_u
+瞭 CH_l CH_i CH_a CH_u
+料 CH_l CH_i CH_a CH_u
+廖 CH_l CH_i CH_a CH_u
+溜 CH_l CH_i CH_o CH_u
+流 CH_l CH_i CH_o CH_u
+琉 CH_l CH_i CH_o CH_u
+留 CH_l CH_i CH_o CH_u
+硫 CH_l CH_i CH_o CH_u
+榴 CH_l CH_i CH_o CH_u
+劉 CH_l CH_i CH_o CH_u
+瘤 CH_l CH_i CH_o CH_u
+鏐 CH_l CH_i CH_o CH_u
+柳 CH_l CH_i CH_o CH_u
+六 CH_l CH_u
+六 CH_l CH_i CH_o CH_u
+餾 CH_l CH_i CH_o CH_u
+連 CH_l CH_i CH_E CH_n#
+廉 CH_l CH_i CH_E CH_n#
+憐 CH_l CH_i CH_E CH_n#
+蓮 CH_l CH_i CH_E CH_n#
+濂 CH_l CH_i CH_E CH_n#
+聯 CH_l CH_i CH_E CH_n#
+臉 CH_l CH_i CH_E CH_n#
+煉 CH_l CH_i CH_E CH_n#
+練 CH_l CH_i CH_E CH_n#
+鍊 CH_l CH_i CH_E CH_n#
+鏈 CH_l CH_i CH_E CH_n#
+戀 CH_l CH_i CH_E CH_n#
+歛 CH_l CH_i CH_E CH_n#
+林 CH_l CH_i CH_n#
+淋 CH_l CH_i CH_n#
+琳 CH_l CH_i CH_n#
+鄰 CH_l CH_i CH_n#
+遴 CH_l CH_i CH_n#
+霖 CH_l CH_i CH_n#
+磷 CH_l CH_i CH_n#
+臨 CH_l CH_i CH_n#
+鱗 CH_l CH_i CH_n#
+麟 CH_l CH_i CH_n#
+吝 CH_l CH_i CH_n#
+躪 CH_l CH_i CH_n#
+良 CH_l CH_i CH_a CH_N#
+梁 CH_l CH_i CH_a CH_N#
+涼 CH_l CH_i CH_a CH_N#
+量 CH_l CH_i CH_a CH_N#
+樑 CH_l CH_i CH_a CH_N#
+糧 CH_l CH_i CH_a CH_N#
+兩 CH_l CH_i CH_a CH_N#
+倆 CH_l CH_i CH_a
+亮 CH_l CH_i CH_a CH_N#
+諒 CH_l CH_i CH_a CH_N#
+輛 CH_l CH_i CH_a CH_N#
+拎 CH_l CH_i CH_N#
+伶 CH_l CH_i CH_N#
+玲 CH_l CH_i CH_N#
+凌 CH_l CH_i CH_N#
+苓 CH_l CH_i CH_N#
+羚 CH_l CH_i CH_N#
+翎 CH_l CH_i CH_N#
+聆 CH_l CH_i CH_N#
+陵 CH_l CH_i CH_N#
+鈴 CH_l CH_i CH_N#
+零 CH_l CH_i CH_E CH_n#
+齡 CH_l CH_i CH_N#
+靈 CH_l CH_i CH_N#
+囹 CH_l CH_i CH_N#
+領 CH_l CH_i CH_N#
+嶺 CH_l CH_i CH_N#
+令 CH_l CH_i CH_N#
+另 CH_l CH_i CH_N#
+哩 CH_l CH_i
+狸 CH_l CH_i
+梨 CH_l CH_i
+璃 CH_l CH_i
+黎 CH_l CH_i
+罹 CH_l CH_i
+釐 CH_si CH_i
+釐 CH_l CH_i
+離 CH_l CH_i
+籬 CH_l CH_i
+厘 CH_l CH_i
+李 CH_l CH_i
+里 CH_l CH_i
+理 CH_l CH_i
+裡 CH_l CH_i
+鋰 CH_l CH_i
+禮 CH_l CH_i
+力 CH_l CH_i
+立 CH_l CH_i
+吏 CH_l CH_i
+利 CH_l CH_i
+例 CH_l CH_i
+栗 CH_l CH_i
+唳 CH_l CH_i
+粒 CH_l CH_i
+莉 CH_l CH_i
+蒞 CH_l CH_i
+厲 CH_l CH_a CH_i
+曆 CH_l CH_i
+歷 CH_l CH_i
+勵 CH_l CH_i
+壢 CH_l CH_i
+瀝 CH_l CH_i
+儷 CH_l CH_i
+麗 CH_l CH_i
+礫 CH_l CH_i
+螺 CH_l CH_u CH_o
+羅 CH_l CH_u CH_o
+蘿 CH_l CH_u CH_o
+邏 CH_l CH_u CH_o
+籮 CH_l CH_u CH_o
+鑼 CH_l CH_u CH_o
+裸 CH_l CH_u CH_o
+洛 CH_l CH_u CH_o
+絡 CH_l CH_a CH_u
+絡 CH_l CH_u CH_o
+落 CH_l CH_a
+落 CH_l CH_u CH_o
+酪 CH_l CH_a CH_u
+酪 CH_l CH_u CH_o
+駱 CH_l CH_u CH_o
+卵 CH_l CH_u CH_a CH_n#
+亂 CH_l CH_u CH_a CH_n#
+倫 CH_l CH_u CH_@ CH_n#
+崙 CH_l CH_u CH_@ CH_n#
+淪 CH_l CH_u CH_@ CH_n#
+輪 CH_l CH_u CH_@ CH_n#
+論 CH_l CH_u CH_@ CH_n#
+隆 CH_l CH_o CH_N#
+龍 CH_l CH_o CH_N#
+嚨 CH_l CH_o CH_N#
+朧 CH_l CH_o CH_N#
+瓏 CH_l CH_o CH_N#
+籠 CH_l CH_o CH_N#
+聾 CH_l CH_o CH_N#
+壟 CH_l CH_o CH_N#
+攏 CH_l CH_o CH_N#
+盧 CH_l CH_u
+廬 CH_l CH_u
+蘆 CH_l CH_u
+爐 CH_l CH_u
+顱 CH_l CH_u
+滷 CH_l CH_u
+擄 CH_l CH_u
+擄 CH_l CH_u CH_o
+魯 CH_l CH_u
+陸 CH_l CH_u
+陸 CH_l CH_i CH_o CH_u
+鹿 CH_l CH_u
+賂 CH_l CH_u
+路 CH_l CH_u
+碌 CH_l CH_u
+祿 CH_l CH_u
+戮 CH_l CH_u
+錄 CH_l CH_u
+麓 CH_l CH_u
+露 CH_l CH_o CH_u
+璐 CH_l CH_u
+略 CH_l CH_y CH_E
+攣 CH_l CH_y CH_E CH_n#
+攣 CH_l CH_i CH_E CH_n#
+驢 CH_l CH_y
+呂 CH_l CH_y
+侶 CH_l CH_y
+旅 CH_l CH_y
+屢 CH_l CH_y
+履 CH_l CH_y
+鋁 CH_l CH_y
+縷 CH_l CH_y
+律 CH_l CH_y
+氯 CH_l CH_u
+綠 CH_l CH_u
+慮 CH_l CH_y
+濾 CH_l CH_y
+嘎 CH_g CH_a
+戈 CH_g CH_@
+疙 CH_g CH_@
+哥 CH_g CH_@
+割 CH_g CH_@
+歌 CH_g CH_@
+擱 CH_g CH_@
+鴿 CH_g CH_@
+個 CH_g CH_@
+革 CH_g CH_@
+格 CH_g CH_@
+葛 CH_g CH_@
+隔 CH_g CH_@
+閣 CH_g CH_@
+骼 CH_g CH_@
+鎘 CH_g CH_@
+鎘 CH_l CH_i
+各 CH_g CH_@
+箇 CH_g CH_@
+垓 CH_g CH_a CH_i
+該 CH_g CH_a CH_i
+改 CH_g CH_a CH_i
+丐 CH_g CH_a CH_i
+溉 CH_g CH_a CH_i
+概 CH_g CH_a CH_i
+蓋 CH_h CH_@
+蓋 CH_g CH_@
+蓋 CH_g CH_a CH_i
+給 CH_g CH_e CH_i
+羔 CH_g CH_a CH_u
+皋 CH_g CH_a CH_u
+高 CH_g CH_a CH_u
+膏 CH_g CH_a CH_u
+糕 CH_g CH_a CH_u
+搞 CH_g CH_a CH_u
+稿 CH_g CH_a CH_u
+告 CH_g CH_a CH_u
+勾 CH_g CH_o CH_u
+溝 CH_g CH_o CH_u
+鉤 CH_g CH_o CH_u
+狗 CH_g CH_o CH_u
+茍 CH_dzi CH_i
+垢 CH_g CH_o CH_u
+夠 CH_g CH_o CH_u
+詬 CH_g CH_o CH_u
+構 CH_g CH_o CH_u
+購 CH_g CH_o CH_u
+干 CH_g CH_a CH_n#
+甘 CH_g CH_a CH_n#
+肝 CH_g CH_a CH_n#
+竿 CH_g CH_a CH_n#
+乾 CH_g CH_a CH_n#
+乾 CH_tsi CH_i CH_E CH_n#
+桿 CH_g CH_a CH_n#
+敢 CH_g CH_a CH_n#
+感 CH_g CH_a CH_n#
+感 CH_h CH_a CH_n#
+趕 CH_g CH_a CH_n#
+橄 CH_g CH_a CH_n#
+幹 CH_h CH_a CH_n#
+幹 CH_g CH_a CH_n#
+根 CH_g CH_@ CH_n#
+跟 CH_g CH_@ CH_n#
+艮 CH_g CH_@ CH_n#
+岡 CH_g CH_a CH_N#
+缸 CH_g CH_a CH_N#
+剛 CH_g CH_a CH_N#
+崗 CH_g CH_a CH_N#
+綱 CH_g CH_a CH_N#
+鋼 CH_g CH_a CH_N#
+港 CH_g CH_a CH_N#
+槓 CH_g CH_a CH_N#
+庚 CH_g CH_@ CH_N#
+耕 CH_g CH_@ CH_N#
+耕 CH_dzi CH_i CH_N#
+羹 CH_g CH_@ CH_N#
+羹 CH_l CH_a CH_N#
+哽 CH_g CH_@ CH_N#
+耿 CH_g CH_@ CH_N#
+梗 CH_g CH_@ CH_N#
+鯁 CH_g CH_@ CH_N#
+更 CH_g CH_@ CH_N#
+更 CH_dzi CH_i CH_N#
+更 CH_g CH_@ CH_N#
+估 CH_g CH_u
+姑 CH_g CH_u
+孤 CH_g CH_u
+辜 CH_g CH_u
+鈷 CH_g CH_u
+瓜 CH_g CH_u CH_a
+刮 CH_g CH_u CH_a
+括 CH_g CH_u CH_a
+括 CH_k CH_u CH_o
+寡 CH_g CH_u CH_a
+卦 CH_g CH_u CH_a
+掛 CH_g CH_u CH_a
+郭 CH_g CH_u CH_o
+鍋 CH_g CH_u CH_o
+國 CH_g CH_u CH_o
+果 CH_g CH_u CH_o
+裹 CH_g CH_u CH_o
+過 CH_g CH_u CH_o
+乖 CH_g CH_u CH_a CH_i
+拐 CH_g CH_u CH_a CH_i
+柺 CH_g CH_u CH_a CH_i
+怪 CH_g CH_u CH_a CH_i
+圭 CH_g CH_u CH_e CH_i
+皈 CH_g CH_u CH_e CH_i
+規 CH_g CH_u CH_e CH_i
+瑰 CH_g CH_u CH_e CH_i
+閨 CH_g CH_u CH_e CH_i
+龜 CH_g CH_u CH_e CH_i
+鮭 CH_g CH_u CH_e CH_i
+鮭 CH_si CH_i CH_E
+歸 CH_g CH_u CH_e CH_i
+歸 CH_k CH_u CH_e CH_i
+癸 CH_g CH_u CH_e CH_i
+軌 CH_g CH_u CH_e CH_i
+鬼 CH_g CH_u CH_e CH_i
+詭 CH_g CH_u CH_e CH_i
+匭 CH_g CH_u CH_e CH_i
+桂 CH_g CH_u CH_e CH_i
+貴 CH_g CH_u CH_e CH_i
+跪 CH_g CH_u CH_e CH_i
+櫃 CH_g CH_u CH_e CH_i
+官 CH_g CH_u CH_a CH_n#
+矜 CH_g CH_u CH_a CH_n#
+矜 CH_tsi CH_i CH_n#
+倌 CH_g CH_u CH_a CH_n#
+莞 CH_# CH_u CH_a CH_n#
+莞 CH_g CH_u CH_a CH_n#
+莞 CH_# CH_u CH_a CH_n#
+莞 CH_g CH_u CH_a CH_n#
+棺 CH_g CH_u CH_a CH_n#
+關 CH_g CH_u CH_a CH_n#
+觀 CH_g CH_u CH_a CH_n#
+管 CH_g CH_u CH_a CH_n#
+館 CH_g CH_u CH_a CH_n#
+冠 CH_g CH_u CH_a CH_n#
+貫 CH_g CH_u CH_a CH_n#
+慣 CH_g CH_u CH_a CH_n#
+灌 CH_g CH_u CH_a CH_n#
+罐 CH_g CH_u CH_a CH_n#
+滾 CH_g CH_u CH_@ CH_n#
+棍 CH_g CH_u CH_@ CH_n#
+光 CH_g CH_u CH_a CH_N#
+胱 CH_g CH_u CH_a CH_N#
+廣 CH_g CH_u CH_a CH_N#
+逛 CH_g CH_u CH_a CH_N#
+公 CH_g CH_o CH_N#
+工 CH_g CH_o CH_N#
+弓 CH_g CH_o CH_N#
+功 CH_g CH_o CH_N#
+攻 CH_g CH_o CH_N#
+供 CH_g CH_o CH_N#
+恭 CH_g CH_o CH_N#
+宮 CH_g CH_o CH_N#
+躬 CH_g CH_o CH_N#
+拱 CH_g CH_o CH_N#
+鞏 CH_g CH_o CH_N#
+共 CH_g CH_o CH_N#
+貢 CH_g CH_o CH_N#
+古 CH_g CH_u
+谷 CH_g CH_u
+谷 CH_# CH_y
+股 CH_g CH_u
+骨 CH_g CH_u
+鼓 CH_g CH_u
+榖 CH_g CH_u
+固 CH_g CH_u
+錮 CH_g CH_u
+故 CH_g CH_u
+雇 CH_g CH_u
+僱 CH_g CH_u
+顧 CH_g CH_u
+咖 CH_k CH_a
+卡 CH_k CH_a
+卡 CH_tsi CH_i CH_a
+喀 CH_k CH_a
+刻 CH_k CH_@
+科 CH_k CH_@
+柯 CH_k CH_@
+苛 CH_k CH_@
+苛 CH_h CH_@
+棵 CH_k CH_@
+窠 CH_k CH_@
+磕 CH_k CH_@
+顆 CH_k CH_@
+峇 CH_b CH_a
+殼 CH_k CH_@
+殼 CH_tsi CH_i CH_a CH_u
+坷 CH_k CH_@
+可 CH_k CH_@
+渴 CH_h CH_@
+渴 CH_dzi CH_i CH_E
+渴 CH_k CH_@
+克 CH_k CH_@
+客 CH_k CH_@
+剋 CH_k CH_@
+課 CH_k CH_@
+開 CH_k CH_a CH_i
+凱 CH_k CH_a CH_i
+楷 CH_k CH_a CH_i
+慨 CH_k CH_a CH_i
+考 CH_k CH_a CH_u
+拷 CH_k CH_a CH_u
+烤 CH_k CH_a CH_u
+銬 CH_k CH_a CH_u
+靠 CH_k CH_a CH_u
+口 CH_k CH_o CH_u
+扣 CH_k CH_o CH_u
+寇 CH_k CH_o CH_u
+刊 CH_k CH_a CH_n#
+堪 CH_k CH_a CH_n#
+戡 CH_k CH_a CH_n#
+龕 CH_k CH_a CH_n#
+坎 CH_k CH_a CH_n#
+侃 CH_k CH_a CH_n#
+砍 CH_k CH_a CH_n#
+崁 CH_k CH_a CH_n#
+檻 CH_k CH_a CH_n#
+檻 CH_dzi CH_i CH_E CH_n#
+看 CH_k CH_a CH_n#
+勘 CH_k CH_a CH_n#
+肯 CH_k CH_@ CH_n#
+墾 CH_k CH_@ CH_n#
+懇 CH_k CH_@ CH_n#
+康 CH_k CH_a CH_N#
+慷 CH_k CH_a CH_N#
+亢 CH_g CH_a CH_N#
+亢 CH_k CH_a CH_N#
+伉 CH_k CH_a CH_N#
+抗 CH_k CH_a CH_N#
+坑 CH_k CH_@ CH_N#
+鏗 CH_k CH_@ CH_N#
+枯 CH_k CH_u
+哭 CH_k CH_u
+窟 CH_k CH_u
+誇 CH_k CH_u CH_a
+垮 CH_k CH_u CH_a
+跨 CH_k CH_u CH_a
+廓 CH_k CH_u CH_o
+闊 CH_k CH_u CH_o
+擴 CH_k CH_u CH_o
+快 CH_k CH_u CH_a CH_i
+塊 CH_k CH_u CH_a CH_i
+膾 CH_k CH_u CH_a CH_i
+盔 CH_k CH_u CH_e CH_i
+窺 CH_k CH_u CH_e CH_i
+虧 CH_k CH_u CH_e CH_i
+奎 CH_k CH_u CH_e CH_i
+揆 CH_k CH_u CH_e CH_i
+魁 CH_k CH_u CH_e CH_i
+夔 CH_k CH_u CH_e CH_i
+傀 CH_g CH_u CH_e CH_i
+傀 CH_k CH_u CH_e CH_i
+喟 CH_k CH_u CH_e CH_i
+愧 CH_k CH_u CH_e CH_i
+匱 CH_g CH_u CH_e CH_i
+餽 CH_k CH_u CH_e CH_i
+饋 CH_k CH_u CH_e CH_i
+寬 CH_k CH_u CH_a CH_n#
+款 CH_k CH_u CH_a CH_n#
+昆 CH_k CH_u CH_@ CH_n#
+坤 CH_k CH_u CH_@ CH_n#
+崑 CH_k CH_u CH_@ CH_n#
+焜 CH_k CH_u CH_@ CH_n#
+捆 CH_k CH_u CH_@ CH_n#
+綑 CH_k CH_u CH_@ CH_n#
+困 CH_k CH_u CH_@ CH_n#
+狂 CH_k CH_u CH_a CH_N#
+況 CH_k CH_u CH_a CH_N#
+筐 CH_k CH_u CH_a CH_N#
+框 CH_k CH_u CH_a CH_N#
+眶 CH_k CH_u CH_a CH_N#
+曠 CH_k CH_u CH_a CH_N#
+礦 CH_g CH_o CH_N#
+礦 CH_k CH_u CH_a CH_N#
+空 CH_k CH_o CH_N#
+孔 CH_k CH_o CH_N#
+恐 CH_k CH_o CH_N#
+控 CH_k CH_o CH_N#
+苦 CH_k CH_u
+庫 CH_k CH_u
+酷 CH_k CH_u
+褲 CH_k CH_u
+哈 CH_k CH_a
+哈 CH_h CH_a
+呵 CH_# CH_o
+呵 CH_h CH_@
+喝 CH_h CH_@
+何 CH_h CH_@
+合 CH_h CH_@
+合 CH_g CH_@
+和 CH_h CH_@
+和 CH_h CH_u CH_o
+河 CH_h CH_@
+核 CH_h CH_@
+盒 CH_h CH_@
+荷 CH_h CH_@
+褐 CH_h CH_@
+闔 CH_h CH_@
+覈 CH_h CH_@
+賀 CH_h CH_@
+赫 CH_h CH_@
+鶴 CH_h CH_a CH_u
+鶴 CH_h CH_@
+孩 CH_h CH_a CH_i
+還 CH_h CH_a CH_i
+還 CH_h CH_u CH_a CH_n#
+海 CH_h CH_a CH_i
+害 CH_h CH_@
+害 CH_h CH_a CH_i
+黑 CH_h CH_e CH_i
+黑 CH_h CH_@
+毫 CH_h CH_a CH_u
+豪 CH_h CH_a CH_u
+嚎 CH_h CH_a CH_u
+好 CH_h CH_a CH_u
+郝 CH_h CH_a CH_u
+郝 CH_h CH_@
+耗 CH_h CH_a CH_u
+浩 CH_h CH_a CH_u
+涸 CH_h CH_@
+涸 CH_h CH_a CH_u
+號 CH_h CH_a CH_u
+侯 CH_h CH_o CH_u
+喉 CH_h CH_o CH_u
+猴 CH_h CH_o CH_u
+吼 CH_h CH_o CH_u
+后 CH_h CH_o CH_u
+後 CH_h CH_o CH_u
+厚 CH_h CH_o CH_u
+候 CH_h CH_o CH_u
+含 CH_h CH_a CH_n#
+函 CH_h CH_a CH_n#
+涵 CH_h CH_a CH_n#
+寒 CH_h CH_a CH_n#
+韓 CH_h CH_a CH_n#
+罕 CH_h CH_a CH_n#
+喊 CH_h CH_a CH_n#
+汗 CH_h CH_a CH_n#
+旱 CH_h CH_a CH_n#
+悍 CH_h CH_a CH_n#
+捍 CH_h CH_a CH_n#
+焊 CH_h CH_a CH_n#
+漢 CH_h CH_a CH_n#
+憾 CH_h CH_a CH_n#
+撼 CH_h CH_a CH_n#
+銲 CH_h CH_a CH_n#
+翰 CH_h CH_a CH_n#
+瀚 CH_h CH_a CH_n#
+痕 CH_h CH_@ CH_n#
+很 CH_h CH_@ CH_n#
+狠 CH_h CH_@ CH_n#
+恨 CH_h CH_@ CH_n#
+吭 CH_k CH_@ CH_N#
+吭 CH_h CH_a CH_N#
+航 CH_h CH_a CH_N#
+亨 CH_p CH_o CH_N#
+亨 CH_h CH_@ CH_N#
+哼 CH_h CH_@ CH_N#
+恆 CH_h CH_@ CH_N#
+橫 CH_h CH_@ CH_N#
+衡 CH_h CH_@ CH_N#
+珩 CH_h CH_@ CH_N#
+乎 CH_h CH_u
+惚 CH_h CH_u
+忽 CH_h CH_u
+呼 CH_h CH_u
+花 CH_h CH_u CH_a
+划 CH_h CH_u CH_a
+華 CH_h CH_u CH_a
+滑 CH_h CH_u CH_a
+滑 CH_g CH_u
+嘩 CH_h CH_u CH_a
+譁 CH_h CH_u CH_a
+化 CH_h CH_u CH_a
+畫 CH_h CH_u CH_a
+話 CH_h CH_u CH_a
+劃 CH_h CH_u CH_a
+樺 CH_h CH_u CH_a
+活 CH_h CH_u CH_o
+火 CH_h CH_u CH_o
+伙 CH_h CH_u CH_o
+夥 CH_h CH_u CH_o
+或 CH_h CH_u CH_o
+貨 CH_h CH_u CH_o
+惑 CH_h CH_u CH_o
+禍 CH_h CH_u CH_o
+壑 CH_h CH_u CH_o
+獲 CH_h CH_u CH_a CH_i
+獲 CH_h CH_u CH_o
+霍 CH_h CH_u CH_o
+豁 CH_h CH_u CH_o
+豁 CH_h CH_u CH_a
+豁 CH_h CH_@
+豁 CH_h CH_u CH_o
+穫 CH_h CH_u
+穫 CH_h CH_u CH_o
+徊 CH_h CH_u CH_a CH_i
+槐 CH_h CH_u CH_a CH_i
+踝 CH_h CH_u CH_a CH_i
+踝 CH_h CH_u CH_a
+懷 CH_h CH_u CH_a CH_i
+壞 CH_g CH_u CH_a CH_i
+灰 CH_h CH_u CH_e CH_i
+恢 CH_h CH_u CH_e CH_i
+揮 CH_h CH_u CH_e CH_i
+暉 CH_h CH_u CH_e CH_i
+輝 CH_h CH_u CH_e CH_i
+回 CH_h CH_u CH_e CH_i
+迴 CH_h CH_u CH_e CH_i
+悔 CH_h CH_u CH_e CH_i
+毀 CH_h CH_u CH_e CH_i
+燬 CH_h CH_u CH_e CH_i
+譭 CH_h CH_u CH_e CH_i
+卉 CH_h CH_u CH_e CH_i
+晦 CH_h CH_u CH_e CH_i
+喙 CH_h CH_u CH_e CH_i
+惠 CH_h CH_u CH_e CH_i
+匯 CH_h CH_u CH_e CH_i
+彙 CH_h CH_u CH_e CH_i
+會 CH_h CH_u CH_e CH_i
+會 CH_g CH_u CH_e CH_i
+賄 CH_h CH_u CH_e CH_i
+蹪 CH_k CH_u CH_e CH_i
+潰 CH_k CH_u CH_e CH_i
+慧 CH_h CH_u CH_e CH_i
+諱 CH_h CH_u CH_e CH_i
+繪 CH_h CH_u CH_e CH_i
+歡 CH_h CH_u CH_a CH_n#
+桓 CH_h CH_u CH_a CH_n#
+寰 CH_h CH_u CH_a CH_n#
+環 CH_h CH_u CH_a CH_n#
+鍰 CH_h CH_u CH_a CH_n#
+緩 CH_h CH_u CH_a CH_n#
+幻 CH_h CH_u CH_a CH_n#
+患 CH_h CH_u CH_a CH_n#
+喚 CH_h CH_u CH_a CH_n#
+豢 CH_h CH_u CH_a CH_n#
+換 CH_h CH_u CH_a CH_n#
+渙 CH_h CH_u CH_a CH_n#
+煥 CH_h CH_u CH_a CH_n#
+瘓 CH_h CH_u CH_a CH_n#
+昏 CH_h CH_u CH_@ CH_n#
+婚 CH_h CH_u CH_@ CH_n#
+葷 CH_h CH_u CH_@ CH_n#
+魂 CH_h CH_u CH_@ CH_n#
+混 CH_k CH_u CH_@ CH_n#
+混 CH_h CH_u CH_@ CH_n#
+混 CH_g CH_u CH_@ CH_n#
+混 CH_h CH_u CH_@ CH_n#
+渾 CH_h CH_u CH_@ CH_n#
+渾 CH_g CH_u CH_@ CH_n#
+渾 CH_h CH_u CH_@ CH_n#
+肓 CH_h CH_u CH_a CH_N#
+荒 CH_h CH_u CH_a CH_N#
+慌 CH_h CH_u CH_a CH_N#
+皇 CH_h CH_u CH_a CH_N#
+徨 CH_h CH_u CH_a CH_N#
+惶 CH_h CH_u CH_a CH_N#
+隍 CH_h CH_u CH_a CH_N#
+黃 CH_h CH_u CH_a CH_N#
+煌 CH_h CH_u CH_a CH_N#
+遑 CH_h CH_u CH_a CH_N#
+磺 CH_h CH_u CH_a CH_N#
+潢 CH_h CH_u CH_a CH_N#
+恍 CH_h CH_u CH_a CH_N#
+晃 CH_h CH_u CH_a CH_N#
+謊 CH_h CH_u CH_a CH_N#
+哄 CH_h CH_o CH_N#
+烘 CH_h CH_o CH_N#
+訌 CH_h CH_o CH_N#
+轟 CH_h CH_o CH_N#
+弘 CH_h CH_o CH_N#
+宏 CH_h CH_o CH_N#
+紅 CH_g CH_o CH_N#
+紅 CH_h CH_o CH_N#
+洪 CH_h CH_o CH_N#
+虹 CH_h CH_o CH_N#
+鴻 CH_h CH_o CH_N#
+鬨 CH_h CH_o CH_N#
+弧 CH_h CH_u
+狐 CH_h CH_u
+胡 CH_h CH_u
+壺 CH_h CH_u
+湖 CH_h CH_u
+瑚 CH_h CH_u
+葫 CH_h CH_u
+蝴 CH_h CH_u
+糊 CH_h CH_u
+鵠 CH_h CH_u
+鵠 CH_g CH_u
+鬍 CH_h CH_u
+虎 CH_h CH_u
+互 CH_h CH_u
+戶 CH_h CH_u
+瓠 CH_h CH_u
+滬 CH_h CH_u
+護 CH_h CH_u
+乩 CH_dzi CH_i
+肌 CH_dzi CH_i
+飢 CH_dzi CH_i
+基 CH_dzi CH_i
+畸 CH_dzi CH_i
+跡 CH_dzi CH_i
+稽 CH_dzi CH_i
+稽 CH_tsi CH_i
+嘰 CH_dzi CH_i
+機 CH_dzi CH_i
+激 CH_dzi CH_i
+積 CH_dzi CH_i
+磯 CH_dzi CH_i
+績 CH_dzi CH_i
+蹟 CH_dzi CH_i
+雞 CH_dzi CH_i
+譏 CH_dzi CH_i
+羈 CH_dzi CH_i
+躋 CH_dzi CH_i
+加 CH_dzi CH_i CH_a
+佳 CH_dzi CH_i CH_a
+家 CH_g CH_u
+家 CH_dzi CH_i CH_a
+傢 CH_dzi CH_i CH_a
+嘉 CH_dzi CH_i CH_a
+鎵 CH_dzi CH_i CH_a
+夾 CH_dzi CH_i CH_a
+頰 CH_dzi CH_i CH_a
+甲 CH_dzi CH_i CH_a
+胛 CH_dzi CH_i CH_a
+假 CH_dzi CH_i CH_a
+賈 CH_g CH_u
+賈 CH_dzi CH_i CH_a
+架 CH_dzi CH_i CH_a
+嫁 CH_dzi CH_i CH_a
+價 CH_dzi CH_i CH_a
+價 CH_g CH_a
+駕 CH_dzi CH_i CH_a
+皆 CH_dzi CH_i CH_E
+接 CH_dzi CH_i CH_E
+揭 CH_dzi CH_i CH_E
+揭 CH_tsi CH_i
+街 CH_dzi CH_i CH_E
+階 CH_dzi CH_i CH_E
+劫 CH_dzi CH_i CH_E
+杰 CH_dzi CH_i CH_E
+拮 CH_dzi CH_i CH_E
+桀 CH_dzi CH_i CH_E
+訐 CH_dzi CH_i CH_E
+捷 CH_dzi CH_i CH_E
+傑 CH_dzi CH_i CH_E
+結 CH_dzi CH_i CH_E
+睫 CH_dzi CH_i CH_E
+節 CH_dzi CH_i CH_E
+竭 CH_dzi CH_i CH_E
+截 CH_dzi CH_i CH_E
+潔 CH_dzi CH_i CH_E
+擷 CH_dzi CH_i CH_E
+迼 CH_dzi CH_i CH_E
+姐 CH_dzi CH_i CH_E
+姊 CH_dz CH_U
+姊 CH_dzi CH_i CH_E
+解 CH_dzi CH_i CH_E
+介 CH_dzi CH_i CH_E
+戒 CH_dzi CH_i CH_E
+屆 CH_dzi CH_i CH_E
+界 CH_dzi CH_i CH_E
+借 CH_dzi CH_i CH_E
+誡 CH_dzi CH_i CH_E
+藉 CH_dzi CH_i
+藉 CH_dzi CH_i CH_E
+交 CH_dzi CH_i CH_a CH_u
+郊 CH_dzi CH_i CH_a CH_u
+教 CH_dzi CH_i CH_a CH_u
+焦 CH_dzi CH_i CH_a CH_u
+跤 CH_dzi CH_i CH_a CH_u
+澆 CH_dzi CH_i CH_a CH_u
+嬌 CH_dzi CH_i CH_a CH_u
+膠 CH_dzi CH_i CH_a CH_u
+蕉 CH_dzi CH_i CH_a CH_u
+蕉 CH_tsi CH_i CH_a CH_u
+礁 CH_dzi CH_i CH_a CH_u
+驕 CH_dzi CH_i CH_a CH_u
+角 CH_dzi CH_y CH_E
+角 CH_dzi CH_i CH_a CH_u
+角 CH_l CH_u
+狡 CH_dzi CH_i CH_a CH_u
+腳 CH_dzi CH_y CH_E
+腳 CH_dzi CH_i CH_a CH_u
+僥 CH_# CH_i CH_a CH_u
+僥 CH_dzi CH_i CH_a CH_u
+矯 CH_dzi CH_i CH_a CH_u
+繳 CH_dzc CH_u CH_o
+繳 CH_dzi CH_i CH_a CH_u
+攪 CH_g CH_a CH_u
+攪 CH_dzi CH_i CH_a CH_u
+叫 CH_dzi CH_i CH_a CH_u
+較 CH_dzi CH_y CH_E
+較 CH_dzi CH_i CH_a CH_u
+轎 CH_dzi CH_i CH_a CH_u
+醮 CH_dzi CH_i CH_a CH_u
+覺 CH_dzi CH_y CH_E
+覺 CH_dzi CH_i CH_a CH_u
+糾 CH_dzi CH_i CH_o CH_u
+揪 CH_dzi CH_i CH_o CH_u
+鳩 CH_dzi CH_i CH_o CH_u
+九 CH_dzi CH_i CH_o CH_u
+久 CH_dzi CH_i CH_o CH_u
+灸 CH_dzi CH_i CH_o CH_u
+酒 CH_dzi CH_i CH_o CH_u
+臼 CH_dzi CH_y
+臼 CH_dzi CH_i CH_o CH_u
+究 CH_dzi CH_i CH_o CH_u
+咎 CH_g CH_a CH_u
+咎 CH_dzi CH_i CH_o CH_u
+柩 CH_dzi CH_i CH_o CH_u
+救 CH_dzi CH_i CH_o CH_u
+疚 CH_dzi CH_i CH_o CH_u
+就 CH_dzi CH_i CH_o CH_u
+舅 CH_dzi CH_i CH_o CH_u
+舊 CH_dzi CH_i CH_o CH_u
+鷲 CH_dzi CH_i CH_o CH_u
+尖 CH_dzi CH_i CH_E CH_n#
+肩 CH_dzi CH_i CH_E CH_n#
+姦 CH_dzi CH_i CH_E CH_n#
+兼 CH_dzi CH_i CH_E CH_n#
+堅 CH_dzi CH_i CH_E CH_n#
+間 CH_dzi CH_i CH_E CH_n#
+煎 CH_dzi CH_i CH_E CH_n#
+監 CH_dzi CH_i CH_E CH_n#
+緘 CH_dzi CH_i CH_E CH_n#
+艱 CH_dzi CH_i CH_E CH_n#
+柬 CH_dzi CH_i CH_E CH_n#
+剪 CH_dzi CH_i CH_E CH_n#
+減 CH_dzi CH_i CH_E CH_n#
+儉 CH_dzi CH_i CH_E CH_n#
+撿 CH_dzi CH_i CH_E CH_n#
+檢 CH_dzi CH_i CH_E CH_n#
+瞼 CH_dzi CH_i CH_E CH_n#
+簡 CH_dzi CH_i CH_E CH_n#
+繭 CH_dzi CH_i CH_E CH_n#
+鹼 CH_dzi CH_i CH_E CH_n#
+件 CH_dzi CH_i CH_E CH_n#
+見 CH_dzi CH_i CH_E CH_n#
+建 CH_dzi CH_i CH_E CH_n#
+荐 CH_dzi CH_i CH_E CH_n#
+健 CH_dzi CH_i CH_E CH_n#
+漸 CH_dzi CH_i CH_E CH_n#
+劍 CH_dzi CH_i CH_E CH_n#
+賤 CH_dzi CH_i CH_E CH_n#
+踐 CH_dzi CH_i CH_E CH_n#
+箭 CH_dzi CH_i CH_E CH_n#
+鍵 CH_dzi CH_i CH_E CH_n#
+薦 CH_dzi CH_i CH_E CH_n#
+艦 CH_dzi CH_i CH_E CH_n#
+鑑 CH_dzi CH_i CH_E CH_n#
+鑒 CH_dzi CH_i CH_E CH_n#
+觔 CH_dzi CH_i CH_n#
+今 CH_dzi CH_i CH_n#
+斤 CH_dzi CH_i CH_n#
+巾 CH_dzi CH_i CH_n#
+金 CH_dzi CH_i CH_n#
+津 CH_dzi CH_i CH_n#
+筋 CH_dzi CH_i CH_n#
+襟 CH_dzi CH_i CH_n#
+僅 CH_dzi CH_i CH_n#
+緊 CH_dzi CH_i CH_n#
+儘 CH_dzi CH_i CH_n#
+錦 CH_dzi CH_i CH_n#
+謹 CH_dzi CH_i CH_n#
+近 CH_dzi CH_i CH_n#
+勁 CH_dzi CH_i CH_n#
+晉 CH_dzi CH_i CH_n#
+浸 CH_dzi CH_i CH_n#
+進 CH_dzi CH_i CH_n#
+禁 CH_dzi CH_i CH_n#
+盡 CH_dzi CH_i CH_n#
+覲 CH_dzi CH_i CH_n#
+靳 CH_dzi CH_i CH_n#
+江 CH_dzi CH_i CH_a CH_N#
+姜 CH_dzi CH_i CH_a CH_N#
+將 CH_dzi CH_i CH_a CH_N#
+僵 CH_dzi CH_i CH_a CH_N#
+漿 CH_dzi CH_i CH_a CH_N#
+疆 CH_dzi CH_i CH_a CH_N#
+獎 CH_dzi CH_i CH_a CH_N#
+蔣 CH_dzi CH_i CH_a CH_N#
+講 CH_dzi CH_i CH_a CH_N#
+匠 CH_dzi CH_i CH_a CH_N#
+降 CH_si CH_i CH_a CH_N#
+降 CH_dzi CH_i CH_a CH_N#
+醬 CH_dzi CH_i CH_a CH_N#
+京 CH_dzi CH_i CH_N#
+京 CH_# CH_y CH_E CH_n#
+荊 CH_dzi CH_i CH_N#
+莖 CH_dzi CH_i CH_N#
+晶 CH_dzi CH_i CH_N#
+菁 CH_dzi CH_i CH_N#
+睛 CH_dzi CH_i CH_N#
+經 CH_dzi CH_i CH_N#
+精 CH_dzi CH_i CH_N#
+驚 CH_dzi CH_i CH_N#
+井 CH_dzi CH_i CH_N#
+阱 CH_dzi CH_i CH_N#
+景 CH_# CH_i CH_N#
+景 CH_dzi CH_i CH_N#
+憬 CH_dzi CH_i CH_N#
+頸 CH_g CH_@ CH_N#
+頸 CH_dzi CH_i CH_N#
+警 CH_dzi CH_i CH_N#
+徑 CH_dzi CH_i CH_N#
+淨 CH_dzi CH_i CH_N#
+竟 CH_dzi CH_i CH_N#
+逕 CH_dzi CH_i CH_N#
+痙 CH_dzi CH_i CH_N#
+敬 CH_dzi CH_i CH_N#
+境 CH_dzi CH_i CH_N#
+靖 CH_dzi CH_i CH_N#
+靜 CH_dzi CH_i CH_N#
+鏡 CH_dzi CH_i CH_N#
+競 CH_dzi CH_i CH_N#
+脛 CH_dzi CH_i CH_N#
+及 CH_dzi CH_i
+吉 CH_dzi CH_i
+即 CH_dzi CH_i
+汲 CH_dzi CH_i
+急 CH_dzi CH_i
+亟 CH_dzi CH_i
+亟 CH_tsi CH_i
+級 CH_dzi CH_i
+疾 CH_dzi CH_i
+寂 CH_dzi CH_i
+棘 CH_dzi CH_i
+集 CH_dzi CH_i
+極 CH_dzi CH_i
+輯 CH_dzi CH_i
+擊 CH_dzi CH_i
+籍 CH_dzi CH_i
+笈 CH_dzi CH_i
+己 CH_dzi CH_i
+脊 CH_dzi CH_i
+幾 CH_dzi CH_i
+擠 CH_dzi CH_i
+妓 CH_dzi CH_i
+忌 CH_dzi CH_i
+技 CH_dzi CH_i
+季 CH_dzi CH_i
+紀 CH_dzi CH_i
+既 CH_dzi CH_i
+計 CH_dzi CH_i
+記 CH_dzi CH_i
+悸 CH_dzi CH_i
+寄 CH_dzi CH_i
+祭 CH_dzi CH_i
+暨 CH_dzi CH_i
+際 CH_dzi CH_i
+冀 CH_dzi CH_i
+劑 CH_dzi CH_i
+濟 CH_dzi CH_i
+覬 CH_dzi CH_i
+繼 CH_dzi CH_i
+驥 CH_dzi CH_i
+伎 CH_dzi CH_i
+拘 CH_dzi CH_y
+居 CH_dzi CH_i
+沮 CH_dzi CH_y
+据 CH_dzi CH_y
+抉 CH_dzi CH_y CH_E
+決 CH_dzi CH_y CH_E
+掘 CH_dzi CH_y CH_E
+崛 CH_dzi CH_y CH_E
+厥 CH_dzi CH_y CH_E
+訣 CH_dzi CH_y CH_E
+絕 CH_dzi CH_y CH_E
+獗 CH_dzi CH_y CH_E
+噱 CH_si CH_y CH_E
+噱 CH_dzi CH_y CH_E
+爵 CH_dzi CH_y CH_E
+蹶 CH_dzi CH_y CH_E
+嚼 CH_dzi CH_i CH_a CH_u
+炔 CH_tsi CH_y CH_E
+炔 CH_g CH_u CH_e CH_i
+堀 CH_k CH_u
+捐 CH_dzi CH_y CH_E CH_n#
+捲 CH_dzi CH_y CH_E CH_n#
+卷 CH_tsi CH_y CH_E CH_n#
+卷 CH_dzi CH_y CH_E CH_n#
+眷 CH_dzi CH_y CH_E CH_n#
+雋 CH_dzi CH_y CH_E CH_n#
+均 CH_dzi CH_y CH_n#
+均 CH_# CH_y CH_n#
+君 CH_dzi CH_y CH_n#
+軍 CH_dzi CH_y CH_n#
+鈞 CH_dzi CH_y CH_n#
+俊 CH_dzi CH_y CH_n#
+峻 CH_dzi CH_y CH_n#
+浚 CH_dzi CH_y CH_n#
+竣 CH_dzi CH_y CH_n#
+菌 CH_dzi CH_y CH_n#
+濬 CH_dzi CH_y CH_n#
+駿 CH_dzi CH_y CH_n#
+迥 CH_dzi CH_y CH_o CH_N#
+窘 CH_dzi CH_y CH_n#
+局 CH_dzi CH_y
+侷 CH_dzi CH_y
+菊 CH_dzi CH_y
+鞠 CH_dzi CH_y
+矩 CH_dzi CH_y
+舉 CH_dzi CH_y
+巨 CH_dzi CH_y
+句 CH_g CH_o CH_u
+具 CH_dzi CH_y
+拒 CH_dzi CH_y
+俱 CH_dzi CH_y
+距 CH_dzi CH_y
+鉅 CH_dzi CH_y
+聚 CH_dzi CH_y
+詎 CH_dzi CH_y
+劇 CH_dzi CH_i
+劇 CH_dzi CH_y
+踞 CH_dzi CH_y
+據 CH_dzi CH_y
+遽 CH_dzi CH_y
+懼 CH_dzi CH_y
+埧 CH_dzi CH_y
+七 CH_tsi CH_i
+妻 CH_tsi CH_i
+戚 CH_tsi CH_i
+戚 CH_ts CH_u
+悽 CH_tsi CH_i
+棲 CH_tsi CH_i
+欺 CH_tsi CH_i
+漆 CH_tsi CH_i
+漆 CH_tsi CH_y
+恰 CH_tsi CH_i CH_a
+洽 CH_si CH_i CH_a
+洽 CH_tsi CH_i CH_a
+愜 CH_tsi CH_i CH_E
+切 CH_tsi CH_i CH_E
+且 CH_dzi CH_y
+且 CH_tsi CH_i CH_E
+怯 CH_tsi CH_i CH_E
+妾 CH_tsi CH_i CH_E
+鍥 CH_tsi CH_i CH_E
+竊 CH_tsi CH_i CH_E
+敲 CH_tsi CH_i CH_a CH_u
+蹺 CH_tsi CH_i CH_a CH_u
+喬 CH_dzi CH_i CH_a CH_u
+喬 CH_tsi CH_i CH_a CH_u
+僑 CH_tsi CH_i CH_a CH_u
+橋 CH_tsi CH_i CH_a CH_u
+瞧 CH_tsi CH_i CH_a CH_u
+翹 CH_tsi CH_i CH_a CH_u
+巧 CH_tsi CH_i CH_a CH_u
+悄 CH_tsi CH_i CH_a CH_u
+雀 CH_tsi CH_i CH_a CH_u
+雀 CH_tsi CH_y CH_E
+俏 CH_tsi CH_i CH_a CH_u
+峭 CH_tsi CH_i CH_a CH_u
+撬 CH_tsi CH_i CH_a CH_u
+竅 CH_tsi CH_i CH_a CH_u
+丘 CH_tsi CH_i CH_o CH_u
+邱 CH_tsi CH_i CH_o CH_u
+秋 CH_tsi CH_i CH_o CH_u
+囚 CH_tsi CH_i CH_o CH_u
+求 CH_tsi CH_i CH_o CH_u
+球 CH_tsi CH_i CH_o CH_u
+裘 CH_tsi CH_i CH_o CH_u
+糗 CH_tsi CH_i CH_o CH_u
+千 CH_tsi CH_i CH_E CH_n#
+仟 CH_tsi CH_i CH_E CH_n#
+牽 CH_tsi CH_i CH_E CH_n#
+鉛 CH_tsi CH_i CH_E CH_n#
+鉛 CH_# CH_i CH_E CH_n#
+遷 CH_tsi CH_i CH_E CH_n#
+謙 CH_tsi CH_i CH_E CH_n#
+鶱 CH_tsi CH_i CH_E CH_n#
+簽 CH_tsi CH_i CH_E CH_n#
+籤 CH_tsi CH_i CH_E CH_n#
+拑 CH_tsi CH_i CH_E CH_n#
+前 CH_tsi CH_i CH_E CH_n#
+潛 CH_tsi CH_i CH_E CH_n#
+錢 CH_tsi CH_i CH_E CH_n#
+錢 CH_dzi CH_i CH_E CH_n#
+淺 CH_dzi CH_i CH_E CH_n#
+淺 CH_tsi CH_i CH_E CH_n#
+遣 CH_tsi CH_i CH_E CH_n#
+譴 CH_tsi CH_i CH_E CH_n#
+欠 CH_tsi CH_i CH_E CH_n#
+歉 CH_tsi CH_i CH_E CH_n#
+侵 CH_tsi CH_i CH_n#
+欽 CH_tsi CH_i CH_n#
+親 CH_tsi CH_i CH_n#
+親 CH_tsi CH_i CH_N#
+秦 CH_tsi CH_i CH_n#
+琴 CH_tsi CH_i CH_n#
+勤 CH_tsi CH_i CH_n#
+禽 CH_tsi CH_i CH_n#
+擒 CH_tsi CH_i CH_n#
+寢 CH_tsi CH_i CH_n#
+羌 CH_tsi CH_i CH_a CH_N#
+腔 CH_tsi CH_i CH_a CH_N#
+槍 CH_tsc CH_@ CH_N#
+槍 CH_tsi CH_i CH_a CH_N#
+戕 CH_tsi CH_i CH_a CH_N#
+襁 CH_tsi CH_i CH_a CH_N#
+強 CH_tsi CH_i CH_a CH_N#
+強 CH_dzi CH_i CH_a CH_N#
+牆 CH_tsi CH_i CH_a CH_N#
+搶 CH_tsi CH_i CH_a CH_N#
+青 CH_dzi CH_i CH_N#
+卿 CH_tsi CH_i CH_N#
+氫 CH_tsi CH_i CH_N#
+清 CH_tsi CH_i CH_N#
+傾 CH_k CH_@ CH_N#
+傾 CH_tsi CH_i CH_N#
+輕 CH_tsi CH_i CH_N#
+鯖 CH_dzc CH_@ CH_N#
+鯖 CH_tsi CH_i CH_N#
+情 CH_tsi CH_i CH_N#
+晴 CH_tsi CH_i CH_N#
+擎 CH_tsi CH_i CH_N#
+頃 CH_tsi CH_i CH_N#
+請 CH_tsi CH_i CH_N#
+慶 CH_tsi CH_i CH_N#
+磬 CH_tsi CH_i CH_N#
+罄 CH_tsi CH_i CH_N#
+岐 CH_tsi CH_i
+其 CH_dzi CH_i
+其 CH_tsi CH_i
+其 CH_dzi CH_i
+奇 CH_dzi CH_i
+奇 CH_tsi CH_i
+祁 CH_tsi CH_i
+歧 CH_tsi CH_i
+祈 CH_tsi CH_i
+祇 CH_dzc CH_Uc
+祇 CH_tsi CH_i
+耆 CH_tsi CH_i
+崎 CH_tsi CH_i
+淇 CH_tsi CH_i
+期 CH_dzi CH_i
+期 CH_tsi CH_i
+棋 CH_dzi CH_i
+棋 CH_tsi CH_i
+琪 CH_tsi CH_i
+琦 CH_tsi CH_i
+祺 CH_tsi CH_i
+旗 CH_tsi CH_i
+齊 CH_dz CH_U
+齊 CH_dzc CH_a CH_i
+齊 CH_tsi CH_i
+齊 CH_dzi CH_i
+錡 CH_tsi CH_i
+騎 CH_tsi CH_i
+騎 CH_dzi CH_i
+碁 CH_tsi CH_i
+乞 CH_tsi CH_i
+豈 CH_k CH_a CH_i
+起 CH_tsi CH_i
+啟 CH_tsi CH_i
+綺 CH_tsi CH_i
+企 CH_tsi CH_i
+迄 CH_tsi CH_i
+汽 CH_tsi CH_i
+泣 CH_tsi CH_i
+契 CH_tsi CH_i
+契 CH_tsi CH_i CH_E
+砌 CH_tsi CH_i
+砌 CH_tsi CH_i CH_E
+氣 CH_tsi CH_i
+棄 CH_tsi CH_i
+緝 CH_tsi CH_i
+器 CH_tsi CH_i
+憩 CH_tsi CH_i
+曲 CH_tsi CH_y
+屈 CH_tsi CH_y
+區 CH_# CH_o CH_u
+區 CH_g CH_o CH_u
+蛆 CH_dzi CH_y
+趨 CH_tsi CH_y
+趨 CH_ts CH_u
+軀 CH_tsi CH_y
+驅 CH_tsi CH_y
+袪 CH_tsi CH_y
+缺 CH_tsi CH_y CH_E
+卻 CH_tsi CH_y CH_E
+榷 CH_tsi CH_y CH_E
+確 CH_tsi CH_y CH_E
+闕 CH_tsi CH_y CH_E
+圈 CH_dzi CH_y CH_E CH_n#
+全 CH_tsi CH_y CH_E CH_n#
+泉 CH_tsi CH_y CH_E CH_n#
+拳 CH_tsi CH_y CH_E CH_n#
+痊 CH_tsi CH_y CH_E CH_n#
+詮 CH_tsi CH_y CH_E CH_n#
+銓 CH_tsi CH_y CH_E CH_n#
+權 CH_tsi CH_y CH_E CH_n#
+犬 CH_tsi CH_y CH_E CH_n#
+券 CH_tsi CH_y CH_E CH_n#
+勸 CH_tsi CH_y CH_E CH_n#
+裙 CH_tsi CH_y CH_n#
+群 CH_tsi CH_y CH_n#
+穹 CH_tsi CH_y CH_o CH_N#
+芎 CH_tsi CH_y CH_o CH_N#
+窮 CH_tsi CH_y CH_o CH_N#
+瓊 CH_tsi CH_y CH_o CH_N#
+渠 CH_tsi CH_y
+麴 CH_tsi CH_y
+取 CH_tsi CH_y
+娶 CH_tsi CH_y
+去 CH_tsi CH_y
+趣 CH_tsi CH_y
+西 CH_si CH_i
+希 CH_si CH_i
+唏 CH_si CH_i
+巇 CH_si CH_i
+吸 CH_si CH_i
+析 CH_si CH_i
+奚 CH_si CH_i
+悉 CH_si CH_i
+烯 CH_si CH_i
+晰 CH_si CH_i
+稀 CH_si CH_i
+溪 CH_tsi CH_i
+熙 CH_si CH_i
+熙 CH_# CH_i
+嬉 CH_si CH_i
+膝 CH_si CH_i
+蹊 CH_si CH_i
+禧 CH_si CH_i
+攜 CH_si CH_i
+攜 CH_si CH_i CH_E
+犧 CH_si CH_i
+蝦 CH_si CH_i CH_a
+蝦 CH_h CH_a
+瞎 CH_si CH_i CH_a
+匣 CH_si CH_i CH_a
+俠 CH_dzi CH_i CH_a
+峽 CH_si CH_i CH_a
+狹 CH_si CH_i CH_a
+瑕 CH_si CH_i CH_a
+暇 CH_si CH_i CH_a
+遐 CH_si CH_i CH_a
+陜 CH_sc CH_a CH_n#
+轄 CH_si CH_i CH_a
+霞 CH_si CH_i CH_a
+下 CH_si CH_i CH_a
+夏 CH_dzi CH_i CH_a
+夏 CH_si CH_i CH_a
+廈 CH_sc CH_a
+廈 CH_si CH_i CH_a
+嚇 CH_h CH_@
+嚇 CH_si CH_i CH_a
+些 CH_si CH_i CH_E
+些 CH_s CH_u CH_o
+歇 CH_si CH_i CH_E
+邪 CH_# CH_y
+邪 CH_si CH_y
+邪 CH_si CH_i CH_a
+協 CH_si CH_i CH_E
+挾 CH_dzi CH_i CH_a
+脅 CH_si CH_i CH_E
+偕 CH_dzi CH_i CH_E
+偕 CH_si CH_i CH_E
+斜 CH_# CH_i CH_E
+斜 CH_si CH_i CH_a
+鞋 CH_si CH_i CH_E
+諧 CH_si CH_i CH_E
+絜 CH_dzi CH_i CH_E
+血 CH_si CH_i CH_E
+血 CH_si CH_y CH_E
+寫 CH_si CH_i CH_E
+卸 CH_si CH_i CH_E
+洩 CH_# CH_i
+洩 CH_si CH_i CH_E
+屑 CH_si CH_i CH_E
+械 CH_dzi CH_i CH_E
+屜 CH_t CH_i
+懈 CH_si CH_i CH_E
+駭 CH_h CH_a CH_i
+褻 CH_si CH_i CH_E
+謝 CH_si CH_i CH_E
+蟹 CH_si CH_i CH_E
+哮 CH_si CH_i CH_a CH_u
+消 CH_si CH_i CH_a CH_u
+宵 CH_si CH_i CH_a CH_u
+梟 CH_si CH_i CH_a CH_u
+逍 CH_si CH_i CH_a CH_u
+銷 CH_si CH_i CH_a CH_u
+蕭 CH_si CH_i CH_a CH_u
+瀟 CH_si CH_i CH_a CH_u
+囂 CH_si CH_i CH_a CH_u
+小 CH_si CH_i CH_a CH_u
+曉 CH_si CH_i CH_a CH_u
+筱 CH_si CH_i CH_a CH_u
+孝 CH_si CH_i CH_a CH_u
+肖 CH_si CH_i CH_a CH_u
+效 CH_si CH_i CH_a CH_u
+校 CH_dzi CH_i CH_a CH_u
+笑 CH_si CH_i CH_a CH_u
+酵 CH_dzi CH_i CH_a CH_u
+嘯 CH_si CH_i CH_a CH_u
+休 CH_si CH_i CH_o CH_u
+休 CH_si CH_y
+休 CH_si CH_i CH_o CH_u
+修 CH_si CH_i CH_o CH_u
+羞 CH_si CH_i CH_o CH_u
+秀 CH_si CH_i CH_o CH_u
+袖 CH_si CH_i CH_o CH_u
+嗅 CH_si CH_i CH_o CH_u
+先 CH_si CH_i CH_E CH_n#
+仙 CH_si CH_i CH_E CH_n#
+掀 CH_si CH_i CH_E CH_n#
+鮮 CH_si CH_i CH_E CH_n#
+纖 CH_si CH_i CH_E CH_n#
+弦 CH_si CH_i CH_E CH_n#
+咸 CH_si CH_i CH_E CH_n#
+絃 CH_si CH_i CH_E CH_n#
+閒 CH_dzi CH_i CH_E CH_n#
+閒 CH_si CH_i CH_E CH_n#
+閒 CH_dzi CH_i CH_E CH_n#
+嫌 CH_si CH_i CH_E CH_n#
+閑 CH_si CH_i CH_E CH_n#
+銜 CH_si CH_i CH_E CH_n#
+嫻 CH_si CH_i CH_E CH_n#
+賢 CH_si CH_i CH_E CH_n#
+癇 CH_si CH_i CH_E CH_n#
+險 CH_si CH_i CH_E CH_n#
+顯 CH_si CH_i CH_E CH_n#
+限 CH_si CH_i CH_E CH_n#
+現 CH_si CH_i CH_E CH_n#
+陷 CH_si CH_i CH_E CH_n#
+線 CH_si CH_i CH_E CH_n#
+憲 CH_si CH_i CH_E CH_n#
+縣 CH_si CH_y CH_E CH_n#
+縣 CH_si CH_i CH_E CH_n#
+霰 CH_si CH_i CH_E CH_n#
+獻 CH_si CH_i CH_E CH_n#
+心 CH_si CH_i CH_n#
+辛 CH_si CH_i CH_n#
+欣 CH_si CH_i CH_n#
+新 CH_si CH_i CH_n#
+薪 CH_si CH_i CH_n#
+馨 CH_si CH_i CH_n#
+鑫 CH_si CH_i CH_n#
+信 CH_sc CH_@ CH_n#
+信 CH_si CH_i CH_n#
+囟 CH_si CH_i CH_n#
+相 CH_si CH_i CH_a CH_N#
+香 CH_si CH_i CH_a CH_N#
+湘 CH_si CH_i CH_a CH_N#
+廂 CH_si CH_i CH_a CH_N#
+鄉 CH_si CH_i CH_a CH_N#
+箱 CH_si CH_i CH_a CH_N#
+襄 CH_si CH_i CH_a CH_N#
+鑲 CH_si CH_i CH_a CH_N#
+鑲 CH_Zc CH_a CH_N#
+驤 CH_si CH_i CH_a CH_N#
+祥 CH_si CH_i CH_a CH_N#
+翔 CH_si CH_i CH_a CH_N#
+詳 CH_si CH_i CH_a CH_N#
+享 CH_si CH_i CH_a CH_N#
+想 CH_si CH_i CH_a CH_N#
+餉 CH_si CH_i CH_a CH_N#
+響 CH_si CH_i CH_a CH_N#
+饗 CH_si CH_i CH_a CH_N#
+向 CH_si CH_i CH_a CH_N#
+巷 CH_si CH_i CH_a CH_N#
+項 CH_si CH_i CH_a CH_N#
+象 CH_si CH_i CH_a CH_N#
+像 CH_si CH_i CH_a CH_N#
+橡 CH_si CH_i CH_a CH_N#
+嚮 CH_si CH_i CH_a CH_N#
+星 CH_si CH_i CH_N#
+惺 CH_si CH_i CH_N#
+腥 CH_si CH_i CH_N#
+興 CH_si CH_i CH_N#
+行 CH_h CH_a CH_N#
+行 CH_si CH_i CH_N#
+行 CH_h CH_a CH_N#
+行 CH_si CH_i CH_N#
+刑 CH_si CH_i CH_N#
+形 CH_si CH_i CH_N#
+型 CH_si CH_i CH_N#
+醒 CH_si CH_i CH_N#
+杏 CH_si CH_i CH_N#
+幸 CH_si CH_i CH_N#
+性 CH_si CH_i CH_N#
+姓 CH_si CH_i CH_N#
+倖 CH_si CH_i CH_N#
+悻 CH_si CH_i CH_N#
+昔 CH_si CH_i
+昔 CH_ts CH_u CH_o
+息 CH_si CH_i
+席 CH_si CH_i
+惜 CH_si CH_i
+習 CH_si CH_i
+媳 CH_si CH_i
+熄 CH_si CH_i
+蓆 CH_si CH_i
+錫 CH_si CH_i
+襲 CH_si CH_i
+洗 CH_si CH_i
+洗 CH_si CH_i CH_E CH_n#
+喜 CH_si CH_i
+璽 CH_si CH_i
+夕 CH_si CH_i
+汐 CH_si CH_i
+系 CH_si CH_i
+矽 CH_si CH_i
+係 CH_si CH_i
+細 CH_si CH_i
+隙 CH_si CH_i
+戲 CH_h CH_u
+戲 CH_h CH_u CH_e CH_i
+戲 CH_si CH_i
+繫 CH_dzi CH_i
+虛 CH_si CH_y
+須 CH_si CH_y
+需 CH_si CH_y
+需 CH_Zc CH_u
+噓 CH_si CH_y
+墟 CH_si CH_y
+盱 CH_si CH_y
+薛 CH_si CH_y CH_E
+學 CH_si CH_y CH_E
+雪 CH_si CH_y CH_E
+穴 CH_si CH_y CH_E
+削 CH_si CH_i CH_a CH_u
+削 CH_si CH_y CH_E
+宣 CH_si CH_y CH_E CH_n#
+軒 CH_si CH_y CH_E CH_n#
+喧 CH_si CH_y CH_E CH_n#
+暄 CH_si CH_y CH_E CH_n#
+玄 CH_si CH_y CH_E CH_n#
+旋 CH_si CH_y CH_E CH_n#
+璿 CH_si CH_y CH_E CH_n#
+懸 CH_si CH_y CH_E CH_n#
+選 CH_si CH_y CH_E CH_n#
+炫 CH_si CH_y CH_E CH_n#
+眩 CH_si CH_y CH_E CH_n#
+渲 CH_si CH_y CH_E CH_n#
+鉉 CH_si CH_y CH_E CH_n#
+漩 CH_si CH_y CH_E CH_n#
+勛 CH_si CH_y CH_n#
+勳 CH_si CH_y CH_n#
+薰 CH_si CH_y CH_n#
+醺 CH_si CH_y CH_n#
+旬 CH_si CH_y CH_n#
+巡 CH_si CH_y CH_n#
+洵 CH_si CH_y CH_n#
+尋 CH_si CH_i CH_n#
+循 CH_si CH_y CH_n#
+詢 CH_si CH_y CH_n#
+馴 CH_si CH_y CH_n#
+汛 CH_si CH_y CH_n#
+迅 CH_si CH_y CH_n#
+殉 CH_si CH_y CH_n#
+訊 CH_si CH_y CH_n#
+訓 CH_si CH_y CH_n#
+遜 CH_si CH_y CH_n#
+凶 CH_si CH_y CH_o CH_N#
+兇 CH_si CH_y CH_o CH_N#
+兄 CH_si CH_y CH_o CH_N#
+匈 CH_si CH_y CH_o CH_N#
+洶 CH_si CH_y CH_o CH_N#
+胸 CH_si CH_y CH_o CH_N#
+雄 CH_si CH_y CH_o CH_N#
+熊 CH_si CH_y CH_o CH_N#
+徐 CH_si CH_y
+栩 CH_si CH_y
+許 CH_h CH_u
+旭 CH_si CH_y
+序 CH_si CH_y
+卹 CH_si CH_y
+恤 CH_si CH_y
+敘 CH_si CH_y
+婿 CH_si CH_y
+緒 CH_si CH_y
+蓄 CH_si CH_y
+續 CH_si CH_y
+之 CH_dzc CH_Uc
+胝 CH_dzc CH_Uc
+支 CH_dzc CH_Uc
+汁 CH_dzc CH_Uc
+知 CH_dzc CH_Uc
+肢 CH_dzc CH_Uc
+芝 CH_dzc CH_Uc
+枝 CH_dzc CH_Uc
+枝 CH_tsi CH_i
+脂 CH_dzc CH_Uc
+隻 CH_dzc CH_Uc
+織 CH_dzc CH_Uc
+扎 CH_dzc CH_a
+哳 CH_dzc CH_a
+札 CH_dzc CH_a
+紮 CH_dz CH_a
+紮 CH_dzc CH_a
+閘 CH_dzc CH_a
+乍 CH_dzc CH_a
+炸 CH_dzc CH_a
+柵 CH_dzc CH_a
+詐 CH_dzc CH_a
+遮 CH_dzc CH_@
+著 CH_dzc CH_a CH_u
+著 CH_dzc CH_u CH_o
+著 CH_dzc CH_u
+著 CH_dzc CH_@
+晢 CH_dzc CH_@
+折 CH_dzc CH_@
+哲 CH_dzc CH_@
+摘 CH_dzc CH_a CH_i
+摘 CH_t CH_i
+摺 CH_dzc CH_@
+輒 CH_dzc CH_@
+懾 CH_dzc CH_@
+懾 CH_sc CH_@
+者 CH_dzc CH_@
+浙 CH_dzc CH_@
+這 CH_dzc CH_@
+齋 CH_dzc CH_a CH_i
+宅 CH_dzc CH_a CH_i
+宅 CH_dzc CH_@
+窄 CH_dz CH_@
+窄 CH_dzc CH_a CH_i
+債 CH_dzc CH_a CH_i
+寨 CH_dzc CH_a CH_i
+招 CH_dzc CH_a CH_u
+招 CH_sc CH_a CH_u
+招 CH_tsi CH_i CH_a CH_u
+昭 CH_dzc CH_a CH_u
+釗 CH_dzc CH_a CH_u
+找 CH_dzc CH_a CH_u
+沼 CH_dzc CH_a CH_u
+兆 CH_dzc CH_a CH_u
+召 CH_dzc CH_a CH_u
+炤 CH_dzc CH_a CH_u
+詔 CH_dzc CH_a CH_u
+照 CH_dzc CH_a CH_u
+罩 CH_dzc CH_a CH_u
+趙 CH_dzc CH_a CH_u
+肇 CH_dzc CH_a CH_u
+舟 CH_dzc CH_o CH_u
+州 CH_dzc CH_o CH_u
+周 CH_dzc CH_o CH_u
+洲 CH_dzc CH_o CH_u
+週 CH_dzc CH_o CH_u
+軸 CH_dzc CH_o CH_u
+肘 CH_dzc CH_o CH_u
+咒 CH_dzc CH_o CH_u
+宙 CH_dzc CH_o CH_u
+晝 CH_dzc CH_o CH_u
+皺 CH_dzc CH_o CH_u
+沾 CH_dzc CH_a CH_n#
+詹 CH_dzc CH_a CH_n#
+氈 CH_dzc CH_a CH_n#
+瞻 CH_dzc CH_a CH_n#
+展 CH_dzc CH_a CH_n#
+斬 CH_dzc CH_a CH_n#
+嶄 CH_tsc CH_a CH_n#
+嶄 CH_dzc CH_a CH_n#
+占 CH_dzc CH_a CH_n#
+佔 CH_dzc CH_a CH_n#
+站 CH_dzc CH_a CH_n#
+棧 CH_dzc CH_a CH_n#
+湛 CH_d CH_a CH_n#
+湛 CH_dzc CH_a CH_n#
+綻 CH_dzc CH_a CH_n#
+暫 CH_dzc CH_a CH_n#
+戰 CH_dzc CH_a CH_n#
+顫 CH_dzc CH_a CH_n#
+珍 CH_dzc CH_@ CH_n#
+貞 CH_dzc CH_@ CH_n#
+真 CH_dzc CH_@ CH_n#
+偵 CH_dzc CH_@ CH_n#
+針 CH_dzc CH_@ CH_n#
+楨 CH_dzc CH_@ CH_n#
+斟 CH_dzc CH_@ CH_n#
+甄 CH_dzc CH_@ CH_n#
+禎 CH_dzc CH_@ CH_n#
+箴 CH_dzc CH_@ CH_n#
+臻 CH_dzc CH_@ CH_n#
+枕 CH_dzc CH_@ CH_n#
+疹 CH_dzc CH_@ CH_n#
+診 CH_dzc CH_@ CH_n#
+縝 CH_dzc CH_@ CH_n#
+振 CH_dzc CH_@ CH_n#
+陣 CH_dzc CH_@ CH_n#
+震 CH_dzc CH_@ CH_n#
+鎮 CH_dzc CH_@ CH_n#
+張 CH_dzc CH_a CH_N#
+章 CH_dzc CH_a CH_N#
+彰 CH_dzc CH_a CH_N#
+樟 CH_dzc CH_a CH_N#
+璋 CH_dzc CH_a CH_N#
+掌 CH_dzc CH_a CH_N#
+丈 CH_dzc CH_a CH_N#
+仗 CH_dzc CH_a CH_N#
+杖 CH_dzc CH_a CH_N#
+帳 CH_dzc CH_a CH_N#
+脹 CH_dzc CH_a CH_N#
+漲 CH_dzc CH_a CH_N#
+瘴 CH_dzc CH_a CH_N#
+障 CH_dzc CH_a CH_N#
+征 CH_dzc CH_@ CH_N#
+諍 CH_dzc CH_@ CH_N#
+爭 CH_dzc CH_@ CH_N#
+崢 CH_dzc CH_@ CH_N#
+崢 CH_tsc CH_@ CH_N#
+猙 CH_dzc CH_@ CH_N#
+睜 CH_dzc CH_@ CH_N#
+箏 CH_dzc CH_@ CH_N#
+蒸 CH_dzc CH_@ CH_N#
+徵 CH_dzc CH_@ CH_N#
+徵 CH_dzc CH_Uc
+錚 CH_dzc CH_@ CH_N#
+癥 CH_dzc CH_@ CH_N#
+拯 CH_dzc CH_@ CH_N#
+整 CH_dzc CH_@ CH_N#
+正 CH_dzc CH_@ CH_N#
+政 CH_dzc CH_@ CH_N#
+症 CH_dzc CH_@ CH_N#
+掙 CH_dzc CH_@ CH_N#
+鄭 CH_dzc CH_@ CH_N#
+證 CH_dzc CH_@ CH_N#
+硃 CH_dzc CH_u
+朱 CH_dzc CH_u
+朱 CH_sc CH_u
+株 CH_dzc CH_u
+珠 CH_dzc CH_u
+蛛 CH_dzc CH_u
+諸 CH_dzc CH_u
+豬 CH_dzc CH_u
+抓 CH_dzc CH_a CH_u
+抓 CH_dzc CH_u CH_a
+抓 CH_tsc CH_u CH_a
+捉 CH_dzc CH_u CH_o
+桌 CH_dzc CH_u CH_o
+卓 CH_dzc CH_u CH_o
+灼 CH_dzc CH_u CH_o
+拙 CH_dzc CH_u CH_o
+茁 CH_dzc CH_u CH_o
+啄 CH_dzc CH_u CH_o
+酌 CH_dzc CH_u CH_o
+琢 CH_dzc CH_u CH_o
+濁 CH_dzc CH_u CH_o
+擢 CH_dzc CH_u CH_o
+濯 CH_dzc CH_u CH_o
+倬 CH_dzc CH_u CH_o
+追 CH_d CH_u CH_e CH_i
+椎 CH_dzc CH_u CH_e CH_i
+椎 CH_tsc CH_u CH_e CH_i
+錐 CH_dzc CH_u CH_e CH_i
+綴 CH_dzc CH_u CH_e CH_i
+贅 CH_dzc CH_u CH_e CH_i
+專 CH_dzc CH_u CH_a CH_n#
+磚 CH_dzc CH_u CH_a CH_n#
+轉 CH_dzc CH_u CH_a CH_n#
+撰 CH_dzc CH_u CH_a CH_n#
+賺 CH_dzc CH_u CH_a CH_n#
+准 CH_dzc CH_u CH_@ CH_n#
+準 CH_dzc CH_u CH_@ CH_n#
+妝 CH_dzc CH_u CH_a CH_N#
+莊 CH_dzc CH_u CH_a CH_N#
+裝 CH_dzc CH_u CH_a CH_N#
+樁 CH_dzc CH_u CH_a CH_N#
+庄 CH_dzc CH_u CH_a CH_N#
+壯 CH_dzc CH_u CH_a CH_N#
+狀 CH_dzc CH_u CH_a CH_N#
+撞 CH_tsc CH_u CH_a CH_N#
+撞 CH_dzc CH_u CH_a CH_N#
+中 CH_dzc CH_o CH_N#
+忠 CH_dzc CH_o CH_N#
+衷 CH_dzc CH_o CH_N#
+終 CH_dzc CH_o CH_N#
+鍾 CH_dzc CH_o CH_N#
+鐘 CH_dzc CH_o CH_N#
+腫 CH_dzc CH_o CH_N#
+種 CH_dzc CH_o CH_N#
+踵 CH_dzc CH_o CH_N#
+仲 CH_dzc CH_o CH_N#
+重 CH_tsc CH_o CH_N#
+重 CH_dzc CH_o CH_N#
+眾 CH_dzc CH_o CH_N#
+竹 CH_dzc CH_u
+逐 CH_dzc CH_u
+築 CH_dzc CH_u
+燭 CH_dzc CH_u
+主 CH_dzc CH_u
+拄 CH_dzc CH_u
+煮 CH_dzc CH_u
+貯 CH_dzc CH_u
+囑 CH_dzc CH_u
+矚 CH_dzc CH_u
+住 CH_dzc CH_u
+佇 CH_dzc CH_u
+助 CH_dzc CH_u
+注 CH_dzc CH_u
+柱 CH_dzc CH_u
+祝 CH_dzc CH_u
+蛀 CH_dzc CH_u
+註 CH_dzc CH_u
+駐 CH_dzc CH_u
+鑄 CH_dzc CH_u
+直 CH_dzc CH_Uc
+姪 CH_dzc CH_Uc
+值 CH_dzc CH_Uc
+執 CH_dzc CH_Uc
+植 CH_dzc CH_Uc
+殖 CH_dzc CH_Uc
+質 CH_dzc CH_Uc
+職 CH_dzc CH_Uc
+擲 CH_dzc CH_Uc
+侄 CH_dzc CH_Uc
+蟄 CH_dzc CH_Uc
+蟄 CH_dzc CH_@
+止 CH_dzc CH_Uc
+只 CH_dzc CH_Uc
+旨 CH_dzc CH_Uc
+址 CH_dzc CH_Uc
+咫 CH_dzc CH_Uc
+指 CH_dzc CH_Uc
+祉 CH_dzc CH_Uc
+紙 CH_dzc CH_Uc
+至 CH_dzc CH_Uc
+志 CH_dzc CH_Uc
+制 CH_dzc CH_Uc
+炙 CH_dzc CH_Uc
+治 CH_tsc CH_Uc
+治 CH_dzc CH_Uc
+峙 CH_dzc CH_Uc
+致 CH_dzc CH_Uc
+秩 CH_dzc CH_Uc
+窒 CH_dzc CH_Uc
+智 CH_dzc CH_Uc
+稚 CH_dzc CH_Uc
+置 CH_dzc CH_Uc
+雉 CH_dzc CH_Uc
+滯 CH_dzc CH_Uc
+製 CH_dzc CH_Uc
+誌 CH_dzc CH_Uc
+幟 CH_dzc CH_Uc
+緻 CH_dzc CH_Uc
+吃 CH_tsc CH_Uc
+吃 CH_dzi CH_i
+痴 CH_tsc CH_Uc
+癡 CH_tsc CH_Uc
+叉 CH_tsc CH_a
+差 CH_ts CH_U
+差 CH_tsc CH_a
+差 CH_ts CH_u CH_o
+差 CH_tsc CH_a
+插 CH_tsc CH_a
+查 CH_dzc CH_a
+查 CH_tsc CH_a
+茶 CH_tsc CH_a
+察 CH_tsc CH_a
+剎 CH_sc CH_a
+剎 CH_tsc CH_a
+車 CH_dzi CH_y
+扯 CH_tsc CH_@
+掣 CH_tsc CH_@
+徹 CH_tsc CH_@
+澈 CH_tsc CH_@
+撤 CH_tsc CH_@
+轍 CH_dzc CH_@
+轍 CH_tsc CH_@
+拆 CH_tsc CH_a CH_i
+拆 CH_tsc CH_@
+柴 CH_tsc CH_a CH_i
+柴 CH_dzc CH_a CH_i
+抄 CH_tsc CH_a CH_u
+剿 CH_dzi CH_i CH_a CH_u
+超 CH_tsc CH_a CH_u
+鈔 CH_tsc CH_a CH_u
+巢 CH_tsc CH_a CH_u
+朝 CH_dzc CH_a CH_u
+朝 CH_tsc CH_a CH_u
+潮 CH_tsc CH_a CH_u
+嘲 CH_dzc CH_a CH_u
+嘲 CH_tsc CH_a CH_u
+吵 CH_tsc CH_a CH_u
+炒 CH_tsc CH_a CH_u
+抽 CH_tsc CH_o CH_u
+仇 CH_tsc CH_o CH_u
+仇 CH_tsi CH_i CH_o CH_u
+愁 CH_tsc CH_o CH_u
+稠 CH_tsc CH_o CH_u
+酬 CH_tsc CH_o CH_u
+綢 CH_tsc CH_o CH_u
+疇 CH_tsc CH_o CH_u
+籌 CH_tsc CH_o CH_u
+丑 CH_tsc CH_o CH_u
+醜 CH_tsc CH_o CH_u
+臭 CH_tsc CH_o CH_u
+臭 CH_si CH_i CH_o CH_u
+摻 CH_tsc CH_a CH_n#
+摻 CH_sc CH_a CH_n#
+摻 CH_ts CH_a CH_n#
+禪 CH_tsc CH_a CH_n#
+禪 CH_sc CH_a CH_n#
+蟬 CH_tsc CH_a CH_n#
+蟾 CH_tsc CH_a CH_n#
+纔 CH_tsc CH_a CH_n#
+纏 CH_tsc CH_a CH_n#
+產 CH_tsc CH_a CH_n#
+剷 CH_tsc CH_a CH_n#
+鏟 CH_tsc CH_a CH_n#
+闡 CH_tsc CH_a CH_n#
+臣 CH_tsc CH_@ CH_n#
+忱 CH_tsc CH_@ CH_n#
+辰 CH_tsc CH_@ CH_n#
+沈 CH_tsc CH_@ CH_n#
+沈 CH_sc CH_@ CH_n#
+沉 CH_tsc CH_@ CH_n#
+晨 CH_tsc CH_@ CH_n#
+陳 CH_tsc CH_@ CH_n#
+陳 CH_dzc CH_@ CH_n#
+塵 CH_tsc CH_@ CH_n#
+趁 CH_tsc CH_@ CH_n#
+櫬 CH_tsc CH_@ CH_n#
+襯 CH_tsc CH_@ CH_n#
+讖 CH_tsc CH_@ CH_n#
+昌 CH_tsc CH_a CH_N#
+娼 CH_tsc CH_a CH_N#
+猖 CH_tsc CH_a CH_N#
+長 CH_tsc CH_a CH_N#
+長 CH_dzc CH_a CH_N#
+常 CH_tsc CH_a CH_N#
+場 CH_tsc CH_a CH_N#
+腸 CH_tsc CH_a CH_N#
+嘗 CH_tsc CH_a CH_N#
+償 CH_tsc CH_a CH_N#
+嚐 CH_tsc CH_a CH_N#
+敞 CH_tsc CH_a CH_N#
+廠 CH_tsc CH_a CH_N#
+昶 CH_tsc CH_a CH_N#
+倡 CH_tsc CH_a CH_N#
+唱 CH_tsc CH_a CH_N#
+暢 CH_tsc CH_a CH_N#
+稱 CH_tsc CH_@ CH_N#
+稱 CH_tsc CH_@ CH_n#
+撐 CH_tsc CH_@ CH_N#
+成 CH_tsc CH_@ CH_N#
+呈 CH_tsc CH_@ CH_N#
+承 CH_tsc CH_@ CH_N#
+城 CH_tsc CH_@ CH_N#
+乘 CH_tsc CH_@ CH_N#
+乘 CH_sc CH_@ CH_N#
+程 CH_tsc CH_@ CH_N#
+誠 CH_tsc CH_@ CH_N#
+澄 CH_tsc CH_@ CH_N#
+澄 CH_d CH_@ CH_N#
+橙 CH_tsc CH_@ CH_N#
+懲 CH_tsc CH_@ CH_N#
+晟 CH_tsc CH_@ CH_N#
+晟 CH_sc CH_@ CH_N#
+逞 CH_tsc CH_@ CH_N#
+騁 CH_tsc CH_@ CH_N#
+出 CH_tsc CH_u
+初 CH_tsc CH_u
+齣 CH_tsc CH_u
+戳 CH_tsc CH_u CH_o
+綽 CH_tsc CH_u CH_o
+揣 CH_tsc CH_u CH_a CH_i
+吹 CH_tsc CH_u CH_e CH_i
+垂 CH_tsc CH_u CH_e CH_i
+陲 CH_tsc CH_u CH_e CH_i
+槌 CH_tsc CH_u CH_e CH_i
+錘 CH_tsc CH_u CH_e CH_i
+川 CH_tsc CH_u CH_a CH_n#
+穿 CH_tsc CH_u CH_a CH_n#
+船 CH_tsc CH_u CH_a CH_n#
+傳 CH_tsc CH_u CH_a CH_n#
+傳 CH_dzc CH_u CH_a CH_n#
+喘 CH_tsc CH_u CH_a CH_n#
+串 CH_tsc CH_u CH_a CH_n#
+春 CH_tsc CH_u CH_@ CH_n#
+唇 CH_dzc CH_@ CH_n#
+純 CH_tsc CH_u CH_@ CH_n#
+純 CH_dzc CH_u CH_@ CH_n#
+淳 CH_tsc CH_u CH_@ CH_n#
+醇 CH_tsc CH_u CH_@ CH_n#
+蠢 CH_tsc CH_u CH_@ CH_n#
+窗 CH_tsc CH_u CH_a CH_N#
+瘡 CH_tsc CH_u CH_a CH_N#
+床 CH_tsc CH_u CH_a CH_N#
+幢 CH_tsc CH_u CH_a CH_N#
+幢 CH_dzc CH_u CH_a CH_N#
+闖 CH_tsc CH_u CH_a CH_N#
+闖 CH_tsc CH_@ CH_n#
+闖 CH_tsc CH_u CH_a CH_N#
+創 CH_tsc CH_u CH_a CH_N#
+充 CH_tsc CH_o CH_N#
+沖 CH_tsc CH_o CH_N#
+憧 CH_tsc CH_o CH_N#
+衝 CH_tsc CH_o CH_N#
+忡 CH_tsc CH_o CH_N#
+崇 CH_tsc CH_o CH_N#
+蟲 CH_tsc CH_o CH_N#
+寵 CH_tsc CH_o CH_N#
+芻 CH_tsc CH_u
+蜍 CH_tsc CH_u
+除 CH_tsc CH_u
+廚 CH_tsc CH_u
+儲 CH_tsc CH_u
+雛 CH_tsc CH_u
+櫥 CH_tsc CH_u
+楚 CH_tsc CH_u
+褚 CH_tsc CH_u
+礎 CH_tsc CH_u
+怵 CH_tsc CH_u
+畜 CH_si CH_y
+絀 CH_tsc CH_u
+處 CH_tsc CH_u
+黜 CH_tsc CH_u
+觸 CH_tsc CH_u
+池 CH_tsc CH_Uc
+持 CH_tsc CH_Uc
+匙 CH_tsc CH_Uc
+匙 CH_sc CH_Uc
+馳 CH_tsc CH_Uc
+遲 CH_tsc CH_Uc
+遲 CH_dzc CH_Uc
+尺 CH_tsc CH_Uc
+尺 CH_tsc CH_@
+呎 CH_tsc CH_Uc
+恥 CH_tsc CH_Uc
+齒 CH_tsc CH_Uc
+褫 CH_tsc CH_Uc
+斥 CH_tsc CH_Uc
+赤 CH_tsc CH_Uc
+翅 CH_tsc CH_Uc
+飭 CH_tsc CH_Uc
+熾 CH_tsc CH_Uc
+摰 CH_n CH_i CH_E
+失 CH_sc CH_Uc
+屍 CH_sc CH_Uc
+施 CH_sc CH_Uc
+施 CH_# CH_i
+師 CH_sc CH_Uc
+獅 CH_sc CH_Uc
+詩 CH_sc CH_Uc
+蝨 CH_sc CH_Uc
+濕 CH_sc CH_Uc
+濕 CH_si CH_i
+沙 CH_sc CH_a
+砂 CH_sc CH_a
+紗 CH_sc CH_a
+殺 CH_sc CH_a
+傻 CH_sc CH_a
+煞 CH_sc CH_a
+奢 CH_sc CH_@
+賒 CH_sc CH_@
+舌 CH_sc CH_@
+蛇 CH_# CH_i
+蛇 CH_sc CH_@
+捨 CH_sc CH_@
+社 CH_sc CH_@
+舍 CH_sc CH_@
+射 CH_sc CH_Uc
+射 CH_# CH_i
+射 CH_sc CH_@
+涉 CH_sc CH_@
+設 CH_sc CH_@
+赦 CH_sc CH_@
+攝 CH_sc CH_@
+攝 CH_n CH_i CH_E
+篩 CH_sc CH_a CH_i
+曬 CH_sc CH_a CH_i
+誰 CH_sc CH_e CH_i
+誰 CH_sc CH_u CH_e CH_i
+梢 CH_sc CH_a CH_u
+稍 CH_sc CH_a CH_u
+燒 CH_sc CH_a CH_u
+少 CH_sc CH_a CH_u
+邵 CH_sc CH_a CH_u
+哨 CH_sc CH_a CH_u
+收 CH_sc CH_o CH_u
+手 CH_sc CH_o CH_u
+守 CH_sc CH_o CH_u
+首 CH_sc CH_o CH_u
+受 CH_sc CH_o CH_u
+狩 CH_sc CH_o CH_u
+售 CH_sc CH_o CH_u
+授 CH_sc CH_o CH_u
+壽 CH_sc CH_o CH_u
+瘦 CH_sc CH_o CH_u
+獸 CH_sc CH_o CH_u
+山 CH_sc CH_a CH_n#
+杉 CH_sc CH_a
+刪 CH_sc CH_a CH_n#
+姍 CH_sc CH_a CH_n#
+姍 CH_si CH_i CH_E CH_n#
+珊 CH_sc CH_a CH_n#
+衫 CH_sc CH_a CH_n#
+跚 CH_sc CH_a CH_n#
+煽 CH_sc CH_a CH_n#
+閃 CH_sc CH_a CH_n#
+扇 CH_sc CH_a CH_n#
+訕 CH_sc CH_a CH_n#
+善 CH_sc CH_a CH_n#
+擅 CH_sc CH_a CH_n#
+繕 CH_sc CH_a CH_n#
+贍 CH_sc CH_a CH_n#
+申 CH_sc CH_@ CH_n#
+伸 CH_sc CH_@ CH_n#
+身 CH_sc CH_@ CH_n#
+身 CH_dzi CH_y CH_E CH_n#
+砷 CH_sc CH_@ CH_n#
+紳 CH_sc CH_@ CH_n#
+莘莘 CH_sc CH_@ CH_n# CH_sc CH_@ CH_n#
+呻 CH_sc CH_@ CH_n#
+深 CH_sc CH_@ CH_n#
+神 CH_sc CH_@ CH_n#
+審 CH_sc CH_@ CH_n#
+甚 CH_sc CH_@
+甚 CH_sc CH_@ CH_n#
+腎 CH_sc CH_@ CH_n#
+慎 CH_sc CH_@ CH_n#
+滲 CH_sc CH_@ CH_n#
+商 CH_sc CH_a CH_N#
+傷 CH_sc CH_a CH_N#
+裳 CH_sc CH_a CH_N#
+裳 CH_tsc CH_a CH_N#
+賞 CH_sc CH_a CH_N#
+上 CH_sc CH_a CH_N#
+尚 CH_sc CH_a CH_N#
+升 CH_sc CH_@ CH_N#
+生 CH_sc CH_@ CH_N#
+昇 CH_sc CH_@ CH_N#
+牲 CH_sc CH_@ CH_N#
+笙 CH_sc CH_@ CH_N#
+聲 CH_sc CH_@ CH_N#
+繩 CH_sc CH_@ CH_N#
+省 CH_sc CH_@ CH_N#
+省 CH_si CH_i CH_N#
+盛 CH_tsc CH_@ CH_N#
+盛 CH_sc CH_@ CH_N#
+剩 CH_sc CH_@ CH_N#
+勝 CH_sc CH_@ CH_N#
+聖 CH_sc CH_@ CH_N#
+賸 CH_sc CH_@ CH_N#
+抒 CH_sc CH_u
+書 CH_sc CH_u
+梳 CH_sc CH_u
+殊 CH_sc CH_u
+疏 CH_sc CH_u
+舒 CH_sc CH_u
+樞 CH_sc CH_u
+蔬 CH_sc CH_u
+輸 CH_sc CH_u
+紓 CH_sc CH_u
+刷 CH_sc CH_u CH_a
+耍 CH_sc CH_u CH_a
+說 CH_sc CH_u CH_o
+說 CH_# CH_y CH_E
+說 CH_sc CH_u CH_e CH_i
+朔 CH_sc CH_u CH_o
+爍 CH_sc CH_u CH_o
+衰 CH_sc CH_u CH_a CH_i
+摔 CH_sc CH_u CH_a CH_i
+甩 CH_sc CH_u CH_a CH_i
+帥 CH_sc CH_u CH_o
+率 CH_l CH_y
+率 CH_sc CH_u CH_o
+水 CH_sc CH_u CH_e CH_i
+稅 CH_sc CH_u CH_e CH_i
+蛻 CH_t CH_u CH_e CH_i
+睡 CH_sc CH_u CH_e CH_i
+拴 CH_sc CH_u CH_a CH_n#
+栓 CH_sc CH_u CH_a CH_n#
+舜 CH_sc CH_u CH_@ CH_n#
+順 CH_sc CH_u CH_@ CH_n#
+霜 CH_sc CH_u CH_a CH_N#
+雙 CH_sc CH_u CH_a CH_N#
+孀 CH_sc CH_u CH_a CH_N#
+爽 CH_sc CH_u CH_a CH_N#
+叔 CH_sc CH_u
+孰 CH_sc CH_u
+淑 CH_sc CH_u
+熟 CH_sc CH_o CH_u
+贖 CH_sc CH_u
+暑 CH_sc CH_u
+蜀 CH_sc CH_u
+署 CH_sc CH_u
+屬 CH_dzc CH_u
+戍 CH_sc CH_u
+束 CH_sc CH_u
+述 CH_sc CH_u
+恕 CH_sc CH_u
+庶 CH_sc CH_u
+術 CH_sc CH_u
+術 CH_s CH_u CH_e CH_i
+墅 CH_sc CH_u
+數 CH_sc CH_u
+數 CH_sc CH_u CH_o
+豎 CH_sc CH_u
+倏 CH_sc CH_u
+樹 CH_sc CH_u
+曙 CH_sc CH_u
+澍 CH_sc CH_u
+什 CH_sc CH_Uc
+什 CH_sc CH_@
+十 CH_sc CH_Uc
+石 CH_sc CH_Uc
+石 CH_d CH_a CH_n#
+拾 CH_sc CH_Uc
+拾 CH_sc CH_@
+食 CH_sc CH_Uc
+食 CH_s CH_U
+時 CH_sc CH_Uc
+實 CH_sc CH_Uc
+碩 CH_sc CH_Uc
+碩 CH_sc CH_u CH_o
+蝕 CH_sc CH_Uc
+蒔 CH_sc CH_Uc
+矢 CH_sc CH_Uc
+史 CH_sc CH_Uc
+使 CH_sc CH_Uc
+始 CH_sc CH_Uc
+屎 CH_si CH_i
+屎 CH_sc CH_Uc
+駛 CH_sc CH_Uc
+氏 CH_dzc CH_Uc
+氏 CH_sc CH_Uc
+士 CH_sc CH_Uc
+市 CH_sc CH_Uc
+示 CH_tsi CH_i
+示 CH_sc CH_Uc
+世 CH_sc CH_Uc
+仕 CH_sc CH_Uc
+式 CH_sc CH_Uc
+事 CH_sc CH_Uc
+侍 CH_sc CH_Uc
+室 CH_sc CH_Uc
+恃 CH_sc CH_Uc
+拭 CH_sc CH_Uc
+是 CH_sc CH_Uc
+柿 CH_sc CH_Uc
+逝 CH_sc CH_Uc
+視 CH_sc CH_Uc
+勢 CH_sc CH_Uc
+嗜 CH_sc CH_Uc
+試 CH_sc CH_Uc
+飾 CH_sc CH_Uc
+誓 CH_sc CH_Uc
+噬 CH_sc CH_Uc
+適 CH_d CH_i
+適 CH_sc CH_Uc
+識 CH_dzc CH_Uc
+釋 CH_sc CH_Uc
+惹 CH_Zc CH_@
+熱 CH_Zc CH_@
+饒 CH_Zc CH_a CH_u
+擾 CH_Zc CH_a CH_u
+繞 CH_Zc CH_a CH_u
+遶 CH_Zc CH_a CH_u
+柔 CH_Zc CH_o CH_u
+揉 CH_Zc CH_o CH_u
+蹂 CH_Zc CH_o CH_u
+肉 CH_Zc CH_o CH_u
+然 CH_Zc CH_a CH_n#
+燃 CH_Zc CH_a CH_n#
+染 CH_Zc CH_a CH_n#
+仁 CH_Zc CH_@ CH_n#
+壬 CH_Zc CH_@ CH_n#
+人 CH_Zc CH_@ CH_n#
+忍 CH_Zc CH_@ CH_n#
+刃 CH_Zc CH_@ CH_n#
+仞 CH_Zc CH_@ CH_n#
+任 CH_Zc CH_@ CH_n#
+韌 CH_Zc CH_@ CH_n#
+飪 CH_Zc CH_@ CH_n#
+賃 CH_Zc CH_@ CH_n#
+賃 CH_l CH_i CH_n#
+認 CH_Zc CH_@ CH_n#
+攘 CH_Zc CH_a CH_N#
+壤 CH_Zc CH_a CH_N#
+讓 CH_Zc CH_a CH_N#
+扔 CH_Zc CH_@ CH_N#
+仍 CH_Zc CH_@ CH_N#
+若 CH_Zc CH_@
+若 CH_Zc CH_u CH_o
+弱 CH_Zc CH_u CH_o
+瑞 CH_Zc CH_u CH_e CH_i
+睿 CH_Zc CH_u CH_e CH_i
+銳 CH_Zc CH_u CH_e CH_i
+蚋 CH_Zc CH_u CH_e CH_i
+阮 CH_Zc CH_u CH_a CH_n#
+蠕 CH_Zc CH_u
+蠕 CH_Zc CH_u CH_a CH_n#
+軟 CH_Zc CH_u CH_a CH_n#
+潤 CH_Zc CH_u CH_@ CH_n#
+戎 CH_Zc CH_o CH_N#
+容 CH_Zc CH_o CH_N#
+絨 CH_Zc CH_o CH_N#
+榕 CH_Zc CH_o CH_N#
+榮 CH_Zc CH_o CH_N#
+蓉 CH_Zc CH_o CH_N#
+融 CH_Zc CH_o CH_N#
+嶸 CH_h CH_o CH_N#
+冗 CH_Zc CH_o CH_N#
+如 CH_Zc CH_u
+儒 CH_Zc CH_u
+孺 CH_Zc CH_u
+濡 CH_Zc CH_u
+汝 CH_Zc CH_u
+乳 CH_Zc CH_u
+入 CH_Zc CH_u
+入 CH_Zc CH_Uc
+入 CH_Zc CH_u
+辱 CH_Zc CH_u
+縟 CH_Zc CH_u
+日 CH_Zc CH_Uc
+日 CH_m CH_i
+孜 CH_dz CH_U
+吱 CH_dzc CH_Uc
+姿 CH_dz CH_U
+茲 CH_dz CH_U
+茲 CH_ts CH_U
+玆 CH_dz CH_U
+滋 CH_dz CH_U
+孳 CH_dz CH_U
+資 CH_dz CH_U
+貲 CH_dz CH_U
+諮 CH_dz CH_U
+砸 CH_dz CH_a
+雜 CH_dz CH_a
+則 CH_dz CH_@
+責 CH_dz CH_@
+責 CH_dzc CH_a CH_i
+擇 CH_dzc CH_a CH_i
+澤 CH_dz CH_@
+災 CH_dz CH_a CH_i
+哉 CH_dz CH_a CH_i
+栽 CH_dz CH_a CH_i
+宰 CH_dz CH_a CH_i
+再 CH_dz CH_a CH_i
+在 CH_dz CH_a CH_i
+載 CH_dz CH_a CH_i
+賊 CH_dz CH_@
+遭 CH_dz CH_a CH_u
+糟 CH_dz CH_a CH_u
+早 CH_dz CH_a CH_u
+蚤 CH_dz CH_a CH_u
+棗 CH_dz CH_a CH_u
+澡 CH_dz CH_a CH_u
+藻 CH_dz CH_a CH_u
+灶 CH_dz CH_a CH_u
+造 CH_dz CH_a CH_u
+噪 CH_dz CH_a CH_u
+燥 CH_dz CH_a CH_u
+躁 CH_dz CH_a CH_u
+走 CH_dz CH_o CH_u
+奏 CH_dz CH_o CH_u
+揍 CH_dz CH_o CH_u
+驟 CH_dz CH_o CH_u
+咱 CH_dz CH_a
+贊 CH_dz CH_a CH_n#
+讚 CH_dz CH_a CH_n#
+怎 CH_dz CH_@
+臧 CH_dz CH_a CH_N#
+髒 CH_dz CH_a CH_N#
+贓 CH_dz CH_a CH_N#
+葬 CH_dz CH_a CH_N#
+臟 CH_dz CH_a CH_N#
+曾 CH_dz CH_@ CH_N#
+曾 CH_ts CH_@ CH_N#
+增 CH_dz CH_@ CH_N#
+贈 CH_dz CH_@ CH_N#
+租 CH_dz CH_u
+昨 CH_dz CH_u CH_o
+左 CH_dz CH_u CH_o
+佐 CH_dz CH_u CH_o
+坐 CH_dz CH_u CH_o
+作 CH_dz CH_u CH_o
+座 CH_dz CH_u CH_o
+做 CH_dz CH_u CH_o
+鑿 CH_dz CH_a CH_u
+鑿 CH_dz CH_u CH_o
+嘴 CH_dz CH_u CH_e CH_i
+最 CH_dz CH_u CH_e CH_i
+罪 CH_dz CH_u CH_e CH_i
+醉 CH_dz CH_u CH_e CH_i
+墬 CH_d CH_i
+鑽 CH_dz CH_u CH_a CH_n#
+尊 CH_dz CH_u CH_@ CH_n#
+樽 CH_dz CH_u CH_@ CH_n#
+遵 CH_dz CH_u CH_@ CH_n#
+撙 CH_dz CH_u CH_@ CH_n#
+圳 CH_tsc CH_o CH_u
+圳 CH_dzc CH_@ CH_n#
+圳 CH_dz CH_u CH_@ CH_n#
+宗 CH_dz CH_o CH_N#
+蹤 CH_dz CH_o CH_N#
+總 CH_dz CH_o CH_N#
+綜 CH_dz CH_o CH_N#
+縱 CH_dz CH_o CH_N#
+足 CH_dz CH_u
+足 CH_dzi CH_y
+族 CH_dz CH_u
+阻 CH_dz CH_u
+俎 CH_dz CH_u
+祖 CH_dz CH_u
+組 CH_dz CH_u
+詛 CH_dz CH_u
+子 CH_dz CH_U
+仔 CH_dz CH_U
+仔 CH_dz CH_a CH_i
+梓 CH_dz CH_U
+紫 CH_dz CH_U
+自 CH_dz CH_U
+恣 CH_dz CH_U
+字 CH_dz CH_U
+漬 CH_dz CH_U
+疵 CH_ts CH_U
+擦 CH_ts CH_a
+冊 CH_tsc CH_a CH_i
+冊 CH_ts CH_@
+側 CH_dz CH_@
+測 CH_ts CH_@
+策 CH_ts CH_@
+猜 CH_ts CH_a CH_i
+才 CH_ts CH_a CH_i
+材 CH_ts CH_a CH_i
+財 CH_ts CH_a CH_i
+裁 CH_ts CH_a CH_i
+采 CH_ts CH_a CH_i
+採 CH_ts CH_a CH_i
+彩 CH_ts CH_a CH_i
+睬 CH_ts CH_a CH_i
+綵 CH_ts CH_a CH_i
+踩 CH_ts CH_a CH_i
+菜 CH_ts CH_a CH_i
+蔡 CH_ts CH_a CH_i
+操 CH_ts CH_a CH_u
+糙 CH_ts CH_a CH_u
+曹 CH_ts CH_a CH_u
+槽 CH_ts CH_a CH_u
+草 CH_ts CH_a CH_u
+湊 CH_ts CH_o CH_u
+參 CH_sc CH_@ CH_n#
+餐 CH_ts CH_a CH_n#
+殘 CH_ts CH_a CH_n#
+慚 CH_ts CH_a CH_n#
+慘 CH_ts CH_a CH_n#
+燦 CH_ts CH_a CH_n#
+岑 CH_ts CH_@ CH_n#
+傖 CH_ts CH_a CH_N#
+倉 CH_ts CH_a CH_N#
+滄 CH_ts CH_a CH_N#
+蒼 CH_ts CH_a CH_N#
+艙 CH_ts CH_a CH_N#
+藏 CH_ts CH_a CH_N#
+藏 CH_dz CH_a CH_N#
+層 CH_ts CH_@ CH_N#
+粗 CH_ts CH_u
+搓 CH_ts CH_u CH_o
+撮 CH_ts CH_u CH_o
+撮 CH_dz CH_u CH_o
+撮 CH_dz CH_u CH_e CH_i
+磋 CH_ts CH_u CH_o
+蹉 CH_ts CH_u CH_o
+厝 CH_ts CH_u CH_o
+挫 CH_ts CH_u CH_o
+措 CH_ts CH_u CH_o
+錯 CH_ts CH_u
+錯 CH_ts CH_u CH_o
+崔 CH_ts CH_u CH_e CH_i
+催 CH_ts CH_u CH_e CH_i
+摧 CH_ts CH_u CH_e CH_i
+脆 CH_ts CH_u CH_e CH_i
+萃 CH_ts CH_u CH_e CH_i
+瘁 CH_ts CH_u CH_e CH_i
+粹 CH_ts CH_u CH_e CH_i
+翠 CH_ts CH_u CH_e CH_i
+竄 CH_ts CH_u CH_a CH_n#
+村 CH_ts CH_u CH_@ CH_n#
+存 CH_ts CH_u CH_@ CH_n#
+寸 CH_ts CH_u CH_@ CH_n#
+吋 CH_ts CH_u CH_@ CH_n#
+匆 CH_ts CH_o CH_N#
+蔥 CH_ts CH_o CH_N#
+囪 CH_ts CH_o CH_N#
+聰 CH_ts CH_o CH_N#
+從 CH_dz CH_o CH_N#
+從 CH_ts CH_o CH_N#
+從 CH_dz CH_o CH_N#
+叢 CH_ts CH_o CH_N#
+卒 CH_dz CH_u
+卒 CH_ts CH_u
+促 CH_ts CH_u
+醋 CH_ts CH_u
+醋 CH_dz CH_u CH_o
+簇 CH_ts CH_u
+猝 CH_ts CH_u
+祠 CH_ts CH_U
+瓷 CH_ts CH_U
+詞 CH_ts CH_U
+慈 CH_ts CH_U
+磁 CH_ts CH_U
+辭 CH_ts CH_U
+佌 CH_ts CH_U
+此 CH_ts CH_U
+次 CH_dz CH_U
+次 CH_ts CH_U
+刺 CH_ts CH_U
+廁 CH_ts CH_U
+廁 CH_ts CH_@
+莿 CH_ts CH_U
+司 CH_s CH_U
+私 CH_s CH_U
+思 CH_s CH_U
+思 CH_s CH_a CH_i
+思 CH_s CH_U
+斯 CH_s CH_U
+絲 CH_s CH_U
+撕 CH_s CH_U
+撕 CH_si CH_i
+廝 CH_s CH_U
+撒 CH_s CH_a
+灑 CH_s CH_a
+薩 CH_s CH_a
+色 CH_sc CH_a CH_i
+色 CH_sc CH_@
+塞 CH_s CH_a CH_i
+塞 CH_s CH_@
+瑟 CH_s CH_@
+賽 CH_s CH_a CH_i
+搔 CH_s CH_a CH_u
+艘 CH_s CH_a CH_u
+騷 CH_s CH_a CH_u
+掃 CH_s CH_a CH_u
+嫂 CH_s CH_a CH_u
+搜 CH_s CH_o CH_u
+蒐 CH_s CH_o CH_u
+餿 CH_s CH_o CH_u
+三 CH_s CH_a
+三 CH_s CH_a CH_n#
+傘 CH_s CH_a CH_n#
+散 CH_s CH_a CH_n#
+森 CH_s CH_@ CH_n#
+桑 CH_s CH_a CH_N#
+喪 CH_s CH_a CH_N#
+僧 CH_s CH_@ CH_N#
+甦 CH_s CH_u
+酥 CH_s CH_u
+穌 CH_s CH_u
+蘇 CH_s CH_u
+唆 CH_s CH_u CH_o
+梭 CH_s CH_u CH_o
+莎 CH_sc CH_a
+莎 CH_s CH_u CH_o
+縮 CH_s CH_u CH_o
+縮 CH_s CH_u
+所 CH_s CH_u CH_o
+索 CH_s CH_u CH_o
+瑣 CH_s CH_u CH_o
+鎖 CH_s CH_u CH_o
+雖 CH_s CH_u CH_e CH_i
+隨 CH_s CH_u CH_e CH_i
+髓 CH_s CH_u CH_e CH_i
+祟 CH_s CH_u CH_e CH_i
+歲 CH_s CH_u CH_e CH_i
+碎 CH_s CH_u CH_e CH_i
+遂 CH_s CH_u CH_e CH_i
+隧 CH_s CH_u CH_e CH_i
+酸 CH_s CH_u CH_a CH_n#
+算 CH_s CH_u CH_a CH_n#
+蒜 CH_s CH_u CH_a CH_n#
+孫 CH_s CH_u CH_@ CH_n#
+孫 CH_si CH_y CH_n#
+筍 CH_s CH_u CH_@ CH_n#
+橁 CH_tsc CH_u CH_@ CH_n#
+損 CH_s CH_u CH_@ CH_n#
+松 CH_s CH_o CH_N#
+淞 CH_s CH_o CH_N#
+鬆 CH_s CH_o CH_N#
+悚 CH_s CH_o CH_N#
+慫 CH_s CH_o CH_N#
+聳 CH_s CH_o CH_N#
+宋 CH_s CH_o CH_N#
+送 CH_s CH_o CH_N#
+訟 CH_s CH_o CH_N#
+頌 CH_Zc CH_o CH_N#
+頌 CH_s CH_o CH_N#
+俗 CH_s CH_u
+素 CH_s CH_u
+朽 CH_si CH_i CH_o CH_u
+宿 CH_si CH_i CH_o CH_u
+宿 CH_s CH_u
+宿 CH_si CH_i CH_o CH_u
+速 CH_s CH_u
+肅 CH_s CH_u
+塑 CH_s CH_u
+訴 CH_s CH_u
+溯 CH_s CH_u
+死 CH_s CH_U
+四 CH_s CH_U
+伺 CH_ts CH_U
+似 CH_s CH_U
+寺 CH_s CH_U
+祀 CH_s CH_U
+俟 CH_tsi CH_i
+俟 CH_s CH_U
+肆 CH_s CH_U
+飼 CH_s CH_U
+賜 CH_ts CH_U
+阿 CH_# CH_a
+啊 CH_# CH_a
+喔 CH_# CH_o
+喔 CH_# CH_u CH_o
+痾 CH_# CH_@
+痾 CH_k CH_@
+俄 CH_# CH_@
+蚵 CH_k CH_@
+蚵 CH_# CH_@
+額 CH_# CH_@
+鵝 CH_# CH_@
+厄 CH_# CH_@
+扼 CH_# CH_@
+婀 CH_# CH_@
+噁 CH_# CH_@
+惡 CH_# CH_u
+惡 CH_# CH_@
+愕 CH_# CH_@
+遏 CH_# CH_@
+噩 CH_# CH_@
+哀 CH_# CH_a CH_i
+挨 CH_# CH_a CH_i
+埃 CH_# CH_a CH_i
+矮 CH_# CH_a CH_i
+靄 CH_# CH_a CH_i
+艾 CH_# CH_a CH_i
+愛 CH_# CH_a CH_i
+隘 CH_# CH_@
+曖 CH_# CH_a CH_i
+礙 CH_# CH_a CH_i
+凹 CH_# CH_a CH_u
+凹 CH_# CH_i CH_a CH_u
+凹 CH_# CH_u CH_a
+聱 CH_# CH_a CH_u
+熬 CH_# CH_a CH_u
+遨 CH_# CH_a CH_u
+獒 CH_# CH_a CH_u
+驁 CH_# CH_a CH_u
+鰲 CH_# CH_a CH_u
+傲 CH_# CH_a CH_u
+奧 CH_# CH_a CH_u
+懊 CH_# CH_a CH_u
+澳 CH_# CH_a CH_u
+歐 CH_# CH_o CH_u
+毆 CH_# CH_o CH_u
+偶 CH_# CH_o CH_u
+嘔 CH_# CH_o CH_u
+嘔 CH_si CH_y
+嘔 CH_# CH_o CH_u
+安 CH_# CH_a CH_n#
+鞍 CH_# CH_a CH_n#
+諳 CH_# CH_a CH_n#
+胺 CH_# CH_a CH_n#
+岸 CH_# CH_a CH_n#
+按 CH_# CH_a CH_n#
+案 CH_# CH_a CH_n#
+暗 CH_# CH_a CH_n#
+黯 CH_# CH_a CH_n#
+恩 CH_# CH_@ CH_n#
+嗯 CH_# CH_@ CH_n#
+骯 CH_# CH_a CH_N#
+骯 CH_k CH_a CH_N#
+昂 CH_# CH_a CH_N#
+而 CH_# CH_@c
+兒 CH_# CH_@c
+兒 CH_n CH_i
+耳 CH_# CH_@c
+爾 CH_# CH_@c
+邇 CH_# CH_@c
+二 CH_# CH_@c
+伊 CH_# CH_i
+衣 CH_# CH_i
+依 CH_# CH_i
+醫 CH_# CH_i
+押 CH_# CH_i CH_a
+鴉 CH_# CH_i CH_a
+壓 CH_# CH_i CH_a
+鴨 CH_# CH_i CH_a
+呀 CH_# CH_i CH_a
+呀 CH_si CH_i CH_a
+牙 CH_# CH_i CH_a
+芽 CH_# CH_i CH_a
+涯 CH_# CH_i CH_a
+啞 CH_# CH_i CH_a
+啞 CH_# CH_@
+雅 CH_# CH_i CH_a
+亞 CH_# CH_i CH_a
+軋 CH_g CH_a
+軋 CH_# CH_i CH_a
+訝 CH_# CH_i CH_a
+耶 CH_# CH_i CH_E
+椰 CH_# CH_i CH_E
+爺 CH_# CH_i CH_E
+揶 CH_# CH_i CH_E
+也 CH_# CH_i CH_E
+冶 CH_# CH_i CH_E
+野 CH_# CH_i CH_E
+夜 CH_# CH_i CH_E
+頁 CH_si CH_i CH_E
+頁 CH_# CH_i CH_E
+液 CH_# CH_i
+液 CH_# CH_i CH_E
+業 CH_# CH_i CH_E
+業 CH_n CH_i CH_E
+葉 CH_sc CH_@
+崖 CH_# CH_i CH_a CH_i
+夭 CH_# CH_i CH_a CH_u
+夭 CH_# CH_a CH_u
+夭 CH_# CH_i CH_a CH_u
+腰 CH_# CH_i CH_a CH_u
+邀 CH_# CH_i CH_a CH_u
+肴 CH_# CH_i CH_a CH_u
+肴 CH_si CH_i CH_a CH_u
+姚 CH_# CH_i CH_a CH_u
+堯 CH_# CH_i CH_a CH_u
+搖 CH_# CH_i CH_a CH_u
+瑤 CH_# CH_i CH_a CH_u
+遙 CH_# CH_i CH_a CH_u
+謠 CH_# CH_i CH_a CH_u
+咬 CH_dzi CH_i CH_a CH_u
+咬 CH_# CH_i CH_a CH_u
+要 CH_# CH_i CH_a CH_u
+曜 CH_# CH_i CH_a CH_u
+藥 CH_# CH_i CH_a CH_u
+耀 CH_# CH_i CH_a CH_u
+攸 CH_# CH_i CH_o CH_u
+幽 CH_# CH_i CH_o CH_u
+悠 CH_# CH_i CH_o CH_u
+憂 CH_# CH_i CH_o CH_u
+優 CH_# CH_i CH_o CH_u
+尤 CH_# CH_i CH_o CH_u
+由 CH_# CH_i CH_o CH_u
+油 CH_# CH_i CH_o CH_u
+游 CH_# CH_i CH_o CH_u
+猶 CH_# CH_i CH_o CH_u
+郵 CH_# CH_i CH_o CH_u
+猷 CH_# CH_i CH_o CH_u
+遊 CH_# CH_i CH_o CH_u
+鈾 CH_# CH_i CH_o CH_u
+友 CH_# CH_i CH_o CH_u
+有 CH_# CH_i CH_o CH_u
+莠 CH_# CH_i CH_o CH_u
+黝 CH_# CH_i CH_o CH_u
+又 CH_# CH_i CH_o CH_u
+幼 CH_# CH_i CH_o CH_u
+右 CH_# CH_i CH_o CH_u
+佑 CH_# CH_i CH_o CH_u
+囿 CH_# CH_i CH_o CH_u
+宥 CH_# CH_i CH_o CH_u
+祐 CH_# CH_i CH_o CH_u
+誘 CH_# CH_i CH_o CH_u
+咽 CH_# CH_i CH_E CH_n#
+咽 CH_# CH_i CH_E
+淹 CH_# CH_i CH_E CH_n#
+焉 CH_# CH_i CH_E CH_n#
+菸 CH_# CH_i CH_E CH_n#
+菸 CH_# CH_y
+煙 CH_# CH_i CH_E CH_n#
+言 CH_# CH_i CH_E CH_n#
+岩 CH_# CH_i CH_E CH_n#
+延 CH_# CH_i CH_E CH_n#
+炎 CH_# CH_i CH_E CH_n#
+沿 CH_# CH_i CH_E CH_n#
+研 CH_# CH_i CH_E CH_n#
+癌 CH_# CH_a CH_i
+癌 CH_# CH_i CH_E CH_n#
+閻 CH_# CH_i CH_E CH_n#
+顏 CH_# CH_i CH_E CH_n#
+嚴 CH_# CH_i CH_E CH_n#
+巖 CH_# CH_i CH_E CH_n#
+鹽 CH_# CH_i CH_E CH_n#
+衍 CH_# CH_i CH_E CH_n#
+偃 CH_# CH_i CH_E CH_n#
+掩 CH_# CH_i CH_E CH_n#
+眼 CH_# CH_i CH_E CH_n#
+演 CH_# CH_i CH_E CH_n#
+儼 CH_# CH_i CH_E CH_n#
+魘 CH_# CH_i CH_E CH_n#
+琰 CH_# CH_i CH_E CH_n#
+彥 CH_# CH_i CH_E CH_n#
+晏 CH_# CH_i CH_E CH_n#
+宴 CH_# CH_i CH_E CH_n#
+堰 CH_# CH_i CH_E CH_n#
+焰 CH_# CH_i CH_E CH_n#
+硯 CH_# CH_i CH_E CH_n#
+雁 CH_# CH_i CH_E CH_n#
+厭 CH_# CH_i CH_E CH_n#
+燕 CH_# CH_i CH_E CH_n#
+嚥 CH_# CH_i CH_E CH_n#
+饜 CH_# CH_i CH_E CH_n#
+驗 CH_# CH_i CH_E CH_n#
+艷 CH_# CH_i CH_E CH_n#
+讞 CH_# CH_i CH_E CH_n#
+因 CH_# CH_i CH_n#
+姻 CH_# CH_i CH_n#
+音 CH_# CH_i CH_n#
+殷 CH_# CH_i CH_E CH_n#
+殷 CH_# CH_i CH_n#
+陰 CH_# CH_a CH_n#
+陰 CH_# CH_i CH_n#
+湮 CH_# CH_i CH_E CH_n#
+瘖 CH_# CH_i CH_n#
+吟 CH_# CH_i CH_n#
+淫 CH_# CH_i CH_n#
+霪 CH_# CH_i CH_n#
+銀 CH_# CH_i CH_n#
+尹 CH_# CH_i CH_n#
+引 CH_# CH_i CH_n#
+飲 CH_# CH_i CH_n#
+隱 CH_# CH_i CH_n#
+癮 CH_# CH_i CH_n#
+印 CH_# CH_i CH_n#
+蔭 CH_# CH_i CH_n#
+央 CH_# CH_i CH_a CH_N#
+秧 CH_# CH_i CH_a CH_N#
+羊 CH_# CH_i CH_a CH_N#
+羊 CH_si CH_i CH_a CH_N#
+佯 CH_# CH_i CH_a CH_N#
+洋 CH_# CH_i CH_a CH_N#
+烊 CH_# CH_i CH_a CH_N#
+揚 CH_# CH_i CH_a CH_N#
+陽 CH_# CH_i CH_a CH_N#
+楊 CH_# CH_i CH_a CH_N#
+瘍 CH_# CH_i CH_a CH_N#
+颺 CH_# CH_i CH_a CH_N#
+仰 CH_# CH_i CH_a CH_N#
+氧 CH_# CH_i CH_a CH_N#
+養 CH_# CH_i CH_a CH_N#
+癢 CH_# CH_i CH_a CH_N#
+漾 CH_# CH_i CH_a CH_N#
+樣 CH_# CH_i CH_a CH_N#
+樣 CH_si CH_i CH_a CH_N#
+英 CH_# CH_i CH_N#
+瑛 CH_# CH_i CH_N#
+嬰 CH_# CH_i CH_N#
+應 CH_# CH_i CH_N#
+膺 CH_# CH_i CH_N#
+鶯 CH_# CH_i CH_N#
+鷹 CH_# CH_i CH_N#
+鸚 CH_# CH_i CH_N#
+迎 CH_# CH_i CH_N#
+盈 CH_# CH_i CH_N#
+縈 CH_# CH_i CH_N#
+螢 CH_# CH_i CH_N#
+營 CH_# CH_i CH_N#
+瀛 CH_# CH_i CH_N#
+贏 CH_# CH_i CH_N#
+影 CH_# CH_i CH_N#
+穎 CH_# CH_i CH_N#
+映 CH_# CH_i CH_N#
+硬 CH_# CH_i CH_N#
+夷 CH_# CH_i
+怡 CH_# CH_i
+宜 CH_# CH_i
+痍 CH_# CH_i
+移 CH_# CH_i
+疑 CH_# CH_i
+迨 CH_d CH_a CH_i
+儀 CH_# CH_i
+遺 CH_# CH_i
+羡 CH_si CH_i CH_E CH_n#
+乙 CH_# CH_i
+已 CH_# CH_i
+以 CH_# CH_i
+矣 CH_# CH_i
+倚 CH_# CH_i
+椅 CH_# CH_i
+蟻 CH_# CH_i
+顗 CH_# CH_i
+一 CH_# CH_i
+翳 CH_# CH_i
+亦 CH_# CH_i
+役 CH_# CH_i
+抑 CH_# CH_i
+易 CH_# CH_i
+奕 CH_# CH_i
+疫 CH_# CH_i
+益 CH_# CH_i
+異 CH_# CH_i
+翌 CH_# CH_i
+軼 CH_# CH_i
+逸 CH_# CH_i
+溢 CH_# CH_i
+意 CH_# CH_i
+裔 CH_# CH_i
+義 CH_# CH_i
+肄 CH_# CH_i
+億 CH_# CH_i
+毅 CH_# CH_i
+誼 CH_# CH_i
+憶 CH_# CH_i
+翼 CH_# CH_i
+繹 CH_# CH_i
+藝 CH_# CH_i
+議 CH_# CH_i
+譯 CH_# CH_i
+挹 CH_# CH_i
+污 CH_# CH_u
+屋 CH_# CH_u
+烏 CH_# CH_u
+挖 CH_# CH_u CH_a
+蛙 CH_# CH_u CH_a
+娃 CH_# CH_u CH_a
+瓦 CH_# CH_u CH_a
+襪 CH_# CH_u CH_a
+渦 CH_# CH_u CH_o
+渦 CH_g CH_u CH_o
+窩 CH_# CH_u CH_o
+我 CH_# CH_@
+我 CH_# CH_u CH_o
+沃 CH_# CH_u
+沃 CH_# CH_u CH_o
+臥 CH_# CH_u CH_o
+握 CH_# CH_u CH_o
+渥 CH_# CH_u CH_o
+斡 CH_g CH_u CH_a CH_n#
+斡 CH_# CH_u CH_o
+歪 CH_# CH_u CH_a CH_i
+外 CH_# CH_u CH_a CH_i
+威 CH_# CH_u CH_e CH_i
+萎 CH_# CH_u CH_e CH_i
+危 CH_# CH_u CH_e CH_i
+為 CH_# CH_u CH_e CH_i
+韋 CH_# CH_u CH_e CH_i
+唯 CH_# CH_u CH_e CH_i
+惟 CH_# CH_u CH_e CH_i
+圍 CH_# CH_u CH_e CH_i
+微 CH_# CH_u CH_e CH_i
+違 CH_# CH_u CH_e CH_i
+維 CH_# CH_u CH_e CH_i
+尾 CH_# CH_i
+尾 CH_# CH_u CH_e CH_i
+委 CH_# CH_u CH_e CH_i
+娓 CH_# CH_u CH_e CH_i
+偉 CH_# CH_u CH_e CH_i
+猥 CH_# CH_u CH_e CH_i
+葦 CH_# CH_u CH_e CH_i
+諉 CH_# CH_u CH_e CH_i
+緯 CH_# CH_u CH_e CH_i
+煒 CH_# CH_u CH_e CH_i
+未 CH_# CH_u CH_e CH_i
+位 CH_# CH_u CH_e CH_i
+味 CH_# CH_u CH_e CH_i
+畏 CH_# CH_u CH_e CH_i
+胃 CH_# CH_u CH_e CH_i
+偽 CH_# CH_u CH_e CH_i
+慰 CH_# CH_u CH_e CH_i
+蔚 CH_# CH_y
+蔚 CH_# CH_u CH_e CH_i
+衛 CH_# CH_u CH_e CH_i
+謂 CH_# CH_u CH_e CH_i
+餵 CH_# CH_u CH_e CH_i
+魏 CH_# CH_u CH_e CH_i
+蜿 CH_# CH_u CH_a CH_n#
+彎 CH_# CH_u CH_a CH_n#
+灣 CH_# CH_u CH_a CH_n#
+丸 CH_# CH_u CH_a CH_n#
+完 CH_# CH_u CH_a CH_n#
+玩 CH_# CH_u CH_a CH_n#
+頑 CH_# CH_u CH_a CH_n#
+挽 CH_# CH_u CH_a CH_n#
+婉 CH_# CH_u CH_a CH_n#
+晚 CH_# CH_u CH_a CH_n#
+碗 CH_# CH_u CH_a CH_n#
+惋 CH_# CH_u CH_a CH_n#
+腕 CH_# CH_u CH_a CH_n#
+萬 CH_# CH_u CH_a CH_n#
+塭 CH_# CH_u CH_@ CH_n#
+溫 CH_# CH_u CH_@ CH_n#
+文 CH_# CH_u CH_@ CH_n#
+紋 CH_# CH_u CH_@ CH_n#
+蚊 CH_# CH_u CH_@ CH_n#
+雯 CH_# CH_u CH_@ CH_n#
+聞 CH_# CH_u CH_@ CH_n#
+刎 CH_# CH_u CH_@ CH_n#
+吻 CH_# CH_u CH_@ CH_n#
+穩 CH_# CH_u CH_@ CH_n#
+紊 CH_# CH_u CH_@ CH_n#
+問 CH_# CH_u CH_@ CH_n#
+汪 CH_# CH_u CH_a CH_N#
+王 CH_# CH_u CH_a CH_N#
+王 CH_# CH_y
+王 CH_# CH_u CH_a CH_N#
+亡 CH_# CH_u
+亡 CH_# CH_u CH_a CH_N#
+往 CH_# CH_u CH_a CH_N#
+罔 CH_# CH_u CH_a CH_N#
+枉 CH_# CH_u CH_a CH_N#
+網 CH_# CH_u CH_a CH_N#
+妄 CH_# CH_u CH_a CH_N#
+忘 CH_# CH_u CH_a CH_N#
+旺 CH_# CH_u CH_a CH_N#
+望 CH_# CH_u CH_a CH_N#
+翁 CH_# CH_u CH_o CH_N#
+巫 CH_# CH_u
+吾 CH_# CH_u
+吳 CH_# CH_u
+梧 CH_# CH_u
+毌 CH_g CH_u CH_a CH_n#
+無 CH_# CH_u
+無 CH_m CH_u CH_o
+誣 CH_# CH_u
+五 CH_# CH_u
+鵡 CH_# CH_u
+午 CH_# CH_u
+午 CH_h CH_u CH_o
+伍 CH_# CH_u
+武 CH_# CH_u
+侮 CH_# CH_u
+捂 CH_# CH_u
+舞 CH_# CH_u
+忤 CH_# CH_u
+勿 CH_# CH_u
+兀 CH_# CH_u
+物 CH_# CH_u
+悟 CH_# CH_u
+務 CH_# CH_u
+晤 CH_# CH_u
+塢 CH_# CH_u
+誤 CH_# CH_u
+霧 CH_# CH_u
+淤 CH_# CH_y
+瘀 CH_# CH_y
+約 CH_# CH_y CH_E
+月 CH_# CH_y CH_E
+岳 CH_# CH_y CH_E
+悅 CH_# CH_y CH_E
+越 CH_# CH_y CH_E
+粵 CH_# CH_y CH_E
+樂 CH_l CH_@
+閱 CH_# CH_y CH_E
+嶽 CH_# CH_y CH_E
+躍 CH_# CH_y CH_E
+鑰 CH_# CH_i CH_a CH_u
+戉 CH_# CH_y CH_E
+宛 CH_# CH_y CH_E CH_n#
+宛 CH_# CH_u CH_a CH_n#
+冤 CH_# CH_y CH_E CH_n#
+淵 CH_# CH_y CH_E CH_n#
+鳶 CH_# CH_y CH_E CH_n#
+元 CH_# CH_y CH_E CH_n#
+垣 CH_# CH_y CH_E CH_n#
+原 CH_# CH_y CH_E CH_n#
+員 CH_# CH_y CH_E CH_n#
+員 CH_# CH_y CH_n#
+援 CH_# CH_y CH_E CH_n#
+園 CH_# CH_y CH_E CH_n#
+圓 CH_# CH_y CH_E CH_n#
+源 CH_# CH_y CH_E CH_n#
+緣 CH_# CH_y CH_E CH_n#
+轅 CH_# CH_y CH_E CH_n#
+圜 CH_# CH_y CH_E CH_n#
+圜 CH_h CH_u CH_a CH_n#
+遠 CH_# CH_y CH_E CH_n#
+怨 CH_# CH_y CH_E CH_n#
+苑 CH_# CH_y CH_E CH_n#
+苑 CH_# CH_y
+苑 CH_# CH_y CH_E CH_n#
+院 CH_# CH_y CH_E CH_n#
+媛 CH_# CH_y CH_E CH_n#
+願 CH_# CH_y CH_E CH_n#
+瑗 CH_# CH_y CH_E CH_n#
+暈 CH_# CH_y CH_n#
+暈 CH_# CH_i CH_n#
+勻 CH_# CH_y CH_n#
+芸 CH_# CH_y CH_n#
+紜 CH_# CH_y CH_n#
+耘 CH_# CH_y CH_n#
+雲 CH_# CH_y CH_n#
+筠 CH_# CH_y CH_n#
+允 CH_# CH_y CH_n#
+隕 CH_# CH_y CH_E CH_n#
+隕 CH_# CH_y CH_n#
+殞 CH_# CH_y CH_n#
+孕 CH_# CH_y CH_n#
+運 CH_# CH_y CH_n#
+醞 CH_# CH_y CH_n#
+韻 CH_# CH_y CH_n#
+蘊 CH_# CH_y CH_n#
+庸 CH_# CH_y CH_o CH_N#
+傭 CH_# CH_y CH_o CH_N#
+雍 CH_# CH_y CH_o CH_N#
+鏞 CH_# CH_y CH_o CH_N#
+永 CH_# CH_y CH_o CH_N#
+泳 CH_# CH_y CH_o CH_N#
+勇 CH_# CH_y CH_o CH_N#
+恿 CH_# CH_y CH_o CH_N#
+湧 CH_# CH_y CH_o CH_N#
+詠 CH_# CH_y CH_o CH_N#
+壅 CH_# CH_y CH_o CH_N#
+擁 CH_# CH_y CH_o CH_N#
+踴 CH_# CH_y CH_o CH_N#
+用 CH_# CH_y CH_o CH_N#
+于 CH_si CH_y
+于 CH_# CH_y
+余 CH_# CH_y
+余 CH_si CH_y
+於 CH_# CH_u
+於 CH_# CH_y
+俞 CH_sc CH_u
+俞 CH_# CH_y
+娛 CH_# CH_y
+魚 CH_# CH_y
+愉 CH_# CH_y
+瑜 CH_# CH_y
+愚 CH_# CH_y
+虞 CH_# CH_y
+逾 CH_# CH_y
+漁 CH_# CH_y
+餘 CH_# CH_y
+覦 CH_# CH_y
+輿 CH_# CH_y
+揄 CH_# CH_y
+揄 CH_# CH_i CH_a CH_u
+予 CH_# CH_y
+羽 CH_# CH_y
+宇 CH_# CH_y
+雨 CH_# CH_y
+禹 CH_# CH_y
+圄 CH_# CH_y
+與 CH_# CH_y
+語 CH_# CH_y
+嶼 CH_# CH_y
+玉 CH_# CH_y
+育 CH_# CH_y
+昱 CH_# CH_y
+郁 CH_# CH_y
+浴 CH_# CH_y
+域 CH_# CH_y
+欲 CH_# CH_y
+御 CH_# CH_y
+御 CH_# CH_i CH_a
+喻 CH_# CH_y
+寓 CH_# CH_y
+愈 CH_# CH_y
+裕 CH_# CH_y
+遇 CH_# CH_y
+預 CH_# CH_y
+獄 CH_# CH_y
+慾 CH_# CH_y
+諭 CH_# CH_y
+豫 CH_# CH_y
+禦 CH_# CH_y
+癒 CH_# CH_y
+譽 CH_# CH_y
+鬱 CH_# CH_y
+籲 CH_# CH_y
+錄影 CH_l CH_u CH_# CH_i CH_N#
+第一 CH_d CH_i CH_# CH_i
+另外 CH_l CH_i CH_N# CH_# CH_u CH_a CH_i
+所有 CH_s CH_u CH_o CH_# CH_i CH_o CH_u
+因此 CH_# CH_i CH_n# CH_ts CH_U
+相關 CH_si CH_i CH_a CH_N# CH_g CH_u CH_a CH_n#
+熟悉 CH_sc CH_u CH_si CH_i
+事實 CH_sc CH_Uc CH_sc CH_Uc
+所謂 CH_s CH_u CH_o CH_# CH_u CH_e CH_i
+說話 CH_sc CH_u CH_o CH_h CH_u CH_a
+時候 CH_sc CH_Uc CH_h CH_o CH_u
+空氣 CH_k CH_o CH_N# CH_tsi CH_i
+有效 CH_# CH_i CH_o CH_u CH_si CH_i CH_a CH_u
+方法 CH_f CH_a CH_N# CH_f CH_a
+晶片 CH_dzi CH_i CH_N# CH_p CH_i CH_E CH_n#
+系列 CH_si CH_i CH_l CH_i CH_E
+過程 CH_g CH_u CH_o CH_tsc CH_@ CH_N#
+每隔 CH_m CH_e CH_i CH_g CH_@
+任何 CH_Zc CH_@ CH_n# CH_h CH_@
+避免 CH_b CH_i CH_m CH_i CH_E CH_n#
+原理 CH_# CH_y CH_E CH_n# CH_l CH_i
+簡單 CH_dzi CH_i CH_E CH_n# CH_d CH_a CH_n#
+其他 CH_tsi CH_i CH_t CH_a
+何不 CH_h CH_@ CH_b CH_u
+基本 CH_dzi CH_i CH_b CH_@ CH_n#
+不同 CH_b CH_u CH_t CH_o CH_N#
+知識 CH_dzc CH_Uc CH_sc CH_Uc
+舉例 CH_dzi CH_y CH_l CH_i
+形容 CH_si CH_i CH_N# CH_Zc CH_o CH_N#
+背後 CH_b CH_e CH_i CH_h CH_o CH_u
+訊息 CH_si CH_y CH_n# CH_si CH_i
+譬如 CH_p CH_i CH_Zc CH_u
+講到 CH_dzi CH_i CH_a CH_N# CH_d CH_a CH_u
+名詞 CH_m CH_i CH_N# CH_ts CH_U
+之間 CH_dzc CH_Uc CH_dzi CH_i CH_E CH_n#
+密切 CH_m CH_i CH_tsi CH_i CH_E
+關係 CH_g CH_u CH_a CH_n# CH_si CH_i
+現在 CH_si CH_i CH_E CH_n# CH_dz CH_a CH_i
+層次 CH_ts CH_@ CH_N# CH_ts CH_U
+隱藏 CH_# CH_i CH_n# CH_ts CH_a CH_N#
+一起 CH_# CH_i CH_tsi CH_i
+具體 CH_dzi CH_y CH_t CH_i
+告訴 CH_g CH_a CH_u CH_s CH_u
+詞典 CH_ts CH_U CH_d CH_i CH_E CH_n#
+主要 CH_dzc CH_u CH_# CH_i CH_a CH_u
+應用 CH_# CH_i CH_N# CH_# CH_y CH_o CH_N#
+對方 CH_d CH_u CH_e CH_i CH_f CH_a CH_N#
+原來 CH_# CH_y CH_E CH_n# CH_l CH_a CH_i
+重要 CH_dzc CH_o CH_N# CH_# CH_i CH_a CH_u
+因素 CH_# CH_i CH_n# CH_s CH_u
+多少 CH_d CH_u CH_o CH_sc CH_a CH_u
+秒鐘 CH_m CH_i CH_a CH_u CH_dzc CH_o CH_N#
+絕對 CH_dzi CH_y CH_E CH_d CH_u CH_e CH_i
+耳朵 CH_# CH_@c CH_d CH_u CH_o
+小小 CH_si CH_i CH_a CH_u CH_si CH_i CH_a CH_u
+天都 CH_t CH_i CH_E CH_n# CH_d CH_u
+產品 CH_tsc CH_a CH_n# CH_p CH_i CH_n#
+同樣 CH_t CH_o CH_N# CH_# CH_i CH_a CH_N#
+技術 CH_dzi CH_i CH_sc CH_u
+第二 CH_d CH_i CH_# CH_@c
+潛力 CH_tsi CH_i CH_E CH_n# CH_l CH_i
+之為 CH_dzc CH_Uc CH_# CH_u CH_e CH_i
+豐富 CH_f CH_o CH_N# CH_f CH_u
+掛滿 CH_g CH_u CH_a CH_m CH_a CH_n#
+氣象 CH_tsi CH_i CH_si CH_i CH_a CH_N#
+航班 CH_h CH_a CH_N# CH_b CH_a CH_n#
+股市 CH_g CH_u CH_sc CH_Uc
+典藏 CH_d CH_i CH_E CH_n# CH_ts CH_a CH_N#
+虛擬 CH_si CH_y CH_n CH_i
+工作 CH_g CH_o CH_N# CH_dz CH_u CH_o
+業務 CH_# CH_i CH_E CH_# CH_u
+平常 CH_p CH_i CH_N# CH_tsc CH_a CH_N#
+環境 CH_h CH_u CH_a CH_n# CH_dzi CH_i CH_N#
+電傳 CH_d CH_i CH_E CH_n# CH_tsc CH_u CH_a CH_n#
+會議 CH_h CH_u CH_e CH_i CH_# CH_i
+教學 CH_dzi CH_i CH_a CH_u CH_si CH_y CH_E
+個人 CH_g CH_@ CH_Zc CH_@ CH_n#
+團體 CH_t CH_u CH_a CH_n# CH_t CH_i
+紀錄 CH_dzi CH_i CH_l CH_u
+遊戲 CH_# CH_i CH_o CH_u CH_si CH_i
+娛樂 CH_# CH_y CH_l CH_@
+活動 CH_h CH_u CH_o CH_d CH_o CH_N#
+是以 CH_sc CH_Uc CH_# CH_i
+影音 CH_# CH_i CH_N# CH_# CH_i CH_n#
+例子 CH_l CH_i CH_dz CH_U
+電視 CH_d CH_i CH_E CH_n# CH_sc CH_Uc
+旁白 CH_p CH_a CH_N# CH_b CH_a CH_i
+演講 CH_# CH_i CH_E CH_n# CH_dzi CH_i CH_a CH_N#
+屬於 CH_sc CH_u CH_# CH_y
+核心 CH_h CH_@ CH_si CH_i CH_n#
+主題 CH_dzc CH_u CH_t CH_i
+完全 CH_# CH_u CH_a CH_n# CH_tsi CH_y CH_E CH_n#
+之下 CH_dzc CH_Uc CH_si CH_i CH_a
+設備 CH_sc CH_@ CH_b CH_e CH_i
+徹底 CH_tsc CH_@ CH_d CH_i
+手持 CH_sc CH_o CH_u CH_tsc CH_Uc
+電子 CH_d CH_i CH_E CH_n# CH_dz CH_U
+開車 CH_k CH_a CH_i CH_tsc CH_@
+車子 CH_tsc CH_@ CH_dz CH_U
+客廳 CH_k CH_@ CH_t CH_i CH_N#
+可可 CH_k CH_@ CH_k CH_@
+隨手 CH_s CH_u CH_e CH_i CH_sc CH_o CH_u
+攜帶 CH_si CH_i CH_d CH_a CH_i
+想像 CH_si CH_i CH_a CH_N# CH_si CH_i CH_a CH_N#
+眼鏡 CH_# CH_i CH_E CH_n# CH_dzi CH_i CH_N#
+上裝 CH_sc CH_a CH_N# CH_dzc CH_u CH_a CH_N#
+手表 CH_sc CH_o CH_u CH_b CH_i CH_a CH_u
+口袋 CH_k CH_o CH_u CH_d CH_a CH_i
+共同 CH_g CH_o CH_N# CH_t CH_o CH_N#
+特徵 CH_t CH_@ CH_dzc CH_@ CH_N#
+輕薄 CH_tsi CH_i CH_N# CH_b CH_u CH_o
+短小 CH_d CH_u CH_a CH_n# CH_si CH_i CH_a CH_u
+意思 CH_# CH_i CH_s CH_U
+到處 CH_d CH_a CH_u CH_tsc CH_u
+充斥 CH_tsc CH_o CH_N# CH_tsc CH_Uc
+發揮 CH_f CH_a CH_h CH_u CH_e CH_i
+功效 CH_g CH_o CH_N# CH_si CH_i CH_a CH_u
+離開 CH_l CH_i CH_k CH_a CH_i
+角色 CH_dzi CH_y CH_E CH_s CH_@
+角色 CH_dzi CH_i CH_a CH_u CH_s CH_@
+淡化 CH_d CH_a CH_n# CH_h CH_u CH_a
+取代 CH_tsi CH_y CH_d CH_a CH_i
+號碼 CH_h CH_a CH_u CH_m CH_a
+階段 CH_dzi CH_i CH_E CH_d CH_u CH_a CH_n#
+鍵盤 CH_dzi CH_i CH_E CH_n# CH_p CH_a CH_n#
+滑鼠 CH_h CH_u CH_a CH_sc CH_u
+隨身 CH_s CH_u CH_e CH_i CH_sc CH_@ CH_n#
+功能 CH_g CH_o CH_N# CH_n CH_@ CH_N#
+隨地 CH_s CH_u CH_e CH_i CH_d CH_i
+介面 CH_dzi CH_i CH_E CH_m CH_i CH_E CH_n#
+相當 CH_si CH_i CH_a CH_N# CH_d CH_a CH_N#
+家電 CH_dzi CH_i CH_a CH_d CH_i CH_E CH_n#
+指令 CH_dzc CH_Uc CH_l CH_i CH_N#
+人用 CH_Zc CH_@ CH_n# CH_# CH_y CH_o CH_N#
+世代 CH_sc CH_Uc CH_d CH_a CH_i
+小時 CH_si CH_i CH_a CH_u CH_sc CH_Uc
+那裡 CH_n CH_a CH_l CH_i
+別於 CH_b CH_i CH_E CH_# CH_y
+用用 CH_# CH_y CH_o CH_N# CH_# CH_y CH_o CH_N#
+動作 CH_d CH_o CH_N# CH_dz CH_u CH_o
+達成 CH_d CH_a CH_tsc CH_@ CH_N#
+有的 CH_# CH_i CH_o CH_u CH_d CH_@
+本領 CH_b CH_@ CH_n# CH_l CH_i CH_N#
+出門 CH_tsc CH_u CH_m CH_@ CH_n#
+他去 CH_t CH_a CH_tsi CH_y
+捷運 CH_dzi CH_i CH_E CH_# CH_y CH_n#
+給他 CH_g CH_e CH_i CH_t CH_a
+解說 CH_dzi CH_i CH_E CH_sc CH_u CH_o
+正確 CH_dzc CH_@ CH_N# CH_tsi CH_y CH_E
+寄來 CH_dzi CH_i CH_l CH_a CH_i
+辨認 CH_b CH_i CH_E CH_n# CH_Zc CH_@ CH_n#
+先決 CH_si CH_i CH_E CH_n# CH_dzi CH_y CH_E
+來往 CH_l CH_a CH_i CH_# CH_u CH_a CH_N#
+主導 CH_dzc CH_u CH_d CH_a CH_u
+記錄 CH_dzi CH_i CH_l CH_u
+辦到 CH_b CH_a CH_n# CH_d CH_a CH_u
+正在 CH_dzc CH_@ CH_N# CH_dz CH_a CH_i
+快速 CH_k CH_u CH_a CH_i CH_s CH_u
+早已 CH_dz CH_a CH_u CH_# CH_i
+有線 CH_# CH_i CH_o CH_u CH_si CH_i CH_E CH_n#
+辦好 CH_b CH_a CH_n# CH_h CH_a CH_u
+接上 CH_dzi CH_i CH_E CH_sc CH_a CH_N#
+連上 CH_l CH_i CH_E CH_n# CH_sc CH_a CH_N#
+網站 CH_# CH_u CH_a CH_N# CH_dzc CH_a CH_n#
+早年 CH_dz CH_a CH_u CH_n CH_i CH_E CH_n#
+畢竟 CH_b CH_i CH_dzi CH_i CH_N#
+傳遞 CH_tsc CH_u CH_a CH_n# CH_d CH_i
+不論 CH_b CH_u CH_l CH_u CH_@ CH_n#
+端的 CH_d CH_u CH_a CH_n# CH_d CH_i
+期待 CH_tsi CH_i CH_d CH_a CH_i
+大幅 CH_d CH_a CH_f CH_u
+欠缺 CH_tsi CH_i CH_E CH_n# CH_tsi CH_y CH_E
+光纖 CH_g CH_u CH_a CH_N# CH_si CH_i CH_E CH_n#
+衛星 CH_# CH_u CH_e CH_i CH_si CH_i CH_N#
+聲光 CH_sc CH_@ CH_N# CH_g CH_u CH_a CH_N#
+影像 CH_# CH_i CH_N# CH_si CH_i CH_a CH_N#
+放進 CH_f CH_a CH_N# CH_dzi CH_i CH_n#
+內容 CH_n CH_e CH_i CH_Zc CH_o CH_N#
+之前 CH_dzc CH_Uc CH_tsi CH_i CH_E CH_n#
+明日 CH_m CH_i CH_N# CH_Zc CH_Uc
+整體 CH_dzc CH_@ CH_N# CH_t CH_i
+似乎 CH_s CH_U CH_h CH_u
+今日 CH_dzi CH_i CH_n# CH_Zc CH_Uc
+在在 CH_dz CH_a CH_i CH_dz CH_a CH_i
+曉得 CH_si CH_i CH_a CH_u CH_d CH_@
+理論 CH_l CH_i CH_l CH_u CH_@ CH_n#
+實際 CH_sc CH_Uc CH_dzi CH_i
+課題 CH_k CH_@ CH_t CH_i
+深入 CH_sc CH_@ CH_n# CH_Zc CH_u
+目前 CH_m CH_u CH_tsi CH_i CH_E CH_n#
+合理 CH_h CH_@ CH_l CH_i
+作者 CH_dz CH_u CH_o CH_dzc CH_@
+微軟 CH_# CH_u CH_e CH_i CH_Zc CH_u CH_a CH_n#
+部門 CH_b CH_u CH_m CH_@ CH_n#
+當年 CH_d CH_a CH_N# CH_n CH_i CH_E CH_n#
+人物 CH_Zc CH_@ CH_n# CH_# CH_u
+第四 CH_d CH_i CH_s CH_U
+書寫 CH_sc CH_u CH_si CH_i CH_E
+五年 CH_# CH_u CH_n CH_i CH_E CH_n#
+缺點 CH_tsi CH_y CH_E CH_d CH_i CH_E CH_n#
+收集 CH_sc CH_o CH_u CH_dzi CH_i
+十多 CH_sc CH_Uc CH_d CH_u CH_o
+引用 CH_# CH_i CH_n# CH_# CH_y CH_o CH_N#
+處所 CH_tsc CH_u CH_s CH_u CH_o
+建議 CH_dzi CH_i CH_E CH_n# CH_# CH_i
+玩具 CH_# CH_u CH_a CH_n# CH_dzi CH_y
+真實 CH_dzc CH_@ CH_n# CH_sc CH_Uc
+嘴巴 CH_dz CH_u CH_e CH_i CH_b CH_a
+十年 CH_sc CH_Uc CH_n CH_i CH_E CH_n#
+年代 CH_n CH_i CH_E CH_n# CH_d CH_a CH_i
+改進 CH_g CH_a CH_i CH_dzi CH_i CH_n#
+年前 CH_n CH_i CH_E CH_n# CH_tsi CH_i CH_E CH_n#
+遇見 CH_# CH_y CH_dzi CH_i CH_E CH_n#
+國立 CH_g CH_u CH_o CH_l CH_i
+學院 CH_si CH_y CH_E CH_# CH_y CH_E CH_n#
+工程 CH_g CH_o CH_N# CH_tsc CH_@ CH_N#
+對應 CH_d CH_u CH_e CH_i CH_# CH_i CH_N#
+配合 CH_p CH_e CH_i CH_h CH_@
+幾百 CH_dzi CH_i CH_b CH_a CH_i
+金融 CH_dzi CH_i CH_n# CH_Zc CH_o CH_N#
+機構 CH_dzi CH_i CH_g CH_o CH_u
+總共 CH_dz CH_o CH_N# CH_g CH_o CH_N#
+請問 CH_tsi CH_i CH_N# CH_# CH_u CH_@ CH_n#
+土地 CH_t CH_u CH_d CH_i
+銀行 CH_# CH_i CH_n# CH_h CH_a CH_N#
+本行 CH_b CH_@ CH_n# CH_h CH_a CH_N#
+謝謝 CH_si CH_i CH_E CH_si CH_i CH_E
+分行 CH_f CH_@ CH_n# CH_h CH_a CH_N#
+中國 CH_dzc CH_o CH_N# CH_g CH_u CH_o
+早期 CH_dz CH_a CH_u CH_tsi CH_i
+幾年 CH_dzi CH_i CH_n CH_i CH_E CH_n#
+站上 CH_dzc CH_a CH_n# CH_sc CH_a CH_N#
+有所 CH_# CH_i CH_o CH_u CH_s CH_u CH_o
+段落 CH_d CH_u CH_a CH_n# CH_l CH_u CH_o
+分明 CH_f CH_@ CH_n# CH_m CH_i CH_N#
+分段 CH_f CH_@ CH_n# CH_d CH_u CH_a CH_n#
+內涵 CH_n CH_e CH_i CH_h CH_a CH_n#
+概念 CH_g CH_a CH_i CH_n CH_i CH_E CH_n#
+加以 CH_dzi CH_i CH_a CH_# CH_i
+切割 CH_tsi CH_i CH_E CH_g CH_@
+切成 CH_tsi CH_i CH_E CH_tsc CH_@ CH_N#
+抽取 CH_tsc CH_o CH_u CH_tsi CH_y
+人事 CH_Zc CH_@ CH_n# CH_sc CH_Uc
+下下 CH_si CH_i CH_a CH_si CH_i CH_a
+類似 CH_l CH_e CH_i CH_s CH_U
+遊俠 CH_# CH_i CH_o CH_u CH_si CH_i CH_a
+主角 CH_dzc CH_u CH_dzi CH_y CH_E
+主角 CH_dzc CH_u CH_dzi CH_i CH_a CH_u
+麥克 CH_m CH_a CH_i CH_k CH_@
+由於 CH_# CH_i CH_o CH_u CH_# CH_y
+長年 CH_tsc CH_a CH_N# CH_n CH_i CH_E CH_n#
+酗酒 CH_si CH_y CH_dzi CH_i CH_o CH_u
+住進 CH_dzc CH_u CH_dzi CH_i CH_n#
+曾經 CH_ts CH_@ CH_N# CH_dzi CH_i CH_N#
+主演 CH_dzc CH_u CH_# CH_i CH_E CH_n#
+海灘 CH_h CH_a CH_i CH_t CH_a CH_n#
+熱門 CH_Zc CH_@ CH_m CH_@ CH_n#
+影集 CH_# CH_i CH_N# CH_dzi CH_i
+知名 CH_dzc CH_Uc CH_m CH_i CH_N#
+福特 CH_f CH_u CH_t CH_@
+改善 CH_g CH_a CH_i CH_sc CH_a CH_n#
+八卦 CH_b CH_a CH_g CH_u CH_a
+媒體 CH_m CH_e CH_i CH_t CH_i
+國家 CH_g CH_u CH_o CH_dzi CH_i CH_a
+尋問 CH_si CH_y CH_n# CH_# CH_u CH_@ CH_n#
+醍醐 CH_t CH_i CH_h CH_u
+報出 CH_b CH_a CH_u CH_tsc CH_u
+差點 CH_tsc CH_a CH_d CH_i CH_E CH_n#
+死亡 CH_s CH_U CH_# CH_u CH_a CH_N#
+消息 CH_si CH_i CH_a CH_u CH_si CH_i
+蚯蚓 CH_tsi CH_i CH_o CH_u CH_# CH_i CH_n#
+健康 CH_dzi CH_i CH_E CH_n# CH_k CH_a CH_N#
+關注 CH_g CH_u CH_a CH_n# CH_dzc CH_u
+搭配 CH_d CH_a CH_p CH_e CH_i
+積極 CH_dzi CH_i CH_dzi CH_i
+新版 CH_si CH_i CH_n# CH_b CH_a CH_n#
+演藝 CH_# CH_i CH_E CH_n# CH_# CH_i
+事業 CH_sc CH_Uc CH_# CH_i CH_E
+四十 CH_s CH_U CH_sc CH_Uc
+一時 CH_# CH_i CH_sc CH_Uc
+節省 CH_dzi CH_i CH_E CH_sc CH_@ CH_N#
+產生 CH_tsc CH_a CH_n# CH_sc CH_@ CH_N#
+掌握 CH_dzc CH_a CH_N# CH_# CH_u CH_o
+做好 CH_dz CH_u CH_o CH_h CH_a CH_u
+七千 CH_tsi CH_i CH_tsi CH_i CH_E CH_n#
+國外 CH_g CH_u CH_o CH_# CH_u CH_a CH_i
+政治 CH_dzc CH_@ CH_N# CH_dzc CH_Uc
+財經 CH_ts CH_a CH_i CH_dzi CH_i CH_N#
+眼睛 CH_# CH_i CH_E CH_n# CH_dzi CH_i CH_N#
+半島 CH_b CH_a CH_n# CH_d CH_a CH_u
+恐怖 CH_k CH_o CH_N# CH_b CH_u
+攻擊 CH_g CH_o CH_N# CH_dzi CH_i
+週年 CH_dzc CH_o CH_u CH_n CH_i CH_E CH_n#
+卡達 CH_k CH_a CH_d CH_a
+播出 CH_b CH_u CH_o CH_tsc CH_u
+組織 CH_dz CH_u CH_dzc CH_Uc
+首腦 CH_sc CH_o CH_u CH_n CH_a CH_u
+難找 CH_n CH_a CH_n# CH_dzc CH_a CH_u
+國際 CH_g CH_u CH_o CH_dzi CH_i
+每每 CH_m CH_e CH_i CH_m CH_e CH_i
+檢查 CH_dzi CH_i CH_E CH_n# CH_tsc CH_a
+人員 CH_Zc CH_@ CH_n# CH_# CH_y CH_E CH_n#
+武器 CH_# CH_u CH_tsi CH_i
+自殺 CH_dz CH_U CH_sc CH_a
+炸彈 CH_dzc CH_a CH_d CH_a CH_n#
+巴士 CH_b CH_a CH_sc CH_Uc
+受傷 CH_sc CH_o CH_u CH_sc CH_a CH_N#
+和平 CH_h CH_@ CH_p CH_i CH_N#
+約旦 CH_# CH_y CH_E CH_d CH_a CH_n#
+埃及 CH_# CH_a CH_i CH_dzi CH_i
+路線 CH_l CH_u CH_si CH_i CH_E CH_n#
+底層 CH_d CH_i CH_ts CH_@ CH_N#
+緊張 CH_dzi CH_i CH_n# CH_dzc CH_a CH_N#
+情勢 CH_tsi CH_i CH_N# CH_sc CH_Uc
+升高 CH_sc CH_@ CH_N# CH_g CH_a CH_u
+激進 CH_dzi CH_i CH_dzi CH_i CH_n#
+發動 CH_f CH_a CH_d CH_o CH_N#
+事件 CH_sc CH_Uc CH_dzi CH_i CH_E CH_n#
+領袖 CH_l CH_i CH_N# CH_si CH_i CH_o CH_u
+囫圇 CH_h CH_u CH_l CH_u CH_@ CH_n#
+總部 CH_dz CH_o CH_N# CH_b CH_u
+危險 CH_# CH_u CH_e CH_i CH_si CH_i CH_E CH_n#
+九月 CH_dzi CH_i CH_o CH_u CH_# CH_y CH_E
+十號 CH_sc CH_Uc CH_h CH_a CH_u
+糾紛 CH_dzi CH_i CH_o CH_u CH_f CH_@ CH_n#
+有關 CH_# CH_i CH_o CH_u CH_g CH_u CH_a CH_n#
+反對 CH_f CH_a CH_n# CH_d CH_u CH_e CH_i
+包圍 CH_b CH_a CH_u CH_# CH_u CH_e CH_i
+其它 CH_tsi CH_i CH_t CH_a
+忘掉 CH_# CH_u CH_a CH_N# CH_d CH_i CH_a CH_u
+聽聽 CH_t CH_i CH_N# CH_t CH_i CH_N#
+啁啾 CH_dzc CH_o CH_u CH_dzi CH_i CH_o CH_u
+當場 CH_d CH_a CH_N# CH_tsc CH_a CH_N#
+白宮 CH_b CH_a CH_i CH_g CH_o CH_N#
+呼籲 CH_h CH_u CH_# CH_y
+華府 CH_h CH_u CH_a CH_f CH_u
+法國 CH_f CH_a CH_g CH_u CH_o
+華航 CH_h CH_u CH_a CH_h CH_a CH_N#
+個中 CH_g CH_@ CH_dzc CH_o CH_N#
+德國 CH_d CH_@ CH_g CH_u CH_o
+教材 CH_dzi CH_i CH_a CH_u CH_ts CH_a CH_i
+查到 CH_tsc CH_a CH_d CH_a CH_u
+網址 CH_# CH_u CH_a CH_N# CH_dzc CH_Uc
+年級 CH_n CH_i CH_E CH_n# CH_dzi CH_i
+具備 CH_dzi CH_y CH_b CH_e CH_i
+合適 CH_h CH_@ CH_sc CH_Uc
+模型 CH_m CH_u CH_o CH_si CH_i CH_N#
+硬體 CH_# CH_i CH_N# CH_t CH_i
+獲得 CH_h CH_u CH_o CH_d CH_@
+兩者 CH_l CH_i CH_a CH_N# CH_dzc CH_@
+枯燥 CH_k CH_u CH_dz CH_a CH_u
+有趣 CH_# CH_i CH_o CH_u CH_tsi CH_y
+校園 CH_si CH_i CH_a CH_u CH_# CH_y CH_E CH_n#
+大一 CH_d CH_a CH_# CH_i
+大二 CH_d CH_a CH_# CH_@c
+文章 CH_# CH_u CH_@ CH_n# CH_dzc CH_a CH_N#
+地方 CH_d CH_i CH_f CH_a CH_N#
+機會 CH_dzi CH_i CH_h CH_u CH_e CH_i
+體會 CH_t CH_i CH_h CH_u CH_e CH_i
+形成 CH_si CH_i CH_N# CH_tsc CH_@ CH_N#
+全全 CH_tsi CH_y CH_E CH_n# CH_tsi CH_y CH_E CH_n#
+強調 CH_tsi CH_i CH_a CH_N# CH_d CH_i CH_a CH_u
+樣子 CH_# CH_i CH_a CH_N# CH_dz CH_U
+全面 CH_tsi CH_y CH_E CH_n# CH_m CH_i CH_E CH_n#
+專門 CH_dzc CH_u CH_a CH_n# CH_m CH_@ CH_n#
+讀書 CH_d CH_u CH_sc CH_u
+努力 CH_n CH_u CH_l CH_i
+範圍 CH_f CH_a CH_n# CH_# CH_u CH_e CH_i
+期末 CH_tsi CH_i CH_m CH_u CH_o
+合寫 CH_h CH_@ CH_si CH_i CH_E
+休息 CH_si CH_i CH_o CH_u CH_si CH_i
+分鐘 CH_f CH_@ CH_n# CH_dzc CH_o CH_N#
+想法 CH_si CH_i CH_a CH_N# CH_f CH_a
+標準 CH_b CH_i CH_a CH_u CH_dzc CH_u CH_@ CH_n#
+位置 CH_# CH_u CH_e CH_i CH_dzc CH_Uc
+向量 CH_si CH_i CH_a CH_N# CH_l CH_i CH_a CH_N#
+建成 CH_dzi CH_i CH_E CH_n# CH_tsc CH_@ CH_N#
+未知 CH_# CH_u CH_e CH_i CH_dzc CH_Uc
+多麼 CH_d CH_u CH_o CH_m CH_@
+天下 CH_t CH_i CH_E CH_n# CH_si CH_i CH_a
+話說 CH_h CH_u CH_a CH_sc CH_u CH_o
+比喻 CH_b CH_i CH_# CH_y
+兩樣 CH_l CH_i CH_a CH_N# CH_# CH_i CH_a CH_N#
+頭髮 CH_t CH_o CH_u CH_f CH_a
+衣服 CH_# CH_i CH_f CH_u
+偶爾 CH_# CH_o CH_u CH_# CH_@c
+照片 CH_dzc CH_a CH_u CH_p CH_i CH_E CH_n#
+九十 CH_dzi CH_i CH_o CH_u CH_sc CH_Uc
+六萬 CH_l CH_i CH_o CH_u CH_# CH_u CH_a CH_n#
+次方 CH_ts CH_U CH_f CH_a CH_N#
+數十 CH_sc CH_u CH_sc CH_Uc
+數百 CH_sc CH_u CH_b CH_a CH_i
+常用 CH_tsc CH_a CH_N# CH_# CH_y CH_o CH_N#
+像是 CH_si CH_i CH_a CH_N# CH_sc CH_Uc
+連串 CH_l CH_i CH_E CH_n# CH_tsc CH_u CH_a CH_n#
+十億 CH_sc CH_Uc CH_# CH_i
+詳細 CH_si CH_i CH_a CH_N# CH_si CH_i
+三三 CH_s CH_a CH_n# CH_s CH_a CH_n#
+垃圾 CH_l CH_@ CH_s CH_@
+哪裡 CH_n CH_a CH_l CH_i
+大量 CH_d CH_a CH_l CH_i CH_a CH_N#
+想必 CH_si CH_i CH_a CH_N# CH_b CH_i
+因應 CH_# CH_i CH_n# CH_# CH_i CH_N#
+開會 CH_k CH_a CH_i CH_h CH_u CH_e CH_i
+寫完 CH_si CH_i CH_E CH_# CH_u CH_a CH_n#
+傳到 CH_tsc CH_u CH_a CH_n# CH_d CH_a CH_u
+理想 CH_l CH_i CH_si CH_i CH_a CH_N#
+解決 CH_dzi CH_i CH_E CH_dzi CH_y CH_E
+丟掉 CH_d CH_i CH_o CH_u CH_d CH_i CH_a CH_u
+微弱 CH_# CH_u CH_e CH_i CH_Zc CH_u CH_o
+著手 CH_dzc CH_u CH_o CH_sc CH_o CH_u
+克服 CH_k CH_@ CH_f CH_u
+清晰 CH_tsi CH_i CH_N# CH_si CH_i
+聰明 CH_ts CH_o CH_N# CH_m CH_i CH_N#
+尚未 CH_sc CH_a CH_N# CH_# CH_u CH_e CH_i
+作法 CH_dz CH_u CH_o CH_f CH_a
+規則 CH_g CH_u CH_e CH_i CH_dz CH_@
+對於 CH_d CH_u CH_e CH_i CH_# CH_y
+長有 CH_dzc CH_a CH_N# CH_# CH_i CH_o CH_u
+難題 CH_n CH_a CH_n# CH_t CH_i
+調調 CH_t CH_i CH_a CH_u CH_t CH_i CH_a CH_u
+調調 CH_d CH_i CH_a CH_u CH_d CH_i CH_a CH_u
+頓挫 CH_d CH_u CH_@ CH_n# CH_ts CH_u CH_o
+人本 CH_Zc CH_@ CH_n# CH_b CH_@ CH_n#
+相對 CH_si CH_i CH_a CH_N# CH_d CH_u CH_e CH_i
+比起 CH_b CH_i CH_tsi CH_i
+中華 CH_dzc CH_o CH_N# CH_h CH_u CH_a
+電信 CH_d CH_i CH_E CH_n# CH_si CH_i CH_n#
+帶去 CH_d CH_a CH_i CH_tsi CH_y
+預先 CH_# CH_y CH_si CH_i CH_E CH_n#
+陸續 CH_l CH_u CH_si CH_y
+介紹 CH_dzi CH_i CH_E CH_sc CH_a CH_u
+確認 CH_tsi CH_y CH_E CH_Zc CH_@ CH_n#
+誤差 CH_# CH_u CH_tsc CH_a
+結合 CH_dzi CH_i CH_E CH_h CH_@
+抽出 CH_tsc CH_o CH_u CH_tsc CH_u
+操控 CH_ts CH_a CH_u CH_k CH_o CH_N#
+流程 CH_l CH_i CH_o CH_u CH_tsc CH_@ CH_N#
+常見 CH_tsc CH_a CH_N# CH_dzi CH_i CH_E CH_n#
+出發 CH_tsc CH_u CH_f CH_a
+地點 CH_d CH_i CH_d CH_i CH_E CH_n#
+航空 CH_h CH_a CH_N# CH_k CH_o CH_N#
+長榮 CH_tsc CH_a CH_N# CH_Zc CH_o CH_N#
+買到 CH_m CH_a CH_i CH_d CH_a CH_u
+懷疑 CH_h CH_u CH_a CH_i CH_# CH_i
+幫助 CH_b CH_a CH_N# CH_dzc CH_u
+兼顧 CH_dzi CH_i CH_E CH_n# CH_g CH_u
+好些 CH_h CH_a CH_u CH_si CH_i CH_E
+成功 CH_tsc CH_@ CH_N# CH_g CH_o CH_N#
+數目 CH_sc CH_u CH_m CH_u
+多元 CH_d CH_u CH_o CH_# CH_y CH_E CH_n#
+不只 CH_b CH_u CH_dzc CH_Uc
+人人 CH_Zc CH_@ CH_n# CH_Zc CH_@ CH_n#
+家家 CH_dzi CH_i CH_a CH_dzi CH_i CH_a
+詞彙 CH_ts CH_U CH_h CH_u CH_e CH_i
+形式 CH_si CH_i CH_N# CH_sc CH_Uc
+夾雜 CH_dzi CH_i CH_a CH_dz CH_a
+橫跨 CH_h CH_@ CH_N# CH_k CH_u CH_a
+八大 CH_b CH_a CH_d CH_a
+語系 CH_# CH_y CH_si CH_i
+一帶 CH_# CH_i CH_d CH_a CH_i
+大陸 CH_d CH_a CH_l CH_u
+數千 CH_sc CH_u CH_tsi CH_i CH_E CH_n#
+同一 CH_t CH_o CH_N# CH_# CH_i
+發音 CH_f CH_a CH_# CH_i CH_n#
+漢字 CH_h CH_a CH_n# CH_dz CH_U
+台語 CH_t CH_a CH_i CH_# CH_y
+以國 CH_# CH_i CH_g CH_u CH_o
+難度 CH_n CH_a CH_n# CH_d CH_u
+四川 CH_s CH_U CH_tsc CH_u CH_a CH_n#
+上海 CH_sc CH_a CH_N# CH_h CH_a CH_i
+通話 CH_t CH_o CH_N# CH_h CH_u CH_a
+四千 CH_s CH_U CH_tsi CH_i CH_E CH_n#
+六千 CH_l CH_i CH_o CH_u CH_tsi CH_i CH_E CH_n#
+消失 CH_si CH_i CH_a CH_u CH_sc CH_Uc
+文化 CH_# CH_u CH_@ CH_n# CH_h CH_u CH_a
+趨向 CH_tsi CH_y CH_si CH_i CH_a CH_N#
+入關 CH_Zc CH_u CH_g CH_u CH_a CH_n#
+據說 CH_dzi CH_y CH_sc CH_u CH_o
+好幾 CH_h CH_a CH_u CH_dzi CH_i
+村落 CH_ts CH_u CH_@ CH_n# CH_l CH_u CH_o
+甚而 CH_sc CH_@ CH_n# CH_# CH_@c
+推廣 CH_t CH_u CH_e CH_i CH_g CH_u CH_a CH_N#
+教育 CH_dzi CH_i CH_a CH_u CH_# CH_y
+講究 CH_dzi CH_i CH_a CH_N# CH_dzi CH_i CH_o CH_u
+分辨 CH_f CH_@ CH_n# CH_b CH_i CH_E CH_n#
+原則 CH_# CH_y CH_E CH_n# CH_dz CH_@
+盡量 CH_dzi CH_i CH_n# CH_l CH_i CH_a CH_N#
+共有 CH_g CH_o CH_N# CH_# CH_i CH_o CH_u
+五六 CH_# CH_u CH_l CH_i CH_o CH_u
+丟到 CH_d CH_i CH_o CH_u CH_d CH_a CH_u
+分散 CH_f CH_@ CH_n# CH_s CH_a CH_n#
+人士 CH_Zc CH_@ CH_n# CH_sc CH_Uc
+傳輸 CH_tsc CH_u CH_a CH_n# CH_sc CH_u
+檔案 CH_d CH_a CH_N# CH_# CH_a CH_n#
+會會 CH_h CH_u CH_e CH_i CH_h CH_u CH_e CH_i
+做法 CH_dz CH_u CH_o CH_f CH_a
+抽象 CH_tsc CH_o CH_u CH_si CH_i CH_a CH_N#
+保護 CH_b CH_a CH_u CH_h CH_u
+對付 CH_d CH_u CH_e CH_i CH_f CH_u
+保證 CH_b CH_a CH_u CH_dzc CH_@ CH_N#
+教授 CH_dzi CH_i CH_a CH_u CH_sc CH_o CH_u
+上到 CH_sc CH_a CH_N# CH_d CH_a CH_u
+恢復 CH_h CH_u CH_e CH_i CH_f CH_u
+直覺 CH_dzc CH_Uc CH_dzi CH_y CH_E
+垂直 CH_tsc CH_u CH_e CH_i CH_dzc CH_Uc
+用到 CH_# CH_y CH_o CH_N# CH_d CH_a CH_u
+無限 CH_# CH_u CH_si CH_i CH_E CH_n#
+二一 CH_# CH_@c CH_# CH_i
+直到 CH_dzc CH_Uc CH_d CH_a CH_u
+整數 CH_dzc CH_@ CH_N# CH_sc CH_u
+式子 CH_sc CH_Uc CH_dz CH_U
+說給 CH_sc CH_u CH_o CH_g CH_e CH_i
+成長 CH_tsc CH_@ CH_N# CH_dzc CH_a CH_N#
+任意 CH_Zc CH_@ CH_n# CH_# CH_i
+物理 CH_# CH_u CH_l CH_i
+上來 CH_sc CH_a CH_N# CH_l CH_a CH_i
+求出 CH_tsi CH_i CH_o CH_u CH_tsc CH_u
+排隊 CH_p CH_a CH_i CH_d CH_u CH_e CH_i
+加成 CH_dzi CH_i CH_a CH_tsc CH_@ CH_N#
+零一 CH_l CH_i CH_N# CH_# CH_i
+隨著 CH_s CH_u CH_e CH_i CH_dzc CH_@
+比照 CH_b CH_i CH_dzc CH_a CH_u
+寫法 CH_si CH_i CH_E CH_f CH_a
+相同 CH_si CH_i CH_a CH_N# CH_t CH_o CH_N#
+拆解 CH_tsc CH_a CH_i CH_dzi CH_i CH_E
+如此 CH_Zc CH_u CH_ts CH_U
+軸上 CH_dzc CH_o CH_u CH_sc CH_a CH_N#
+嚴重 CH_# CH_i CH_E CH_n# CH_dzc CH_o CH_N#
+擺在 CH_b CH_a CH_i CH_dz CH_a CH_i
+小我 CH_si CH_i CH_a CH_u CH_# CH_u CH_o
+顏色 CH_# CH_i CH_E CH_n# CH_s CH_@
+顏色 CH_# CH_i CH_E CH_n# CH_sc CH_a CH_i
+若是 CH_Zc CH_u CH_o CH_sc CH_Uc
+第五 CH_d CH_i CH_# CH_u
+第六 CH_d CH_i CH_l CH_i CH_o CH_u
+第七 CH_d CH_i CH_tsi CH_i
+多所 CH_d CH_u CH_o CH_s CH_u CH_o
+會長 CH_h CH_u CH_e CH_i CH_dzc CH_a CH_N#
+移到 CH_# CH_i CH_d CH_a CH_u
+交集 CH_dzi CH_i CH_a CH_u CH_dzi CH_i
+部份 CH_b CH_u CH_f CH_@ CH_n#
+相交 CH_si CH_i CH_a CH_N# CH_dzi CH_i CH_a CH_u
+重疊 CH_tsc CH_o CH_N# CH_d CH_i CH_E
+結論 CH_dzi CH_i CH_E CH_l CH_u CH_@ CH_n#
+完整 CH_# CH_u CH_a CH_n# CH_dzc CH_@ CH_N#
+小學 CH_si CH_i CH_a CH_u CH_si CH_y CH_E
+及格 CH_dzi CH_i CH_g CH_@
+回想 CH_h CH_u CH_e CH_i CH_si CH_i CH_a CH_N#
+集合 CH_dzi CH_i CH_h CH_@
+等一 CH_d CH_@ CH_N# CH_# CH_i
+嚴謹 CH_# CH_i CH_E CH_n# CH_dzi CH_i CH_n#
+長度 CH_tsc CH_a CH_N# CH_d CH_u
+此外 CH_ts CH_U CH_# CH_u CH_a CH_i
+正一 CH_dzc CH_@ CH_N# CH_# CH_i
+相似 CH_si CH_i CH_a CH_N# CH_s CH_U
+成就 CH_tsc CH_@ CH_N# CH_dzi CH_i CH_o CH_u
+相反 CH_si CH_i CH_a CH_N# CH_f CH_a CH_n#
+一了 CH_# CH_i CH_l CH_i CH_a CH_u
+反映 CH_f CH_a CH_n# CH_# CH_i CH_N#
+一致 CH_# CH_i CH_dzc CH_Uc
+交換 CH_dzi CH_i CH_a CH_u CH_h CH_u CH_a CH_n#
+先後 CH_si CH_i CH_E CH_n# CH_h CH_o CH_u
+運算 CH_# CH_y CH_n# CH_s CH_u CH_a CH_n#
+事先 CH_sc CH_Uc CH_si CH_i CH_E CH_n#
+難以 CH_n CH_a CH_n# CH_# CH_i
+除掉 CH_tsc CH_u CH_d CH_i CH_a CH_u
+彼此 CH_b CH_i CH_ts CH_U
+檢視 CH_dzi CH_i CH_E CH_n# CH_sc CH_Uc
+放大 CH_f CH_a CH_N# CH_d CH_a
+黃色 CH_h CH_u CH_a CH_N# CH_s CH_@
+綠色 CH_l CH_y CH_s CH_@
+之類 CH_dzc CH_Uc CH_l CH_e CH_i
+數字 CH_sc CH_u CH_dz CH_U
+更多 CH_g CH_@ CH_N# CH_d CH_u CH_o
+是非 CH_sc CH_Uc CH_f CH_e CH_i
+散成 CH_s CH_a CH_n# CH_tsc CH_@ CH_N#
+化成 CH_h CH_u CH_a CH_tsc CH_@ CH_N#
+平行 CH_p CH_i CH_N# CH_si CH_i CH_N#
+為了 CH_# CH_u CH_e CH_i CH_l CH_@
+換一 CH_h CH_u CH_a CH_n# CH_# CH_i
+怪怪 CH_g CH_u CH_a CH_i CH_g CH_u CH_a CH_i
+他用 CH_t CH_a CH_# CH_y CH_o CH_N#
+之一 CH_dzc CH_Uc CH_# CH_i
+面積 CH_m CH_i CH_E CH_n# CH_dzi CH_i
+面對 CH_m CH_i CH_E CH_n# CH_d CH_u CH_e CH_i
+大加 CH_d CH_a CH_dzi CH_i CH_a
+就學 CH_dzi CH_i CH_o CH_u CH_si CH_y CH_E
+搬到 CH_b CH_a CH_n# CH_d CH_a CH_u
+較少 CH_dzi CH_i CH_a CH_u CH_sc CH_a CH_u
+超出 CH_tsc CH_a CH_u CH_tsc CH_u
+總是 CH_dz CH_o CH_N# CH_sc CH_Uc
+組成 CH_dz CH_u CH_tsc CH_@ CH_N#
+誤解 CH_# CH_u CH_dzi CH_i CH_E
+故意 CH_g CH_u CH_# CH_i
+才能 CH_ts CH_a CH_i CH_n CH_@ CH_N#
+朋友 CH_p CH_o CH_N# CH_# CH_i CH_o CH_u
+固定 CH_g CH_u CH_d CH_i CH_N#
+好多 CH_h CH_a CH_u CH_d CH_u CH_o
+初步 CH_tsc CH_u CH_b CH_u
+普遍 CH_p CH_u CH_b CH_i CH_E CH_n#
+一零 CH_# CH_i CH_l CH_i CH_N#
+重來 CH_tsc CH_o CH_N# CH_l CH_a CH_i
+變更 CH_b CH_i CH_E CH_n# CH_g CH_@ CH_N#
+大約 CH_d CH_a CH_# CH_y CH_E
+一二 CH_# CH_i CH_# CH_@c
+二二 CH_# CH_@c CH_# CH_@c
+一三 CH_# CH_i CH_s CH_a CH_n#
+二三 CH_# CH_@c CH_s CH_a CH_n#
+二四 CH_# CH_@c CH_s CH_U
+究竟 CH_dzi CH_i CH_o CH_u CH_dzi CH_i CH_N#
+八九 CH_b CH_a CH_dzi CH_i CH_o CH_u
+留在 CH_l CH_i CH_o CH_u CH_dz CH_a CH_i
+跳出 CH_t CH_i CH_a CH_u CH_tsc CH_u
+停留 CH_t CH_i CH_N# CH_l CH_i CH_o CH_u
+長短 CH_tsc CH_a CH_N# CH_d CH_u CH_a CH_n#
+長多 CH_tsc CH_a CH_N# CH_d CH_u CH_o
+長多 CH_dzc CH_a CH_N# CH_d CH_u CH_o
+以免 CH_# CH_i CH_m CH_i CH_E CH_n#
+太過 CH_t CH_a CH_i CH_g CH_u CH_o
+甚至 CH_sc CH_@ CH_n# CH_dzc CH_Uc
+簡直 CH_dzi CH_i CH_E CH_n# CH_dzc CH_Uc
+組合 CH_dz CH_u CH_h CH_@
+名字 CH_m CH_i CH_N# CH_dz CH_U
+看中 CH_k CH_a CH_n# CH_dzc CH_o CH_N#
+翻開 CH_f CH_a CH_n# CH_k CH_a CH_i
+白色 CH_b CH_a CH_i CH_s CH_@
+相鄰 CH_si CH_i CH_a CH_N# CH_l CH_i CH_n#
+成績 CH_tsc CH_@ CH_N# CH_dzi CH_i
+十分 CH_sc CH_Uc CH_f CH_@ CH_n#
+表現 CH_b CH_i CH_a CH_u CH_si CH_i CH_E CH_n#
+畫出 CH_h CH_u CH_a CH_tsc CH_u
+邊緣 CH_b CH_i CH_E CH_n# CH_# CH_y CH_E CH_n#
+三組 CH_s CH_a CH_n# CH_dz CH_u
+雙重 CH_sc CH_u CH_a CH_N# CH_tsc CH_o CH_N#
+隨機 CH_s CH_u CH_e CH_i CH_dzi CH_i
+對上 CH_d CH_u CH_e CH_i CH_sc CH_a CH_N#
+解法 CH_dzi CH_i CH_E CH_f CH_a
+還好 CH_h CH_a CH_i CH_h CH_a CH_u
+調到 CH_t CH_i CH_a CH_u CH_d CH_a CH_u
+討論 CH_t CH_a CH_u CH_l CH_u CH_@ CH_n#
+四月 CH_s CH_U CH_# CH_y CH_E
+道上 CH_d CH_a CH_u CH_sc CH_a CH_N#
+原地 CH_# CH_y CH_E CH_n# CH_d CH_i
+補充 CH_b CH_u CH_tsc CH_o CH_N#
+比例 CH_b CH_i CH_l CH_i
+幕後 CH_m CH_u CH_h CH_o CH_u
+白白 CH_b CH_a CH_i CH_b CH_a CH_i
+概說 CH_g CH_a CH_i CH_sc CH_u CH_o
+前端 CH_tsi CH_i CH_E CH_n# CH_d CH_u CH_a CH_n#
+震動 CH_dzc CH_@ CH_n# CH_d CH_o CH_N#
+拉高 CH_l CH_a CH_g CH_a CH_u
+充滿 CH_tsc CH_o CH_N# CH_m CH_a CH_n#
+說完 CH_sc CH_u CH_o CH_# CH_u CH_a CH_n#
+除非 CH_tsc CH_u CH_f CH_e CH_i
+吵架 CH_tsc CH_a CH_u CH_dzi CH_i CH_a
+用途 CH_# CH_y CH_o CH_N# CH_t CH_u
+這兒 CH_dzc CH_@ CH_# CH_@c
+精神 CH_dzi CH_i CH_N# CH_sc CH_@ CH_n#
+教室 CH_dzi CH_i CH_a CH_u CH_sc CH_Uc
+背景 CH_b CH_e CH_i CH_dzi CH_i CH_N#
+要不 CH_# CH_i CH_a CH_u CH_b CH_u
+開機 CH_k CH_a CH_i CH_dzi CH_i
+吵雜 CH_tsc CH_a CH_u CH_dz CH_a
+大聲 CH_d CH_a CH_sc CH_@ CH_N#
+尤其 CH_# CH_i CH_o CH_u CH_tsi CH_i
+餐廳 CH_ts CH_a CH_n# CH_t CH_i CH_N#
+順便 CH_sc CH_u CH_@ CH_n# CH_b CH_i CH_E CH_n#
+利用 CH_l CH_i CH_# CH_y CH_o CH_N#
+所得 CH_s CH_u CH_o CH_d CH_@
+算到 CH_s CH_u CH_a CH_n# CH_d CH_a CH_u
+醫學 CH_# CH_i CH_si CH_y CH_E
+學人 CH_si CH_y CH_E CH_Zc CH_@ CH_n#
+神經 CH_sc CH_@ CH_n# CH_dzi CH_i CH_N#
+難道 CH_n CH_a CH_n# CH_d CH_a CH_u
+科學 CH_k CH_@ CH_si CH_y CH_E
+距離 CH_dzi CH_y CH_l CH_i
+以下 CH_# CH_i CH_si CH_i CH_a
+音樂 CH_# CH_i CH_n# CH_# CH_y CH_E
+細膩 CH_si CH_i CH_n CH_i
+精細 CH_dzi CH_i CH_N# CH_si CH_i
+用語 CH_# CH_y CH_o CH_N# CH_# CH_y
+替代 CH_t CH_i CH_d CH_a CH_i
+六一 CH_l CH_i CH_o CH_u CH_# CH_i
+三四 CH_s CH_a CH_n# CH_s CH_U
+四五 CH_s CH_U CH_# CH_u
+五千 CH_# CH_u CH_tsi CH_i CH_E CH_n#
+五十 CH_# CH_u CH_sc CH_Uc
+次數 CH_ts CH_U CH_sc CH_u
+普通 CH_p CH_u CH_t CH_o CH_N#
+裝上 CH_dzc CH_u CH_a CH_N# CH_sc CH_a CH_N#
+連結 CH_l CH_i CH_E CH_n# CH_dzi CH_i CH_E
+好用 CH_h CH_a CH_u CH_# CH_y CH_o CH_N#
+好不 CH_h CH_a CH_u CH_b CH_u
+觀測 CH_g CH_u CH_a CH_n# CH_ts CH_@
+氣溫 CH_tsi CH_i CH_# CH_u CH_@ CH_n#
+陰天 CH_# CH_i CH_n# CH_t CH_i CH_E CH_n#
+雨天 CH_# CH_y CH_t CH_i CH_E CH_n#
+純粹 CH_tsc CH_u CH_@ CH_n# CH_ts CH_u CH_e CH_i
+月份 CH_# CH_y CH_E CH_f CH_@ CH_n#
+三等 CH_s CH_a CH_n# CH_d CH_@ CH_N#
+千萬 CH_tsi CH_i CH_E CH_n# CH_# CH_u CH_a CH_n#
+週末 CH_dzc CH_o CH_u CH_m CH_u CH_o
+星期 CH_si CH_i CH_N# CH_tsi CH_i
+白天 CH_b CH_a CH_i CH_t CH_i CH_E CH_n#
+舉手 CH_dzi CH_y CH_sc CH_o CH_u
+下午 CH_si CH_i CH_a CH_# CH_u
+七號 CH_tsi CH_i CH_h CH_a CH_u
+四下 CH_s CH_U CH_si CH_i CH_a
+週二 CH_dzc CH_o CH_u CH_# CH_@c
+四號 CH_s CH_U CH_h CH_a CH_u
+八號 CH_b CH_a CH_h CH_a CH_u
+按照 CH_# CH_a CH_n# CH_dzc CH_a CH_u
+放假 CH_f CH_a CH_N# CH_dzi CH_i CH_a
+較多 CH_dzi CH_i CH_a CH_u CH_d CH_u CH_o
+可行 CH_k CH_@ CH_si CH_i CH_N#
+週六 CH_dzc CH_o CH_u CH_l CH_i CH_o CH_u
+想好 CH_si CH_i CH_a CH_N# CH_h CH_a CH_u
+不可 CH_b CH_u CH_k CH_@
+輕鬆 CH_tsi CH_i CH_N# CH_s CH_o CH_N#
+互換 CH_h CH_u CH_h CH_u CH_a CH_n#
+分配 CH_f CH_@ CH_n# CH_p CH_e CH_i
+單一 CH_d CH_a CH_n# CH_# CH_i
+合乎 CH_h CH_@ CH_h CH_u
+大都 CH_d CH_a CH_d CH_u
+版本 CH_b CH_a CH_n# CH_b CH_@ CH_n#
+必然 CH_b CH_i CH_Zc CH_a CH_n#
+電路 CH_d CH_i CH_E CH_n# CH_l CH_u
+觀點 CH_g CH_u CH_a CH_n# CH_d CH_i CH_E CH_n#
+充分 CH_tsc CH_o CH_N# CH_f CH_@ CH_n#
+必要 CH_b CH_i CH_# CH_i CH_a CH_u
+古老 CH_g CH_u CH_l CH_a CH_u
+延伸 CH_# CH_i CH_E CH_n# CH_sc CH_@ CH_n#
+牆壁 CH_tsi CH_i CH_a CH_N# CH_b CH_i
+反射 CH_f CH_a CH_n# CH_sc CH_@
+金屬 CH_dzi CH_i CH_n# CH_sc CH_u
+反應 CH_f CH_a CH_n# CH_# CH_i CH_N#
+破爛 CH_p CH_u CH_o CH_l CH_a CH_n#
+想想 CH_si CH_i CH_a CH_N# CH_si CH_i CH_a CH_N#
+看上 CH_k CH_a CH_n# CH_sc CH_a CH_N#
+沒完 CH_m CH_e CH_i CH_# CH_u CH_a CH_n#
+不妨 CH_b CH_u CH_f CH_a CH_N#
+用完 CH_# CH_y CH_o CH_N# CH_# CH_u CH_a CH_n#
+接收 CH_dzi CH_i CH_E CH_sc CH_o CH_u
+通信 CH_t CH_o CH_N# CH_si CH_i CH_n#
+照樣 CH_dzc CH_a CH_u CH_# CH_i CH_a CH_N#
+學電 CH_si CH_y CH_E CH_d CH_i CH_E CH_n#
+電流 CH_d CH_i CH_E CH_n# CH_l CH_i CH_o CH_u
+電壓 CH_d CH_i CH_E CH_n# CH_# CH_i CH_a
+寫出 CH_si CH_i CH_E CH_tsc CH_u
+輔助 CH_f CH_u CH_dzc CH_u
+細說 CH_si CH_i CH_sc CH_u CH_o
+結束 CH_dzi CH_i CH_E CH_sc CH_u
+畫法 CH_h CH_u CH_a CH_f CH_a
+減到 CH_dzi CH_i CH_E CH_n# CH_d CH_a CH_u
+工具 CH_g CH_o CH_N# CH_dzi CH_y
+為三 CH_# CH_u CH_e CH_i CH_s CH_a CH_n#
+當做 CH_d CH_a CH_N# CH_dz CH_u CH_o
+舒服 CH_sc CH_u CH_f CH_u
+乾脆 CH_g CH_a CH_n# CH_ts CH_u CH_e CH_i
+推出 CH_t CH_u CH_e CH_i CH_tsc CH_u
+接受 CH_dzi CH_i CH_E CH_sc CH_o CH_u
+傳統 CH_tsc CH_u CH_a CH_n# CH_t CH_o CH_N#
+忽然 CH_h CH_u CH_Zc CH_a CH_n#
+自我 CH_dz CH_U CH_# CH_u CH_o
+罷工 CH_b CH_a CH_g CH_o CH_N#
+二來 CH_# CH_@c CH_l CH_a CH_i
+次之 CH_ts CH_U CH_dzc CH_Uc
+聯絡 CH_l CH_i CH_E CH_n# CH_l CH_u CH_o
+一兩 CH_# CH_i CH_l CH_i CH_a CH_N#
+寄給 CH_dzi CH_i CH_g CH_e CH_i
+優先 CH_# CH_i CH_o CH_u CH_si CH_i CH_E CH_n#
+會考 CH_h CH_u CH_e CH_i CH_k CH_a CH_u
+消化 CH_si CH_i CH_a CH_u CH_h CH_u CH_a
+解答 CH_dzi CH_i CH_E CH_d CH_a
+失掉 CH_sc CH_Uc CH_d CH_i CH_a CH_u
+期中 CH_tsi CH_i CH_dzc CH_o CH_N#
+連絡 CH_l CH_i CH_E CH_n# CH_l CH_u CH_o
+人數 CH_Zc CH_@ CH_n# CH_sc CH_u
+服務 CH_f CH_u CH_# CH_u
+諒解 CH_l CH_i CH_a CH_N# CH_dzi CH_i CH_E
+閱卷 CH_# CH_y CH_E CH_dzi CH_y CH_E CH_n#
+去年 CH_tsi CH_y CH_n CH_i CH_E CH_n#
+發給 CH_f CH_a CH_g CH_e CH_i
+輪流 CH_l CH_u CH_@ CH_n# CH_l CH_i CH_o CH_u
+今年 CH_dzi CH_i CH_n# CH_n CH_i CH_E CH_n#
+明年 CH_m CH_i CH_N# CH_n CH_i CH_E CH_n#
+唸書 CH_n CH_i CH_E CH_n# CH_sc CH_u
+落後 CH_l CH_u CH_o CH_h CH_o CH_u
+五月 CH_# CH_u CH_# CH_y CH_E
+耽誤 CH_d CH_a CH_n# CH_# CH_u
+無可 CH_# CH_u CH_k CH_@
+排好 CH_p CH_a CH_i CH_h CH_a CH_u
+上午 CH_sc CH_a CH_N# CH_# CH_u
+一號 CH_# CH_i CH_h CH_a CH_u
+九號 CH_dzi CH_i CH_o CH_u CH_h CH_a CH_u
+提前 CH_t CH_i CH_tsi CH_i CH_E CH_n#
+種有 CH_dzc CH_o CH_N# CH_# CH_i CH_o CH_u
+取到 CH_tsi CH_y CH_d CH_a CH_u
+疑問 CH_# CH_i CH_# CH_u CH_@ CH_n#
+走完 CH_dz CH_o CH_u CH_# CH_u CH_a CH_n#
+涉及 CH_sc CH_@ CH_dzi CH_i
+要點 CH_# CH_i CH_a CH_u CH_d CH_i CH_E CH_n#
+章節 CH_dzc CH_a CH_N# CH_dzi CH_i CH_E
+說詞 CH_sc CH_u CH_o CH_ts CH_U
+正常 CH_dzc CH_@ CH_N# CH_tsc CH_a CH_N#
+用人 CH_# CH_y CH_o CH_N# CH_Zc CH_@ CH_n#
+現場 CH_si CH_i CH_E CH_n# CH_tsc CH_a CH_N#
+修改 CH_si CH_i CH_o CH_u CH_g CH_a CH_i
+集中 CH_dzi CH_i CH_dzc CH_o CH_N#
+做出 CH_dz CH_u CH_o CH_tsc CH_u
+車窗 CH_tsc CH_@ CH_tsc CH_u CH_a CH_N#
+對面 CH_d CH_u CH_e CH_i CH_m CH_i CH_E CH_n#
+失真 CH_sc CH_Uc CH_dzc CH_@ CH_n#
+重大 CH_dzc CH_o CH_N# CH_d CH_a
+不需 CH_b CH_u CH_si CH_y
+那兒 CH_n CH_a CH_# CH_@c
+題材 CH_t CH_i CH_ts CH_a CH_i
+帶有 CH_d CH_a CH_i CH_# CH_i CH_o CH_u
+合作 CH_h CH_@ CH_dz CH_u CH_o
+有名 CH_# CH_i CH_o CH_u CH_m CH_i CH_N#
+旅行 CH_l CH_y CH_si CH_i CH_N#
+嘴唇 CH_dz CH_u CH_e CH_i CH_dzc CH_@ CH_n#
+受到 CH_sc CH_o CH_u CH_d CH_a CH_u
+足夠 CH_dz CH_u CH_g CH_o CH_u
+多加 CH_d CH_u CH_o CH_dzi CH_i CH_a
+不一 CH_b CH_u CH_# CH_i
+怎不 CH_dz CH_@ CH_n# CH_b CH_u
+初期 CH_tsc CH_u CH_tsi CH_i
+聽說 CH_t CH_i CH_N# CH_sc CH_u CH_o
+大為 CH_d CH_a CH_# CH_u CH_e CH_i
+一等 CH_# CH_i CH_d CH_@ CH_N#
+填上 CH_t CH_i CH_E CH_n# CH_sc CH_a CH_N#
+算了 CH_s CH_u CH_a CH_n# CH_l CH_@
+行都 CH_si CH_i CH_N# CH_d CH_u
+倒回 CH_d CH_a CH_u CH_h CH_u CH_e CH_i
+填滿 CH_t CH_i CH_E CH_n# CH_m CH_a CH_n#
+往後 CH_# CH_u CH_a CH_N# CH_h CH_o CH_u
+設成 CH_sc CH_@ CH_tsc CH_@ CH_N#
+加二 CH_dzi CH_i CH_a CH_# CH_@c
+算進 CH_s CH_u CH_a CH_n# CH_dzi CH_i CH_n#
+指說 CH_dzc CH_Uc CH_sc CH_u CH_o
+數值 CH_sc CH_u CH_dzc CH_Uc
+推說 CH_t CH_u CH_e CH_i CH_sc CH_u CH_o
+了當 CH_l CH_i CH_a CH_u CH_d CH_a CH_N#
+做下 CH_dz CH_u CH_o CH_si CH_i CH_a
+最佳 CH_dz CH_u CH_e CH_i CH_dzi CH_i CH_a
+可就 CH_k CH_@ CH_dzi CH_i CH_o CH_u
+導出 CH_d CH_a CH_u CH_tsc CH_u
+書籍 CH_sc CH_u CH_dzi CH_i
+人稱 CH_Zc CH_@ CH_n# CH_tsc CH_@ CH_N#
+到大 CH_d CH_a CH_u CH_d CH_a
+上上 CH_sc CH_a CH_N# CH_sc CH_a CH_N#
+相比 CH_si CH_i CH_a CH_N# CH_b CH_i
+公式 CH_g CH_o CH_N# CH_sc CH_Uc
+標出 CH_b CH_i CH_a CH_u CH_tsc CH_u
+對等 CH_d CH_u CH_e CH_i CH_d CH_@ CH_N#
+分在 CH_f CH_@ CH_n# CH_dz CH_a CH_i
+說說 CH_sc CH_u CH_o CH_sc CH_u CH_o
+換新 CH_h CH_u CH_a CH_n# CH_si CH_i CH_n#
+放回 CH_f CH_a CH_N# CH_h CH_u CH_e CH_i
+重視 CH_dzc CH_o CH_N# CH_sc CH_Uc
+儘量 CH_dzi CH_i CH_n# CH_l CH_i CH_a CH_N#
+模糊 CH_m CH_u CH_o CH_h CH_u
+精緻 CH_dzi CH_i CH_N# CH_dzc CH_Uc
+暫時 CH_dzc CH_a CH_n# CH_sc CH_Uc
+處在 CH_tsc CH_u CH_dz CH_a CH_i
+來源 CH_l CH_a CH_i CH_# CH_y CH_E CH_n#
+遠端 CH_# CH_y CH_E CH_n# CH_d CH_u CH_a CH_n#
+曲線 CH_tsi CH_y CH_si CH_i CH_E CH_n#
+量化 CH_l CH_i CH_a CH_N# CH_h CH_u CH_a
+聯集 CH_l CH_i CH_E CH_n# CH_dzi CH_i
+精確 CH_dzi CH_i CH_N# CH_tsi CH_y CH_E
+留下 CH_l CH_i CH_o CH_u CH_si CH_i CH_a
+畫畫 CH_h CH_u CH_a CH_h CH_u CH_a
+經常 CH_dzi CH_i CH_N# CH_tsc CH_a CH_N#
+精密 CH_dzi CH_i CH_N# CH_m CH_i
+難得 CH_n CH_a CH_n# CH_d CH_@
+容許 CH_Zc CH_o CH_N# CH_si CH_y
+敏感 CH_m CH_i CH_n# CH_g CH_a CH_n#
+分得 CH_f CH_@ CH_n# CH_d CH_@
+偏離 CH_p CH_i CH_E CH_n# CH_l CH_i
+劃分 CH_h CH_u CH_a CH_f CH_@ CH_n#
+少有 CH_sc CH_a CH_u CH_# CH_i CH_o CH_u
+弄得 CH_n CH_o CH_N# CH_d CH_@
+多餘 CH_d CH_u CH_o CH_# CH_y
+準的 CH_dzc CH_u CH_@ CH_n# CH_d CH_i
+允許 CH_# CH_y CH_n# CH_si CH_y
+衍生 CH_# CH_i CH_E CH_n# CH_sc CH_@ CH_N#
+邊界 CH_b CH_i CH_E CH_n# CH_dzi CH_i CH_E
+設定 CH_sc CH_@ CH_d CH_i CH_N#
+想出 CH_si CH_i CH_a CH_N# CH_tsc CH_u
+三角 CH_s CH_a CH_n# CH_dzi CH_i CH_a CH_u
+熟知 CH_sc CH_u CH_dzc CH_Uc
+街道 CH_dzi CH_i CH_E CH_d CH_a CH_u
+城市 CH_tsc CH_@ CH_N# CH_sc CH_Uc
+一萬 CH_# CH_i CH_# CH_u CH_a CH_n#
+差距 CH_tsc CH_a CH_dzi CH_y
+差異 CH_tsc CH_a CH_# CH_i
+顯現 CH_si CH_i CH_E CH_n# CH_si CH_i CH_E CH_n#
+視覺 CH_sc CH_Uc CH_dzi CH_y CH_E
+區域 CH_tsi CH_y CH_# CH_y
+進行 CH_dzi CH_i CH_n# CH_si CH_i CH_N#
+停止 CH_t CH_i CH_N# CH_dzc CH_Uc
+最早 CH_dz CH_u CH_e CH_i CH_dz CH_a CH_u
+指導 CH_dzc CH_Uc CH_d CH_a CH_u
+發明 CH_f CH_a CH_m CH_i CH_N#
+一減 CH_# CH_i CH_dzi CH_i CH_E CH_n#
+拆掉 CH_tsc CH_a CH_i CH_d CH_i CH_a CH_u
+跑到 CH_p CH_a CH_u CH_d CH_a CH_u
+次於 CH_ts CH_U CH_# CH_y
+附近 CH_f CH_u CH_dzi CH_i CH_n#
+分部 CH_f CH_@ CH_n# CH_b CH_u
+跑完 CH_p CH_a CH_u CH_# CH_u CH_a CH_n#
+四段 CH_s CH_U CH_d CH_u CH_a CH_n#
+步驟 CH_b CH_u CH_dz CH_o CH_u
+去除 CH_tsi CH_y CH_tsc CH_u
+起始 CH_tsi CH_i CH_sc CH_Uc
+沒用 CH_m CH_e CH_i CH_# CH_y CH_o CH_N#
+牽涉 CH_tsi CH_i CH_E CH_n# CH_sc CH_@
+主流 CH_dzc CH_u CH_l CH_i CH_o CH_u
+台大 CH_t CH_a CH_i CH_d CH_a
+校友 CH_si CH_i CH_a CH_u CH_# CH_i CH_o CH_u
+論文 CH_l CH_u CH_@ CH_n# CH_# CH_u CH_@ CH_n#
+作品 CH_dz CH_u CH_o CH_p CH_i CH_n#
+興趣 CH_si CH_i CH_N# CH_tsi CH_y
+辛苦 CH_si CH_i CH_n# CH_k CH_u
+成大 CH_tsc CH_@ CH_N# CH_d CH_a
+始終 CH_sc CH_Uc CH_dzc CH_o CH_N#
+學家 CH_si CH_y CH_E CH_dzi CH_i CH_a
+胡搞 CH_h CH_u CH_g CH_a CH_u
+口型 CH_k CH_o CH_u CH_si CH_i CH_N#
+跨過 CH_k CH_u CH_a CH_g CH_u CH_o
+跨越 CH_k CH_u CH_a CH_# CH_y CH_E
+特有 CH_t CH_@ CH_# CH_i CH_o CH_u
+字音 CH_dz CH_U CH_# CH_i CH_n#
+分法 CH_f CH_@ CH_n# CH_f CH_a
+西方 CH_si CH_i CH_f CH_a CH_N#
+諸如 CH_dzc CH_u CH_Zc CH_u
+擔心 CH_d CH_a CH_n# CH_si CH_i CH_n#
+現成 CH_si CH_i CH_E CH_n# CH_tsc CH_@ CH_N#
+房子 CH_f CH_a CH_N# CH_dz CH_U
+英國 CH_# CH_i CH_N# CH_g CH_u CH_o
+認真 CH_Zc CH_@ CH_n# CH_dzc CH_@ CH_n#
+參加 CH_ts CH_a CH_n# CH_dzi CH_i CH_a
+比賽 CH_b CH_i CH_s CH_a CH_i
+比美 CH_b CH_i CH_m CH_e CH_i
+國人 CH_g CH_u CH_o CH_Zc CH_@ CH_n#
+果然 CH_g CH_u CH_o CH_Zc CH_a CH_n#
+打敗 CH_d CH_a CH_b CH_a CH_i
+團隊 CH_t CH_u CH_a CH_n# CH_d CH_u CH_e CH_i
+方面 CH_f CH_a CH_N# CH_m CH_i CH_E CH_n#
+新台 CH_si CH_i CH_n# CH_t CH_a CH_i
+效率 CH_si CH_i CH_a CH_u CH_l CH_y
+總數 CH_dz CH_o CH_N# CH_sc CH_u
+中立 CH_dzc CH_o CH_N# CH_l CH_i
+不計 CH_b CH_u CH_dzi CH_i
+鼻音 CH_b CH_i CH_# CH_i CH_n#
+出頭 CH_tsc CH_u CH_t CH_o CH_u
+幾千 CH_dzi CH_i CH_tsi CH_i CH_E CH_n#
+意見 CH_# CH_i CH_dzi CH_i CH_E CH_n#
+明顯 CH_m CH_i CH_N# CH_si CH_i CH_E CH_n#
+以內 CH_# CH_i CH_n CH_e CH_i
+將近 CH_dzi CH_i CH_a CH_N# CH_dzi CH_i CH_n#
+五百 CH_# CH_u CH_b CH_u CH_o
+結尾 CH_dzi CH_i CH_E CH_# CH_u CH_e CH_i
+統統 CH_t CH_o CH_N# CH_t CH_o CH_N#
+立刻 CH_l CH_i CH_k CH_@
+古代 CH_g CH_u CH_d CH_a CH_i
+細節 CH_si CH_i CH_dzi CH_i CH_E
+有加 CH_# CH_i CH_o CH_u CH_dzi CH_i CH_a
+上限 CH_sc CH_a CH_N# CH_si CH_i CH_E CH_n#
+送出 CH_s CH_o CH_N# CH_tsc CH_u
+空白 CH_k CH_o CH_N# CH_b CH_a CH_i
+帶給 CH_d CH_a CH_i CH_g CH_e CH_i
+算得 CH_s CH_u CH_a CH_n# CH_d CH_@
+更少 CH_g CH_@ CH_N# CH_sc CH_a CH_u
+出聲 CH_tsc CH_u CH_sc CH_@ CH_N#
+八千 CH_b CH_a CH_tsi CH_i CH_E CH_n#
+有數 CH_# CH_i CH_o CH_u CH_sc CH_u
+女孩 CH_n CH_y CH_h CH_a CH_i
+某些 CH_m CH_o CH_u CH_si CH_i CH_E
+兩百 CH_l CH_i CH_a CH_N# CH_b CH_a CH_i
+縮到 CH_s CH_u CH_o CH_d CH_a CH_u
+混淆 CH_h CH_u CH_@ CH_n# CH_# CH_i CH_a CH_u
+例如 CH_l CH_i CH_Zc CH_u
+幾何 CH_dzi CH_i CH_h CH_@
+次要 CH_ts CH_U CH_# CH_i CH_a CH_u
+倒數 CH_d CH_a CH_u CH_sc CH_u
+能力 CH_n CH_@ CH_N# CH_l CH_i
+好壞 CH_h CH_a CH_u CH_h CH_u CH_a CH_i
+社會 CH_sc CH_@ CH_h CH_u CH_e CH_i
+熱衷 CH_Zc CH_@ CH_dzc CH_o CH_N#
+灰色 CH_h CH_u CH_e CH_i CH_s CH_@
+五號 CH_# CH_u CH_h CH_a CH_u
+球賽 CH_tsi CH_i CH_o CH_u CH_s CH_a CH_i
+口水 CH_k CH_o CH_u CH_sc CH_u CH_e CH_i
+文教 CH_# CH_u CH_@ CH_n# CH_dzi CH_i CH_a CH_u
+校長 CH_si CH_i CH_a CH_u CH_dzc CH_a CH_N#
+歌劇 CH_g CH_@ CH_dzi CH_y
+表演 CH_b CH_i CH_a CH_u CH_# CH_i CH_E CH_n#
+藍色 CH_l CH_a CH_n# CH_s CH_@
+情況 CH_tsi CH_i CH_N# CH_k CH_u CH_a CH_N#
+起見 CH_tsi CH_i CH_dzi CH_i CH_E CH_n#
+等值 CH_d CH_@ CH_N# CH_dzc CH_Uc
+以是 CH_# CH_i CH_sc CH_Uc
+老早 CH_l CH_a CH_u CH_dz CH_a CH_u
+資料 CH_dz CH_U CH_l CH_i CH_a CH_u
+同義 CH_t CH_o CH_N# CH_# CH_i
+現代 CH_si CH_i CH_E CH_n# CH_d CH_a CH_i
+可靠 CH_k CH_@ CH_k CH_a CH_u
+丟給 CH_d CH_i CH_o CH_u CH_g CH_e CH_i
+釣魚 CH_d CH_i CH_a CH_u CH_# CH_y
+二號 CH_# CH_@c CH_h CH_a CH_u
+三號 CH_s CH_a CH_n# CH_h CH_a CH_u
+六號 CH_l CH_i CH_o CH_u CH_h CH_a CH_u
+吃到 CH_tsc CH_Uc CH_d CH_a CH_u
+之多 CH_dzc CH_Uc CH_d CH_u CH_o
+補上 CH_b CH_u CH_sc CH_a CH_N#
+人因 CH_Zc CH_@ CH_n# CH_# CH_i CH_n#
+來上 CH_l CH_a CH_i CH_sc CH_a CH_N#
+公告 CH_g CH_o CH_N# CH_g CH_a CH_u
+因故 CH_# CH_i CH_n# CH_g CH_u
+進修 CH_dzi CH_i CH_n# CH_si CH_i CH_o CH_u
+擁有 CH_# CH_y CH_o CH_N# CH_# CH_i CH_o CH_u
+作業 CH_dz CH_u CH_o CH_# CH_i CH_E
+註冊 CH_dzc CH_u CH_ts CH_@
+帳號 CH_dzc CH_a CH_N# CH_h CH_a CH_u
+原先 CH_# CH_y CH_E CH_n# CH_si CH_i CH_E CH_n#
+執行 CH_dzc CH_Uc CH_si CH_i CH_N#
+自行 CH_dz CH_U CH_si CH_i CH_N#
+目錄 CH_m CH_u CH_l CH_u
+導致 CH_d CH_a CH_u CH_dzc CH_Uc
+講解 CH_dzi CH_i CH_a CH_N# CH_dzi CH_i CH_E
+範例 CH_f CH_a CH_n# CH_l CH_i
+複製 CH_f CH_u CH_dzc CH_Uc
+估算 CH_g CH_u CH_s CH_u CH_a CH_n#
+反覆 CH_f CH_a CH_n# CH_f CH_u
+寫到 CH_si CH_i CH_E CH_d CH_a CH_u
+適當 CH_sc CH_Uc CH_d CH_a CH_N#
+來信 CH_l CH_a CH_i CH_si CH_i CH_n#
+主旨 CH_dzc CH_u CH_dzc CH_Uc
+小心 CH_si CH_i CH_a CH_u CH_si CH_i CH_n#
+登記 CH_d CH_@ CH_N# CH_dzi CH_i
+平衡 CH_p CH_i CH_N# CH_h CH_@ CH_N#
+智慧 CH_dzc CH_Uc CH_h CH_u CH_e CH_i
+財產 CH_ts CH_a CH_i CH_tsc CH_a CH_n#
+外流 CH_# CH_u CH_a CH_i CH_l CH_i CH_o CH_u
+天大 CH_t CH_i CH_E CH_n# CH_d CH_a
+不得 CH_b CH_u CH_d CH_@
+練習 CH_l CH_i CH_E CH_n# CH_si CH_i
+拜託 CH_b CH_a CH_i CH_t CH_u CH_o
+還給 CH_h CH_u CH_a CH_n# CH_g CH_e CH_i
+完畢 CH_# CH_u CH_a CH_n# CH_b CH_i
+收起 CH_sc CH_o CH_u CH_tsi CH_i
+轉給 CH_dzc CH_u CH_a CH_n# CH_g CH_e CH_i
+中午 CH_dzc CH_o CH_N# CH_# CH_u
+最少 CH_dz CH_u CH_e CH_i CH_sc CH_a CH_u
+男生 CH_n CH_a CH_n# CH_sc CH_@ CH_N#
+用心 CH_# CH_y CH_o CH_N# CH_si CH_i CH_n#
+四週 CH_s CH_U CH_dzc CH_o CH_u
+呼呼 CH_h CH_u CH_h CH_u
+級數 CH_dzi CH_i CH_sc CH_u
+她們 CH_t CH_a CH_m CH_@ CH_n#
+居然 CH_dzi CH_y CH_Zc CH_a CH_n#
+所在 CH_s CH_u CH_o CH_dz CH_a CH_i
+祇是 CH_dzc CH_Uc CH_sc CH_Uc
+尷尬 CH_dzi CH_i CH_E CH_n# CH_dzi CH_i CH_E
+尷尬 CH_g CH_a CH_n# CH_g CH_a
+介意 CH_dzi CH_i CH_E CH_# CH_i
+合法 CH_h CH_@ CH_f CH_a
+過多 CH_g CH_u CH_o CH_d CH_u CH_o
+搬動 CH_b CH_a CH_n# CH_d CH_o CH_N#
+華視 CH_h CH_u CH_a CH_sc CH_Uc
+中視 CH_dzc CH_o CH_N# CH_sc CH_Uc
+得了 CH_d CH_@ CH_l CH_i CH_a CH_u
+得了 CH_d CH_@ CH_l CH_@
+好拉 CH_h CH_a CH_u CH_l CH_a
+送進 CH_s CH_o CH_N# CH_dzi CH_i CH_n#
+對對 CH_d CH_u CH_e CH_i CH_d CH_u CH_e CH_i
+翻過 CH_f CH_a CH_n# CH_g CH_u CH_o
+上舉 CH_sc CH_a CH_N# CH_dzi CH_y
+位子 CH_# CH_u CH_e CH_i CH_dz CH_U
+或許 CH_h CH_u CH_o CH_si CH_y
+重點 CH_dzc CH_o CH_N# CH_d CH_i CH_E CH_n#
+故事 CH_g CH_u CH_sc CH_Uc
+年輕 CH_n CH_i CH_E CH_n# CH_tsi CH_i CH_N#
+漂亮 CH_p CH_i CH_a CH_u CH_l CH_i CH_a CH_N#
+笑笑 CH_si CH_i CH_a CH_u CH_si CH_i CH_a CH_u
+稱讚 CH_tsc CH_@ CH_N# CH_dz CH_a CH_n#
+圖畫 CH_t CH_u CH_h CH_u CH_a
+斯文 CH_s CH_U CH_# CH_u CH_@ CH_n#
+罵人 CH_m CH_a CH_Zc CH_@ CH_n#
+學得 CH_si CH_y CH_E CH_d CH_@
+精簡 CH_dzi CH_i CH_N# CH_dzi CH_i CH_E CH_n#
+腦袋 CH_n CH_a CH_u CH_d CH_a CH_i
+做錯 CH_dz CH_u CH_o CH_ts CH_u CH_o
+開學 CH_k CH_a CH_i CH_si CH_y CH_E
+靈活 CH_l CH_i CH_N# CH_h CH_u CH_o
+放棄 CH_f CH_a CH_N# CH_tsi CH_i
+可惜 CH_k CH_@ CH_si CH_i
+效應 CH_si CH_i CH_a CH_u CH_# CH_i CH_N#
+新鮮 CH_si CH_i CH_n# CH_si CH_i CH_E CH_n#
+一會 CH_# CH_i CH_h CH_u CH_e CH_i
+看完 CH_k CH_a CH_n# CH_# CH_u CH_a CH_n#
+換到 CH_h CH_u CH_a CH_n# CH_d CH_a CH_u
+大和 CH_d CH_a CH_h CH_@
+多點 CH_d CH_u CH_o CH_d CH_i CH_E CH_n#
+變為 CH_b CH_i CH_E CH_n# CH_# CH_u CH_e CH_i
+零二 CH_l CH_i CH_N# CH_# CH_@c
+零三 CH_l CH_i CH_N# CH_s CH_a CH_n#
+過從 CH_g CH_u CH_o CH_ts CH_o CH_N#
+個展 CH_g CH_@ CH_dzc CH_a CH_n#
+開來 CH_k CH_a CH_i CH_l CH_a CH_i
+有機 CH_# CH_i CH_o CH_u CH_dzi CH_i
+角度 CH_dzi CH_i CH_a CH_u CH_d CH_u
+長上 CH_dzc CH_a CH_N# CH_sc CH_a CH_N#
+線上 CH_si CH_i CH_E CH_n# CH_sc CH_a CH_N#
+人們 CH_Zc CH_@ CH_n# CH_m CH_@ CH_n#
+用加 CH_# CH_y CH_o CH_N# CH_dzi CH_i CH_a
+點上 CH_d CH_i CH_E CH_n# CH_sc CH_a CH_N#
+浪費 CH_l CH_a CH_N# CH_f CH_e CH_i
+多多 CH_d CH_u CH_o CH_d CH_u CH_o
+保留 CH_b CH_a CH_u CH_l CH_i CH_o CH_u
+外長 CH_# CH_u CH_a CH_i CH_dzc CH_a CH_N#
+搬來 CH_b CH_a CH_n# CH_l CH_a CH_i
+區隔 CH_tsi CH_y CH_g CH_@
+標的 CH_b CH_i CH_a CH_u CH_d CH_i
+回憶 CH_h CH_u CH_e CH_i CH_# CH_i
+看來 CH_k CH_a CH_n# CH_l CH_a CH_i
+巧妙 CH_tsi CH_i CH_a CH_u CH_m CH_i CH_a CH_u
+放過 CH_f CH_a CH_N# CH_g CH_u CH_o
+中性 CH_dzc CH_o CH_N# CH_si CH_i CH_N#
+自成 CH_dz CH_U CH_tsc CH_@ CH_N#
+右下 CH_# CH_i CH_o CH_u CH_si CH_i CH_a
+不宜 CH_b CH_u CH_# CH_i
+說來 CH_sc CH_u CH_o CH_l CH_a CH_i
+看好 CH_k CH_a CH_n# CH_h CH_a CH_u
+負責 CH_f CH_u CH_dz CH_@
+第九 CH_d CH_i CH_dzi CH_i CH_o CH_u
+第十 CH_d CH_i CH_sc CH_Uc
+第八 CH_d CH_i CH_b CH_a
+恐怕 CH_k CH_o CH_N# CH_p CH_a
+帶過 CH_d CH_a CH_i CH_g CH_u CH_o
+抽換 CH_tsc CH_o CH_u CH_h CH_u CH_a CH_n#
+化到 CH_h CH_u CH_a CH_d CH_a CH_u
+改成 CH_g CH_a CH_i CH_tsc CH_@ CH_N#
+想通 CH_si CH_i CH_a CH_N# CH_t CH_o CH_N#
+首先 CH_sc CH_o CH_u CH_si CH_i CH_E CH_n#
+拉大 CH_l CH_a CH_d CH_a
+不變 CH_b CH_u CH_b CH_i CH_E CH_n#
+壓低 CH_# CH_i CH_a CH_d CH_i
+唯有 CH_# CH_u CH_e CH_i CH_# CH_i CH_o CH_u
+凡事 CH_f CH_a CH_n# CH_sc CH_Uc
+整齊 CH_dzc CH_@ CH_N# CH_tsi CH_i
+既是 CH_dzi CH_i CH_sc CH_Uc
+原本 CH_# CH_y CH_E CH_n# CH_b CH_@ CH_n#
+經驗 CH_dzi CH_i CH_N# CH_# CH_i CH_E CH_n#
+縮成 CH_s CH_u CH_o CH_tsc CH_@ CH_N#
+點數 CH_d CH_i CH_E CH_n# CH_sc CH_u
+適用 CH_sc CH_Uc CH_# CH_y CH_o CH_N#
+代課 CH_d CH_a CH_i CH_k CH_@
+延後 CH_# CH_i CH_E CH_n# CH_h CH_o CH_u
+接著 CH_dzi CH_i CH_E CH_dzc CH_@
+交給 CH_dzi CH_i CH_a CH_u CH_g CH_e CH_i
+兩年 CH_l CH_i CH_a CH_N# CH_n CH_i CH_E CH_n#
+命題 CH_m CH_i CH_N# CH_t CH_i
+多半 CH_d CH_u CH_o CH_b CH_a CH_n#
+回成 CH_h CH_u CH_e CH_i CH_tsc CH_@ CH_N#
+光碟 CH_g CH_u CH_a CH_N# CH_d CH_i CH_E
+連成 CH_l CH_i CH_E CH_n# CH_tsc CH_@ CH_N#
+選定 CH_si CH_y CH_E CH_n# CH_d CH_i CH_N#
+快慢 CH_k CH_u CH_a CH_i CH_m CH_a CH_n#
+成份 CH_tsc CH_@ CH_N# CH_f CH_@ CH_n#
+取得 CH_tsi CH_y CH_d CH_@
+有空 CH_# CH_i CH_o CH_u CH_k CH_o CH_N#
+來得 CH_l CH_a CH_i CH_d CH_@
+名子 CH_m CH_i CH_N# CH_dz CH_U
+密密 CH_m CH_i CH_m CH_i
+連線 CH_l CH_i CH_E CH_n# CH_si CH_i CH_E CH_n#
+空虛 CH_k CH_o CH_N# CH_si CH_y
+生活 CH_sc CH_@ CH_N# CH_h CH_u CH_o
+輪子 CH_l CH_u CH_@ CH_n# CH_dz CH_U
+兩三 CH_l CH_i CH_a CH_N# CH_s CH_a CH_n#
+得多 CH_d CH_@ CH_d CH_u CH_o
+法會 CH_f CH_a CH_h CH_u CH_e CH_i
+須要 CH_si CH_y CH_# CH_i CH_a CH_u
+少量 CH_sc CH_a CH_u CH_l CH_i CH_a CH_N#
+考驗 CH_k CH_a CH_u CH_# CH_i CH_E CH_n#
+近年 CH_dzi CH_i CH_n# CH_n CH_i CH_E CH_n#
+留給 CH_l CH_i CH_o CH_u CH_g CH_e CH_i
+不光 CH_b CH_u CH_g CH_u CH_a CH_N#
+去向 CH_tsi CH_y CH_si CH_i CH_a CH_N#
+弱點 CH_Zc CH_u CH_o CH_d CH_i CH_E CH_n#
+建立 CH_dzi CH_i CH_E CH_n# CH_l CH_i
+調出 CH_t CH_i CH_a CH_u CH_tsc CH_u
+由來 CH_# CH_i CH_o CH_u CH_l CH_a CH_i
+太少 CH_t CH_a CH_i CH_sc CH_a CH_u
+太太 CH_t CH_a CH_i CH_t CH_a CH_i
+寧可 CH_n CH_i CH_N# CH_k CH_@
+高到 CH_g CH_a CH_u CH_d CH_a CH_u
+難免 CH_n CH_a CH_n# CH_m CH_i CH_E CH_n#
+量比 CH_l CH_i CH_a CH_N# CH_b CH_i
+折衷 CH_dzc CH_@ CH_dzc CH_o CH_N#
+服氣 CH_f CH_u CH_tsi CH_i
+分佈 CH_f CH_@ CH_n# CH_b CH_u
+扣掉 CH_k CH_o CH_u CH_d CH_i CH_a CH_u
+重整 CH_tsc CH_o CH_N# CH_dzc CH_@ CH_N#
+排列 CH_p CH_a CH_i CH_l CH_i CH_E
+投到 CH_t CH_o CH_u CH_d CH_a CH_u
+含有 CH_h CH_a CH_n# CH_# CH_i CH_o CH_u
+延續 CH_# CH_i CH_E CH_n# CH_si CH_y
+上萬 CH_sc CH_a CH_N# CH_# CH_u CH_a CH_n#
+女生 CH_n CH_y CH_sc CH_@ CH_N#
+去分 CH_tsi CH_y CH_f CH_@ CH_n#
+個性 CH_g CH_@ CH_si CH_i CH_N#
+具有 CH_dzi CH_y CH_# CH_i CH_o CH_u
+速度 CH_s CH_u CH_d CH_u
+精采 CH_dzi CH_i CH_N# CH_ts CH_a CH_i
+調回 CH_d CH_i CH_a CH_u CH_h CH_u CH_e CH_i
+改用 CH_g CH_a CH_i CH_# CH_y CH_o CH_N#
+會請 CH_h CH_u CH_e CH_i CH_tsi CH_i CH_N#
+官方 CH_g CH_u CH_a CH_n# CH_f CH_a CH_N#
+平台 CH_p CH_i CH_N# CH_t CH_a CH_i
+安裝 CH_# CH_a CH_n# CH_dzc CH_u CH_a CH_N#
+遇到 CH_# CH_y CH_d CH_a CH_u
+那時 CH_n CH_a CH_sc CH_Uc
+分為 CH_f CH_@ CH_n# CH_# CH_u CH_e CH_i
+商業 CH_sc CH_a CH_N# CH_# CH_i CH_E
+交叉 CH_dzi CH_i CH_a CH_u CH_tsc CH_a
+格式 CH_g CH_@ CH_sc CH_Uc
+裝好 CH_dzc CH_u CH_a CH_N# CH_h CH_a CH_u
+工商 CH_g CH_o CH_N# CH_sc CH_a CH_N#
+產業 CH_tsc CH_a CH_n# CH_# CH_i CH_E
+週五 CH_dzc CH_o CH_u CH_# CH_u
+除法 CH_tsc CH_u CH_f CH_a
+可用 CH_k CH_@ CH_# CH_y CH_o CH_N#
+找來 CH_dzc CH_a CH_u CH_l CH_a CH_i
+乾淨 CH_g CH_a CH_n# CH_dzi CH_i CH_N#
+為準 CH_# CH_u CH_e CH_i CH_dzc CH_u CH_@ CH_n#
+認定 CH_Zc CH_@ CH_n# CH_d CH_i CH_N#
+肯定 CH_k CH_@ CH_n# CH_d CH_i CH_N#
+歷史 CH_l CH_i CH_sc CH_Uc
+開門 CH_k CH_a CH_i CH_m CH_@ CH_n#
+勒索 CH_l CH_@ CH_s CH_u CH_o
+前科 CH_tsi CH_i CH_E CH_n# CH_k CH_@
+張三 CH_dzc CH_a CH_N# CH_s CH_a CH_n#
+這時 CH_dzc CH_@ CH_sc CH_Uc
+破解 CH_p CH_u CH_o CH_dzi CH_i CH_E
+偷偷 CH_t CH_o CH_u CH_t CH_o CH_u
+伸出 CH_sc CH_@ CH_n# CH_tsc CH_u
+潛藏 CH_tsi CH_i CH_E CH_n# CH_ts CH_a CH_N#
+政府 CH_dzc CH_@ CH_N# CH_f CH_u
+李安 CH_l CH_i CH_# CH_a CH_n#
+相互 CH_si CH_i CH_a CH_N# CH_h CH_u
+跳高 CH_t CH_i CH_a CH_u CH_g CH_a CH_u
+建構 CH_dzi CH_i CH_E CH_n# CH_g CH_o CH_u
+兩萬 CH_l CH_i CH_a CH_N# CH_# CH_u CH_a CH_n#
+十萬 CH_sc CH_Uc CH_# CH_u CH_a CH_n#
+攻打 CH_g CH_o CH_N# CH_d CH_a
+選舉 CH_si CH_y CH_E CH_n# CH_dzi CH_y
+外交 CH_# CH_u CH_a CH_i CH_dzi CH_i CH_a CH_u
+修憲 CH_si CH_i CH_o CH_u CH_si CH_i CH_E CH_n#
+極端 CH_dzi CH_i CH_d CH_u CH_a CH_n#
+星座 CH_si CH_i CH_N# CH_dz CH_u CH_o
+跟上 CH_g CH_@ CH_n# CH_sc CH_a CH_N#
+拆開 CH_tsc CH_a CH_i CH_k CH_a CH_i
+縮減 CH_s CH_u CH_o CH_dzi CH_i CH_E CH_n#
+八百 CH_b CH_a CH_b CH_a CH_i
+回頭 CH_h CH_u CH_e CH_i CH_t CH_o CH_u
+分到 CH_f CH_@ CH_n# CH_d CH_a CH_u
+三一 CH_s CH_a CH_n# CH_# CH_i
+北市 CH_b CH_e CH_i CH_sc CH_Uc
+味道 CH_# CH_u CH_e CH_i CH_d CH_a CH_u
+似的 CH_s CH_U CH_d CH_@
+二萬 CH_# CH_@c CH_# CH_u CH_a CH_n#
+相像 CH_si CH_i CH_a CH_N# CH_si CH_i CH_a CH_N#
+不動 CH_b CH_u CH_d CH_o CH_N#
+帶到 CH_d CH_a CH_i CH_d CH_a CH_u
+滿分 CH_m CH_a CH_n# CH_f CH_@ CH_n#
+接下 CH_dzi CH_i CH_E CH_si CH_i CH_a
+爸爸 CH_b CH_a CH_b CH_a
+調整 CH_t CH_i CH_a CH_u CH_dzc CH_@ CH_N#
+發表 CH_f CH_a CH_b CH_i CH_a CH_u
+國情 CH_g CH_u CH_o CH_tsi CH_i CH_N#
+經濟 CH_dzi CH_i CH_N# CH_dzi CH_i
+政策 CH_dzc CH_@ CH_N# CH_ts CH_@
+一陣 CH_# CH_i CH_dzc CH_@ CH_n#
+改名 CH_g CH_a CH_i CH_m CH_i CH_N#
+信件 CH_si CH_i CH_n# CH_dzi CH_i CH_E CH_n#
+歸類 CH_g CH_u CH_e CH_i CH_l CH_e CH_i
+型態 CH_si CH_i CH_N# CH_t CH_a CH_i
+零零 CH_l CH_i CH_N# CH_l CH_i CH_N#
+半徑 CH_b CH_a CH_n# CH_dzi CH_i CH_N#
+切到 CH_tsi CH_i CH_E CH_d CH_a CH_u
+定一 CH_d CH_i CH_N# CH_# CH_i
+一向 CH_# CH_i CH_si CH_i CH_a CH_N#
+畫大 CH_h CH_u CH_a CH_d CH_a
+上下 CH_sc CH_a CH_N# CH_si CH_i CH_a
+充份 CH_tsc CH_o CH_N# CH_f CH_@ CH_n#
+成對 CH_tsc CH_@ CH_N# CH_d CH_u CH_e CH_i
+高上 CH_g CH_a CH_u CH_sc CH_a CH_N#
+當為 CH_d CH_a CH_N# CH_# CH_u CH_e CH_i
+短短 CH_d CH_u CH_a CH_n# CH_d CH_u CH_a CH_n#
+遠處 CH_# CH_y CH_E CH_n# CH_tsc CH_u
+明白 CH_m CH_i CH_N# CH_b CH_a CH_i
+藝術 CH_# CH_i CH_sc CH_u
+醫療 CH_# CH_i CH_l CH_i CH_a CH_u
+法律 CH_f CH_a CH_l CH_y
+行政 CH_si CH_i CH_N# CH_dzc CH_@ CH_N#
+休閒 CH_si CH_i CH_o CH_u CH_si CH_i CH_E CH_n#
+八年 CH_b CH_a CH_n CH_i CH_E CH_n#
+工夫 CH_g CH_o CH_N# CH_f CH_u
+修理 CH_si CH_i CH_o CH_u CH_l CH_i
+展示 CH_dzc CH_a CH_n# CH_sc CH_Uc
+北部 CH_b CH_e CH_i CH_b CH_u
+短暫 CH_d CH_u CH_a CH_n# CH_dzc CH_a CH_n#
+報導 CH_b CH_a CH_u CH_d CH_a CH_u
+一早 CH_# CH_i CH_dz CH_a CH_u
+搭乘 CH_d CH_a CH_tsc CH_@ CH_N#
+上班 CH_sc CH_a CH_N# CH_b CH_a CH_n#
+交通 CH_dzi CH_i CH_a CH_u CH_t CH_o CH_N#
+市長 CH_sc CH_Uc CH_dzc CH_a CH_N#
+市府 CH_sc CH_Uc CH_f CH_u
+公車 CH_g CH_o CH_N# CH_dzi CH_y
+交友 CH_dzi CH_i CH_a CH_u CH_# CH_i CH_o CH_u
+訂製 CH_d CH_i CH_N# CH_dzc CH_Uc
+漫畫 CH_m CH_a CH_n# CH_h CH_u CH_a
+運動 CH_# CH_y CH_n# CH_d CH_o CH_N#
+旅遊 CH_l CH_y CH_# CH_i CH_o CH_u
+卡通 CH_k CH_a CH_t CH_o CH_N#
+餐飲 CH_ts CH_a CH_n# CH_# CH_i CH_n#
+購物 CH_g CH_o CH_u CH_# CH_u
+就讀 CH_dzi CH_i CH_o CH_u CH_d CH_u
+離家 CH_l CH_i CH_dzi CH_i CH_a
+老大 CH_l CH_a CH_u CH_d CH_a
+兒童 CH_# CH_@c CH_t CH_o CH_N#
+相見 CH_si CH_i CH_a CH_N# CH_dzi CH_i CH_E CH_n#
+相識 CH_si CH_i CH_a CH_N# CH_sc CH_Uc
+何處 CH_h CH_@ CH_tsc CH_u
+為何 CH_# CH_u CH_e CH_i CH_h CH_@
+每當 CH_m CH_e CH_i CH_d CH_a CH_N#
+醒來 CH_si CH_i CH_N# CH_l CH_a CH_i
+詞句 CH_ts CH_U CH_dzi CH_y
+目標 CH_m CH_u CH_b CH_i CH_a CH_u
+原音 CH_# CH_y CH_E CH_n# CH_# CH_i CH_n#
+七年 CH_tsi CH_i CH_n CH_i CH_E CH_n#
+信託 CH_si CH_i CH_n# CH_t CH_u CH_o
+高雄 CH_g CH_a CH_u CH_si CH_y CH_o CH_N#
+帶來 CH_d CH_a CH_i CH_l CH_a CH_i
+即時 CH_dzi CH_i CH_sc CH_Uc
+私有 CH_s CH_U CH_# CH_i CH_o CH_u
+人類 CH_Zc CH_@ CH_n# CH_l CH_e CH_i
+上路 CH_sc CH_a CH_N# CH_l CH_u
+沙發 CH_sc CH_a CH_f CH_a
+適度 CH_sc CH_Uc CH_d CH_u
+有利 CH_# CH_i CH_o CH_u CH_l CH_i
+公視 CH_g CH_o CH_N# CH_sc CH_Uc
+播放 CH_b CH_u CH_o CH_f CH_a CH_N#
+彩色 CH_ts CH_a CH_i CH_s CH_@
+原色 CH_# CH_y CH_E CH_n# CH_s CH_@
+機場 CH_dzi CH_i CH_tsc CH_a CH_N#
+意外 CH_# CH_i CH_# CH_u CH_a CH_i
+趕到 CH_g CH_a CH_n# CH_d CH_a CH_u
+不停 CH_b CH_u CH_t CH_i CH_N#
+救援 CH_dzi CH_i CH_o CH_u CH_# CH_y CH_E CH_n#
+當地 CH_d CH_a CH_N# CH_d CH_i
+晚間 CH_# CH_u CH_a CH_n# CH_dzi CH_i CH_E CH_n#
+西南 CH_si CH_i CH_n CH_a CH_n#
+載有 CH_dz CH_a CH_i CH_# CH_i CH_o CH_u
+乘客 CH_tsc CH_@ CH_N# CH_k CH_@
+飛抵 CH_f CH_e CH_i CH_d CH_i
+不幸 CH_b CH_u CH_si CH_i CH_N#
+天候 CH_t CH_i CH_E CH_n# CH_h CH_o CH_u
+不佳 CH_b CH_u CH_dzi CH_i CH_a
+不慎 CH_b CH_u CH_sc CH_@ CH_n#
+衝出 CH_tsc CH_o CH_N# CH_tsc CH_u
+跑道 CH_p CH_a CH_u CH_d CH_a CH_u
+圍牆 CH_# CH_u CH_e CH_i CH_tsi CH_i CH_a CH_N#
+撞上 CH_dzc CH_u CH_a CH_N# CH_sc CH_a CH_N#
+馬路 CH_m CH_a CH_l CH_u
+男童 CH_n CH_a CH_n# CH_t CH_o CH_N#
+旅客 CH_l CH_y CH_k CH_@
+衝撞 CH_tsc CH_o CH_N# CH_dzc CH_u CH_a CH_N#
+指出 CH_dzc CH_Uc CH_tsc CH_u
+公分 CH_g CH_o CH_N# CH_f CH_@ CH_n#
+是否 CH_sc CH_Uc CH_f CH_o CH_u
+肇事 CH_dzc CH_a CH_u CH_sc CH_Uc
+當局 CH_d CH_a CH_N# CH_dzi CH_y
+罹難 CH_l CH_i CH_n CH_a CH_n#
+綜合 CH_dz CH_o CH_N# CH_h CH_@
+同步 CH_t CH_o CH_N# CH_b CH_u
+加快 CH_dzi CH_i CH_a CH_k CH_u CH_a CH_i
+降落 CH_dzi CH_i CH_a CH_N# CH_l CH_u CH_o
+遇上 CH_# CH_y CH_sc CH_a CH_N#
+大麻 CH_d CH_a CH_m CH_a
+毒品 CH_d CH_u CH_p CH_i CH_n#
+種類 CH_dzc CH_o CH_N# CH_l CH_e CH_i
+不少 CH_b CH_u CH_sc CH_a CH_u
+販毒 CH_f CH_a CH_n# CH_d CH_u
+八成 CH_b CH_a CH_tsc CH_@ CH_N#
+發函 CH_f CH_a CH_h CH_a CH_n#
+中廣 CH_dzc CH_o CH_N# CH_g CH_u CH_a CH_N#
+股權 CH_g CH_u CH_tsi CH_y CH_E CH_n#
+主播 CH_dzc CH_u CH_b CH_u CH_o
+全國 CH_tsi CH_y CH_E CH_n# CH_g CH_u CH_o
+觀眾 CH_g CH_u CH_a CH_n# CH_dzc CH_o CH_N#
+釋出 CH_sc CH_Uc CH_tsc CH_u
+稍早 CH_sc CH_a CH_u CH_dz CH_a CH_u
+明確 CH_m CH_i CH_N# CH_tsi CH_y CH_E
+年底 CH_n CH_i CH_E CH_n# CH_d CH_i
+外勞 CH_# CH_u CH_a CH_i CH_l CH_a CH_u
+桃園 CH_t CH_a CH_u CH_# CH_y CH_E CH_n#
+法案 CH_f CH_a CH_# CH_a CH_n#
+政黨 CH_dzc CH_@ CH_N# CH_d CH_a CH_N#
+民生 CH_m CH_i CH_n# CH_sc CH_@ CH_N#
+民俗 CH_m CH_i CH_n# CH_s CH_u
+漁業 CH_# CH_y CH_# CH_i CH_E
+底部 CH_d CH_i CH_b CH_u
+疾病 CH_dzi CH_i CH_b CH_i CH_N#
+韓國 CH_h CH_a CH_n# CH_g CH_u CH_o
+日本 CH_Zc CH_Uc CH_b CH_@ CH_n#
+災難 CH_dz CH_a CH_i CH_n CH_a CH_n#
+火山 CH_h CH_u CH_o CH_sc CH_a CH_n#
+豪雨 CH_h CH_a CH_u CH_# CH_y
+颱風 CH_t CH_a CH_i CH_f CH_o CH_N#
+火災 CH_h CH_u CH_o CH_dz CH_a CH_i
+災害 CH_dz CH_a CH_i CH_h CH_a CH_i
+清晨 CH_tsi CH_i CH_N# CH_tsc CH_@ CH_n#
+街頭 CH_dzi CH_i CH_E CH_t CH_o CH_u
+火燒 CH_h CH_u CH_o CH_sc CH_a CH_u
+引發 CH_# CH_i CH_n# CH_f CH_a
+爆炸 CH_b CH_a CH_u CH_dzc CH_a
+夫人 CH_f CH_u CH_Zc CH_@ CH_n#
+邀請 CH_# CH_i CH_a CH_u CH_tsi CH_i CH_N#
+參觀 CH_ts CH_a CH_n# CH_g CH_u CH_a CH_n#
+耶誕 CH_# CH_i CH_E CH_d CH_a CH_n#
+佈置 CH_b CH_u CH_dzc CH_Uc
+大型 CH_d CH_a CH_si CH_i CH_N#
+歐美 CH_# CH_o CH_u CH_m CH_e CH_i
+伊朗 CH_# CH_i CH_l CH_a CH_N#
+查詢 CH_tsc CH_a CH_si CH_y CH_n#
+再度 CH_dz CH_a CH_i CH_d CH_u
+緊密 CH_dzi CH_i CH_n# CH_m CH_i
+相通 CH_si CH_i CH_a CH_N# CH_t CH_o CH_N#
+中期 CH_dzc CH_o CH_N# CH_tsi CH_i
+年下 CH_n CH_i CH_E CH_n# CH_si CH_i CH_a
+喇叭 CH_l CH_a CH_b CH_a
+對準 CH_d CH_u CH_e CH_i CH_dzc CH_u CH_@ CH_n#
+正面 CH_dzc CH_@ CH_N# CH_m CH_i CH_E CH_n#
+側面 CH_ts CH_@ CH_m CH_i CH_E CH_n#
+更為 CH_g CH_@ CH_N# CH_# CH_u CH_e CH_i
+廣播 CH_g CH_u CH_a CH_N# CH_b CH_u CH_o
+播報 CH_b CH_u CH_o CH_b CH_a CH_u
+流利 CH_l CH_i CH_o CH_u CH_l CH_i
+對談 CH_d CH_u CH_e CH_i CH_t CH_a CH_n#
+越過 CH_# CH_y CH_E CH_g CH_u CH_o
+流暢 CH_l CH_i CH_o CH_u CH_tsc CH_a CH_N#
+高興 CH_g CH_a CH_u CH_si CH_i CH_N#
+生氣 CH_sc CH_@ CH_N# CH_tsi CH_i
+創造 CH_tsc CH_u CH_a CH_N# CH_dz CH_a CH_u
+大選 CH_d CH_a CH_si CH_y CH_E CH_n#
+打打 CH_d CH_a CH_d CH_a
+所所 CH_s CH_u CH_o CH_s CH_u CH_o
+抓來 CH_dzc CH_u CH_a CH_l CH_a CH_i
+三段 CH_s CH_a CH_n# CH_d CH_u CH_a CH_n#
+來存 CH_l CH_a CH_i CH_ts CH_u CH_@ CH_n#
+外圍 CH_# CH_u CH_a CH_i CH_# CH_u CH_e CH_i
+大會 CH_d CH_a CH_h CH_u CH_e CH_i
+項負 CH_si CH_i CH_a CH_N# CH_f CH_u
+變數 CH_b CH_i CH_E CH_n# CH_sc CH_u
+減三 CH_dzi CH_i CH_E CH_n# CH_s CH_a CH_n#
+劃一 CH_h CH_u CH_a CH_# CH_i
+零五 CH_l CH_i CH_N# CH_# CH_u
+零六 CH_l CH_i CH_N# CH_l CH_i CH_o CH_u
+三二 CH_s CH_a CH_n# CH_# CH_@c
+方才 CH_f CH_a CH_N# CH_ts CH_a CH_i
+學術 CH_si CH_y CH_E CH_sc CH_u
+排名 CH_p CH_a CH_i CH_m CH_i CH_N#
+螢幕 CH_# CH_i CH_N# CH_m CH_u
+高一 CH_g CH_a CH_u CH_# CH_i
+得獎 CH_d CH_@ CH_dzi CH_i CH_a CH_N#
+影片 CH_# CH_i CH_N# CH_p CH_i CH_E CH_n#
+股票 CH_g CH_u CH_p CH_i CH_a CH_u
+不出 CH_b CH_u CH_tsc CH_u
+幾萬 CH_dzi CH_i CH_# CH_u CH_a CH_n#
+五萬 CH_# CH_u CH_# CH_u CH_a CH_n#
+為為 CH_# CH_u CH_e CH_i CH_# CH_u CH_e CH_i
+重重 CH_tsc CH_o CH_N# CH_tsc CH_o CH_N#
+長達 CH_tsc CH_a CH_N# CH_d CH_a
+老是 CH_l CH_a CH_u CH_sc CH_Uc
+疫情 CH_# CH_i CH_tsi CH_i CH_N#
+縮短 CH_s CH_u CH_o CH_d CH_u CH_a CH_n#
+高速 CH_g CH_a CH_u CH_s CH_u
+公路 CH_g CH_o CH_N# CH_l CH_u
+要得 CH_# CH_i CH_a CH_u CH_d CH_@
+民間 CH_m CH_i CH_n# CH_dzi CH_i CH_E CH_n#
+信仰 CH_si CH_i CH_n# CH_# CH_i CH_a CH_N#
+出奇 CH_tsc CH_u CH_tsi CH_i
+副總 CH_f CH_u CH_dz CH_o CH_N#
+香蕉 CH_si CH_i CH_a CH_N# CH_dzi CH_i CH_a CH_u
+萬一 CH_# CH_u CH_a CH_n# CH_# CH_i
+到九 CH_d CH_a CH_u CH_dzi CH_i CH_o CH_u
+全新 CH_tsi CH_y CH_E CH_n# CH_si CH_i CH_n#
+談話 CH_t CH_a CH_n# CH_h CH_u CH_a
+訪談 CH_f CH_a CH_N# CH_t CH_a CH_n#
+節目 CH_dzi CH_i CH_E CH_m CH_u
+地名 CH_d CH_i CH_m CH_i CH_N#
+人名 CH_Zc CH_@ CH_n# CH_m CH_i CH_N#
+切得 CH_tsi CH_i CH_E CH_d CH_@
+打到 CH_d CH_a CH_d CH_a CH_u
+混亂 CH_h CH_u CH_@ CH_n# CH_l CH_u CH_a CH_n#
+套用 CH_t CH_a CH_u CH_# CH_y CH_o CH_N#
+呼應 CH_h CH_u CH_# CH_i CH_N#
+未免 CH_# CH_u CH_e CH_i CH_m CH_i CH_E CH_n#
+時有 CH_sc CH_Uc CH_# CH_i CH_o CH_u
+大多 CH_d CH_a CH_d CH_u CH_o
+扳回 CH_b CH_a CH_n# CH_h CH_u CH_e CH_i
+畫實 CH_h CH_u CH_a CH_sc CH_Uc
+分開 CH_f CH_@ CH_n# CH_k CH_a CH_i
+取出 CH_tsi CH_y CH_tsc CH_u
+問到 CH_# CH_u CH_@ CH_n# CH_d CH_a CH_u
+上完 CH_sc CH_a CH_N# CH_# CH_u CH_a CH_n#
+專題 CH_dzc CH_u CH_a CH_n# CH_t CH_i
+簡介 CH_dzi CH_i CH_E CH_n# CH_dzi CH_i CH_E
+歡迎 CH_h CH_u CH_a CH_n# CH_# CH_i CH_N#
+取下 CH_tsi CH_y CH_si CH_i CH_a
+實現 CH_sc CH_Uc CH_si CH_i CH_E CH_n#
+定值 CH_d CH_i CH_N# CH_dzc CH_Uc
+在於 CH_dz CH_a CH_i CH_# CH_y
+音響 CH_# CH_i CH_n# CH_si CH_i CH_a CH_N#
+笨重 CH_b CH_@ CH_n# CH_dzc CH_o CH_N#
+控制 CH_k CH_o CH_N# CH_dzc CH_Uc
+天文 CH_t CH_i CH_E CH_n# CH_# CH_u CH_@ CH_n#
+彎過 CH_# CH_u CH_a CH_n# CH_g CH_u CH_o
+路轉 CH_l CH_u CH_dzc CH_u CH_a CH_n#
+幾度 CH_dzi CH_i CH_d CH_u
+風吹 CH_f CH_o CH_N# CH_tsc CH_u CH_e CH_i
+地上 CH_d CH_i CH_sc CH_a CH_N#
+拉回 CH_l CH_a CH_h CH_u CH_e CH_i
+導航 CH_d CH_a CH_u CH_h CH_a CH_N#
+電源 CH_d CH_i CH_E CH_n# CH_# CH_y CH_E CH_n#
+定存 CH_d CH_i CH_N# CH_ts CH_u CH_@ CH_n#
+相遇 CH_si CH_i CH_a CH_N# CH_# CH_y
+其次 CH_tsi CH_i CH_ts CH_U
+份量 CH_f CH_@ CH_n# CH_l CH_i CH_a CH_N#
+人聲 CH_Zc CH_@ CH_n# CH_sc CH_@ CH_N#
+一隅 CH_# CH_i CH_# CH_y
+拼命 CH_p CH_i CH_n# CH_m CH_i CH_N#
+睡覺 CH_sc CH_u CH_e CH_i CH_dzi CH_y CH_E
+睡覺 CH_sc CH_u CH_e CH_i CH_dzi CH_i CH_a CH_u
+一年 CH_# CH_i CH_n CH_i CH_E CH_n#
+認得 CH_Zc CH_@ CH_n# CH_d CH_@
+翻到 CH_f CH_a CH_n# CH_d CH_a CH_u
+迅速 CH_si CH_y CH_n# CH_s CH_u
+生存 CH_sc CH_@ CH_N# CH_ts CH_u CH_@ CH_n#
+為學 CH_# CH_u CH_e CH_i CH_si CH_y CH_E
+更深 CH_g CH_@ CH_N# CH_sc CH_@ CH_n#
+管道 CH_g CH_u CH_a CH_n# CH_d CH_a CH_u
+吸收 CH_si CH_i CH_sc CH_o CH_u
+教書 CH_dzi CH_i CH_a CH_u CH_sc CH_u
+養成 CH_# CH_i CH_a CH_N# CH_tsc CH_@ CH_N#
+腦海 CH_n CH_a CH_u CH_h CH_a CH_i
+行業 CH_si CH_i CH_N# CH_# CH_i CH_E
+行業 CH_h CH_a CH_N# CH_# CH_i CH_E
+常有 CH_tsc CH_a CH_N# CH_# CH_i CH_o CH_u
+教課 CH_dzi CH_i CH_a CH_u CH_k CH_@
+後進 CH_h CH_o CH_u CH_dzi CH_i CH_n#
+記住 CH_dzi CH_i CH_dzc CH_u
+進到 CH_dzi CH_i CH_n# CH_d CH_a CH_u
+發掘 CH_f CH_a CH_dzi CH_y CH_E
+林相 CH_l CH_i CH_n# CH_si CH_i CH_a CH_N#
+森林 CH_s CH_@ CH_n# CH_l CH_i CH_n#
+重頭 CH_dzc CH_o CH_N# CH_t CH_o CH_u
+講求 CH_dzi CH_i CH_a CH_N# CH_tsi CH_i CH_o CH_u
+鑽石 CH_dz CH_u CH_a CH_n# CH_sc CH_Uc
+黃金 CH_h CH_u CH_a CH_N# CH_dzi CH_i CH_n#
+暑假 CH_sc CH_u CH_dzi CH_i CH_a
+零碎 CH_l CH_i CH_N# CH_s CH_u CH_e CH_i
+從來 CH_ts CH_o CH_N# CH_l CH_a CH_i
+龍頭 CH_l CH_o CH_N# CH_t CH_o CH_u
+設計 CH_sc CH_@ CH_dzi CH_i
+光電 CH_g CH_u CH_a CH_N# CH_d CH_i CH_E CH_n#
+科技 CH_k CH_@ CH_dzi CH_i
+萬千 CH_# CH_u CH_a CH_n# CH_tsi CH_i CH_E CH_n#
+覺醒 CH_dzi CH_y CH_E CH_si CH_i CH_N#
+追求 CH_dzc CH_u CH_e CH_i CH_tsi CH_i CH_o CH_u
+被迫 CH_b CH_e CH_i CH_p CH_u CH_o
+遺憾 CH_# CH_i CH_h CH_a CH_n#
+申請 CH_sc CH_@ CH_n# CH_tsi CH_i CH_N#
+表格 CH_b CH_i CH_a CH_u CH_g CH_@
+來過 CH_l CH_a CH_i CH_g CH_u CH_o
+手段 CH_sc CH_o CH_u CH_d CH_u CH_a CH_n#
+老闆 CH_l CH_a CH_u CH_b CH_a CH_n#
+深圳 CH_sc CH_@ CH_n# CH_dz CH_u CH_@ CH_n#
+加州 CH_dzi CH_i CH_a CH_dzc CH_o CH_u
+選對 CH_si CH_y CH_E CH_n# CH_d CH_u CH_e CH_i
+高點 CH_g CH_a CH_u CH_d CH_i CH_E CH_n#
+人造 CH_Zc CH_@ CH_n# CH_dz CH_a CH_u
+登陸 CH_d CH_@ CH_N# CH_l CH_u
+小艇 CH_si CH_i CH_a CH_u CH_t CH_i CH_N#
+面臨 CH_m CH_i CH_E CH_n# CH_l CH_i CH_n#
+表面 CH_b CH_i CH_a CH_u CH_m CH_i CH_E CH_n#
+燃料 CH_Zc CH_a CH_n# CH_l CH_i CH_a CH_u
+回應 CH_h CH_u CH_e CH_i CH_# CH_i CH_N#
+太早 CH_t CH_a CH_i CH_dz CH_a CH_u
+推翻 CH_t CH_u CH_e CH_i CH_f CH_a CH_n#
+櫃子 CH_g CH_u CH_e CH_i CH_dz CH_U
+尖端 CH_dzi CH_i CH_E CH_n# CH_d CH_u CH_a CH_n#
+信心 CH_si CH_i CH_n# CH_si CH_i CH_n#
+觀察 CH_g CH_u CH_a CH_n# CH_tsc CH_a
+學長 CH_si CH_y CH_E CH_dzc CH_a CH_N#
+日子 CH_Zc CH_Uc CH_dz CH_U
+煩惱 CH_f CH_a CH_n# CH_n CH_a CH_u
+以往 CH_# CH_i CH_# CH_u CH_a CH_N#
+前輩 CH_tsi CH_i CH_E CH_n# CH_b CH_e CH_i
+國內 CH_g CH_u CH_o CH_n CH_e CH_i
+好事 CH_h CH_a CH_u CH_sc CH_Uc
+戒嚴 CH_dzi CH_i CH_E CH_# CH_i CH_E CH_n#
+時期 CH_sc CH_Uc CH_tsi CH_i
+身份 CH_sc CH_@ CH_n# CH_f CH_@ CH_n#
+去國 CH_tsi CH_y CH_g CH_u CH_o
+學位 CH_si CH_y CH_E CH_# CH_u CH_e CH_i
+需求 CH_si CH_y CH_tsi CH_i CH_o CH_u
+漫長 CH_m CH_a CH_n# CH_tsc CH_a CH_N#
+寂寞 CH_dzi CH_i CH_m CH_u CH_o
+競爭 CH_dzi CH_i CH_N# CH_dzc CH_@ CH_N#
+相處 CH_si CH_i CH_a CH_N# CH_tsc CH_u
+大將 CH_d CH_a CH_dzi CH_i CH_a CH_N#
+何必 CH_h CH_@ CH_b CH_i
+黃河 CH_h CH_u CH_a CH_N# CH_h CH_@
+跳上 CH_t CH_i CH_a CH_u CH_sc CH_a CH_N#
+大海 CH_d CH_a CH_h CH_a CH_i
+翻滾 CH_f CH_a CH_n# CH_g CH_u CH_@ CH_n#
+池塘 CH_tsc CH_Uc CH_t CH_a CH_N#
+不入 CH_b CH_u CH_Zc CH_u
+留學 CH_l CH_i CH_o CH_u CH_si CH_y CH_E
+駭浪 CH_h CH_a CH_i CH_l CH_a CH_N#
+抬高 CH_t CH_a CH_i CH_g CH_a CH_u
+緣分 CH_# CH_y CH_E CH_n# CH_f CH_@ CH_n#
+有緣 CH_# CH_i CH_o CH_u CH_# CH_y CH_E CH_n#
+大門 CH_d CH_a CH_m CH_@ CH_n#
+這個 CH_dzc CH_@ CH_g CH_@
+就是 CH_dzi CH_i CH_o CH_u CH_sc CH_Uc
+一個 CH_# CH_i CH_g CH_@
+我們 CH_# CH_u CH_o CH_m CH_@ CH_n#
+是這 CH_sc CH_Uc CH_dzc CH_@
+可以 CH_k CH_@ CH_# CH_i
+所以 CH_s CH_u CH_o CH_# CH_i
+的話 CH_d CH_@ CH_h CH_u CH_a
+那麼 CH_n CH_a CH_m CH_@
+如果 CH_Zc CH_u CH_g CH_u CH_o
+這樣 CH_dzc CH_@ CH_# CH_i CH_a CH_N#
+東西 CH_d CH_o CH_N# CH_si CH_i
+什麼 CH_sc CH_@ CH_n# CH_m CH_@
+這邊 CH_dzc CH_@ CH_b CH_i CH_E CH_n#
+其實 CH_tsi CH_i CH_sc CH_Uc
+變成 CH_b CH_i CH_E CH_n# CH_tsc CH_@ CH_N#
+這裡 CH_dzc CH_@ CH_l CH_i
+一樣 CH_# CH_i CH_# CH_i CH_a CH_N#
+裡面 CH_l CH_i CH_m CH_i CH_E CH_n#
+這是 CH_dzc CH_@ CH_sc CH_Uc
+它的 CH_t CH_a CH_d CH_@
+那個 CH_n CH_a CH_g CH_@
+沒有 CH_m CH_e CH_i CH_# CH_i CH_o CH_u
+然後 CH_Zc CH_a CH_n# CH_h CH_o CH_u
+的是 CH_d CH_i CH_sc CH_Uc
+我的 CH_# CH_u CH_o CH_d CH_@
+因為 CH_# CH_i CH_n# CH_# CH_u CH_e CH_i
+這些 CH_dzc CH_@ CH_si CH_i CH_E
+剛才 CH_g CH_a CH_N# CH_ts CH_a CH_i
+等等 CH_d CH_@ CH_N# CH_d CH_@ CH_N#
+我就 CH_# CH_u CH_o CH_dzi CH_i CH_o CH_u
+都是 CH_d CH_o CH_u CH_sc CH_Uc
+但是 CH_d CH_a CH_n# CH_sc CH_Uc
+等於 CH_d CH_@ CH_N# CH_# CH_y
+起來 CH_tsi CH_i CH_l CH_a CH_i
+怎麼 CH_dz CH_@ CH_n# CH_m CH_@
+可能 CH_k CH_@ CH_n CH_@ CH_N#
+出來 CH_tsc CH_u CH_l CH_a CH_i
+得到 CH_d CH_@ CH_d CH_a CH_u
+上面 CH_sc CH_a CH_N# CH_m CH_i CH_E CH_n#
+機率 CH_dzi CH_i CH_l CH_y
+之後 CH_dzc CH_Uc CH_h CH_o CH_u
+一點 CH_# CH_i CH_d CH_i CH_E CH_n#
+一堆 CH_# CH_i CH_d CH_u CH_e CH_i
+知道 CH_dzc CH_Uc CH_d CH_a CH_u
+比較 CH_b CH_i CH_dzi CH_i CH_a CH_u
+不是 CH_b CH_u CH_sc CH_Uc
+也是 CH_# CH_i CH_E CH_sc CH_Uc
+他的 CH_t CH_a CH_d CH_@
+應該 CH_# CH_i CH_N# CH_g CH_a CH_i
+週期 CH_dzc CH_o CH_u CH_tsi CH_i
+收斂 CH_sc CH_o CH_u CH_l CH_i CH_E CH_n#
+它是 CH_t CH_a CH_sc CH_Uc
+只是 CH_dzc CH_Uc CH_sc CH_Uc
+他們 CH_t CH_a CH_m CH_@ CH_n#
+很多 CH_h CH_@ CH_n# CH_d CH_u CH_o
+看到 CH_k CH_a CH_n# CH_d CH_a CH_u
+聲音 CH_sc CH_@ CH_N# CH_# CH_i CH_n#
+叫做 CH_dzi CH_i CH_a CH_u CH_dz CH_u CH_o
+過來 CH_g CH_u CH_o CH_l CH_a CH_i
+於是 CH_# CH_y CH_sc CH_Uc
+還是 CH_h CH_a CH_i CH_sc CH_Uc
+只要 CH_dzc CH_Uc CH_# CH_i CH_a CH_u
+積分 CH_dzi CH_i CH_f CH_@ CH_n#
+只有 CH_dzc CH_Uc CH_# CH_i CH_o CH_u
+事情 CH_sc CH_Uc CH_tsi CH_i CH_N#
+或者 CH_h CH_u CH_o CH_dzc CH_@
+問題 CH_# CH_u CH_@ CH_n# CH_t CH_i
+做的 CH_dz CH_u CH_o CH_d CH_@
+不過 CH_b CH_u CH_g CH_u CH_o
+三個 CH_s CH_a CH_n# CH_g CH_@
+它們 CH_t CH_u CH_o CH_m CH_@ CH_n#
+就會 CH_dzi CH_i CH_o CH_u CH_h CH_u CH_e CH_i
+全部 CH_tsi CH_y CH_E CH_n# CH_b CH_u
+來看 CH_l CH_a CH_i CH_k CH_a CH_n#
+假設 CH_dzi CH_i CH_a CH_sc CH_@
+底下 CH_d CH_i CH_si CH_i CH_a
+容易 CH_Zc CH_o CH_N# CH_# CH_i
+課本 CH_k CH_@ CH_b CH_@ CH_n#
+一定 CH_# CH_i CH_d CH_i CH_N#
+當然 CH_d CH_a CH_N# CH_Zc CH_a CH_n#
+怎樣 CH_dz CH_@ CH_n# CH_# CH_i CH_a CH_N#
+後面 CH_h CH_o CH_u CH_m CH_i CH_E CH_n#
+你的 CH_n CH_i CH_d CH_@
+今天 CH_dzi CH_i CH_n# CH_t CH_i CH_E CH_n#
+非常 CH_f CH_e CH_i CH_tsc CH_a CH_N#
+已經 CH_# CH_i CH_dzi CH_i CH_N#
+前面 CH_tsi CH_i CH_E CH_n# CH_m CH_i CH_E CH_n#
+時間 CH_sc CH_Uc CH_dzi CH_i CH_E CH_n#
+情形 CH_tsi CH_i CH_N# CH_si CH_i CH_N#
+一下 CH_# CH_i CH_si CH_i CH_a
+大的 CH_d CH_a CH_d CH_@
+有了 CH_# CH_i CH_o CH_u CH_l CH_@
+一次 CH_# CH_i CH_ts CH_U
+它就 CH_t CH_a CH_dzi CH_i CH_o CH_u
+開始 CH_k CH_a CH_i CH_sc CH_Uc
+語音 CH_# CH_y CH_# CH_i CH_n#
+大概 CH_d CH_a CH_g CH_a CH_i
+來講 CH_l CH_a CH_i CH_dzi CH_i CH_a CH_N#
+你看 CH_n CH_i CH_k CH_a CH_n#
+表示 CH_b CH_i CH_a CH_u CH_sc CH_Uc
+中間 CH_dzc CH_o CH_N# CH_dzi CH_i CH_E CH_n#
+條件 CH_t CH_i CH_a CH_u CH_dzi CH_i CH_E CH_n#
+進去 CH_dzi CH_i CH_n# CH_tsi CH_y
+自己 CH_dz CH_U CH_dzi CH_i
+辦法 CH_b CH_a CH_n# CH_f CH_a
+需要 CH_si CH_y CH_# CH_i CH_a CH_u
+還有 CH_h CH_a CH_i CH_# CH_i CH_o CH_u
+整個 CH_dzc CH_@ CH_N# CH_g CH_@
+這麼 CH_dzc CH_@ CH_m CH_@
+大小 CH_d CH_a CH_si CH_i CH_a CH_u
+第三 CH_d CH_i CH_s CH_a CH_n#
+一圈 CH_# CH_i CH_tsi CH_y CH_E CH_n#
+都有 CH_d CH_o CH_u CH_# CH_i CH_o CH_u
+系統 CH_si CH_i CH_t CH_o CH_N#
+代表 CH_d CH_a CH_i CH_b CH_i CH_a CH_u
+不要 CH_b CH_u CH_# CH_i CH_a CH_u
+可是 CH_k CH_@ CH_sc CH_Uc
+一些 CH_# CH_i CH_si CH_i CH_E
+而已 CH_# CH_@c CH_# CH_i
+好了 CH_h CH_a CH_u CH_l CH_@
+最後 CH_dz CH_u CH_e CH_i CH_h CH_o CH_u
+清楚 CH_tsi CH_i CH_N# CH_tsc CH_u
+了解 CH_l CH_i CH_a CH_u CH_dzi CH_i CH_E
+說過 CH_sc CH_u CH_o CH_g CH_u CH_o
+新聞 CH_si CH_i CH_n# CH_# CH_u CH_@ CH_n#
+零點 CH_l CH_i CH_N# CH_d CH_i CH_E CH_n#
+展開 CH_dzc CH_a CH_n# CH_k CH_a CH_i
+除以 CH_tsc CH_u CH_# CH_i
+數學 CH_sc CH_u CH_si CH_y CH_E
+發現 CH_f CH_a CH_si CH_i CH_E CH_n#
+合成 CH_h CH_@ CH_tsc CH_@ CH_N#
+外面 CH_# CH_u CH_a CH_i CH_m CH_i CH_E CH_n#
+那些 CH_n CH_a CH_si CH_i CH_E
+而言 CH_# CH_@c CH_# CH_i CH_E CH_n#
+文字 CH_# CH_u CH_@ CH_n# CH_dz CH_U
+真正 CH_dzc CH_@ CH_n# CH_dzc CH_@ CH_N#
+單位 CH_d CH_a CH_n# CH_# CH_u CH_e CH_i
+負的 CH_f CH_u CH_d CH_@
+一種 CH_# CH_i CH_dzc CH_o CH_N#
+來這 CH_l CH_a CH_i CH_dzc CH_@
+到底 CH_d CH_a CH_u CH_d CH_i
+分析 CH_f CH_@ CH_n# CH_si CH_i
+出現 CH_tsc CH_u CH_si CH_i CH_E CH_n#
+本來 CH_b CH_@ CH_n# CH_l CH_a CH_i
+進來 CH_dzi CH_i CH_n# CH_l CH_a CH_i
+定義 CH_d CH_i CH_N# CH_# CH_i
+多的 CH_d CH_u CH_o CH_d CH_@
+也有 CH_# CH_i CH_E CH_# CH_i CH_o CH_u
+小的 CH_si CH_i CH_a CH_u CH_d CH_@
+再來 CH_dz CH_a CH_i CH_l CH_a CH_i
+一段 CH_# CH_i CH_d CH_u CH_a CH_n#
+分別 CH_f CH_@ CH_n# CH_b CH_i CH_E
+別的 CH_b CH_i CH_E CH_d CH_@
+網路 CH_# CH_u CH_a CH_N# CH_l CH_u
+給我 CH_g CH_e CH_i CH_# CH_u CH_o
+畫的 CH_h CH_u CH_a CH_d CH_@
+長的 CH_tsc CH_a CH_N# CH_d CH_@
+解釋 CH_dzi CH_i CH_E CH_sc CH_Uc
+一行 CH_# CH_i CH_h CH_a CH_N#
+一行 CH_# CH_i CH_si CH_i CH_N#
+當你 CH_d CH_a CH_N# CH_n CH_i
+結果 CH_dzi CH_i CH_E CH_g CH_u CH_o
+好像 CH_h CH_a CH_u CH_si CH_i CH_a CH_N#
+好的 CH_h CH_a CH_u CH_d CH_@
+不會 CH_b CH_u CH_h CH_u CH_e CH_i
+包括 CH_b CH_a CH_u CH_k CH_u CH_o
+能夠 CH_n CH_@ CH_N# CH_g CH_o CH_u
+來了 CH_l CH_a CH_i CH_l CH_@
+最大 CH_dz CH_u CH_e CH_i CH_d CH_a
+根據 CH_g CH_@ CH_n# CH_dzi CH_y
+不能 CH_b CH_u CH_n CH_@ CH_N#
+部分 CH_b CH_u CH_f CH_@ CH_n#
+放在 CH_f CH_a CH_N# CH_dz CH_a CH_i
+必須 CH_b CH_i CH_si CH_y
+不管 CH_b CH_u CH_g CH_u CH_a CH_n#
+通常 CH_t CH_o CH_N# CH_tsc CH_a CH_N#
+覺得 CH_dzi CH_y CH_E CH_d CH_@
+語言 CH_# CH_y CH_# CH_i CH_E CH_n#
+真的 CH_dzc CH_@ CH_n# CH_d CH_@
+要有 CH_# CH_i CH_a CH_u CH_# CH_i CH_o CH_u
+直接 CH_dzc CH_Uc CH_dzi CH_i CH_E
+四個 CH_s CH_U CH_g CH_@
+下來 CH_si CH_i CH_a CH_l CH_a CH_i
+雖然 CH_s CH_u CH_e CH_i CH_Zc CH_a CH_n#
+右邊 CH_# CH_i CH_o CH_u CH_b CH_i CH_E CH_n#
+大於 CH_d CH_a CH_# CH_y
+加上 CH_dzi CH_i CH_a CH_sc CH_a CH_N#
+一條 CH_# CH_i CH_t CH_i CH_a CH_u
+顯然 CH_si CH_i CH_E CH_n# CH_Zc CH_a CH_n#
+描述 CH_m CH_i CH_a CH_u CH_sc CH_u
+複雜 CH_f CH_u CH_dz CH_a
+就有 CH_dzi CH_i CH_o CH_u CH_# CH_i CH_o CH_u
+存在 CH_ts CH_u CH_@ CH_n# CH_dz CH_a CH_i
+那是 CH_n CH_a CH_sc CH_Uc
+幾個 CH_dzi CH_i CH_g CH_@
+多個 CH_d CH_u CH_o CH_g CH_@
+以後 CH_# CH_i CH_h CH_o CH_u
+也許 CH_# CH_i CH_E CH_si CH_y
+左邊 CH_dz CH_u CH_o CH_b CH_i CH_E CH_n#
+自動 CH_dz CH_U CH_d CH_o CH_N#
+小於 CH_si CH_i CH_a CH_u CH_# CH_y
+輸入 CH_sc CH_u CH_Zc CH_u
+都會 CH_d CH_u CH_h CH_u CH_e CH_i
+高頻 CH_g CH_a CH_u CH_p CH_i CH_n#
+去做 CH_tsi CH_y CH_dz CH_u CH_o
+寫的 CH_si CH_i CH_E CH_d CH_@
+答案 CH_d CH_a CH_# CH_a CH_n#
+而且 CH_# CH_@c CH_tsi CH_i CH_E
+狀況 CH_dzc CH_u CH_a CH_N# CH_k CH_u CH_a CH_N#
+一直 CH_# CH_i CH_dzc CH_Uc
+辨識 CH_b CH_i CH_E CH_n# CH_sc CH_Uc
+影響 CH_# CH_i CH_N# CH_si CH_i CH_a CH_N#
+訊號 CH_si CH_y CH_n# CH_h CH_a CH_u
+根本 CH_g CH_@ CH_n# CH_b CH_@ CH_n#
+平面 CH_p CH_i CH_N# CH_m CH_i CH_E CH_n#
+電話 CH_d CH_i CH_E CH_n# CH_h CH_u CH_a
+過去 CH_g CH_u CH_o CH_tsi CH_y
+處理 CH_tsc CH_u CH_l CH_i
+才是 CH_ts CH_a CH_i CH_sc CH_Uc
+那樣 CH_n CH_a CH_# CH_i CH_a CH_N#
+有個 CH_# CH_i CH_o CH_u CH_g CH_@
+永遠 CH_# CH_y CH_o CH_N# CH_# CH_y CH_E CH_n#
+算的 CH_s CH_u CH_a CH_n# CH_d CH_@
+它在 CH_t CH_a CH_dz CH_a CH_i
+仍然 CH_Zc CH_@ CH_N# CH_Zc CH_a CH_n#
+一張 CH_# CH_i CH_dzc CH_a CH_N#
+一組 CH_# CH_i CH_dz CH_u
+用來 CH_# CH_y CH_o CH_N# CH_l CH_a CH_i
+平均 CH_p CH_i CH_N# CH_dzi CH_y CH_n#
+十二 CH_sc CH_Uc CH_# CH_@c
+過了 CH_g CH_u CH_o CH_l CH_@
+除了 CH_tsc CH_u CH_l CH_@
+多了 CH_d CH_u CH_o CH_l CH_@
+跳到 CH_t CH_i CH_a CH_u CH_d CH_a CH_u
+各種 CH_g CH_@ CH_dzc CH_o CH_N#
+中文 CH_dzc CH_o CH_N# CH_# CH_u CH_@ CH_n#
+發生 CH_f CH_a CH_sc CH_@ CH_N#
+很像 CH_h CH_@ CH_n# CH_si CH_i CH_a CH_N#
+到了 CH_d CH_a CH_u CH_l CH_@
+四點 CH_s CH_U CH_d CH_i CH_E CH_n#
+仔細 CH_dz CH_U CH_si CH_i
+五點 CH_# CH_u CH_d CH_i CH_E CH_n#
+變化 CH_b CH_i CH_E CH_n# CH_h CH_u CH_a
+拉開 CH_l CH_a CH_k CH_a CH_i
+而是 CH_# CH_@c CH_sc CH_Uc
+二十 CH_# CH_@c CH_sc CH_Uc
+二點 CH_# CH_@c CH_d CH_i CH_E CH_n#
+這點 CH_dzc CH_@ CH_d CH_i CH_E CH_n#
+記得 CH_dzi CH_i CH_d CH_@
+回去 CH_h CH_u CH_e CH_i CH_tsi CH_y
+三點 CH_s CH_a CH_n# CH_d CH_i CH_E CH_n#
+一路 CH_# CH_i CH_l CH_u
+那邊 CH_n CH_a CH_b CH_i CH_E CH_n#
+有點 CH_# CH_i CH_o CH_u CH_d CH_i CH_E CH_n#
+如何 CH_Zc CH_u CH_h CH_@
+不像 CH_b CH_u CH_si CH_i CH_a CH_N#
+聽到 CH_t CH_i CH_N# CH_d CH_a CH_u
+就說 CH_dzi CH_i CH_o CH_u CH_sc CH_u CH_o
+剩下 CH_sc CH_@ CH_N# CH_si CH_i CH_a
+為止 CH_# CH_u CH_e CH_i CH_dzc CH_Uc
+兩次 CH_l CH_i CH_a CH_N# CH_ts CH_U
+不好 CH_b CH_u CH_h CH_a CH_u
+三的 CH_s CH_a CH_n# CH_d CH_@
+一一 CH_# CH_i CH_# CH_i
+特別 CH_t CH_@ CH_b CH_i CH_E
+看看 CH_k CH_a CH_n# CH_k CH_a CH_n#
+希望 CH_si CH_i CH_# CH_u CH_a CH_N#
+回來 CH_h CH_u CH_e CH_i CH_l CH_a CH_i
+平方 CH_p CH_i CH_N# CH_f CH_a CH_N#
+一百 CH_# CH_i CH_b CH_a CH_i
+對的 CH_d CH_u CH_e CH_i CH_d CH_@
+當成 CH_d CH_a CH_N# CH_tsc CH_@ CH_N#
+就像 CH_dzi CH_i CH_o CH_u CH_si CH_i CH_a CH_N#
+參數 CH_ts CH_a CH_n# CH_sc CH_u
+拿來 CH_n CH_a CH_l CH_a CH_i
+找到 CH_dzc CH_a CH_u CH_d CH_a CH_u
+還要 CH_h CH_a CH_i CH_# CH_i CH_a CH_u
+現象 CH_si CH_i CH_E CH_n# CH_si CH_i CH_a CH_N#
+英文 CH_# CH_i CH_N# CH_# CH_u CH_@ CH_n#
+一套 CH_# CH_i CH_t CH_a CH_u
+程式 CH_tsc CH_@ CH_N# CH_sc CH_Uc
+原因 CH_# CH_y CH_E CH_n# CH_# CH_i CH_n#
+下週 CH_si CH_i CH_a CH_dzc CH_o CH_u
+領域 CH_l CH_i CH_N# CH_# CH_y
+各位 CH_g CH_@ CH_# CH_u CH_e CH_i
+手機 CH_sc CH_o CH_u CH_dzi CH_i
+觀念 CH_g CH_u CH_a CH_n# CH_n CH_i CH_E CH_n#
+進入 CH_dzi CH_i CH_n# CH_Zc CH_u
+能量 CH_n CH_@ CH_N# CH_l CH_i CH_a CH_N#
+來說 CH_l CH_a CH_i CH_sc CH_u CH_o
+同時 CH_t CH_o CH_N# CH_sc CH_Uc
+意義 CH_# CH_i CH_# CH_i
+都要 CH_d CH_o CH_u CH_# CH_i CH_a CH_u
+做到 CH_dz CH_u CH_o CH_d CH_a CH_u
+要是 CH_# CH_i CH_a CH_u CH_sc CH_Uc
+很好 CH_h CH_@ CH_n# CH_h CH_a CH_u
+之外 CH_dzc CH_Uc CH_# CH_u CH_a CH_i
+一項 CH_# CH_i CH_si CH_i CH_a CH_N#
+證明 CH_dzc CH_@ CH_N# CH_m CH_i CH_N#
+隨便 CH_s CH_u CH_e CH_i CH_b CH_i CH_E CH_n#
+稍微 CH_sc CH_a CH_u CH_# CH_u CH_e CH_i
+很小 CH_h CH_@ CH_n# CH_si CH_i CH_a CH_u
+當時 CH_d CH_a CH_N# CH_sc CH_Uc
+常常 CH_tsc CH_a CH_N# CH_tsc CH_a CH_N#
+上課 CH_sc CH_a CH_N# CH_k CH_@
+構成 CH_g CH_o CH_u CH_tsc CH_@ CH_N#
+三十 CH_s CH_a CH_n# CH_sc CH_Uc
+說法 CH_sc CH_u CH_o CH_f CH_a
+說到 CH_sc CH_u CH_o CH_d CH_a CH_u
+就要 CH_dzi CH_i CH_o CH_u CH_# CH_i CH_a CH_u
+規定 CH_g CH_u CH_e CH_i CH_d CH_i CH_N#
+重新 CH_tsc CH_o CH_N# CH_si CH_i CH_n#
+很大 CH_h CH_@ CH_n# CH_d CH_a
+上網 CH_sc CH_a CH_N# CH_# CH_u CH_a CH_N#
+十點 CH_sc CH_Uc CH_d CH_i CH_E CH_n#
+學期 CH_si CH_y CH_E CH_tsi CH_i
+回到 CH_h CH_u CH_e CH_i CH_d CH_a CH_u
+十九 CH_sc CH_Uc CH_dzi CH_i CH_o CH_u
+一步 CH_# CH_i CH_b CH_u
+一半 CH_# CH_i CH_b CH_a CH_n#
+慢慢 CH_m CH_a CH_n# CH_m CH_a CH_n#
+很難 CH_h CH_@ CH_n# CH_n CH_a CH_n#
+目的 CH_m CH_u CH_d CH_i
+六個 CH_l CH_i CH_o CH_u CH_g CH_@
+一頁 CH_# CH_i CH_# CH_i CH_E
+學問 CH_si CH_y CH_E CH_# CH_u CH_@ CH_n#
+研究 CH_# CH_i CH_E CH_n# CH_dzi CH_i CH_o CH_u
+後他 CH_h CH_o CH_u CH_t CH_a
+的會 CH_d CH_@ CH_h CH_u CH_e CH_i
+兩倍 CH_l CH_i CH_a CH_N# CH_b CH_e CH_i
+它一 CH_t CH_a CH_# CH_i
+不用 CH_b CH_u CH_# CH_y CH_o CH_N#
+十一 CH_sc CH_Uc CH_# CH_i
+禮拜 CH_l CH_i CH_b CH_a CH_i
+標題 CH_b CH_i CH_a CH_u CH_t CH_i
+對話 CH_d CH_u CH_e CH_i CH_h CH_u CH_a
+經過 CH_dzi CH_i CH_N# CH_g CH_u CH_o
+最好 CH_dz CH_u CH_e CH_i CH_h CH_a CH_u
+符合 CH_f CH_u CH_h CH_@
+長相 CH_dzc CH_a CH_N# CH_si CH_i CH_a CH_N#
+走到 CH_dz CH_o CH_u CH_d CH_a CH_u
+成為 CH_tsc CH_@ CH_N# CH_# CH_u CH_e CH_i
+十六 CH_sc CH_Uc CH_l CH_i CH_o CH_u
+網頁 CH_# CH_u CH_a CH_N# CH_# CH_i CH_E
+每個 CH_m CH_e CH_i CH_g CH_@
+本身 CH_b CH_@ CH_n# CH_sc CH_@ CH_n#
+方式 CH_f CH_a CH_N# CH_sc CH_Uc
+不斷 CH_b CH_u CH_d CH_u CH_a CH_n#
+接近 CH_dzi CH_i CH_E CH_dzi CH_i CH_n#
+剛好 CH_g CH_a CH_N# CH_h CH_a CH_u
+一看 CH_# CH_i CH_k CH_a CH_n#
+符號 CH_f CH_u CH_h CH_a CH_u
+後來 CH_h CH_o CH_u CH_l CH_a CH_i
+方向 CH_f CH_a CH_N# CH_si CH_i CH_a CH_N#
+一則 CH_# CH_i CH_dz CH_@
+說明 CH_sc CH_u CH_o CH_m CH_i CH_N#
+改變 CH_g CH_a CH_i CH_b CH_i CH_E CH_n#
+至少 CH_dzc CH_Uc CH_sc CH_a CH_u
+只能 CH_dzc CH_Uc CH_n CH_@ CH_N#
+比對 CH_b CH_i CH_d CH_u CH_e CH_i
+文件 CH_# CH_u CH_@ CH_n# CH_dzi CH_i CH_E CH_n#
+不行 CH_b CH_u CH_si CH_i CH_N#
+十個 CH_sc CH_Uc CH_g CH_@
+十三 CH_sc CH_Uc CH_s CH_a CH_n#
+一把 CH_# CH_i CH_b CH_a
+一千 CH_# CH_i CH_tsi CH_i CH_E CH_n#
+變得 CH_b CH_i CH_E CH_n# CH_d CH_@
+這段 CH_dzc CH_@ CH_d CH_u CH_a CH_n#
+唯一 CH_# CH_u CH_e CH_i CH_# CH_i
+馬上 CH_m CH_a CH_sc CH_a CH_N#
+分子 CH_f CH_@ CH_n# CH_dz CH_U
+不再 CH_b CH_u CH_dz CH_a CH_i
+大家 CH_d CH_a CH_g CH_u
+大家 CH_d CH_a CH_dzi CH_i CH_a
+一片 CH_# CH_i CH_p CH_i CH_E CH_n#
+還會 CH_h CH_a CH_i CH_h CH_u CH_e CH_i
+數位 CH_sc CH_u CH_# CH_u CH_e CH_i
+實在 CH_sc CH_Uc CH_dz CH_a CH_i
+要求 CH_# CH_i CH_a CH_u CH_tsi CH_i CH_o CH_u
+既然 CH_dzi CH_i CH_Zc CH_a CH_n#
+未來 CH_# CH_u CH_e CH_i CH_l CH_a CH_i
+感覺 CH_g CH_a CH_n# CH_dzi CH_y CH_E
+喜歡 CH_si CH_i CH_h CH_u CH_a CH_n#
+有用 CH_# CH_i CH_o CH_u CH_# CH_y CH_o CH_N#
+以為 CH_# CH_i CH_# CH_u CH_e CH_i
+分成 CH_f CH_@ CH_n# CH_tsc CH_@ CH_N#
+不難 CH_b CH_u CH_n CH_a CH_n#
+才會 CH_ts CH_a CH_i CH_h CH_u CH_e CH_i
+讓我 CH_Zc CH_a CH_N# CH_# CH_u CH_o
+碰到 CH_p CH_o CH_N# CH_d CH_a CH_u
+晚上 CH_# CH_u CH_a CH_n# CH_sc CH_a CH_N#
+哪些 CH_n CH_a CH_si CH_i CH_E
+出國 CH_tsc CH_u CH_g CH_u CH_o
+十八 CH_sc CH_Uc CH_b CH_a
+選擇 CH_si CH_y CH_E CH_n# CH_dz CH_@
+越大 CH_# CH_y CH_E CH_d CH_a
+奇怪 CH_tsi CH_i CH_g CH_u CH_a CH_i
+即使 CH_dzi CH_i CH_sc CH_Uc
+考慮 CH_k CH_a CH_u CH_l CH_y
+下去 CH_si CH_i CH_a CH_tsi CH_y
+博士 CH_b CH_u CH_o CH_sc CH_Uc
+連續 CH_l CH_i CH_E CH_n# CH_si CH_y
+移動 CH_# CH_i CH_d CH_o CH_N#
+美國 CH_m CH_e CH_i CH_g CH_u CH_o
+早上 CH_dz CH_a CH_u CH_sc CH_a CH_N#
+好處 CH_h CH_a CH_u CH_tsc CH_u
+全球 CH_tsi CH_y CH_E CH_n# CH_tsi CH_i CH_o CH_u
+一面 CH_# CH_i CH_m CH_i CH_E CH_n#
+道理 CH_d CH_a CH_u CH_l CH_i
+判斷 CH_p CH_a CH_n# CH_d CH_u CH_a CH_n#
+轉到 CH_dzc CH_u CH_a CH_n# CH_d CH_a CH_u
+整合 CH_dzc CH_@ CH_N# CH_h CH_@
+想到 CH_si CH_i CH_a CH_N# CH_d CH_a CH_u
+剛剛 CH_g CH_a CH_N# CH_g CH_a CH_N#
+呈現 CH_tsc CH_@ CH_N# CH_si CH_i CH_E CH_n#
+以及 CH_# CH_i CH_dzi CH_i
+一層 CH_# CH_i CH_ts CH_@ CH_N#
+算是 CH_s CH_u CH_a CH_n# CH_sc CH_Uc
+幾乎 CH_dzi CH_i CH_h CH_u
+從前 CH_ts CH_o CH_N# CH_tsi CH_i CH_E CH_n#
+其中 CH_tsi CH_i CH_dzc CH_o CH_N#
+包含 CH_b CH_a CH_u CH_h CH_a CH_n#
+以前 CH_# CH_i CH_tsi CH_i CH_E CH_n#
+分數 CH_f CH_@ CH_n# CH_sc CH_u
+互相 CH_h CH_u CH_si CH_i CH_a CH_N#
+凡是 CH_f CH_a CH_n# CH_sc CH_Uc
+一來 CH_# CH_i CH_l CH_a CH_i
+這塊 CH_dzc CH_@ CH_k CH_u CH_a CH_i
+將來 CH_dzi CH_i CH_a CH_N# CH_l CH_a CH_i
+思考 CH_s CH_U CH_k CH_a CH_u
+兩邊 CH_l CH_i CH_a CH_N# CH_b CH_i CH_E CH_n#
+方便 CH_f CH_a CH_N# CH_b CH_i CH_E CH_n#
+十四 CH_sc CH_Uc CH_s CH_U
+實驗 CH_sc CH_Uc CH_# CH_i CH_E CH_n#
+發展 CH_f CH_a CH_dzc CH_a CH_n#
+這條 CH_dzc CH_@ CH_t CH_i CH_a CH_u
+注意 CH_dzc CH_u CH_# CH_i
+至於 CH_dzc CH_Uc CH_# CH_y
+上去 CH_sc CH_a CH_N# CH_tsi CH_y
+隨時 CH_s CH_u CH_e CH_i CH_sc CH_Uc
+最多 CH_dz CH_u CH_e CH_i CH_d CH_u CH_o
+這本 CH_dzc CH_@ CH_b CH_@ CH_n#
+拿掉 CH_n CH_a CH_d CH_i CH_a CH_u
+兩種 CH_l CH_i CH_a CH_N# CH_dzc CH_o CH_N#
+再說 CH_dz CH_a CH_i CH_sc CH_u CH_o
+台灣 CH_t CH_a CH_i CH_# CH_u CH_a CH_n#
+只看 CH_dzc CH_Uc CH_k CH_a CH_n#
+三百 CH_s CH_a CH_n# CH_b CH_a CH_i
+繼續 CH_dzi CH_i CH_si CH_y
+講話 CH_dzi CH_i CH_a CH_N# CH_h CH_u CH_a
+寬度 CH_k CH_u CH_a CH_n# CH_d CH_u
+資訊 CH_dz CH_U CH_si CH_y CH_n#
+搜尋 CH_s CH_o CH_u CH_si CH_y CH_n#
+進度 CH_dzi CH_i CH_n# CH_d CH_u
+提到 CH_t CH_i CH_d CH_a CH_u
+就算 CH_dzi CH_i CH_o CH_u CH_s CH_u CH_a CH_n#
+統計 CH_t CH_o CH_N# CH_dzi CH_i
+基礎 CH_dzi CH_i CH_tsc CH_u
+高度 CH_g CH_a CH_u CH_d CH_u
+或是 CH_h CH_u CH_o CH_sc CH_Uc
+抓到 CH_dzc CH_u CH_a CH_d CH_a CH_u
+世界 CH_sc CH_Uc CH_dzi CH_i CH_E
+太多 CH_t CH_a CH_i CH_d CH_u CH_o
+辭典 CH_ts CH_U CH_d CH_i CH_E CH_n#
+簡化 CH_dzi CH_i CH_E CH_n# CH_h CH_u CH_a
+畫面 CH_h CH_u CH_a CH_m CH_i CH_E CH_n#
+做為 CH_dz CH_u CH_o CH_# CH_u CH_e CH_i
+訓練 CH_si CH_y CH_n# CH_l CH_i CH_E CH_n#
+效果 CH_si CH_i CH_a CH_u CH_g CH_u CH_o
+同學 CH_t CH_o CH_N# CH_si CH_y CH_E
+出去 CH_tsc CH_u CH_tsi CH_y
+少的 CH_sc CH_a CH_u CH_d CH_@
+天氣 CH_t CH_i CH_E CH_n# CH_tsi CH_i
+不在 CH_b CH_u CH_dz CH_a CH_i
+又是 CH_# CH_i CH_o CH_u CH_sc CH_Uc
+十五 CH_sc CH_Uc CH_# CH_u
+這回 CH_dzc CH_@ CH_h CH_u CH_e CH_i
+區別 CH_tsi CH_y CH_b CH_i CH_E
+原點 CH_# CH_y CH_E CH_n# CH_d CH_i CH_E CH_n#
+相信 CH_si CH_i CH_a CH_N# CH_si CH_i CH_n#
+信號 CH_si CH_i CH_n# CH_h CH_a CH_u
+有些 CH_# CH_i CH_o CH_u CH_si CH_i CH_E
+以上 CH_# CH_i CH_sc CH_a CH_N#
+不到 CH_b CH_u CH_d CH_a CH_u
+才有 CH_ts CH_a CH_i CH_# CH_i CH_o CH_u
+三萬 CH_s CH_a CH_n# CH_# CH_u CH_a CH_n#
+十七 CH_sc CH_Uc CH_tsi CH_i
+靈感 CH_l CH_i CH_N# CH_g CH_a CH_n#
+學到 CH_si CH_y CH_E CH_d CH_a CH_u
+確定 CH_tsi CH_y CH_E CH_d CH_i CH_N#
+程度 CH_tsc CH_@ CH_N# CH_d CH_u
+特性 CH_t CH_@ CH_si CH_i CH_N#
+很少 CH_h CH_@ CH_n# CH_sc CH_a CH_u
+自然 CH_dz CH_U CH_Zc CH_a CH_n#
+多數 CH_d CH_u CH_o CH_sc CH_u
+以外 CH_# CH_i CH_# CH_u CH_a CH_i
+下面 CH_si CH_i CH_a CH_m CH_i CH_E CH_n#
+人家 CH_Zc CH_@ CH_n# CH_dzi CH_i CH_a
+一邊 CH_# CH_i CH_b CH_i CH_E CH_n#
+關於 CH_g CH_u CH_a CH_n# CH_# CH_y
+傳送 CH_tsc CH_u CH_a CH_n# CH_s CH_o CH_N#
+通過 CH_t CH_o CH_N# CH_g CH_u CH_o
+通訊 CH_t CH_o CH_N# CH_si CH_y CH_n#
+從頭 CH_ts CH_o CH_N# CH_t CH_o CH_u
+來自 CH_l CH_a CH_i CH_dz CH_U
+打開 CH_d CH_a CH_k CH_a CH_i
+三次 CH_s CH_a CH_n# CH_ts CH_U
+體育 CH_t CH_i CH_# CH_y
+超過 CH_tsc CH_a CH_u CH_g CH_u CH_o
+國語 CH_g CH_u CH_o CH_# CH_y
+飛機 CH_f CH_e CH_i CH_dzi CH_i
+完了 CH_# CH_u CH_a CH_n# CH_l CH_i CH_a CH_u
+完了 CH_# CH_u CH_a CH_n# CH_l CH_@
+串聯 CH_tsc CH_u CH_a CH_n# CH_l CH_i CH_E CH_n#
+下課 CH_si CH_i CH_a CH_k CH_@
+一週 CH_# CH_i CH_dzc CH_o CH_u
+瞭解 CH_l CH_i CH_a CH_u CH_dzi CH_i CH_E
+錯的 CH_ts CH_u CH_o CH_d CH_@
+錯了 CH_ts CH_u CH_o CH_l CH_@
+認為 CH_Zc CH_@ CH_n# CH_# CH_u CH_e CH_i
+想要 CH_si CH_i CH_a CH_N# CH_# CH_i CH_a CH_u
+結構 CH_dzi CH_i CH_E CH_g CH_o CH_u
+無法 CH_# CH_u CH_f CH_a
+測試 CH_ts CH_@ CH_sc CH_Uc
+接觸 CH_dzi CH_i CH_E CH_tsc CH_u
+做成 CH_dz CH_u CH_o CH_tsc CH_@ CH_N#
+信箱 CH_si CH_i CH_n# CH_si CH_i CH_a CH_N#
+否則 CH_f CH_o CH_u CH_dz CH_@
+老師 CH_l CH_a CH_u CH_sc CH_Uc
+各自 CH_g CH_@ CH_dz CH_U
+光是 CH_g CH_u CH_a CH_N# CH_sc CH_Uc
+不夠 CH_b CH_u CH_g CH_o CH_u
+三月 CH_s CH_a CH_n# CH_# CH_y CH_E
+一天 CH_# CH_i CH_t CH_i CH_E CH_n#
+增加 CH_dz CH_@ CH_N# CH_dzi CH_i CH_a
+跑出 CH_p CH_a CH_u CH_tsc CH_u
+針對 CH_dzc CH_@ CH_n# CH_d CH_u CH_e CH_i
+破壞 CH_p CH_u CH_o CH_h CH_u CH_a CH_i
+計算 CH_dzi CH_i CH_s CH_u CH_a CH_n#
+投影 CH_t CH_o CH_u CH_# CH_i CH_N#
+台北 CH_t CH_a CH_i CH_b CH_e CH_i
+功夫 CH_g CH_o CH_N# CH_f CH_u
+也好 CH_# CH_i CH_E CH_h CH_a CH_u
+空間 CH_k CH_o CH_N# CH_dzi CH_i CH_E CH_n#
+明天 CH_m CH_i CH_N# CH_t CH_i CH_E CH_n#
+更好 CH_g CH_@ CH_N# CH_h CH_a CH_u
+形狀 CH_si CH_i CH_N# CH_dzc CH_u CH_a CH_N#
+之內 CH_dzc CH_Uc CH_n CH_e CH_i
+一群 CH_# CH_i CH_tsi CH_y CH_n#
+一般 CH_# CH_i CH_b CH_a CH_n#
+一律 CH_# CH_i CH_l CH_y
+學習 CH_si CH_y CH_E CH_si CH_i
+等到 CH_d CH_@ CH_N# CH_d CH_a CH_u
+習慣 CH_si CH_i CH_g CH_u CH_a CH_n#
+理由 CH_l CH_i CH_# CH_i CH_o CH_u
+使得 CH_sc CH_Uc CH_d CH_@
+回答 CH_h CH_u CH_e CH_i CH_d CH_a
+左右 CH_dz CH_u CH_o CH_# CH_i CH_o CH_u
+確實 CH_tsi CH_y CH_E CH_sc CH_Uc
+滿足 CH_m CH_a CH_n# CH_dz CH_u
+會了 CH_h CH_u CH_e CH_i CH_l CH_@
+黑板 CH_h CH_e CH_i CH_b CH_a CH_n#
+最近 CH_dz CH_u CH_e CH_i CH_dzi CH_i CH_n#
+培養 CH_p CH_e CH_i CH_# CH_i CH_a CH_N#
+重複 CH_tsc CH_o CH_N# CH_f CH_u
+若干 CH_Zc CH_u CH_o CH_g CH_a CH_n#
+看法 CH_k CH_a CH_n# CH_f CH_a
+姑且 CH_g CH_u CH_tsi CH_i CH_E
+到來 CH_d CH_a CH_u CH_l CH_a CH_i
+決定 CH_dzi CH_y CH_E CH_d CH_i CH_N#
+每天 CH_m CH_e CH_i CH_t CH_i CH_E CH_n#
+找出 CH_dzc CH_a CH_u CH_tsc CH_u
+別人 CH_b CH_i CH_E CH_Zc CH_@ CH_n#
+作為 CH_dz CH_u CH_o CH_# CH_u CH_e CH_i
+有限 CH_# CH_i CH_o CH_u CH_si CH_i CH_E CH_n#
+成分 CH_tsc CH_@ CH_N# CH_f CH_@ CH_n#
+在下 CH_dz CH_a CH_i CH_si CH_i CH_a
+只好 CH_dzc CH_Uc CH_h CH_a CH_u
+反正 CH_f CH_a CH_n# CH_dzc CH_@ CH_N#
+干擾 CH_g CH_a CH_n# CH_Zc CH_a CH_u
+大學 CH_d CH_a CH_si CH_y CH_E
+一隻 CH_# CH_i CH_dzc CH_Uc
+一位 CH_# CH_i CH_# CH_u CH_e CH_i
+瀏覽 CH_l CH_i CH_o CH_u CH_l CH_a CH_n#
+課程 CH_k CH_@ CH_tsc CH_@ CH_N#
+麻煩 CH_m CH_a CH_f CH_a CH_n#
+造成 CH_dz CH_a CH_u CH_tsc CH_@ CH_N#
+旁邊 CH_p CH_a CH_N# CH_b CH_i CH_E CH_n#
+很有 CH_h CH_@ CH_n# CH_# CH_i CH_o CH_u
+兩週 CH_l CH_i CH_a CH_N# CH_dzc CH_o CH_u
+少了 CH_sc CH_a CH_u CH_l CH_@
+公司 CH_g CH_o CH_N# CH_s CH_U
+大致 CH_d CH_a CH_dzc CH_Uc
+一再 CH_# CH_i CH_dz CH_a CH_i
+還在 CH_h CH_a CH_i CH_dz CH_a CH_i
+學校 CH_si CH_y CH_E CH_si CH_i CH_a CH_u
+銜接 CH_si CH_i CH_E CH_n# CH_dzi CH_i CH_E
+準備 CH_dzc CH_u CH_@ CH_n# CH_b CH_e CH_i
+順序 CH_sc CH_u CH_@ CH_n# CH_si CH_y
+開了 CH_k CH_a CH_i CH_l CH_@
+帶著 CH_d CH_a CH_i CH_dzc CH_@
+高低 CH_g CH_a CH_u CH_d CH_i
+送到 CH_s CH_o CH_N# CH_d CH_a CH_u
+時代 CH_sc CH_Uc CH_d CH_a CH_i
+原始 CH_# CH_y CH_E CH_n# CH_sc CH_Uc
+困難 CH_k CH_u CH_@ CH_n# CH_n CH_a CH_n#
+收到 CH_sc CH_o CH_u CH_d CH_a CH_u
+好看 CH_h CH_a CH_u CH_k CH_a CH_n#
+先做 CH_si CH_i CH_E CH_n# CH_dz CH_u CH_o
+平的 CH_p CH_i CH_N# CH_d CH_@
+布希 CH_b CH_u CH_si CH_i
+少數 CH_sc CH_a CH_u CH_sc CH_u
+互動 CH_h CH_u CH_d CH_o CH_N#
+之中 CH_dzc CH_Uc CH_dzc CH_o CH_N#
+不看 CH_b CH_u CH_k CH_a CH_n#
+縮小 CH_s CH_u CH_o CH_si CH_i CH_a CH_u
+操作 CH_ts CH_a CH_u CH_dz CH_u CH_o
+靠近 CH_k CH_a CH_u CH_dzi CH_i CH_n#
+趕快 CH_g CH_a CH_n# CH_k CH_u CH_a CH_i
+稱為 CH_tsc CH_@ CH_N# CH_# CH_u CH_e CH_i
+幾次 CH_dzi CH_i CH_ts CH_U
+統一 CH_t CH_o CH_N# CH_# CH_i
+做過 CH_dz CH_u CH_o CH_g CH_u CH_o
+紐約 CH_n CH_i CH_o CH_u CH_# CH_y CH_E
+差別 CH_tsc CH_a CH_b CH_i CH_E
+相連 CH_si CH_i CH_a CH_N# CH_l CH_i CH_E CH_n#
+使用 CH_sc CH_Uc CH_# CH_y CH_o CH_N#
+沒錯 CH_m CH_e CH_i CH_ts CH_u CH_o
+估計 CH_g CH_u CH_dzi CH_i
+向前 CH_si CH_i CH_a CH_N# CH_tsi CH_i CH_E CH_n#
+不算 CH_b CH_u CH_s CH_u CH_a CH_n#
+也算 CH_# CH_i CH_E CH_s CH_u CH_a CH_n#
+難看 CH_n CH_a CH_n# CH_k CH_a CH_n#
+關鍵 CH_g CH_u CH_a CH_n# CH_dzi CH_i CH_E CH_n#
+頻率 CH_p CH_i CH_n# CH_l CH_y
+錄音 CH_l CH_u CH_# CH_i CH_n#
+滿了 CH_m CH_a CH_n# CH_l CH_@
+電腦 CH_d CH_i CH_E CH_n# CH_n CH_a CH_u
+透過 CH_t CH_o CH_u CH_g CH_u CH_o
+參考 CH_ts CH_a CH_n# CH_k CH_a CH_u
+限於 CH_si CH_i CH_E CH_n# CH_# CH_y
+重覆 CH_tsc CH_o CH_N# CH_f CH_u
+某個 CH_m CH_o CH_u CH_g CH_@
+往下 CH_# CH_u CH_a CH_N# CH_si CH_i CH_a
+走向 CH_dz CH_o CH_u CH_si CH_i CH_a CH_N#
+加分 CH_dzi CH_i CH_a CH_f CH_@ CH_n#
+文法 CH_# CH_u CH_@ CH_n# CH_f CH_a
+六十 CH_l CH_i CH_o CH_u CH_sc CH_Uc
+中央 CH_dzc CH_o CH_N# CH_# CH_i CH_a CH_N#
+不錯 CH_b CH_u CH_ts CH_u CH_o
+才對 CH_ts CH_a CH_i CH_d CH_u CH_e CH_i
+大大 CH_d CH_a CH_d CH_a
+上看 CH_sc CH_a CH_N# CH_k CH_a CH_n#
+鐵定 CH_t CH_i CH_E CH_d CH_i CH_N#
+電影 CH_d CH_i CH_E CH_n# CH_# CH_i CH_N#
+當初 CH_d CH_a CH_N# CH_tsc CH_u
+無線 CH_# CH_u CH_si CH_i CH_E CH_n#
+朝陽 CH_dzc CH_a CH_u CH_# CH_i CH_a CH_N#
+朝陽 CH_tsc CH_a CH_u CH_# CH_i CH_a CH_N#
+單純 CH_d CH_a CH_n# CH_tsc CH_u CH_@ CH_n#
+軟體 CH_Zc CH_u CH_a CH_n# CH_t CH_i
+做完 CH_dz CH_u CH_o CH_# CH_u CH_a CH_n#
+停課 CH_t CH_i CH_N# CH_k CH_@
+值得 CH_dzc CH_Uc CH_d CH_@
+看過 CH_k CH_a CH_n# CH_g CH_u CH_o
+是誰 CH_sc CH_Uc CH_sc CH_e CH_i
+前後 CH_tsi CH_i CH_E CH_n# CH_h CH_o CH_u
+來到 CH_l CH_a CH_i CH_d CH_a CH_u
+你們 CH_n CH_i CH_m CH_@ CH_n#
+成熟 CH_tsc CH_@ CH_N# CH_sc CH_u
+共用 CH_g CH_o CH_N# CH_# CH_y CH_o CH_N#
+只會 CH_dzc CH_Uc CH_h CH_u CH_e CH_i
+日常 CH_Zc CH_Uc CH_tsc CH_a CH_N#
+反而 CH_f CH_a CH_n# CH_# CH_@c
+中心 CH_dzc CH_o CH_N# CH_si CH_i CH_n#
+下載 CH_si CH_i CH_a CH_dz CH_a CH_i
+三年 CH_s CH_a CH_n# CH_n CH_i CH_E CH_n#
+顯示 CH_si CH_i CH_E CH_n# CH_sc CH_Uc
+機器 CH_dzi CH_i CH_tsi CH_i
+學生 CH_si CH_y CH_E CH_sc CH_@ CH_N#
+厲害 CH_l CH_i CH_h CH_a CH_i
+減少 CH_dzi CH_i CH_E CH_n# CH_sc CH_a CH_u
+換成 CH_h CH_u CH_a CH_n# CH_tsc CH_@ CH_N#
+提高 CH_t CH_i CH_g CH_a CH_u
+提供 CH_t CH_i CH_g CH_o CH_N#
+報告 CH_b CH_a CH_u CH_g CH_a CH_u
+單獨 CH_d CH_a CH_n# CH_d CH_u
+最新 CH_dz CH_u CH_e CH_i CH_si CH_i CH_n#
+降低 CH_dzi CH_i CH_a CH_N# CH_d CH_i
+限制 CH_si CH_i CH_E CH_n# CH_dzc CH_Uc
+早就 CH_dz CH_a CH_u CH_dzi CH_i CH_o CH_u
+成立 CH_tsc CH_@ CH_N# CH_l CH_i
+在學 CH_dz CH_a CH_i CH_si CH_y CH_E
+地區 CH_d CH_i CH_tsi CH_y
+只在 CH_dzc CH_Uc CH_dz CH_a CH_i
+分類 CH_f CH_@ CH_n# CH_l CH_e CH_i
+又會 CH_# CH_i CH_o CH_u CH_h CH_u CH_e CH_i
+八十 CH_b CH_a CH_sc CH_Uc
+一旦 CH_# CH_i CH_d CH_a CH_n#
+錯誤 CH_ts CH_u CH_o CH_# CH_u
+整理 CH_dzc CH_@ CH_N# CH_l CH_i
+學會 CH_si CH_y CH_E CH_h CH_u CH_e CH_i
+說好 CH_sc CH_u CH_o CH_h CH_a CH_u
+維持 CH_# CH_u CH_e CH_i CH_tsc CH_Uc
+電波 CH_d CH_i CH_E CH_n# CH_b CH_u CH_o
+達到 CH_d CH_a CH_d CH_a CH_u
+進步 CH_dzi CH_i CH_n# CH_b CH_u
+程序 CH_tsc CH_@ CH_N# CH_si CH_y
+提過 CH_t CH_i CH_g CH_u CH_o
+最最 CH_dz CH_u CH_e CH_i CH_dz CH_u CH_e CH_i
+拿到 CH_n CH_a CH_d CH_a CH_u
+拿去 CH_n CH_a CH_tsi CH_y
+倒是 CH_d CH_a CH_u CH_sc CH_Uc
+明明 CH_m CH_i CH_N# CH_m CH_i CH_N#
+車上 CH_tsc CH_@ CH_sc CH_a CH_N#
+完成 CH_# CH_u CH_a CH_n# CH_tsc CH_@ CH_N#
+向外 CH_si CH_i CH_a CH_N# CH_# CH_u CH_a CH_i
+向內 CH_si CH_i CH_a CH_N# CH_n CH_e CH_i
+文獻 CH_# CH_u CH_@ CH_n# CH_si CH_i CH_E CH_n#
+中東 CH_dzc CH_o CH_N# CH_d CH_o CH_N#
+不如 CH_b CH_u CH_Zc CH_u
+不必 CH_b CH_u CH_b CH_i
+口音 CH_k CH_o CH_u CH_# CH_i CH_n#
+適合 CH_sc CH_Uc CH_h CH_@
+寫了 CH_si CH_i CH_E CH_l CH_@
+解套 CH_dzi CH_i CH_E CH_t CH_a CH_u
+幾十 CH_dzi CH_i CH_sc CH_Uc
+畢業 CH_b CH_i CH_# CH_i CH_E
+排除 CH_p CH_a CH_i CH_tsc CH_u
+紅色 CH_h CH_o CH_N# CH_s CH_@
+為主 CH_# CH_u CH_e CH_i CH_dzc CH_u
+兩套 CH_l CH_i CH_a CH_N# CH_t CH_a CH_u
+忘了 CH_# CH_u CH_a CH_N# CH_l CH_@
+冷氣 CH_l CH_@ CH_N# CH_tsi CH_i
+考試 CH_k CH_a CH_u CH_sc CH_Uc
+尖銳 CH_dzi CH_i CH_E CH_n# CH_Zc CH_u CH_e CH_i
+暴動 CH_b CH_a CH_u CH_d CH_o CH_N#
+想了 CH_si CH_i CH_a CH_N# CH_l CH_@
+汽車 CH_tsi CH_i CH_tsc CH_@
+考完 CH_k CH_a CH_u CH_# CH_u CH_a CH_n#
+好好 CH_h CH_a CH_u CH_h CH_a CH_u
+平移 CH_p CH_i CH_N# CH_# CH_i
+不然 CH_b CH_u CH_Zc CH_a CH_n#
+拿來做 CH_n CH_a CH_l CH_a CH_i CH_dz CH_u CH_o
+儘可能 CH_dzi CH_i CH_n# CH_k CH_@ CH_n CH_@ CH_N#
+數位化 CH_sc CH_u CH_# CH_u CH_e CH_i CH_h CH_u CH_a
+打電話 CH_d CH_a CH_d CH_i CH_E CH_n# CH_h CH_u CH_a
+傳送到 CH_tsc CH_u CH_a CH_n# CH_s CH_o CH_N# CH_d CH_a CH_u
+博物館 CH_b CH_u CH_o CH_# CH_u CH_g CH_u CH_a CH_n#
+做生意 CH_dz CH_u CH_o CH_sc CH_@ CH_N# CH_# CH_i
+全球性 CH_tsi CH_y CH_E CH_n# CH_tsi CH_i CH_o CH_u CH_si CH_i CH_N#
+愈來愈 CH_# CH_y CH_l CH_a CH_i CH_# CH_y
+錄影帶 CH_l CH_u CH_# CH_i CH_N# CH_d CH_a CH_i
+呂秀蓮 CH_l CH_y CH_si CH_i CH_o CH_u CH_l CH_i CH_E CH_n#
+副總統 CH_f CH_u CH_dz CH_o CH_N# CH_t CH_o CH_N#
+一方面 CH_# CH_i CH_f CH_a CH_N# CH_m CH_i CH_E CH_n#
+辦公桌 CH_b CH_a CH_n# CH_g CH_o CH_N# CH_dzc CH_u CH_o
+辦公室 CH_b CH_a CH_n# CH_g CH_o CH_N# CH_sc CH_Uc
+用語音 CH_# CH_y CH_o CH_N# CH_# CH_y CH_# CH_i CH_n#
+找出來 CH_dzc CH_a CH_u CH_tsc CH_u CH_l CH_a CH_i
+八十五 CH_b CH_a CH_sc CH_Uc CH_# CH_u
+吸引人 CH_si CH_i CH_# CH_i CH_n# CH_Zc CH_@ CH_n#
+提供給 CH_t CH_i CH_g CH_o CH_N# CH_g CH_e CH_i
+走過來 CH_dz CH_o CH_u CH_g CH_u CH_o CH_l CH_a CH_i
+再下來 CH_dz CH_a CH_i CH_si CH_i CH_a CH_l CH_a CH_i
+教科書 CH_dzi CH_i CH_a CH_u CH_k CH_@ CH_sc CH_u
+代表性 CH_d CH_a CH_i CH_b CH_i CH_a CH_u CH_si CH_i CH_N#
+文獻會 CH_# CH_u CH_@ CH_n# CH_si CH_i CH_E CH_n# CH_h CH_u CH_e CH_i
+台北市 CH_t CH_a CH_i CH_b CH_e CH_i CH_sc CH_Uc
+分公司 CH_f CH_@ CH_n# CH_g CH_o CH_N# CH_s CH_U
+眼看到 CH_# CH_i CH_E CH_n# CH_k CH_a CH_n# CH_d CH_a CH_u
+要不要 CH_# CH_i CH_a CH_u CH_b CH_u CH_# CH_i CH_a CH_u
+發言人 CH_f CH_a CH_# CH_i CH_E CH_n# CH_Zc CH_@ CH_n#
+注意到 CH_dzc CH_u CH_# CH_i CH_d CH_a CH_u
+電視台 CH_d CH_i CH_E CH_n# CH_sc CH_Uc CH_t CH_a CH_i
+聯合國 CH_l CH_i CH_E CH_n# CH_h CH_@ CH_g CH_u CH_o
+安理會 CH_# CH_a CH_n# CH_l CH_i CH_h CH_u CH_e CH_i
+巴格達 CH_b CH_a CH_g CH_@ CH_d CH_a
+一連串 CH_# CH_i CH_l CH_i CH_E CH_n# CH_tsc CH_u CH_a CH_n#
+看下去 CH_k CH_a CH_n# CH_si CH_i CH_a CH_tsi CH_y
+約旦河 CH_# CH_y CH_E CH_d CH_a CH_n# CH_h CH_@
+資訊系 CH_dz CH_U CH_si CH_y CH_n# CH_si CH_i
+研究所 CH_# CH_i CH_E CH_n# CH_dzi CH_i CH_o CH_u CH_s CH_u CH_o
+最基本 CH_dz CH_u CH_e CH_i CH_dzi CH_i CH_b CH_@ CH_n#
+整理好 CH_dzc CH_@ CH_N# CH_l CH_i CH_h CH_a CH_u
+感覺到 CH_g CH_a CH_n# CH_dzi CH_y CH_E CH_d CH_a CH_u
+三十五 CH_s CH_a CH_n# CH_sc CH_Uc CH_# CH_u
+現階段 CH_si CH_i CH_E CH_n# CH_dzi CH_i CH_E CH_d CH_u CH_a CH_n#
+不得了 CH_b CH_u CH_d CH_@ CH_l CH_i CH_a CH_u
+差不多 CH_tsc CH_a CH_b CH_u CH_d CH_u CH_o
+想起來 CH_si CH_i CH_a CH_N# CH_tsi CH_i CH_l CH_a CH_i
+一千萬 CH_# CH_i CH_tsi CH_i CH_E CH_n# CH_# CH_u CH_a CH_n#
+一點零 CH_# CH_i CH_d CH_i CH_E CH_n# CH_l CH_i CH_N#
+八點零 CH_b CH_a CH_d CH_i CH_E CH_n# CH_l CH_i CH_N#
+所有人 CH_s CH_u CH_o CH_# CH_i CH_o CH_u CH_Zc CH_@ CH_n#
+自發性 CH_dz CH_U CH_f CH_a CH_si CH_i CH_N#
+不盡然 CH_b CH_u CH_dzi CH_i CH_n# CH_Zc CH_a CH_n#
+錄音帶 CH_l CH_u CH_# CH_i CH_n# CH_d CH_a CH_i
+無所謂 CH_# CH_u CH_s CH_u CH_o CH_# CH_u CH_e CH_i
+目的地 CH_m CH_u CH_d CH_i CH_d CH_i
+旅行社 CH_l CH_y CH_si CH_i CH_N# CH_sc CH_@
+成功率 CH_tsc CH_@ CH_N# CH_g CH_o CH_N# CH_l CH_y
+受不了 CH_sc CH_o CH_u CH_b CH_u CH_l CH_i CH_a CH_u
+語言學 CH_# CH_y CH_# CH_i CH_E CH_n# CH_si CH_y CH_E
+準備好 CH_dzc CH_u CH_@ CH_n# CH_b CH_e CH_i CH_h CH_a CH_u
+閩南語 CH_m CH_i CH_n# CH_n CH_a CH_n# CH_# CH_y
+國台語 CH_g CH_u CH_o CH_t CH_a CH_i CH_# CH_y
+原住民 CH_# CH_y CH_E CH_n# CH_dzc CH_u CH_m CH_i CH_n#
+日月潭 CH_Zc CH_Uc CH_# CH_y CH_E CH_t CH_a CH_n#
+了不起 CH_l CH_i CH_a CH_u CH_b CH_u CH_tsi CH_i
+中英文 CH_dzc CH_o CH_N# CH_# CH_i CH_N# CH_# CH_u CH_@ CH_n#
+一會兒 CH_# CH_i CH_h CH_u CH_e CH_i CH_# CH_@c
+一會兒 CH_# CH_i CH_h CH_u CH_@ CH_# CH_@c
+東西向 CH_d CH_o CH_N# CH_si CH_i CH_si CH_i CH_a CH_N#
+零點五 CH_l CH_i CH_N# CH_d CH_i CH_E CH_n# CH_# CH_u
+牽涉到 CH_tsi CH_i CH_E CH_n# CH_sc CH_@ CH_d CH_a CH_u
+趨近於 CH_tsi CH_y CH_dzi CH_i CH_n# CH_# CH_y
+不應該 CH_b CH_u CH_# CH_i CH_N# CH_g CH_a CH_i
+發出來 CH_f CH_a CH_tsc CH_u CH_l CH_a CH_i
+演算法 CH_# CH_i CH_E CH_n# CH_s CH_u CH_a CH_n# CH_f CH_a
+三十多 CH_s CH_a CH_n# CH_sc CH_Uc CH_d CH_u CH_o
+五十多 CH_# CH_u CH_sc CH_Uc CH_d CH_u CH_o
+一下子 CH_# CH_i CH_si CH_i CH_a CH_dz CH_U
+英文字 CH_# CH_i CH_N# CH_# CH_u CH_@ CH_n# CH_dz CH_U
+大多數 CH_d CH_a CH_d CH_u CH_o CH_sc CH_u
+教務處 CH_dzi CH_i CH_a CH_u CH_# CH_u CH_tsc CH_u
+七十七 CH_tsi CH_i CH_sc CH_Uc CH_tsi CH_i
+拿出來 CH_n CH_a CH_tsc CH_u CH_l CH_a CH_i
+十二點 CH_sc CH_Uc CH_# CH_@c CH_d CH_i CH_E CH_n#
+通電話 CH_t CH_o CH_N# CH_d CH_i CH_E CH_n# CH_h CH_u CH_a
+不外乎 CH_b CH_u CH_# CH_u CH_a CH_i CH_h CH_u
+比起來 CH_b CH_i CH_tsi CH_i CH_l CH_a CH_i
+心理學 CH_si CH_i CH_n# CH_l CH_i CH_si CH_y CH_E
+二十六 CH_# CH_@c CH_sc CH_Uc CH_l CH_i CH_o CH_u
+免不了 CH_m CH_i CH_E CH_n# CH_b CH_u CH_l CH_i CH_a CH_u
+少一點 CH_sc CH_a CH_u CH_# CH_i CH_d CH_i CH_E CH_n#
+五百萬 CH_# CH_u CH_b CH_a CH_i CH_# CH_u CH_a CH_n#
+可能性 CH_k CH_@ CH_n CH_@ CH_N# CH_si CH_i CH_N#
+十一號 CH_sc CH_Uc CH_# CH_i CH_h CH_a CH_u
+二十一 CH_# CH_@c CH_sc CH_Uc CH_# CH_i
+可行性 CH_k CH_@ CH_si CH_i CH_N# CH_si CH_i CH_N#
+少不了 CH_sc CH_a CH_u CH_b CH_u CH_l CH_i CH_a CH_u
+加進來 CH_dzi CH_i CH_a CH_dzi CH_i CH_n# CH_l CH_a CH_i
+走過去 CH_dz CH_o CH_u CH_g CH_u CH_o CH_tsi CH_y
+有意思 CH_# CH_i CH_o CH_u CH_# CH_i CH_s CH_U
+工作量 CH_g CH_o CH_N# CH_dz CH_u CH_o CH_l CH_i CH_a CH_N#
+考古題 CH_k CH_a CH_u CH_g CH_u CH_t CH_i
+影響到 CH_# CH_i CH_N# CH_si CH_i CH_a CH_N# CH_d CH_a CH_u
+二三五 CH_# CH_@c CH_s CH_a CH_n# CH_# CH_u
+三十一 CH_s CH_a CH_n# CH_sc CH_Uc CH_# CH_i
+寫出來 CH_si CH_i CH_E CH_tsc CH_u CH_l CH_a CH_i
+走下來 CH_dz CH_o CH_u CH_si CH_i CH_a CH_l CH_a CH_i
+九五年 CH_dzi CH_i CH_o CH_u CH_# CH_u CH_n CH_i CH_E CH_n#
+發展到 CH_f CH_a CH_dzc CH_a CH_n# CH_d CH_a CH_u
+組合成 CH_dz CH_u CH_h CH_@ CH_tsc CH_@ CH_N#
+怎麼說 CH_dz CH_@ CH_n# CH_m CH_@ CH_sc CH_u CH_o
+分散式 CH_f CH_@ CH_n# CH_s CH_a CH_n# CH_sc CH_Uc
+雙聲帶 CH_sc CH_u CH_a CH_N# CH_sc CH_@ CH_N# CH_d CH_a CH_i
+攝影機 CH_sc CH_@ CH_# CH_i CH_N# CH_dzi CH_i
+十二年 CH_sc CH_Uc CH_# CH_@c CH_n CH_i CH_E CH_n#
+十三年 CH_sc CH_Uc CH_s CH_a CH_n# CH_n CH_i CH_E CH_n#
+動不動 CH_d CH_o CH_N# CH_b CH_u CH_d CH_o CH_N#
+二十七 CH_# CH_@c CH_sc CH_Uc CH_tsi CH_i
+接下來 CH_dzi CH_i CH_E CH_si CH_i CH_a CH_l CH_a CH_i
+合起來 CH_h CH_@ CH_tsi CH_i CH_l CH_a CH_i
+拿回來 CH_n CH_a CH_h CH_u CH_e CH_i CH_l CH_a CH_i
+一一零 CH_# CH_i CH_# CH_i CH_l CH_i CH_N#
+敏感度 CH_m CH_i CH_n# CH_g CH_a CH_n# CH_d CH_u
+受限於 CH_sc CH_o CH_u CH_si CH_i CH_E CH_n# CH_# CH_y
+有時候 CH_# CH_i CH_o CH_u CH_sc CH_Uc CH_h CH_o CH_u
+不至於 CH_b CH_u CH_dzc CH_Uc CH_# CH_y
+語音學 CH_# CH_y CH_# CH_i CH_n# CH_si CH_y CH_E
+印出來 CH_# CH_i CH_n# CH_tsc CH_u CH_l CH_a CH_i
+下工夫 CH_si CH_i CH_a CH_g CH_o CH_N# CH_f CH_u
+美國人 CH_m CH_e CH_i CH_g CH_u CH_o CH_Zc CH_@ CH_n#
+英國人 CH_# CH_i CH_N# CH_g CH_u CH_o CH_Zc CH_@ CH_n#
+幾十萬 CH_dzi CH_i CH_sc CH_Uc CH_# CH_u CH_a CH_n#
+四百多 CH_s CH_U CH_b CH_a CH_i CH_d CH_u CH_o
+二十二 CH_# CH_@c CH_sc CH_Uc CH_# CH_@c
+土耳其 CH_t CH_u CH_# CH_@c CH_tsi CH_i
+八十四 CH_b CH_a CH_sc CH_Uc CH_s CH_U
+算起來 CH_s CH_u CH_a CH_n# CH_tsi CH_i CH_l CH_a CH_i
+三十七 CH_s CH_a CH_n# CH_sc CH_Uc CH_tsi CH_i
+絕對的 CH_dzi CH_y CH_E CH_d CH_u CH_e CH_i CH_d CH_@
+有助於 CH_# CH_i CH_o CH_u CH_dzc CH_u CH_# CH_y
+六十一 CH_l CH_i CH_o CH_u CH_sc CH_Uc CH_# CH_i
+重要性 CH_dzc CH_o CH_N# CH_# CH_i CH_a CH_u CH_si CH_i CH_N#
+外國人 CH_# CH_u CH_a CH_i CH_g CH_u CH_o CH_Zc CH_@ CH_n#
+二十四 CH_# CH_@c CH_sc CH_Uc CH_s CH_U
+困難度 CH_k CH_u CH_@ CH_n# CH_n CH_a CH_n# CH_d CH_u
+白話文 CH_b CH_a CH_i CH_h CH_u CH_a CH_# CH_u CH_@ CH_n#
+三十八 CH_s CH_a CH_n# CH_sc CH_Uc CH_b CH_a
+台灣人 CH_t CH_a CH_i CH_# CH_u CH_a CH_n# CH_Zc CH_@ CH_n#
+禮拜天 CH_l CH_i CH_b CH_a CH_i CH_t CH_i CH_E CH_n#
+工作站 CH_g CH_o CH_N# CH_dz CH_u CH_o CH_dzc CH_a CH_n#
+程式碼 CH_tsc CH_@ CH_N# CH_sc CH_Uc CH_m CH_a
+執行檔 CH_dzc CH_Uc CH_si CH_i CH_N# CH_d CH_a CH_N#
+七十二 CH_tsi CH_i CH_sc CH_Uc CH_# CH_@c
+二十八 CH_# CH_@c CH_sc CH_Uc CH_b CH_a
+十一月 CH_sc CH_Uc CH_# CH_i CH_# CH_y CH_E
+取出來 CH_tsi CH_y CH_tsc CH_u CH_l CH_a CH_i
+玩意兒 CH_# CH_u CH_a CH_n# CH_# CH_i CH_@ CH_# CH_@c
+玩意兒 CH_# CH_u CH_a CH_n# CH_# CH_i CH_# CH_@c
+最大值 CH_dz CH_u CH_e CH_i CH_d CH_a CH_dzc CH_Uc
+一點一 CH_# CH_i CH_d CH_i CH_E CH_n# CH_# CH_i
+五點七 CH_# CH_u CH_d CH_i CH_E CH_n# CH_tsi CH_i
+做不到 CH_dz CH_u CH_o CH_b CH_u CH_d CH_a CH_u
+五點八 CH_# CH_u CH_d CH_i CH_E CH_n# CH_b CH_a
+一口氣 CH_# CH_i CH_k CH_o CH_u CH_tsi CH_i
+不見了 CH_b CH_u CH_dzi CH_i CH_E CH_n# CH_l CH_@
+五點二 CH_# CH_u CH_d CH_i CH_E CH_n# CH_# CH_@c
+要不是 CH_# CH_i CH_a CH_u CH_b CH_u CH_sc CH_Uc
+三點三 CH_s CH_a CH_n# CH_d CH_i CH_E CH_n# CH_s CH_a CH_n#
+左下角 CH_dz CH_u CH_o CH_si CH_i CH_a CH_dzi CH_i CH_a CH_u
+右上角 CH_# CH_i CH_o CH_u CH_sc CH_a CH_N# CH_dzi CH_i CH_a CH_u
+左上角 CH_dz CH_u CH_o CH_sc CH_a CH_N# CH_dzi CH_i CH_a CH_u
+三點二 CH_s CH_a CH_n# CH_d CH_i CH_E CH_n# CH_# CH_@c
+考慮到 CH_k CH_a CH_u CH_l CH_y CH_d CH_a CH_u
+七點二 CH_tsi CH_i CH_d CH_i CH_E CH_n# CH_# CH_@c
+七點三 CH_tsi CH_i CH_d CH_i CH_E CH_n# CH_s CH_a CH_n#
+疊起來 CH_d CH_i CH_E CH_tsi CH_i CH_l CH_a CH_i
+大學部 CH_d CH_a CH_si CH_y CH_E CH_b CH_u
+看電影 CH_k CH_a CH_n# CH_d CH_i CH_E CH_n# CH_# CH_i CH_N#
+十點零 CH_sc CH_Uc CH_d CH_i CH_E CH_n# CH_l CH_i CH_N#
+一再地 CH_# CH_i CH_dz CH_a CH_i CH_d CH_@
+同一組 CH_t CH_o CH_N# CH_# CH_i CH_dz CH_u
+分出來 CH_f CH_@ CH_n# CH_tsc CH_u CH_l CH_a CH_i
+精確度 CH_dzi CH_i CH_N# CH_tsi CH_y CH_E CH_d CH_u
+勒索案 CH_l CH_@ CH_s CH_u CH_o CH_# CH_a CH_n#
+九二一 CH_dzi CH_i CH_o CH_u CH_# CH_@c CH_# CH_i
+陳水扁 CH_tsc CH_@ CH_n# CH_sc CH_u CH_e CH_i CH_b CH_i CH_E CH_n#
+民進黨 CH_m CH_i CH_n# CH_dzi CH_i CH_n# CH_d CH_a CH_N#
+鑑別力 CH_dzi CH_i CH_E CH_n# CH_b CH_i CH_E CH_l CH_i
+集中到 CH_dzi CH_i CH_dzc CH_o CH_N# CH_d CH_a CH_u
+一一三 CH_# CH_i CH_# CH_i CH_s CH_a CH_n#
+國民黨 CH_g CH_u CH_o CH_m CH_i CH_n# CH_d CH_a CH_N#
+馬英九 CH_m CH_a CH_# CH_i CH_N# CH_dzi CH_i CH_o CH_u
+外交部 CH_# CH_u CH_a CH_i CH_dzi CH_i CH_a CH_u CH_b CH_u
+總統府 CH_dz CH_o CH_N# CH_t CH_o CH_N# CH_f CH_u
+阿富汗 CH_# CH_a CH_f CH_u CH_h CH_a CH_n#
+發展成 CH_f CH_a CH_dzc CH_a CH_n# CH_tsc CH_@ CH_N#
+一陣子 CH_# CH_i CH_dzc CH_@ CH_n# CH_dz CH_U
+測出來 CH_ts CH_@ CH_tsc CH_u CH_l CH_a CH_i
+直升機 CH_dzc CH_Uc CH_sc CH_@ CH_N# CH_dzi CH_i
+對不起 CH_d CH_u CH_e CH_i CH_b CH_u CH_tsi CH_i
+芝加哥 CH_dzc CH_Uc CH_dzi CH_i CH_a CH_g CH_@
+救護車 CH_dzi CH_i CH_o CH_u CH_h CH_u CH_tsc CH_@
+四十五 CH_s CH_U CH_sc CH_Uc CH_# CH_u
+衛生署 CH_# CH_u CH_e CH_i CH_sc CH_@ CH_N# CH_sc CH_u
+新聞局 CH_si CH_i CH_n# CH_# CH_u CH_@ CH_n# CH_dzi CH_y
+朋友們 CH_p CH_o CH_N# CH_# CH_i CH_o CH_u CH_m CH_@ CH_n#
+經濟部 CH_dzi CH_i CH_N# CH_dzi CH_i CH_b CH_u
+拉法葉 CH_l CH_a CH_f CH_a CH_# CH_i CH_E
+青少年 CH_tsi CH_i CH_N# CH_sc CH_a CH_u CH_n CH_i CH_E CH_n#
+擴大到 CH_k CH_u CH_o CH_d CH_a CH_d CH_a CH_u
+更何況 CH_g CH_@ CH_N# CH_h CH_@ CH_k CH_u CH_a CH_N#
+五六年 CH_# CH_u CH_l CH_i CH_o CH_u CH_n CH_i CH_E CH_n#
+長時間 CH_tsc CH_a CH_N# CH_sc CH_Uc CH_dzi CH_i CH_E CH_n#
+示意圖 CH_sc CH_Uc CH_# CH_i CH_t CH_u
+存在有 CH_ts CH_u CH_@ CH_n# CH_dz CH_a CH_i CH_# CH_i CH_o CH_u
+吃進去 CH_tsc CH_Uc CH_dzi CH_i CH_n# CH_tsi CH_y
+解釋法 CH_dzi CH_i CH_E CH_sc CH_Uc CH_f CH_a
+送回來 CH_s CH_o CH_N# CH_h CH_u CH_e CH_i CH_l CH_a CH_i
+關係到 CH_g CH_u CH_a CH_n# CH_si CH_i CH_d CH_a CH_u
+北二高 CH_b CH_e CH_i CH_# CH_@c CH_g CH_a CH_u
+土地公 CH_t CH_u CH_d CH_i CH_g CH_o CH_N#
+李登輝 CH_l CH_i CH_d CH_@ CH_N# CH_h CH_u CH_e CH_i
+二十五 CH_# CH_@c CH_sc CH_Uc CH_# CH_u
+該不該 CH_g CH_a CH_i CH_b CH_u CH_g CH_a CH_i
+自動化 CH_dz CH_U CH_d CH_o CH_N# CH_h CH_u CH_a
+合法化 CH_h CH_@ CH_f CH_a CH_h CH_u CH_a
+一次次 CH_# CH_i CH_ts CH_U CH_ts CH_U
+中心主 CH_dzc CH_o CH_N# CH_si CH_i CH_n# CH_dzc CH_u
+螢光幕 CH_# CH_i CH_N# CH_g CH_u CH_a CH_N# CH_m CH_u
+放出來 CH_f CH_a CH_N# CH_tsc CH_u CH_l CH_a CH_i
+電信局 CH_d CH_i CH_E CH_n# CH_si CH_i CH_n# CH_dzi CH_y
+八點二 CH_b CH_a CH_d CH_i CH_E CH_n# CH_# CH_@c
+八點三 CH_b CH_a CH_d CH_i CH_E CH_n# CH_s CH_a CH_n#
+第十一 CH_d CH_i CH_sc CH_Uc CH_# CH_i
+腳踏車 CH_dzi CH_i CH_a CH_u CH_t CH_a CH_tsc CH_@
+子系統 CH_dz CH_U CH_si CH_i CH_t CH_o CH_N#
+不能不 CH_b CH_u CH_n CH_@ CH_N# CH_b CH_u
+來不及 CH_l CH_a CH_i CH_b CH_u CH_dzi CH_i
+金字塔 CH_dzi CH_i CH_n# CH_dz CH_U CH_t CH_a
+水龍頭 CH_sc CH_u CH_e CH_i CH_l CH_o CH_N# CH_t CH_o CH_u
+碩士班 CH_sc CH_u CH_o CH_sc CH_Uc CH_b CH_a CH_n#
+一輩子 CH_# CH_i CH_b CH_e CH_i CH_dz CH_U
+學術界 CH_si CH_y CH_E CH_sc CH_u CH_dzi CH_i CH_E
+工業界 CH_g CH_o CH_N# CH_# CH_i CH_E CH_dzi CH_i CH_E
+紀念品 CH_dzi CH_i CH_n CH_i CH_E CH_n# CH_p CH_i CH_n#
+耐得住 CH_n CH_a CH_i CH_d CH_@ CH_dzc CH_u
+下功夫 CH_si CH_i CH_a CH_g CH_o CH_N# CH_f CH_u
+學生會 CH_si CH_y CH_E CH_sc CH_@ CH_N# CH_h CH_u CH_e CH_i
+的時候 CH_d CH_@ CH_sc CH_Uc CH_h CH_o CH_u
+這樣子 CH_dzc CH_@ CH_# CH_i CH_a CH_N# CH_dz CH_U
+是什麼 CH_sc CH_Uc CH_sc CH_@ CH_m CH_@
+是這樣 CH_sc CH_Uc CH_dzc CH_@ CH_# CH_i CH_a CH_N#
+在這裡 CH_dz CH_a CH_i CH_dzc CH_@ CH_l CH_i
+有一個 CH_# CH_i CH_o CH_u CH_# CH_i CH_g CH_@
+我現在 CH_# CH_u CH_o CH_si CH_i CH_E CH_n# CH_dz CH_a CH_i
+每一個 CH_m CH_e CH_i CH_# CH_i CH_g CH_@
+這兩個 CH_dzc CH_@ CH_l CH_i CH_a CH_N# CH_g CH_@
+也就是 CH_# CH_i CH_E CH_dzi CH_i CH_o CH_u CH_sc CH_Uc
+這樣的 CH_dzc CH_@ CH_# CH_i CH_a CH_N# CH_d CH_@
+你可以 CH_n CH_i CH_k CH_@ CH_# CH_i
+一個的 CH_# CH_i CH_g CH_@ CH_d CH_@
+的東西 CH_d CH_@ CH_d CH_o CH_N# CH_si CH_i
+如果是 CH_Zc CH_u CH_g CH_u CH_o CH_sc CH_Uc
+所謂的 CH_s CH_u CH_o CH_# CH_u CH_e CH_i CH_d CH_@
+就可以 CH_dzi CH_i CH_o CH_u CH_k CH_@ CH_# CH_i
+的意思 CH_d CH_@ CH_# CH_i CH_s CH_U
+所以我 CH_s CH_u CH_o CH_# CH_i CH_# CH_u CH_o
+也可以 CH_# CH_i CH_E CH_k CH_@ CH_# CH_i
+在這個 CH_dz CH_a CH_i CH_dzc CH_@ CH_g CH_@
+那就是 CH_n CH_a CH_dzi CH_i CH_o CH_u CH_sc CH_Uc
+這就是 CH_dzc CH_@ CH_dzi CH_i CH_o CH_u CH_sc CH_Uc
+加起來 CH_dzi CH_i CH_a CH_tsi CH_i CH_l CH_a CH_i
+所有的 CH_s CH_u CH_o CH_# CH_i CH_o CH_u CH_d CH_@
+裡面的 CH_l CH_i CH_m CH_i CH_E CH_n# CH_d CH_@
+其實是 CH_tsi CH_i CH_sc CH_Uc CH_sc CH_Uc
+的機率 CH_d CH_@ CH_dzi CH_i CH_l CH_y
+的關係 CH_d CH_@ CH_g CH_u CH_a CH_n# CH_si CH_i
+為什麼 CH_# CH_u CH_e CH_i CH_sc CH_@ CH_n# CH_m CH_@
+我這個 CH_# CH_u CH_o CH_dzc CH_@ CH_g CH_@
+一個是 CH_# CH_i CH_g CH_@ CH_sc CH_Uc
+我可以 CH_# CH_u CH_o CH_k CH_@ CH_# CH_i
+都可以 CH_d CH_o CH_u CH_k CH_@ CH_# CH_i
+不同的 CH_b CH_u CH_t CH_o CH_N# CH_d CH_@
+可以看 CH_k CH_@ CH_# CH_i CH_k CH_a CH_n#
+是它的 CH_sc CH_Uc CH_t CH_a CH_d CH_@
+第一個 CH_d CH_i CH_# CH_i CH_g CH_@
+相當於 CH_si CH_i CH_a CH_N# CH_d CH_a CH_N# CH_# CH_y
+應該是 CH_# CH_i CH_N# CH_g CH_a CH_i CH_sc CH_Uc
+到這個 CH_d CH_a CH_u CH_dzc CH_@ CH_g CH_@
+所說的 CH_s CH_u CH_o CH_sc CH_u CH_o CH_d CH_@
+不一樣 CH_b CH_u CH_# CH_i CH_# CH_i CH_a CH_N#
+這裡的 CH_dzc CH_@ CH_l CH_i CH_d CH_@
+簡單的 CH_dzi CH_i CH_E CH_n# CH_d CH_a CH_n# CH_d CH_@
+什麼是 CH_sc CH_@ CH_m CH_@ CH_sc CH_Uc
+的地方 CH_d CH_@ CH_d CH_i CH_f CH_a CH_N#
+我們的 CH_# CH_u CH_o CH_m CH_@ CH_n# CH_d CH_@
+分之一 CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_i
+第四章 CH_d CH_i CH_s CH_U CH_dzc CH_a CH_N#
+就是在 CH_dzi CH_i CH_o CH_u CH_sc CH_Uc CH_dz CH_a CH_i
+的聲音 CH_d CH_@ CH_sc CH_@ CH_N# CH_# CH_i CH_n#
+會變成 CH_h CH_u CH_e CH_i CH_b CH_i CH_E CH_n# CH_tsc CH_@ CH_N#
+了這個 CH_l CH_@ CH_dzc CH_@ CH_g CH_@
+很容易 CH_h CH_@ CH_n# CH_Zc CH_o CH_N# CH_# CH_i
+之間的 CH_dzc CH_Uc CH_dzi CH_i CH_E CH_n# CH_d CH_@
+第二個 CH_d CH_i CH_# CH_@c CH_g CH_@
+基本上 CH_dzi CH_i CH_b CH_@ CH_n# CH_sc CH_a CH_N#
+可能是 CH_k CH_@ CH_n CH_@ CH_N# CH_sc CH_Uc
+的事情 CH_d CH_@ CH_sc CH_Uc CH_tsi CH_i CH_N#
+重要的 CH_dzc CH_o CH_N# CH_# CH_i CH_a CH_u CH_d CH_@
+可以用 CH_k CH_@ CH_# CH_i CH_# CH_y CH_o CH_N#
+原來的 CH_# CH_y CH_E CH_n# CH_l CH_a CH_i CH_d CH_@
+第五章 CH_d CH_i CH_# CH_u CH_dzc CH_a CH_N#
+就知道 CH_dzi CH_i CH_o CH_u CH_dzc CH_Uc CH_d CH_a CH_u
+某一個 CH_m CH_o CH_u CH_# CH_i CH_g CH_@
+出來的 CH_tsc CH_u CH_l CH_a CH_i CH_d CH_@
+是多少 CH_sc CH_Uc CH_d CH_u CH_o CH_sc CH_a CH_u
+有沒有 CH_# CH_i CH_o CH_u CH_m CH_e CH_i CH_# CH_i CH_o CH_u
+是不是 CH_sc CH_Uc CH_b CH_u CH_sc CH_Uc
+這一點 CH_dzc CH_@ CH_# CH_i CH_d CH_i CH_E CH_n#
+的情形 CH_d CH_@ CH_tsi CH_i CH_N# CH_si CH_i CH_N#
+一大堆 CH_# CH_i CH_d CH_a CH_d CH_u CH_e CH_i
+怎麼辦 CH_dz CH_@ CH_n# CH_m CH_@ CH_b CH_a CH_n#
+做這個 CH_dz CH_u CH_o CH_dzc CH_@ CH_g CH_@
+在一起 CH_dz CH_a CH_i CH_# CH_i CH_tsi CH_i
+那一個 CH_n CH_a CH_# CH_i CH_g CH_@
+是怎樣 CH_sc CH_Uc CH_dz CH_@ CH_n# CH_# CH_i CH_a CH_N#
+你知道 CH_n CH_i CH_dzc CH_Uc CH_d CH_a CH_u
+他們的 CH_t CH_a CH_m CH_@ CH_n# CH_d CH_@
+或者是 CH_h CH_u CH_o CH_dzc CH_@ CH_sc CH_Uc
+一個字 CH_# CH_i CH_g CH_@ CH_dz CH_U
+不知道 CH_b CH_u CH_dzc CH_Uc CH_d CH_a CH_u
+很簡單 CH_h CH_@ CH_n# CH_dzi CH_i CH_E CH_n# CH_d CH_a CH_n#
+的方法 CH_d CH_@ CH_f CH_a CH_N# CH_f CH_a
+用一個 CH_# CH_y CH_o CH_N# CH_# CH_i CH_g CH_@
+裡面有 CH_l CH_i CH_m CH_i CH_E CH_n# CH_# CH_i CH_o CH_u
+同樣的 CH_t CH_o CH_N# CH_# CH_i CH_a CH_N# CH_d CH_@
+整個的 CH_dzc CH_@ CH_N# CH_g CH_@ CH_d CH_@
+就好了 CH_dzi CH_i CH_o CH_u CH_h CH_a CH_u CH_l CH_@
+如果有 CH_Zc CH_u CH_g CH_u CH_o CH_# CH_i CH_o CH_u
+在那裡 CH_dz CH_a CH_i CH_n CH_a CH_l CH_i
+都沒有 CH_d CH_o CH_u CH_m CH_e CH_i CH_# CH_i CH_o CH_u
+下一個 CH_si CH_i CH_a CH_# CH_i CH_g CH_@
+也一樣 CH_# CH_i CH_E CH_# CH_i CH_# CH_i CH_a CH_N#
+相關的 CH_si CH_i CH_a CH_N# CH_g CH_u CH_a CH_n# CH_d CH_@
+第三個 CH_d CH_i CH_s CH_a CH_n# CH_g CH_@
+一定要 CH_# CH_i CH_d CH_i CH_N# CH_# CH_i CH_a CH_u
+這門課 CH_dzc CH_@ CH_m CH_@ CH_n# CH_k CH_@
+有一點 CH_# CH_i CH_o CH_u CH_# CH_i CH_d CH_i CH_E CH_n#
+在裡面 CH_dz CH_a CH_i CH_l CH_i CH_m CH_i CH_E CH_n#
+事實上 CH_sc CH_Uc CH_sc CH_Uc CH_sc CH_a CH_N#
+一開始 CH_# CH_i CH_k CH_a CH_i CH_sc CH_Uc
+很可能 CH_h CH_@ CH_n# CH_k CH_@ CH_n CH_@ CH_N#
+就表示 CH_dzi CH_i CH_o CH_u CH_b CH_i CH_a CH_u CH_sc CH_Uc
+這麼多 CH_dzc CH_@ CH_m CH_@ CH_d CH_u CH_o
+這時候 CH_dzc CH_@ CH_sc CH_Uc CH_h CH_o CH_u
+這些個 CH_dzc CH_@ CH_si CH_i CH_E CH_g CH_@
+這一段 CH_dzc CH_@ CH_# CH_i CH_d CH_u CH_a CH_n#
+它們的 CH_t CH_a CH_m CH_@ CH_n# CH_d CH_@
+可以說 CH_k CH_@ CH_# CH_i CH_sc CH_u CH_o
+很清楚 CH_h CH_@ CH_n# CH_tsi CH_i CH_N# CH_tsc CH_u
+所以是 CH_s CH_u CH_o CH_# CH_i CH_sc CH_Uc
+真正的 CH_dzc CH_@ CH_n# CH_dzc CH_@ CH_N# CH_d CH_@
+相同的 CH_si CH_i CH_a CH_N# CH_t CH_o CH_N# CH_d CH_@
+自己的 CH_dz CH_U CH_dzi CH_i CH_d CH_@
+不一定 CH_b CH_u CH_# CH_i CH_d CH_i CH_N#
+聲音的 CH_sc CH_@ CH_N# CH_# CH_i CH_n# CH_d CH_@
+這個字 CH_dzc CH_@ CH_g CH_@ CH_dz CH_U
+的例子 CH_d CH_@ CH_l CH_i CH_dz CH_U
+總共有 CH_dz CH_o CH_N# CH_g CH_o CH_N# CH_# CH_i CH_o CH_u
+的辦法 CH_d CH_@ CH_b CH_a CH_n# CH_f CH_a
+比較好 CH_b CH_i CH_dzi CH_i CH_a CH_u CH_h CH_a CH_u
+告訴我 CH_g CH_a CH_u CH_s CH_u CH_# CH_u CH_o
+一個值 CH_# CH_i CH_g CH_@ CH_dzc CH_Uc
+就這樣 CH_dzi CH_i CH_o CH_u CH_dzc CH_@ CH_# CH_i CH_a CH_N#
+看起來 CH_k CH_a CH_n# CH_tsi CH_i CH_l CH_a CH_i
+沒有的 CH_m CH_e CH_i CH_# CH_i CH_o CH_u CH_d CH_@
+基本的 CH_dzi CH_i CH_b CH_@ CH_n# CH_d CH_@
+沒有了 CH_m CH_e CH_i CH_# CH_i CH_o CH_u CH_l CH_@
+在哪裡 CH_dz CH_a CH_i CH_n CH_a CH_l CH_i
+比較大 CH_b CH_i CH_dzi CH_i CH_a CH_u CH_d CH_a
+像這樣 CH_si CH_i CH_a CH_N# CH_dzc CH_@ CH_# CH_i CH_a CH_N#
+不見得 CH_b CH_u CH_dzi CH_i CH_E CH_n# CH_d CH_@
+看到的 CH_k CH_a CH_n# CH_d CH_a CH_u CH_d CH_@
+的部分 CH_d CH_@ CH_b CH_u CH_f CH_@ CH_n#
+還沒有 CH_h CH_a CH_i CH_m CH_e CH_i CH_# CH_i CH_o CH_u
+這樣做 CH_dzc CH_@ CH_# CH_i CH_a CH_N# CH_dz CH_u CH_o
+的條件 CH_d CH_@ CH_t CH_i CH_a CH_u CH_dzi CH_i CH_E CH_n#
+其他的 CH_tsi CH_i CH_t CH_a CH_d CH_@
+可能會 CH_k CH_@ CH_n CH_@ CH_N# CH_h CH_u CH_e CH_i
+說什麼 CH_sc CH_u CH_o CH_sc CH_@ CH_m CH_@
+想辦法 CH_si CH_i CH_a CH_N# CH_b CH_a CH_n# CH_f CH_a
+每一點 CH_m CH_e CH_i CH_# CH_i CH_d CH_i CH_E CH_n#
+中間的 CH_dzc CH_o CH_N# CH_dzi CH_i CH_E CH_n# CH_d CH_@
+大概是 CH_d CH_a CH_g CH_a CH_i CH_sc CH_Uc
+最大的 CH_dz CH_u CH_e CH_i CH_d CH_a CH_d CH_@
+只是說 CH_dzc CH_Uc CH_sc CH_Uc CH_sc CH_u CH_o
+只不過 CH_dzc CH_Uc CH_b CH_u CH_g CH_u CH_o
+不需要 CH_b CH_u CH_si CH_y CH_# CH_i CH_a CH_u
+這一行 CH_dzc CH_e CH_i CH_# CH_i CH_h CH_a CH_N#
+的語言 CH_d CH_@ CH_# CH_y CH_# CH_i CH_E CH_n#
+全部的 CH_tsi CH_y CH_E CH_n# CH_b CH_u CH_d CH_@
+可能的 CH_k CH_@ CH_n CH_@ CH_N# CH_d CH_@
+不可以 CH_b CH_u CH_k CH_@ CH_# CH_i
+的狀況 CH_d CH_@ CH_dzc CH_u CH_a CH_N# CH_k CH_u CH_a CH_N#
+的訊號 CH_d CH_@ CH_si CH_y CH_n# CH_h CH_a CH_u
+那麼多 CH_n CH_a CH_m CH_@ CH_d CH_u CH_o
+沒什麼 CH_m CH_e CH_i CH_sc CH_@ CH_n# CH_m CH_@
+有一些 CH_# CH_i CH_o CH_u CH_# CH_i CH_si CH_i CH_E
+出來了 CH_tsc CH_u CH_l CH_a CH_i CH_l CH_@
+仍然是 CH_Zc CH_@ CH_N# CH_Zc CH_a CH_n# CH_sc CH_Uc
+這句話 CH_dzc CH_e CH_i CH_dzi CH_y CH_h CH_u CH_a
+第七章 CH_d CH_i CH_tsi CH_i CH_dzc CH_a CH_N#
+平面上 CH_p CH_i CH_N# CH_m CH_i CH_E CH_n# CH_sc CH_a CH_N#
+並沒有 CH_b CH_i CH_N# CH_m CH_e CH_i CH_# CH_i CH_o CH_u
+相對於 CH_si CH_i CH_a CH_N# CH_d CH_u CH_e CH_i CH_# CH_y
+很多的 CH_h CH_@ CH_n# CH_d CH_u CH_o CH_d CH_@
+今天的 CH_dzi CH_i CH_n# CH_t CH_i CH_E CH_n# CH_d CH_@
+也沒有 CH_# CH_i CH_E CH_m CH_e CH_i CH_# CH_i CH_o CH_u
+關係的 CH_g CH_u CH_a CH_n# CH_si CH_i CH_d CH_@
+問題是 CH_# CH_u CH_@ CH_n# CH_t CH_i CH_sc CH_Uc
+的系統 CH_d CH_@ CH_si CH_i CH_t CH_o CH_N#
+網路上 CH_# CH_u CH_a CH_N# CH_l CH_u CH_sc CH_a CH_N#
+的答案 CH_d CH_@ CH_d CH_a CH_# CH_a CH_n#
+複雜的 CH_f CH_u CH_dz CH_a CH_d CH_@
+的環境 CH_d CH_@ CH_h CH_u CH_a CH_n# CH_dzi CH_i CH_N#
+的機會 CH_d CH_@ CH_dzi CH_i CH_h CH_u CH_e CH_i
+的影響 CH_d CH_@ CH_# CH_i CH_N# CH_si CH_i CH_a CH_N#
+的技術 CH_d CH_@ CH_dzi CH_i CH_sc CH_u
+放進去 CH_f CH_a CH_N# CH_dzi CH_i CH_n# CH_tsi CH_y
+好不好 CH_h CH_a CH_u CH_b CH_u CH_h CH_a CH_u
+不存在 CH_b CH_u CH_ts CH_u CH_@ CH_n# CH_dz CH_a CH_i
+需要的 CH_si CH_y CH_# CH_i CH_a CH_u CH_d CH_@
+詳細的 CH_si CH_i CH_a CH_N# CH_si CH_i CH_d CH_@
+我覺得 CH_# CH_u CH_o CH_dzi CH_y CH_E CH_d CH_@
+存在的 CH_ts CH_u CH_@ CH_n# CH_dz CH_a CH_i CH_d CH_@
+不容易 CH_b CH_u CH_Zc CH_o CH_N# CH_# CH_i
+外面的 CH_# CH_u CH_a CH_i CH_m CH_i CH_E CH_n# CH_d CH_@
+出現的 CH_tsc CH_u CH_si CH_i CH_E CH_n# CH_d CH_@
+不等於 CH_b CH_u CH_d CH_@ CH_N# CH_# CH_y
+的交集 CH_d CH_@ CH_dzi CH_i CH_a CH_u CH_dzi CH_i
+百分之 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc
+大部分 CH_d CH_a CH_b CH_u CH_f CH_@ CH_n#
+一點點 CH_# CH_i CH_d CH_i CH_E CH_n# CH_d CH_i CH_E CH_n#
+還可以 CH_h CH_a CH_i CH_k CH_@ CH_# CH_i
+這幾個 CH_dzc CH_@ CH_dzi CH_i CH_g CH_@
+越來越 CH_# CH_y CH_E CH_l CH_a CH_i CH_# CH_y CH_E
+的目的 CH_d CH_@ CH_m CH_u CH_d CH_i
+的內容 CH_d CH_@ CH_n CH_e CH_i CH_Zc CH_o CH_N#
+語言的 CH_# CH_y CH_# CH_i CH_E CH_n# CH_d CH_@
+期末考 CH_tsi CH_i CH_m CH_u CH_o CH_k CH_a CH_u
+大小的 CH_d CH_a CH_si CH_i CH_a CH_u CH_d CH_@
+進一步 CH_dzi CH_i CH_n# CH_# CH_i CH_b CH_u
+麥克風 CH_m CH_a CH_i CH_k CH_@ CH_f CH_o CH_N#
+做出來 CH_dz CH_u CH_o CH_tsc CH_u CH_l CH_a CH_i
+的做法 CH_d CH_@ CH_dz CH_u CH_o CH_f CH_a
+沒有人 CH_m CH_e CH_i CH_# CH_i CH_o CH_u CH_Zc CH_@ CH_n#
+以後的 CH_# CH_i CH_h CH_o CH_u CH_d CH_@
+之後的 CH_dzc CH_Uc CH_h CH_o CH_u CH_d CH_@
+不曉得 CH_b CH_u CH_si CH_i CH_a CH_u CH_d CH_@
+不表示 CH_b CH_u CH_b CH_i CH_a CH_u CH_sc CH_Uc
+三十九 CH_s CH_a CH_n# CH_sc CH_Uc CH_dzi CH_i CH_o CH_u
+標準的 CH_b CH_i CH_a CH_u CH_dzc CH_u CH_@ CH_n# CH_d CH_@
+單一的 CH_d CH_a CH_n# CH_# CH_i CH_d CH_@
+最好的 CH_dz CH_u CH_e CH_i CH_h CH_a CH_u CH_d CH_@
+特別的 CH_t CH_@ CH_b CH_i CH_E CH_d CH_@
+的觀念 CH_d CH_@ CH_g CH_u CH_a CH_n# CH_n CH_i CH_E CH_n#
+的數目 CH_d CH_@ CH_sc CH_u CH_m CH_u
+的方式 CH_d CH_@ CH_f CH_a CH_N# CH_sc CH_Uc
+並不是 CH_b CH_i CH_N# CH_b CH_u CH_sc CH_Uc
+網路的 CH_# CH_u CH_a CH_N# CH_l CH_u CH_d CH_@
+當然是 CH_d CH_a CH_N# CH_Zc CH_a CH_n# CH_sc CH_Uc
+最容易 CH_dz CH_u CH_e CH_i CH_Zc CH_o CH_N# CH_# CH_i
+最後的 CH_dz CH_u CH_e CH_i CH_h CH_o CH_u CH_d CH_@
+能不能 CH_n CH_@ CH_N# CH_b CH_u CH_n CH_@ CH_N#
+展開的 CH_dzc CH_a CH_n# CH_k CH_a CH_i CH_d CH_@
+很大的 CH_h CH_@ CH_n# CH_d CH_a CH_d CH_@
+任何的 CH_Zc CH_@ CH_n# CH_h CH_@ CH_d CH_@
+三四五 CH_s CH_a CH_n# CH_s CH_U CH_# CH_u
+一瞬間 CH_# CH_i CH_sc CH_u CH_@ CH_n# CH_dzi CH_i CH_E CH_n#
+類似的 CH_l CH_e CH_i CH_s CH_U CH_d CH_@
+非常好 CH_f CH_e CH_i CH_tsc CH_a CH_N# CH_h CH_a CH_u
+的版本 CH_d CH_@ CH_b CH_a CH_n# CH_b CH_@ CH_n#
+的工作 CH_d CH_@ CH_g CH_o CH_N# CH_dz CH_u CH_o
+那時候 CH_n CH_a CH_sc CH_Uc CH_h CH_o CH_u
+沒有用 CH_m CH_e CH_i CH_# CH_i CH_o CH_u CH_# CH_y CH_o CH_N#
+更多的 CH_g CH_@ CH_N# CH_d CH_u CH_o CH_d CH_@
+有用的 CH_# CH_i CH_o CH_u CH_# CH_y CH_o CH_N# CH_d CH_@
+不斷地 CH_b CH_u CH_d CH_u CH_a CH_n# CH_d CH_@
+不只是 CH_b CH_u CH_dzc CH_Uc CH_sc CH_Uc
+豐富的 CH_f CH_o CH_N# CH_f CH_u CH_d CH_@
+禮拜六 CH_l CH_i CH_b CH_a CH_i CH_l CH_i CH_o CH_u
+這部分 CH_dzc CH_@ CH_b CH_u CH_f CH_@ CH_n#
+唯一的 CH_# CH_u CH_e CH_i CH_# CH_i CH_d CH_@
+非常多 CH_f CH_e CH_i CH_tsc CH_a CH_N# CH_d CH_u CH_o
+的假設 CH_d CH_@ CH_dzi CH_i CH_a CH_sc CH_@
+的前面 CH_d CH_@ CH_tsi CH_i CH_E CH_n# CH_m CH_i CH_E CH_n#
+定義的 CH_d CH_i CH_N# CH_# CH_i CH_d CH_@
+多媒體 CH_d CH_u CH_o CH_m CH_e CH_i CH_t CH_i
+合理的 CH_h CH_@ CH_l CH_i CH_d CH_@
+不重要 CH_b CH_u CH_dzc CH_o CH_N# CH_# CH_i CH_a CH_u
+搞不好 CH_g CH_a CH_u CH_b CH_u CH_h CH_a CH_u
+描述的 CH_m CH_i CH_a CH_u CH_sc CH_u CH_d CH_@
+長方形 CH_tsc CH_a CH_N# CH_f CH_a CH_N# CH_si CH_i CH_N#
+的想法 CH_d CH_@ CH_si CH_i CH_a CH_N# CH_f CH_a
+的動作 CH_d CH_@ CH_d CH_o CH_N# CH_dz CH_u CH_o
+有幫助 CH_# CH_i CH_o CH_u CH_b CH_a CH_N# CH_dzc CH_u
+有興趣 CH_# CH_i CH_o CH_u CH_si CH_i CH_N# CH_tsi CH_y
+不喜歡 CH_b CH_u CH_si CH_i CH_h CH_u CH_a CH_n#
+才可以 CH_ts CH_a CH_i CH_k CH_@ CH_# CH_i
+聽起來 CH_t CH_i CH_N# CH_tsi CH_i CH_l CH_a CH_i
+圖書館 CH_t CH_u CH_sc CH_u CH_g CH_u CH_a CH_n#
+會不會 CH_h CH_u CH_e CH_i CH_b CH_u CH_h CH_u CH_e CH_i
+發生的 CH_f CH_a CH_sc CH_@ CH_N# CH_d CH_@
+個人的 CH_g CH_@ CH_Zc CH_@ CH_n# CH_d CH_@
+星期六 CH_si CH_i CH_N# CH_tsi CH_i CH_l CH_i CH_o CH_u
+很多人 CH_h CH_@ CH_n# CH_d CH_u CH_o CH_Zc CH_@ CH_n#
+的符號 CH_d CH_@ CH_f CH_u CH_h CH_a CH_u
+的好處 CH_d CH_@ CH_h CH_a CH_u CH_tsc CH_u
+的文件 CH_d CH_@ CH_# CH_u CH_@ CH_n# CH_dzi CH_i CH_E CH_n#
+每一項 CH_m CH_e CH_i CH_# CH_i CH_si CH_i CH_a CH_N#
+即使是 CH_dzi CH_i CH_sc CH_Uc CH_sc CH_Uc
+有關的 CH_# CH_i CH_o CH_u CH_g CH_u CH_a CH_n# CH_d CH_@
+有效的 CH_# CH_i CH_o CH_u CH_si CH_i CH_a CH_u CH_d CH_@
+伊拉克 CH_# CH_i CH_l CH_a CH_k CH_@
+另一個 CH_l CH_i CH_N# CH_# CH_i CH_g CH_@
+九十度 CH_dzi CH_i CH_o CH_u CH_sc CH_Uc CH_d CH_u
+一百萬 CH_# CH_i CH_b CH_a CH_i CH_# CH_u CH_a CH_n#
+應該有 CH_# CH_i CH_N# CH_g CH_a CH_i CH_# CH_i CH_o CH_u
+實際上 CH_sc CH_Uc CH_dzi CH_i CH_sc CH_a CH_N#
+這兩者 CH_dzc CH_@ CH_l CH_i CH_a CH_N# CH_dzc CH_@
+接近的 CH_dzi CH_i CH_E CH_dzi CH_i CH_n# CH_d CH_@
+非常的 CH_f CH_e CH_i CH_tsc CH_a CH_N# CH_d CH_@
+的部份 CH_d CH_@ CH_b CH_u CH_f CH_@ CH_n#
+的研究 CH_d CH_@ CH_# CH_i CH_E CH_n# CH_dzi CH_i CH_o CH_u
+的主題 CH_d CH_@ CH_dzc CH_u CH_t CH_i
+未來的 CH_# CH_u CH_e CH_i CH_l CH_a CH_i CH_d CH_@
+以色列 CH_# CH_i CH_s CH_@ CH_l CH_i CH_E
+不可能 CH_b CH_u CH_k CH_@ CH_n CH_@ CH_N#
+不太好 CH_b CH_u CH_t CH_a CH_i CH_h CH_a CH_u
+也不是 CH_# CH_i CH_E CH_b CH_u CH_sc CH_Uc
+寫程式 CH_si CH_i CH_E CH_tsc CH_@ CH_N# CH_sc CH_Uc
+新聞的 CH_si CH_i CH_n# CH_# CH_u CH_@ CH_n# CH_d CH_@
+最小的 CH_dz CH_u CH_e CH_i CH_si CH_i CH_a CH_u CH_d CH_@
+的展開 CH_d CH_@ CH_dzc CH_a CH_n# CH_k CH_a CH_i
+的平均 CH_d CH_@ CH_p CH_i CH_N# CH_dzi CH_y CH_n#
+的文章 CH_d CH_@ CH_# CH_u CH_@ CH_n# CH_dzc CH_a CH_N#
+每個人 CH_m CH_e CH_i CH_g CH_@ CH_Zc CH_@ CH_n#
+完整的 CH_# CH_u CH_a CH_n# CH_dzc CH_@ CH_N# CH_d CH_@
+傳統的 CH_tsc CH_u CH_a CH_n# CH_t CH_o CH_N# CH_d CH_@
+這類的 CH_dzc CH_e CH_i CH_l CH_e CH_i CH_d CH_@
+第一行 CH_d CH_i CH_# CH_i CH_h CH_a CH_N#
+的意義 CH_d CH_@ CH_# CH_i CH_# CH_i
+的集合 CH_d CH_@ CH_dzi CH_i CH_h CH_@
+的特徵 CH_d CH_@ CH_t CH_@ CH_dzc CH_@ CH_N#
+的核心 CH_d CH_@ CH_h CH_@ CH_si CH_i CH_n#
+那一塊 CH_n CH_a CH_# CH_i CH_k CH_u CH_a CH_i
+沒辦法 CH_m CH_e CH_i CH_b CH_a CH_n# CH_f CH_a
+另外的 CH_l CH_i CH_N# CH_# CH_u CH_a CH_i CH_d CH_@
+太多了 CH_t CH_a CH_i CH_d CH_u CH_o CH_l CH_@
+五點零 CH_# CH_u CH_d CH_i CH_E CH_n# CH_l CH_i CH_N#
+之前的 CH_dzc CH_Uc CH_tsi CH_i CH_E CH_n# CH_d CH_@
+不對的 CH_b CH_u CH_d CH_u CH_e CH_i CH_d CH_@
+不包括 CH_b CH_u CH_b CH_a CH_u CH_k CH_u CH_o
+二點三 CH_# CH_@c CH_d CH_i CH_E CH_n# CH_s CH_a CH_n#
+一個個 CH_# CH_i CH_g CH_@ CH_g CH_@
+憑什麼 CH_p CH_i CH_N# CH_sc CH_@ CH_m CH_@
+第一步 CH_d CH_i CH_# CH_i CH_b CH_u
+真實的 CH_dzc CH_@ CH_n# CH_sc CH_Uc CH_d CH_@
+相對的 CH_si CH_i CH_a CH_N# CH_d CH_u CH_e CH_i CH_d CH_@
+的變化 CH_d CH_@ CH_b CH_i CH_E CH_n# CH_h CH_u CH_a
+的樣子 CH_d CH_@ CH_# CH_i CH_a CH_N# CH_dz CH_U
+的程度 CH_d CH_@ CH_tsc CH_@ CH_N# CH_d CH_u
+的晚上 CH_d CH_@ CH_# CH_u CH_a CH_n# CH_sc CH_a CH_N#
+的名字 CH_d CH_@ CH_m CH_i CH_N# CH_dz CH_U
+各自的 CH_g CH_@ CH_dz CH_U CH_d CH_@
+正確的 CH_dzc CH_@ CH_N# CH_tsi CH_y CH_E CH_d CH_@
+以外的 CH_# CH_i CH_# CH_u CH_a CH_i CH_d CH_@
+第一次 CH_d CH_i CH_# CH_i CH_ts CH_U
+掉下來 CH_d CH_i CH_a CH_u CH_si CH_i CH_a CH_l CH_a CH_i
+英文的 CH_# CH_i CH_N# CH_# CH_u CH_@ CH_n# CH_d CH_@
+甚至於 CH_sc CH_@ CH_n# CH_dzc CH_Uc CH_# CH_y
+既然是 CH_dzi CH_i CH_Zc CH_a CH_n# CH_sc CH_Uc
+的實驗 CH_d CH_@ CH_sc CH_Uc CH_# CH_i CH_E CH_n#
+的道理 CH_d CH_@ CH_d CH_a CH_u CH_l CH_i
+的描述 CH_d CH_@ CH_m CH_i CH_a CH_u CH_sc CH_u
+的效果 CH_d CH_@ CH_si CH_i CH_a CH_u CH_g CH_u CH_o
+的空間 CH_d CH_@ CH_k CH_o CH_N# CH_dzi CH_i CH_E CH_n#
+的比例 CH_d CH_@ CH_b CH_i CH_l CH_i
+是真的 CH_sc CH_Uc CH_dzc CH_@ CH_n# CH_d CH_@
+的資訊 CH_d CH_@ CH_dz CH_U CH_si CH_y CH_n#
+的結構 CH_d CH_@ CH_dzi CH_i CH_E CH_g CH_o CH_u
+的來源 CH_d CH_@ CH_l CH_a CH_i CH_# CH_y CH_E CH_n#
+十一點 CH_sc CH_Uc CH_# CH_i CH_d CH_i CH_E CH_n#
+這本書 CH_dzc CH_@ CH_b CH_@ CH_n# CH_sc CH_u
+第二次 CH_d CH_i CH_# CH_@c CH_ts CH_U
+深入的 CH_sc CH_@ CH_n# CH_Zc CH_u CH_d CH_@
+原始的 CH_# CH_y CH_E CH_n# CH_sc CH_Uc CH_d CH_@
+這個人 CH_dzc CH_@ CH_g CH_@ CH_Zc CH_@ CH_n#
+的能力 CH_d CH_@ CH_n CH_@ CH_N# CH_l CH_i
+也就是說 CH_# CH_i CH_E CH_dzi CH_i CH_o CH_u CH_sc CH_Uc CH_sc CH_u CH_o
+顯示出來 CH_si CH_i CH_E CH_n# CH_sc CH_Uc CH_tsc CH_u CH_l CH_a CH_i
+記錄下來 CH_dzi CH_i CH_l CH_u CH_si CH_i CH_a CH_l CH_a CH_i
+一目了然 CH_# CH_i CH_m CH_u CH_l CH_i CH_a CH_u CH_Zc CH_a CH_n#
+一百二十 CH_# CH_i CH_b CH_a CH_i CH_# CH_@c CH_sc CH_Uc
+巴勒斯坦 CH_b CH_a CH_l CH_@ CH_s CH_U CH_t CH_a CH_n#
+迎頭趕上 CH_# CH_i CH_N# CH_t CH_o CH_u CH_g CH_a CH_n# CH_sc CH_a CH_N#
+絕大多數 CH_dzi CH_y CH_E CH_d CH_a CH_d CH_u CH_o CH_sc CH_u
+從頭到尾 CH_ts CH_o CH_N# CH_t CH_o CH_u CH_d CH_a CH_u CH_# CH_u CH_e CH_i
+清清楚楚 CH_tsi CH_i CH_N# CH_tsi CH_i CH_N# CH_tsc CH_u CH_tsc CH_u
+一般而言 CH_# CH_i CH_b CH_a CH_n# CH_# CH_@c CH_# CH_i CH_E CH_n#
+這樣一來 CH_dzc CH_@ CH_# CH_i CH_a CH_N# CH_# CH_i CH_l CH_a CH_i
+百分之十 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_sc CH_Uc
+十分之一 CH_sc CH_Uc CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_i
+似曾相識 CH_s CH_U CH_ts CH_@ CH_N# CH_si CH_i CH_a CH_N# CH_sc CH_Uc
+顧名思義 CH_g CH_u CH_m CH_i CH_N# CH_s CH_U CH_# CH_i
+操作起來 CH_ts CH_a CH_u CH_dz CH_u CH_o CH_tsi CH_i CH_l CH_a CH_i
+行有餘力 CH_si CH_i CH_N# CH_# CH_i CH_o CH_u CH_# CH_y CH_l CH_i
+百分之五 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_u
+一百八十 CH_# CH_i CH_b CH_a CH_i CH_b CH_a CH_sc CH_Uc
+個人電腦 CH_g CH_@ CH_Zc CH_@ CH_n# CH_d CH_i CH_E CH_n# CH_n CH_a CH_u
+大大小小 CH_d CH_a CH_d CH_a CH_si CH_i CH_a CH_u CH_si CH_i CH_a CH_u
+多此一舉 CH_d CH_u CH_o CH_ts CH_U CH_# CH_i CH_dzi CH_y
+四分之三 CH_s CH_U CH_f CH_@ CH_n# CH_dzc CH_Uc CH_s CH_a CH_n#
+絕大部分 CH_dzi CH_y CH_E CH_d CH_a CH_b CH_u CH_f CH_@ CH_n#
+一千八百 CH_# CH_i CH_tsi CH_i CH_E CH_n# CH_b CH_a CH_b CH_a CH_i
+新聞網站 CH_si CH_i CH_n# CH_# CH_u CH_@ CH_n# CH_# CH_u CH_a CH_N# CH_dzc CH_a CH_n#
+二十五號 CH_# CH_@c CH_sc CH_Uc CH_# CH_u CH_h CH_a CH_u
+二分之一 CH_# CH_@c CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_i
+不可或缺 CH_b CH_u CH_k CH_@ CH_h CH_u CH_o CH_tsi CH_y CH_E
+胡說八道 CH_h CH_u CH_sc CH_u CH_o CH_b CH_a CH_d CH_a CH_u
+可想而知 CH_k CH_@ CH_si CH_i CH_a CH_N# CH_# CH_@c CH_dzc CH_Uc
+成千上萬 CH_tsc CH_@ CH_N# CH_tsi CH_i CH_E CH_n# CH_sc CH_a CH_N# CH_# CH_u CH_a CH_n#
+一千五百 CH_# CH_i CH_tsi CH_i CH_E CH_n# CH_# CH_u CH_b CH_a CH_i
+衍生出來 CH_# CH_i CH_E CH_n# CH_sc CH_@ CH_N# CH_tsc CH_u CH_l CH_a CH_i
+餘興節目 CH_# CH_y CH_si CH_i CH_N# CH_dzi CH_i CH_E CH_m CH_u
+台北市長 CH_t CH_a CH_i CH_b CH_e CH_i CH_sc CH_Uc CH_dzc CH_a CH_N#
+一百零三 CH_# CH_i CH_b CH_a CH_i CH_l CH_i CH_N# CH_s CH_a CH_n#
+七百六十 CH_tsi CH_i CH_b CH_a CH_i CH_l CH_i CH_o CH_u CH_sc CH_Uc
+行政院長 CH_si CH_i CH_N# CH_dzc CH_@ CH_N# CH_# CH_y CH_E CH_n# CH_dzc CH_a CH_N#
+四分之一 CH_s CH_U CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_i
+三分之一 CH_s CH_a CH_n# CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_i
+六零年代 CH_l CH_i CH_o CH_u CH_l CH_i CH_N# CH_n CH_i CH_E CH_n# CH_d CH_a CH_i
+十一點八 CH_sc CH_Uc CH_# CH_i CH_d CH_i CH_E CH_n# CH_b CH_a
+這個時候 CH_dzc CH_@ CH_g CH_@ CH_sc CH_Uc CH_h CH_o CH_u
+這件事情 CH_dzc CH_@ CH_dzi CH_i CH_E CH_n# CH_sc CH_Uc CH_tsi CH_i CH_N#
+沒有關係 CH_m CH_e CH_i CH_# CH_i CH_o CH_u CH_g CH_u CH_a CH_n# CH_si CH_i
+最簡單的 CH_dz CH_u CH_e CH_i CH_dzi CH_i CH_E CH_n# CH_d CH_a CH_n# CH_d CH_@
+比較容易 CH_b CH_i CH_dzi CH_i CH_a CH_u CH_Zc CH_o CH_N# CH_# CH_i
+兩百五十 CH_l CH_i CH_a CH_N# CH_b CH_a CH_i CH_# CH_u CH_sc CH_Uc
+最重要的 CH_dz CH_u CH_e CH_i CH_dzc CH_o CH_N# CH_# CH_i CH_a CH_u CH_d CH_@
+一系列的 CH_# CH_i CH_si CH_i CH_l CH_i CH_E CH_d CH_@
+千變萬化 CH_tsi CH_i CH_E CH_n# CH_b CH_i CH_E CH_n# CH_# CH_u CH_a CH_n# CH_h CH_u CH_a
+很重要的 CH_h CH_@ CH_n# CH_dzc CH_o CH_N# CH_# CH_i CH_a CH_u CH_d CH_@
+另外一種 CH_l CH_i CH_N# CH_# CH_u CH_a CH_i CH_# CH_i CH_dzc CH_o CH_N#
+一模一樣 CH_# CH_i CH_m CH_u CH_o CH_# CH_i CH_# CH_i CH_a CH_N#
+很清楚的 CH_h CH_@ CH_n# CH_tsi CH_i CH_N# CH_tsc CH_u CH_d CH_@
+回過頭來 CH_h CH_u CH_e CH_i CH_g CH_u CH_o CH_t CH_o CH_u CH_l CH_a CH_i
+不太容易 CH_b CH_u CH_t CH_a CH_i CH_Zc CH_o CH_N# CH_# CH_i
+最常用的 CH_dz CH_u CH_e CH_i CH_tsc CH_a CH_N# CH_# CH_y CH_o CH_N# CH_d CH_@
+最基本的 CH_dz CH_u CH_e CH_i CH_dzi CH_i CH_b CH_@ CH_n# CH_d CH_@
+語音處理 CH_# CH_y CH_# CH_i CH_n# CH_tsc CH_u CH_l CH_i
+電話號碼 CH_d CH_i CH_E CH_n# CH_h CH_u CH_a CH_h CH_a CH_u CH_m CH_a
+電視新聞 CH_d CH_i CH_E CH_n# CH_sc CH_Uc CH_si CH_i CH_n# CH_# CH_u CH_@ CH_n#
+當然可以 CH_d CH_a CH_N# CH_Zc CH_a CH_n# CH_k CH_@ CH_# CH_i
+很容易的 CH_h CH_@ CH_n# CH_Zc CH_o CH_N# CH_# CH_i CH_d CH_@
+阿拉法特 CH_# CH_a CH_l CH_a CH_f CH_a CH_t CH_@
+難以想像 CH_n CH_a CH_n# CH_# CH_i CH_si CH_i CH_a CH_N# CH_si CH_i CH_a CH_N#
+完全沒有 CH_# CH_u CH_a CH_n# CH_tsi CH_y CH_E CH_n# CH_m CH_e CH_i CH_# CH_i CH_o CH_u
+一千三百 CH_# CH_i CH_tsi CH_i CH_E CH_n# CH_s CH_a CH_n# CH_b CH_a CH_i
+必要條件 CH_b CH_i CH_# CH_i CH_a CH_u CH_t CH_i CH_a CH_u CH_dzi CH_i CH_E CH_n#
+百分之一百 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_i CH_b CH_a CH_i
+百分之七十 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_tsi CH_i CH_sc CH_Uc
+百分之三十 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_s CH_a CH_n# CH_sc CH_Uc
+百分之九十 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_dzi CH_i CH_o CH_u CH_sc CH_Uc
+百分之五十 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_u CH_sc CH_Uc
+百分之二十 CH_b CH_a CH_i CH_f CH_@ CH_n# CH_dzc CH_Uc CH_# CH_@c CH_sc CH_Uc
+一九九四年 CH_# CH_i CH_dzi CH_i CH_o CH_u CH_dzi CH_i CH_o CH_u CH_s CH_U CH_n CH_i CH_E CH_n#
+一九九八年 CH_# CH_i CH_dzi CH_i CH_o CH_u CH_dzi CH_i CH_o CH_u CH_b CH_a CH_n CH_i CH_E CH_n#
