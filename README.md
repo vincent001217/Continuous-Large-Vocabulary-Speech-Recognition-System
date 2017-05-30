@@ -14,6 +14,6 @@
 
 * Decoded model
 
-Monogram: ./exp/mono/final.mdl
+-- Monogram: ./exp/mono/final.mdl
 
-Trigram: ./exp/tri/final.mdl
+-- Trigram: ./exp/tri/final.mdl
